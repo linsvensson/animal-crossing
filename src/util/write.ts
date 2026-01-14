@@ -1,5 +1,6 @@
 import { writeFileSync } from 'fs';
 import beautify from 'json-beautify';
+import { obj } from '../types/object';
 
 /**
  * Sorts an array based off of the name of each element.

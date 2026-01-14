@@ -3,6 +3,7 @@ import { omit, zipObject } from 'lodash';
 
 import { directories } from './directories';
 import { get } from './get';
+import { obj } from '../types/object';
 
 // When looking for translations, we'll ignore these tabs as the internal IDs
 // for these items either are the same IDs for other items, or, have another

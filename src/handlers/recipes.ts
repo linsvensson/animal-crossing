@@ -6,6 +6,7 @@ import { directories } from '../util/directories';
 import { write } from '../util/write';
 import { find } from '../util/translate';
 import { width } from '../util/width';
+import { obj } from '../types/object';
 
 // Obviously, there are craftiable items in Animal Crossing, with each recipe
 // having a maximum amount of six materials, I'm assuming. On the spreadsheet,

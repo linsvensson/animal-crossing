@@ -1,5 +1,6 @@
 import { statSync } from 'fs';
 import { readdir } from './readdir';
+import { obj } from '../types/object';
 
 /**
  * Determines if the given path is a file.

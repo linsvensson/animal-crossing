@@ -4,6 +4,7 @@ import { files, category } from '../util/category';
 import { directories } from '../util/directories';
 import { get } from '../util/get';
 import { write } from '../util/write';
+import { obj } from '../types/object';
 
 // Recipes have the property 'craftedItemInternalId', which represents the
 // internal ID of the item that the recipe is for, we'll use this property to

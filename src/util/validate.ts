@@ -1,3 +1,5 @@
+import { obj } from '../types/object';
+
 /**
  * Returns a copy of the given object with falsy values removed.
  * @param  object The object to validate.

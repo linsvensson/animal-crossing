@@ -19,13 +19,13 @@ async function main(): Promise<void> {
   // Once the spreadsheets are downloaded, we'll edit and change the data a bit
   // in order to make it much easier for someone to work with it. First off,
   // we'll create a new file combining every translation into a single file.
-  await import('./scripts/translations');
+  await import('./scripts/translations.js');
 
   // Once all the translations are combined, we'll sanitize each JSON file
   // downloaded from the various spreadsheets. This script sanitizes each
   // category in a way that is non-specific, i.e. setting translations and
   // changing each key into camelCase for simple access.
-  await import('./scripts/sanitize');
+  await import('./scripts/sanitize.js');
 
   // Each script in the 'handlers' sub-directory sanitizes each file in a way
   // that is specific to that file or category it represents.
@@ -36,10 +36,10 @@ async function main(): Promise<void> {
   }
 
   // Merges items with recipes.
-  await import('./scripts/recipes');
+  await import('./scripts/recipes.js');
 
   // Combines every JSON file via categories.
-  await import('./scripts/combine');
+  await import('./scripts/combine.js');
 }
 
 main();

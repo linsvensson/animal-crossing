@@ -8,6 +8,7 @@ import { timeArray } from '../util/timeArray';
 import { validate } from '../util/validate';
 import { write } from '../util/write';
 import { width } from '../util/width';
+import { obj } from '../types/object';
 
 // In Animal Crossing, creatures such as fish and bugs are available for certain
 // months throughout the year, which is different for both of the hemispheres.

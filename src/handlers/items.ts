@@ -2,6 +2,7 @@ import { get } from '../util/get';
 import { files } from '../util/category';
 import { write } from '../util/write';
 import { width } from '../util/width';
+import { obj } from '../types/object';
 
 // This script combines values of items into an array and sets the translations.
 

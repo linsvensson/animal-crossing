@@ -9,6 +9,7 @@ import { separate } from '../util/separate';
 import { translate } from '../util/translate';
 import { width } from '../util/width';
 import { write } from '../util/write';
+import { obj } from '../types/object';
 
 // After converting the spreadsheets into JSON, the keys and values won't
 // necessarily be in compliant of JavaScript syntax. For every item, the keys
@@ -46,6 +47,7 @@ const duplicateValues: string[] = [
   'name',
   'diy',
   'patternCustomize',
+  'patternCustomizeOptions',
   'kitCost',
   'size',
   'milesPrice',
@@ -100,6 +102,7 @@ const separateValues: string[] = [
   'description',
   'catchPhrase',
   'unlockNotes',
+  'patternCustomizeOptions',
   'sourceNotes',
   'internalLabel',
   'northernHemisphereDates',

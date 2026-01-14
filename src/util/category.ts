@@ -3,6 +3,7 @@ import { join } from 'path';
 import { categories } from './categories';
 import { directories } from './directories';
 import { get } from './get';
+import { obj } from '../types/object';
 
 /**
  * Returns an array containing the absolute paths of files in the category.

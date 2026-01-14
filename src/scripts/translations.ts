@@ -4,6 +4,7 @@ import { join } from 'path';
 import { directories } from '../util/directories';
 import { get } from '../util/get';
 import { write } from '../util/write';
+import { obj } from '../types/object';
 
 // This scripts reads and combines all translations into a single file and edits
 // the IDs of some translations to a number over a string when possible.
@@ -12,7 +13,7 @@ const translations: obj[] = [];
 
 for (let translation of get(directories.translations)) {
   // Map the keys to camelCase before continuing.
-  translation = mapKeys(translation, (value: any, key: string): string => camelCase(key));
+  translation = mapKeys(translation, (value: unknown, key: string): string => camelCase(key));
 
   // Some translations represents the plural form of an item, if so, the ID will
   // end in '_pl'. We'll instead have a property to determine this, so we'll set
@@ -34,7 +35,7 @@ for (let translation of get(directories.translations)) {
     // representing the internal ID of the translation. If the ID is in this
     // format, we'll remove everything other than the ending numbers.
     if (/^.*_(\d{5}).*$/.test(translation.id)) {
-      translation.id = Number(/^.*_(\d{5}).*$/.exec(translation.id)![1]);
+      translation.id = Number(/^.*_(\d{5}).*$/.exec(translation.id)?.[1]);
     }
   }
 
@@ -53,9 +54,9 @@ for (let translation of get(directories.translations)) {
   if (typeof translation.variantId === 'string') {
     // As the cloth group depends on the translation's variantId, we'll set this
     // property before changing the translation's variantId.
-    translation.clothGroup = Number(/^(\d+)_.*$|^.*_(\d+)$/.exec(translation.variantId)![1]) || undefined;
+    translation.clothGroup = Number(/^(\d+)_.*$|^.*_(\d+)$/.exec(translation.variantId)?.[1]) || undefined;
 
-    translation.variantId = Number(/^.*_(\d+)$/.exec(translation.variantId)![1]);
+    translation.variantId = Number(/^.*_(\d+)$/.exec(translation.variantId)?.[1]);
   }
 
   translations.push(translation);
