@@ -2,7 +2,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ace's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -23,7 +23,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Admiral's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -44,7 +44,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Agent S's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -65,7 +65,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Agnes's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -86,7 +86,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Al's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -107,7 +107,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Alfonso's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCrd00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCrd00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -128,7 +128,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Alice's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -149,7 +149,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Alli's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCrd01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCrd01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -170,7 +170,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Amelia's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -191,7 +191,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Anabelle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlAnt03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlAnt03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -212,7 +212,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Anchovy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -233,7 +233,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Angus's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBul00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBul00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -254,7 +254,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Anicotti's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -275,7 +275,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ankha's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat19.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat19.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -296,7 +296,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Annalisa's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlAnt08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlAnt08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -317,7 +317,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Annalise's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -338,7 +338,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Antonio's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlAnt01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlAnt01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -359,7 +359,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Apollo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -380,7 +380,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Apple's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHam01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHam01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -401,7 +401,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Astrid's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKgr05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKgr05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -422,7 +422,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Audie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -443,7 +443,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Aurora's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -464,7 +464,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ava's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlChn05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlChn05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -485,7 +485,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Avery's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -506,7 +506,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Axel's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -527,7 +527,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Azalea's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRhn05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRhn05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -548,7 +548,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Baabara's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -569,7 +569,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bam's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -590,7 +590,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bangle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlTig03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlTig03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -611,7 +611,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Barold's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -632,7 +632,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bea's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -653,7 +653,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Beardo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -674,7 +674,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Beau's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -695,7 +695,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Becky's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlChn09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlChn09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -716,7 +716,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bella's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -737,7 +737,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Benedict's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlChn01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlChn01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -758,7 +758,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Benjamin's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -779,7 +779,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bertha's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHip03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHip03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -800,7 +800,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bettina's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -821,7 +821,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bianca's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlTig06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlTig06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -842,7 +842,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Biff's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHip04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHip04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -863,7 +863,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Big Top's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -884,7 +884,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bill's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -905,7 +905,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Billy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGoa02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGoa02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -926,7 +926,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Biskit's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -947,7 +947,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bitty's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHip05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHip05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -968,7 +968,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Blaire's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -989,7 +989,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Blanca's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpMka.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpMka.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1010,7 +1010,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Blanche's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1031,7 +1031,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Blathers's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpOwl.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpOwl.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1052,7 +1052,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bluebear's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1073,7 +1073,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bob's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1094,7 +1094,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bonbon's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1115,7 +1115,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bones's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1136,7 +1136,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Booker's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpDgb.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpDgb.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1157,7 +1157,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Boomer's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1178,7 +1178,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Boone's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1199,7 +1199,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Boots's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCrd02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCrd02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1220,7 +1220,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Boris's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1241,7 +1241,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Boyd's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1262,7 +1262,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bree's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1283,7 +1283,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Brewster's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPge.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpPge.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1304,7 +1304,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Broccolo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1325,7 +1325,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Broffina's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlChn12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlChn12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1346,7 +1346,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bruce's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1367,7 +1367,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bubbles's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHip02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHip02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1388,7 +1388,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Buck's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1409,7 +1409,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bud's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlLon00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlLon00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1430,7 +1430,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Bunnie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1451,7 +1451,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Butch's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1472,7 +1472,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Buzz's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1493,7 +1493,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "C.J.'s poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpBey.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpBey.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1514,7 +1514,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cally's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1535,7 +1535,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Camofrog's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1556,7 +1556,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Canberra's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1577,7 +1577,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Candi's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1598,7 +1598,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Carmen's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1619,7 +1619,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Caroline's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1640,7 +1640,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Carrie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKgr02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKgr02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1661,7 +1661,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cashmere's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1682,7 +1682,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Celeste's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpOws.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpOws.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1703,7 +1703,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Celia's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1724,7 +1724,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cephalobot's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOcp04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOcp04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1745,7 +1745,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cesar's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1766,7 +1766,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chabwick's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1787,7 +1787,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chadder's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus18.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus18.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1808,7 +1808,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chai's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp11_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp11_2.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1829,7 +1829,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Charlise's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1850,7 +1850,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chelsea's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer10_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer10_2.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1871,7 +1871,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cheri's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1892,7 +1892,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cherry's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1913,7 +1913,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chester's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1934,7 +1934,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chevre's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGoa00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGoa00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1955,7 +1955,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chief's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1976,7 +1976,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chip's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpBev.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpBev.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -1997,7 +1997,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chops's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2018,7 +2018,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chow's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2039,7 +2039,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Chrissy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2060,7 +2060,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cinnamoroll poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2081,7 +2081,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Claude's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2102,7 +2102,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Claudia's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlTig05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlTig05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2123,7 +2123,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Clay's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHam05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHam05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2144,7 +2144,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cleo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2165,7 +2165,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Clyde's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2186,7 +2186,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Coach's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBul07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBul07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2207,7 +2207,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cobb's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2228,7 +2228,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Coco's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2249,7 +2249,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cole's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt18.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt18.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2270,7 +2270,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Colton's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2291,7 +2291,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cookie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2312,7 +2312,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Copper's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpDga.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpDga.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2333,7 +2333,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cousteau's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2354,7 +2354,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cranston's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2375,7 +2375,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Croque's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2396,7 +2396,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cube's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2417,7 +2417,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Curlos's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2438,7 +2438,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Curly's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2459,7 +2459,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Curt's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2480,7 +2480,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cyd's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2501,7 +2501,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cyrano's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlAnt00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlAnt00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2522,7 +2522,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Cyrus's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpAlp.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpAlp.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2543,7 +2543,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Daisy Mae's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpBoc.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpBoc.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2564,7 +2564,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Daisy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2585,7 +2585,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Deena's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2606,7 +2606,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Deirdre's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2627,7 +2627,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Del's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCrd04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCrd04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2648,7 +2648,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Deli's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMnk08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMnk08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2669,7 +2669,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Derwin's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2690,7 +2690,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Diana's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2711,7 +2711,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Digby's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSzo.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpSzo.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2732,7 +2732,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Diva's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg18.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg18.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2753,7 +2753,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Dizzy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2774,7 +2774,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "DJ KK's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTkkB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpTkkB.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2795,7 +2795,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Dobie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2816,7 +2816,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Doc's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2837,7 +2837,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Dom's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2858,7 +2858,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Don's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpMob.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpMob.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2879,7 +2879,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Dora's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2900,7 +2900,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Dotty's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2921,7 +2921,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Drago's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCrd08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCrd08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2942,7 +2942,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Drake's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2963,7 +2963,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Drift's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -2984,7 +2984,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ed's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3005,7 +3005,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Egbert's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlChn02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlChn02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3026,7 +3026,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Elise's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMnk05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMnk05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3047,7 +3047,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ellie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3068,7 +3068,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Elmer's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3089,7 +3089,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Eloise's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3110,7 +3110,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Elvis's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlLon01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlLon01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3131,7 +3131,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Erik's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3152,7 +3152,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Étoile's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp14_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp14_2.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3173,7 +3173,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Eugene's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3194,7 +3194,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Eunice's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3215,7 +3215,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Faith's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3236,7 +3236,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Fang's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3257,7 +3257,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Fauna's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3278,7 +3278,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Felicity's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3299,7 +3299,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Filbert's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3320,7 +3320,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Flick's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpChy.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpChy.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3341,7 +3341,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Flip's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMnk06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMnk06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3362,7 +3362,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Flo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3383,7 +3383,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Flora's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3404,7 +3404,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Flurry's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHam06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHam06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3425,7 +3425,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Francine's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3446,7 +3446,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Frank's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3467,7 +3467,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Franklin's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTuk.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpTuk.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3488,7 +3488,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Freckles's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3509,7 +3509,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Frett's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3530,7 +3530,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Freya's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3551,7 +3551,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Friga's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3572,7 +3572,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Frita's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3593,7 +3593,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Frobert's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3614,7 +3614,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Fuchsia's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3635,7 +3635,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gabi's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3656,7 +3656,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gala's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3677,7 +3677,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gaston's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3698,7 +3698,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gayle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCrd07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCrd07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3719,7 +3719,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Genji's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3740,7 +3740,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gigi's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3761,7 +3761,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gladys's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3782,7 +3782,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gloria's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3803,7 +3803,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Goldie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3824,7 +3824,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gonzo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3845,7 +3845,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Goose's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlChn00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlChn00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3866,7 +3866,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gracie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpGrf.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpGrf.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3887,7 +3887,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Graham's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHam02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHam02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3908,7 +3908,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Grams's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpKpg.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpKpg.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3929,7 +3929,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Greta's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3950,7 +3950,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Grizzly's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3971,7 +3971,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Groucho's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -3992,7 +3992,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gruff's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGoa04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGoa04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4013,7 +4013,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gulliver's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpGul.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpGul.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4034,7 +4034,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Gwen's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4055,7 +4055,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hamlet's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHam00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHam00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4076,7 +4076,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hamphrey's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHam07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHam07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4097,7 +4097,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hans's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4118,7 +4118,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Harriet's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPoo.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpPoo.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4139,7 +4139,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Harry's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHip08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHip08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4160,7 +4160,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Harvey's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSpn.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpSpn.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4181,7 +4181,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hazel's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu18.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu18.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4202,7 +4202,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hello Kitty poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4223,7 +4223,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Henry's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg19.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg19.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4244,7 +4244,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hippeux's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHip09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHip09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4265,7 +4265,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hopkins's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4286,7 +4286,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hopper's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4307,7 +4307,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hornsby's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRhn04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRhn04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4328,7 +4328,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Huck's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4349,7 +4349,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Hugh's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4370,7 +4370,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Iggly's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4391,7 +4391,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ike's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4412,7 +4412,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ione's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu21.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu21.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4433,7 +4433,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Isabelle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSza.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpSza.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4454,7 +4454,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Jack's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPkn.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpPkn.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4475,7 +4475,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Jacob's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4496,7 +4496,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Jacques's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4517,7 +4517,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Jambette's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4538,7 +4538,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Jay's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4559,7 +4559,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Jeremiah's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4580,7 +4580,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Jingle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRei.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpRei.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4601,7 +4601,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Jitters's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4622,7 +4622,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Joan's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpBoa.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpBoa.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4643,7 +4643,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Joey's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4664,7 +4664,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Judy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr19.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr19.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4685,7 +4685,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Julia's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4706,7 +4706,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Julian's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4727,7 +4727,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "June's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4748,7 +4748,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "K.K.'s poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTkkA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpTkkA.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4769,7 +4769,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kabuki's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4790,7 +4790,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kapp'n's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpKpp.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpKpp.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4811,7 +4811,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Katie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpLom.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpLom.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4832,7 +4832,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Katrina's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpBpt.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpBpt.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4853,7 +4853,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Katt's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat21.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat21.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4874,7 +4874,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Keaton's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4895,7 +4895,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ken's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlChn13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlChn13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4916,7 +4916,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kerokerokeroppi poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt20.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt20.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4937,7 +4937,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ketchup's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4958,7 +4958,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kevin's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -4979,7 +4979,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kicks's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSkk.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpSkk.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5000,7 +5000,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kid Cat's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5021,7 +5021,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kidd's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGoa07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGoa07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5042,7 +5042,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kiki & Lala poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5063,7 +5063,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kiki's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5084,7 +5084,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kitt's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKgr00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKgr00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5105,7 +5105,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kitty's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5126,7 +5126,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Klaus's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5147,7 +5147,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Knox's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlChn11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlChn11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5168,7 +5168,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kody's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5189,7 +5189,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Kyle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5210,7 +5210,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Label's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpHgc.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpHgc.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5231,7 +5231,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Leif's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSlo.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpSlo.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5252,7 +5252,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Leila's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpKps.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpKps.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5273,7 +5273,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Leilani's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpKpm.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpKpm.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5294,7 +5294,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Leonardo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlTig04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlTig04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5315,7 +5315,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Leopold's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlLon04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlLon04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5336,7 +5336,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lily's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5357,7 +5357,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Limberg's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5378,7 +5378,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lionel's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlLon08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlLon08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5399,7 +5399,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lobo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5420,7 +5420,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lolly's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat18.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat18.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5441,7 +5441,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lopez's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5462,7 +5462,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lottie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpOtg.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpOtg.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5483,7 +5483,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Louie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5504,7 +5504,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lucha's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5525,7 +5525,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lucky's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5546,7 +5546,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lucy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5567,7 +5567,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Luna's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTap.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpTap.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5588,7 +5588,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lyle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpOtt.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpOtt.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5609,7 +5609,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Lyman's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5630,7 +5630,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Mabel's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpHgh.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpHgh.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5651,7 +5651,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Mac's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5672,7 +5672,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Maddie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5693,7 +5693,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Maelle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5714,7 +5714,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Maggie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5735,7 +5735,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Mallary's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5756,7 +5756,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Maple's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5777,7 +5777,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Marcel's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5798,7 +5798,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Marcie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKgr10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKgr10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5819,7 +5819,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Margie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5840,7 +5840,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Marina's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOcp01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOcp01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5861,7 +5861,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Marlo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHam09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHam09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5882,7 +5882,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Marshal's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5903,7 +5903,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Marty's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr18_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr18_2.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5924,7 +5924,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Mathilda's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKgr01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKgr01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5945,7 +5945,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Megan's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5966,7 +5966,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Melba's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -5987,7 +5987,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Merengue's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRhn07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRhn07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6008,7 +6008,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Merry's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6029,7 +6029,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Midge's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6050,7 +6050,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Mint's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6071,7 +6071,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Mira's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt19.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt19.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6092,7 +6092,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Miranda's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6113,7 +6113,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Mitzi's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6134,7 +6134,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Moe's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6155,7 +6155,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Molly's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6176,7 +6176,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Monique's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6197,7 +6197,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Monty's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMnk04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMnk04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6218,7 +6218,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Moose's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6239,7 +6239,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Mott's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlLon06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlLon06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6260,7 +6260,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Muffy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6281,7 +6281,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Murphy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6302,7 +6302,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "My Melody poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6323,7 +6323,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Nan's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGoa01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGoa01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6344,7 +6344,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Nana's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMnk01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMnk01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6365,7 +6365,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Naomi's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCow07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCow07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6386,7 +6386,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Nat's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpChm.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpChm.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6407,7 +6407,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Nate's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6428,7 +6428,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Nibbles's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6449,7 +6449,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Niko's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpMnc.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpMnc.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6470,7 +6470,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Norma's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCow06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCow06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6491,7 +6491,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "O'Hare's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6512,7 +6512,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Octavian's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOcp00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOcp00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6533,7 +6533,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Olaf's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlAnt09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlAnt09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6554,7 +6554,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Olive's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6575,7 +6575,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Olivia's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6596,7 +6596,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Opal's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6617,7 +6617,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Orville's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpDod.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpDod.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6638,7 +6638,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ozzie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6659,7 +6659,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pancetti's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6680,7 +6680,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pango's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlAnt02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlAnt02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6701,7 +6701,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Paolo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6722,7 +6722,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Papi's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6743,7 +6743,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pascal's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpSeo.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpSeo.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6764,7 +6764,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pashmina's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGoa08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGoa08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6785,7 +6785,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pate's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6806,7 +6806,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Patty's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCow00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCow00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6827,7 +6827,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Paula's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6848,7 +6848,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pavé's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPck.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpPck.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6869,7 +6869,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Peaches's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6890,7 +6890,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Peanut's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6911,7 +6911,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pecan's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6932,7 +6932,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Peck's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6953,7 +6953,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Peewee's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6974,7 +6974,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Peggy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -6995,7 +6995,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pekoe's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7016,7 +7016,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pelly's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPlk.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpPlk.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7037,7 +7037,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Penelope's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7058,7 +7058,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pete's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPlo.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpPlo.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7079,7 +7079,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Petri's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus19.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus19.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7100,7 +7100,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Phil's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7121,7 +7121,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Phineas's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpFsl.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpFsl.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7142,7 +7142,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Phoebe's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7163,7 +7163,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Phyllis's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPlm.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpPlm.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7184,7 +7184,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pierce's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7205,7 +7205,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pietro's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7226,7 +7226,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pinky's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7247,7 +7247,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Piper's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7268,7 +7268,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pippy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7289,7 +7289,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Plucky's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlChn10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlChn10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7310,7 +7310,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pompom's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7331,7 +7331,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pompompurin poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr18.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr18.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7352,7 +7352,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Poncho's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7373,7 +7373,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Poppy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7394,7 +7394,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Porter's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpMnk.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpMnk.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7415,7 +7415,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Portia's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7436,7 +7436,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Prince's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7457,7 +7457,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Puck's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7478,7 +7478,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Puddles's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7499,7 +7499,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Pudge's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7520,7 +7520,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Punchy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7541,7 +7541,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Purrl's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7562,7 +7562,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Queenie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7583,7 +7583,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Quillson's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7604,7 +7604,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Quinn's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7625,7 +7625,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Raddle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7646,7 +7646,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rasher's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7667,7 +7667,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Raymond's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat23.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat23.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7688,7 +7688,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Redd's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpFox.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpFox.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7709,7 +7709,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Reese's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpAlw.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpAlw.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7730,7 +7730,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Renée's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRhn08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRhn08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7751,7 +7751,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Reneigh's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7772,7 +7772,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Resetti's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpMol.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpMol.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7793,7 +7793,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rex's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlLon02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlLon02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7814,7 +7814,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rhonda's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRhn01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRhn01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7835,7 +7835,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ribbot's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7856,7 +7856,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ricky's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7877,7 +7877,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rilla's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor11_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor11_2.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7898,7 +7898,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rio's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7919,7 +7919,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rizzo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7940,7 +7940,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Roald's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7961,7 +7961,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Robin's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -7982,7 +7982,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rocco's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHip00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHip00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8003,7 +8003,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rocket's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8024,7 +8024,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rod's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8045,7 +8045,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rodeo's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBul01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBul01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8066,7 +8066,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rodney's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHam03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHam03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8087,7 +8087,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rolf's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlTig00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlTig00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8108,7 +8108,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rooney's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKgr09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKgr09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8129,7 +8129,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rory's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlLon07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlLon07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8150,7 +8150,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Roscoe's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8171,7 +8171,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rosie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8192,7 +8192,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Roswell's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCrd05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCrd05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8213,7 +8213,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rover's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpXct.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpXct.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8234,7 +8234,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rowan's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlTig01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlTig01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8255,7 +8255,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ruby's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8276,7 +8276,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Rudy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat20.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat20.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8297,7 +8297,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sable's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpHgs.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpHgs.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8318,7 +8318,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Saharah's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpCml.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpCml.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8339,7 +8339,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sally's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8360,7 +8360,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Samson's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMus04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMus04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8381,7 +8381,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sandy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8402,7 +8402,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sasha's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt21.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt21.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8423,7 +8423,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Savannah's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8444,7 +8444,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Scoot's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8465,7 +8465,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Shari's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMnk07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMnk07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8486,7 +8486,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sheldon's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu16.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu16.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8507,7 +8507,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Shep's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog18.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog18.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8528,7 +8528,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sherb's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGoa09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGoa09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8549,7 +8549,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Shino's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8570,7 +8570,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Shrunk's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpUpa.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpUpa.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8591,7 +8591,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Simon's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMnk02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMnk02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8612,7 +8612,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Skye's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8633,7 +8633,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sly's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCrd06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCrd06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8654,7 +8654,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Snake's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8675,7 +8675,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Snooty's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlAnt06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlAnt06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8696,7 +8696,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Soleil's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHam04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHam04.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8717,7 +8717,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sparro's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd18.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd18.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8738,7 +8738,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Spike's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRhn02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRhn02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8759,7 +8759,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Spork's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8780,7 +8780,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sprinkle's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8801,7 +8801,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sprocket's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOst03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOst03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8822,7 +8822,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Static's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8843,7 +8843,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Stella's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8864,7 +8864,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sterling's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPbr07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPbr07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8885,7 +8885,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Stinky's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8906,7 +8906,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Stitches's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8927,7 +8927,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Stu's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBul03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBul03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8948,7 +8948,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sydney's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8969,7 +8969,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sylvana's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu14.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu14.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -8990,7 +8990,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Sylvia's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKgr06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKgr06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9011,7 +9011,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "T-Bone's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBul05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBul05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9032,7 +9032,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tabby's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9053,7 +9053,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tad's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9074,7 +9074,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tammi's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMnk03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMnk03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9095,7 +9095,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tammy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr17.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr17.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9116,7 +9116,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tangy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9137,7 +9137,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tank's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRhn00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRhn00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9158,7 +9158,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tasha's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlSqu13.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu13.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9179,7 +9179,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Teddy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9200,7 +9200,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tex's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn12.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn12.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9221,7 +9221,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tia's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9242,7 +9242,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tiansheng's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlMnk09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlMnk09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9263,7 +9263,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tiffany's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9284,7 +9284,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Timbra's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp10.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp10.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9305,7 +9305,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Timmy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRcm.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpRcm.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9326,7 +9326,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tipper's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCow01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCow01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9347,7 +9347,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Toby's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlRbt20_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlRbt20_2.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9368,7 +9368,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tom Nook's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRco.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpRco.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9389,7 +9389,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tom's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCat15.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCat15.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9410,7 +9410,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tommy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpRct.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpRct.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9431,7 +9431,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tortimer's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpTtlA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpTtlA.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9452,7 +9452,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Truffles's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPig01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPig01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9473,7 +9473,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tucker's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlElp09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlElp09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9494,7 +9494,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tutu's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9515,7 +9515,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Twiggy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBrd03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9536,7 +9536,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Tybalt's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlTig02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlTig02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9557,7 +9557,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Ursala's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBea08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBea08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9578,7 +9578,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Velma's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGoa06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGoa06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9599,7 +9599,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Vesta's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9620,7 +9620,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Vic's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlBul08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBul08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9641,7 +9641,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Victoria's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs01.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9662,7 +9662,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Villager's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterVillager.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterVillager.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9683,7 +9683,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Violet's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlGor07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlGor07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9704,7 +9704,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Vivian's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9725,7 +9725,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Vladimir's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlCbr06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlCbr06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9746,7 +9746,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Wade's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlPgn09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlPgn09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9767,7 +9767,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Walker's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDog06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDog06.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9788,7 +9788,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Walt's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKgr08.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKgr08.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9809,7 +9809,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Wardell's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpMan.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpMan.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9830,7 +9830,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Wart Jr.'s poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlFlg05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlFlg05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9851,7 +9851,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Weber's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDuk11.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDuk11.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9872,7 +9872,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Wendell's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpWrl.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpWrl.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9893,7 +9893,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Wendy's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp09.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp09.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9914,7 +9914,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Whitney's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol03.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9935,7 +9935,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Wilbur's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpDoc.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpDoc.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9956,7 +9956,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Willow's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlShp07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlShp07.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9977,7 +9977,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Winnie's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlHrs05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlHrs05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -9998,7 +9998,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Wisp's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpGst.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpGst.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -10019,7 +10019,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Wolfgang's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlWol02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlWol02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -10040,7 +10040,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Yuka's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlKal00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlKal00.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -10061,7 +10061,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Zell's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlDer02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -10082,7 +10082,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Zipper's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcSpPyn.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcSpPyn.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -10103,7 +10103,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Zoe's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlAnt05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlAnt05.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -10124,7 +10124,7 @@
   {
     "SourceSheet": "Posters",
     "Name": "Zucker's poster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/PosterNpcNmlOcp02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlOcp02.png\")",
     "Buy": 1000,
     "Sell": 250,
     "HHA Base Points": 251,
@@ -10141,5 +10141,89 @@
     "Filename": "PosterNpcNmlOcp02",
     "Internal ID": 10569,
     "Unique Entry ID": "8u8XbGvQuj8HbbEyy"
+  },
+  {
+    "SourceSheet": "Posters",
+    "Name": "Cece's poster",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu19.png\")",
+    "Buy": 1000,
+    "Sell": 250,
+    "HHA Base Points": 251,
+    "Color 1": "Blue",
+    "Color 2": "White",
+    "Size": "1x1",
+    "Source": "Nook Shopping Posters",
+    "Source Notes": "In the Special Items section in Nook Shopping, after inviting the villager to Photopia (either through amiibo, or if the villager lives in your town)",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Catalog": "For sale",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "PosterNpcNmlSqu19",
+    "Internal ID": 1270,
+    "Unique Entry ID": "KCyRjCJ3LLs4eZJf9"
+  },
+  {
+    "SourceSheet": "Posters",
+    "Name": "Mineru's poster",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlDer12.png\")",
+    "Buy": 1000,
+    "Sell": 250,
+    "HHA Base Points": 251,
+    "Color 1": "Gray",
+    "Color 2": "Green",
+    "Size": "1x1",
+    "Source": "Nook Shopping Posters",
+    "Source Notes": "In the Special Items section in Nook Shopping, after inviting the villager to Photopia (either through amiibo, or if the villager lives in your town)",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Catalog": "For sale",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "PosterNpcNmlDer12",
+    "Internal ID": 1267,
+    "Unique Entry ID": "WZGQLkNSrGrzCk3Qi"
+  },
+  {
+    "SourceSheet": "Posters",
+    "Name": "Tulin's poster",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlBrd20.png\")",
+    "Buy": 1000,
+    "Sell": 250,
+    "HHA Base Points": 251,
+    "Color 1": "White",
+    "Color 2": "Beige",
+    "Size": "1x1",
+    "Source": "Nook Shopping Posters",
+    "Source Notes": "In the Special Items section in Nook Shopping, after inviting the villager to Photopia (either through amiibo, or if the villager lives in your town)",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Catalog": "For sale",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "PosterNpcNmlBrd20",
+    "Internal ID": 1289,
+    "Unique Entry ID": "NjKTPgHzE3hkE43cB"
+  },
+  {
+    "SourceSheet": "Posters",
+    "Name": "Viché's poster",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/PosterNpcNmlSqu20.png\")",
+    "Buy": 1000,
+    "Sell": 250,
+    "HHA Base Points": 251,
+    "Color 1": "Yellow",
+    "Color 2": "Brown",
+    "Size": "1x1",
+    "Source": "Nook Shopping Posters",
+    "Source Notes": "In the Special Items section in Nook Shopping, after inviting the villager to Photopia (either through amiibo, or if the villager lives in your town)",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Catalog": "For sale",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "PosterNpcNmlSqu20",
+    "Internal ID": 1271,
+    "Unique Entry ID": "AwcRd3uxCBe4JE9LS"
   }
 ]

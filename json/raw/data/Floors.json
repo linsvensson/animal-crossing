@@ -2,7 +2,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "aqua tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTile01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTile01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 900,
@@ -30,7 +30,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "arabesque flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArabesque00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorArabesque00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2120,
@@ -58,7 +58,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "arched-brick flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArchBrick00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorArchBrick00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1100,
@@ -86,7 +86,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "argyle tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTileWood00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1750,
@@ -114,7 +114,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "artsy parquet flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetArt00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorParquetArt00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1800,
@@ -142,7 +142,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "backyard lawn",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorLawn00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorLawn00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -170,7 +170,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "bamboo flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBamboo00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBamboo00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -198,7 +198,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "basement flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBasement00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBasement00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -226,7 +226,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "beige Moroccan flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMorocco00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMorocco00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2100,
@@ -254,7 +254,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "berry-chocolates flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorChocolate02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorChocolate02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -282,7 +282,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "birch flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBirch00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBirch00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 800,
@@ -310,7 +310,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "black iron-parquet flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetIron02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorParquetIron02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2350,
@@ -338,7 +338,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "black-brick flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBrick02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBrick02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1040,
@@ -366,7 +366,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "block flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMario00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMario00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -394,7 +394,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "blue camo flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCamouflage01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCamouflage01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1320,
@@ -422,7 +422,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "blue dot flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDot04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDot04.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 800,
@@ -450,7 +450,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "blue floral flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDecoWood01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDecoWood01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1520,
@@ -478,7 +478,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "blue honeycomb tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycomb01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHoneycomb01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1420,
@@ -506,7 +506,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "blue Moroccan flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMorocco01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMorocco01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2100,
@@ -534,7 +534,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "blue mosaic-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTile03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTile03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 900,
@@ -562,7 +562,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "blue rubber flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRubber01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRubber01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 850,
@@ -590,7 +590,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "blue-paint flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPaintWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPaintWood00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1040,
@@ -618,7 +618,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "boxing-ring mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorWrestling00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorWrestling00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -646,7 +646,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "broken stone-path flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCemetery00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCemetery00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -674,7 +674,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "brown argyle-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArgyleTile01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorArgyleTile01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1440,
@@ -702,7 +702,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "brown floral flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDecoWood02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDecoWood02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1520,
@@ -730,7 +730,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "brown honeycomb tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycomb00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHoneycomb00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1420,
@@ -758,7 +758,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "brown iron-parquet flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetIron01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorParquetIron01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2350,
@@ -786,7 +786,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "brown wedding flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMarbleTile01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMarbleTile01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": "NFS",
@@ -814,7 +814,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "brown-brick flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBrick03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBrick03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1040,
@@ -842,7 +842,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Bunny Day flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorEaster00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorEaster00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -870,7 +870,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "camo flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCamouflage00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCamouflage00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1320,
@@ -898,7 +898,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cherry-blossom flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSakura00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSakura00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -926,7 +926,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Cinnamoroll flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCinnamon00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCinnamon00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -954,7 +954,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "circuit-board flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGeek00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorGeek00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -982,7 +982,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "circus flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSummer00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSummer00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1010,7 +1010,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cloud flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorCloud00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorCloud00.png\")",
     "VFX": "Yes",
     "DIY": "No",
     "Buy": 3000,
@@ -1038,7 +1038,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "club flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorClub00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorClub00.png\")",
     "VFX": "Yes",
     "DIY": "No",
     "Buy": 3000,
@@ -1066,7 +1066,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "colored-leaves flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAutumun00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorAutumun00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -1094,7 +1094,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "colorful mosaic-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTile02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTile02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 900,
@@ -1122,7 +1122,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "colorful puzzle flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPuzzleMat01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPuzzleMat01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1450,
@@ -1150,7 +1150,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "colorful tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPanel01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPanel01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1620,
@@ -1178,7 +1178,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "common flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCommon00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCommon00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 720,
@@ -1206,7 +1206,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "concrete flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorConcrete00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorConcrete00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 820,
@@ -1234,7 +1234,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "construction-site flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorConstruction00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorConstruction00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1262,7 +1262,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cool vinyl flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileChecker03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTileChecker03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1150,
@@ -1290,7 +1290,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cool-paint flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorColorfulWood01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorColorfulWood01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2200,
@@ -1318,7 +1318,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cork flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCork00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCork00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1500,
@@ -1346,7 +1346,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "crop-circles flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCropCircles00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCropCircles00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1374,7 +1374,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "crosswalk flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSidewalk00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSidewalk00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1402,7 +1402,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cubic parquet flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycombWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHoneycombWood00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1500,
@@ -1430,7 +1430,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cute blue-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCute02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCute02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 780,
@@ -1458,7 +1458,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cute red-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCute01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCute01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 780,
@@ -1486,7 +1486,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cute white-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCute00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCute00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 780,
@@ -1514,7 +1514,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cute yellow-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCute03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCute03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 780,
@@ -1542,7 +1542,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "cute-paint flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorColorfulWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorColorfulWood00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2200,
@@ -1570,7 +1570,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "daisy meadow",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGrassland00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorGrassland00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1598,7 +1598,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "dark herringbone flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHerringbone01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHerringbone01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1200,
@@ -1626,7 +1626,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "dark parquet flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCountry01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCountry01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1560,
@@ -1654,7 +1654,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "dark wood-pattern flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleParquet01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSimpleParquet01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1500,
@@ -1682,7 +1682,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "dark-block flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquet01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorParquet01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1380,
@@ -1710,7 +1710,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "dark-chocolates flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorChocolate00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorChocolate00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1738,7 +1738,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "dig-site flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorStratum00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorStratum00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1766,7 +1766,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "dirt flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCottonSoil00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCottonSoil00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1794,7 +1794,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "fast-food flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTheater00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTheater00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1822,7 +1822,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "field flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorFarm00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorFarm00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1850,7 +1850,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "flagstone flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorFlagStone00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorFlagStone00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1700,
@@ -1878,7 +1878,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "floral mosaic-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMosaicTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMosaicTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1080,
@@ -1906,7 +1906,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "floral rush-mat flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRush00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRush00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -1934,7 +1934,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "flowing-river flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorRiver00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorRiver00.png\")",
     "VFX": "Yes",
     "DIY": "No",
     "Buy": 3000,
@@ -1962,7 +1962,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "forest flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMushForest00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMushForest00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -1990,7 +1990,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "future-tech flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorTechnology00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorTechnology00.png\")",
     "VFX": "Yes",
     "DIY": "No",
     "Buy": 3000,
@@ -2018,7 +2018,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "galaxy flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorGalaxy00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorGalaxy00.png\")",
     "VFX": "Yes",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -2046,7 +2046,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "garbage-heap flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGarbage00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorGarbage00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -2074,7 +2074,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "giraffe-print flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAnimal01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorAnimal01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1300,
@@ -2102,7 +2102,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "glowing-moss flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorGlowMoss00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorGlowMoss00.png\")",
     "VFX": "Yes",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -2130,7 +2130,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "gold iron-parquet flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetIron00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorParquetIron00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2350,
@@ -2158,7 +2158,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "golden flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGold00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorGold00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -2186,7 +2186,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "gravel flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGravel00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorGravel00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -2214,7 +2214,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "gray argyle-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArgyleTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorArgyleTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1440,
@@ -2242,7 +2242,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "gray vinyl flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileChecker00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTileChecker00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1150,
@@ -2270,7 +2270,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "green floral flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDecoWood03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDecoWood03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1520,
@@ -2298,7 +2298,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "green honeycomb tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycomb02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHoneycomb02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1420,
@@ -2326,7 +2326,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "green retro flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKitchen01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorKitchen01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1540,
@@ -2354,7 +2354,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "green rubber flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRubber00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRubber00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 850,
@@ -2382,7 +2382,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "green vinyl flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileChecker02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTileChecker02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1150,
@@ -2410,7 +2410,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "green wedding flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMarbleTile02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMarbleTile02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": "NFS",
@@ -2438,7 +2438,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "green-paint flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPaintWood01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPaintWood01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1040,
@@ -2466,7 +2466,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "gym flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSchoolgym00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSchoolgym00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -2494,7 +2494,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Hello Kitty flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKitty00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorKitty00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -2522,7 +2522,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "hexagonal floral flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHempTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHempTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 860,
@@ -2550,7 +2550,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "highway flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHighway00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHighway00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -2578,7 +2578,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "honeycomb flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoney00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHoney00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -2606,7 +2606,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "hopscotch flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSchoolyard00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSchoolyard00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -2634,7 +2634,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "ice flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorIce00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorIce00.png\")",
     "VFX": "Yes",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -2662,7 +2662,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "iceberg flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorIceFloe00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorIceFloe00.png\")",
     "VFX": "Yes",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -2690,7 +2690,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "imperial tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDynasty00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDynasty00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -2718,7 +2718,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "jointed-mat flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorJointMat00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorJointMat00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1050,
@@ -2746,7 +2746,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "jungle flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorJungle00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorJungle00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -2774,7 +2774,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Kerokerokeroppi flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKeroppi00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorKeroppi00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -2802,7 +2802,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Kiki & Lala flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKikilala00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorKikilala00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -2830,7 +2830,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "kitschy tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKitschTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorKitschTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1280,
@@ -2858,7 +2858,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "lava flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorVolcano00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorVolcano00.png\")",
     "VFX": "Yes",
     "DIY": "No",
     "Buy": 3000,
@@ -2886,7 +2886,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "leopard-print flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAnimal00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorAnimal00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1300,
@@ -2914,7 +2914,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "light herringbone flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHerringbone00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHerringbone00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1200,
@@ -2942,7 +2942,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "light parquet flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCountry00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCountry00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1560,
@@ -2970,7 +2970,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "light wood-pattern flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleParquet00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSimpleParquet00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1500,
@@ -2998,7 +2998,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "lobby flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorLobby00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorLobby00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3026,7 +3026,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "lunar surface",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorLunar00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorLunar00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -3054,7 +3054,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "magic-circle flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorMagic00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorMagic00.png\")",
     "VFX": "Yes",
     "DIY": "No",
     "Buy": 3000,
@@ -3082,7 +3082,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "marine pop flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorFishPop00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorFishPop00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2020,
@@ -3110,7 +3110,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "mermaid flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorMermaid00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorMermaid00.png\")",
     "VFX": "Yes",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -3138,7 +3138,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "mint dot flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDot01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDot01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 800,
@@ -3166,7 +3166,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "modern wood flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMixwood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMixwood00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1280,
@@ -3194,7 +3194,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "money flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBill00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBill00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -3222,7 +3222,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "monochromatic dot flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDot00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDot00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 800,
@@ -3250,7 +3250,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "monochromatic tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPanel00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPanel00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1620,
@@ -3278,7 +3278,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Moroccan art-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMoroccanSquareTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMoroccanSquareTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3306,7 +3306,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "mossy-garden flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMoss00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMoss00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3334,7 +3334,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "My Melody flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMymelody00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMymelody00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3362,7 +3362,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "natural flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorClassroom00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorClassroom00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3390,7 +3390,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "natural-block flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquet00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorParquet00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1380,
@@ -3418,7 +3418,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Nook Inc. flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorFirst00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorFirst00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": "NFS",
@@ -3446,7 +3446,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "oasis flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorOasis00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorOasis00.png\")",
     "VFX": "Yes",
     "DIY": "No",
     "Buy": 3000,
@@ -3474,7 +3474,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "old board flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorOldBoard00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorOldBoard00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3502,7 +3502,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "old stone-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorLabo00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorLabo00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3530,7 +3530,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "olive Moroccan flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMorocco03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMorocco03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2100,
@@ -3558,7 +3558,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "operating-room flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorOperatingRoom00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorOperatingRoom00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3586,7 +3586,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "orange camo flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCamouflage03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCamouflage03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1320,
@@ -3614,7 +3614,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "orange retro flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorKitchen00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorKitchen00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1540,
@@ -3642,7 +3642,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "paintball flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAtelier00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorAtelier00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3670,7 +3670,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "palace tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPalace00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPalace00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3698,7 +3698,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Paradise Planning flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGoldRich00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorGoldRich00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": "NFS",
@@ -3726,7 +3726,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "parking flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParking00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorParking00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3754,7 +3754,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "party flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParty00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorParty00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": "NFS",
@@ -3782,7 +3782,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "pastel puzzle flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPuzzleMat00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPuzzleMat00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1450,
@@ -3810,7 +3810,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "patchwork-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPatchworkTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPatchworkTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2100,
@@ -3838,7 +3838,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "patient-ward flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHospitalRoom00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHospitalRoom00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3866,7 +3866,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "pine-board flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimple00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSimple00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2500,
@@ -3894,7 +3894,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "pink-paint flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPaintWood02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPaintWood02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1040,
@@ -3922,7 +3922,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "pirate flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPirates00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPirates00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": "NFS",
@@ -3950,7 +3950,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Pompompurin flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPurin00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPurin00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -3978,7 +3978,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "prom flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBallroom00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBallroom00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4006,7 +4006,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "purple camo flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCamouflage02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCamouflage02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1320,
@@ -4034,7 +4034,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "purple Moroccan flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMorocco02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMorocco02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2100,
@@ -4062,7 +4062,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "purple puzzle flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPuzzleMat03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPuzzleMat03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1450,
@@ -4090,7 +4090,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "pyramid tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorEgypt00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorEgypt00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4118,7 +4118,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "racetrack flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAthletics00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorAthletics00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4146,7 +4146,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "ramshackle flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRuins00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRuins00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4174,7 +4174,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "random-square-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSquareTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSquareTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1360,
@@ -4202,7 +4202,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "rattan flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRattan00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRattan00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1100,
@@ -4230,7 +4230,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "red dot flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDot02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDot02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 800,
@@ -4258,7 +4258,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "red-and-black vinyl flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileChecker01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTileChecker01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1150,
@@ -4286,7 +4286,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "red-brick flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBrick01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBrick01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1040,
@@ -4314,7 +4314,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "restaurant-kitchen flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCookery00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCookery00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4342,7 +4342,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "robo-flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRobo00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRobo00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4370,7 +4370,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "rocky-mountain flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRock00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRock00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4398,7 +4398,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Room Sketch flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorSketch00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorSketch00.png\")",
     "VFX": "Yes",
     "DIY": "No",
     "Buy": "NFS",
@@ -4426,7 +4426,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "rope-net flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorRopenet00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorRopenet00.png\")",
     "VFX": "Yes",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -4454,7 +4454,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "rose flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRoseCarpet00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRoseCarpet00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2200,
@@ -4482,7 +4482,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "rosewood flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRoseWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRoseWood00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2420,
@@ -4510,7 +4510,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "rubber-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorRubberTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorRubberTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 700,
@@ -4538,7 +4538,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "rush tatami",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTatami01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTatami01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2200,
@@ -4566,7 +4566,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "rush tatami flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTatamiPanel01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTatamiPanel01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2200,
@@ -4594,7 +4594,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Saharah's desert",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDesert00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDesert00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4622,7 +4622,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "sakura-wood flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSolidWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSolidWood00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -4650,7 +4650,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "sandlot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorEmptyLot00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorEmptyLot00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4678,7 +4678,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "sandy-beach flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSand00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSand00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -4706,7 +4706,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "sci-fi flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorSF00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorSF00.png\")",
     "VFX": "Yes",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -4734,7 +4734,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "scramble crosswalk",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorScramble00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorScramble00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4762,7 +4762,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "sepia puzzle flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPuzzleMat02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPuzzleMat02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1450,
@@ -4790,7 +4790,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "ship deck",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSeaView00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSeaView00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 4000,
@@ -4818,7 +4818,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "sidewalk flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSidewalk01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSidewalk01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -4846,7 +4846,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "simple blue flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleCarpet01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSimpleCarpet01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1500,
@@ -4874,7 +4874,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "simple purple flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleCarpet03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSimpleCarpet03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1500,
@@ -4902,7 +4902,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "simple red flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleCarpet00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSimpleCarpet00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1500,
@@ -4930,7 +4930,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "simple white flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSimpleCarpet04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSimpleCarpet04.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1500,
@@ -4958,7 +4958,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "ski-slope flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGelande00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorGelande00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -4986,7 +4986,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "skull-print flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSkull00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSkull00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5014,7 +5014,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "slate flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSlate00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSlate00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1380,
@@ -5042,7 +5042,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "spooky flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHalloween00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHalloween00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": "NFS",
@@ -5070,7 +5070,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "starry-sands flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSandStar00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSandStar00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -5098,7 +5098,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "steampunk flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSteampunk00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSteampunk00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5126,7 +5126,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "steel flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorSteel00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorSteel00.png\")",
     "VFX": "No",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -5154,7 +5154,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "stone tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMarble00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMarble00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5182,7 +5182,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "stripe flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorStripe00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorStripe00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1200,
@@ -5210,7 +5210,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "sumo ring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorArena00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorArena00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5238,7 +5238,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "swamp flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBog00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBog00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5266,7 +5266,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "tatami",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTatami00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTatami00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2200,
@@ -5294,7 +5294,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "tatami flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTatamiPanel00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTatamiPanel00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2200,
@@ -5322,7 +5322,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "tent flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGlamping00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorGlamping00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5350,7 +5350,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "terra-cotta flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTileTerracotta00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTileTerracotta00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1800,
@@ -5378,7 +5378,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "tiger-print flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAnimal03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorAnimal03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1300,
@@ -5406,7 +5406,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "train-station flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPlatform00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPlatform00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5434,7 +5434,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "Turkey Day flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHarvest00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHarvest00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": "NFS",
@@ -5462,7 +5462,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "underwater flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorFishTank00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorFishTank00.png\")",
     "VFX": "Yes",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -5490,7 +5490,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "water flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpFloorWater00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorWater00.png\")",
     "VFX": "Yes",
     "DIY": "Yes",
     "Buy": "NFS",
@@ -5518,7 +5518,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "western desert",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorWilderness00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorWilderness00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5546,7 +5546,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "white honeycomb tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorHoneycomb03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorHoneycomb03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1420,
@@ -5574,7 +5574,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "white iron-parquet flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorParquetIron03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorParquetIron03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 2350,
@@ -5602,7 +5602,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "white mosaic-tile flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 900,
@@ -5630,7 +5630,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "white wedding flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorMarbleTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorMarbleTile00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": "NFS",
@@ -5658,7 +5658,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "white-brick flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorBrick00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorBrick00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1040,
@@ -5686,7 +5686,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "white-chocolates flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorChocolate01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorChocolate01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5714,7 +5714,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "white-paint flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorPaintWood03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorPaintWood03.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1040,
@@ -5742,7 +5742,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "wildflower meadow",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorGrassland01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorGrassland01.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 3000,
@@ -5770,7 +5770,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "wooden-knot flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorCedar00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorCedar00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 780,
@@ -5798,7 +5798,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "yellow floral flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorDecoWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorDecoWood00.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1520,
@@ -5826,7 +5826,7 @@
   {
     "SourceSheet": "Floors",
     "Name": "zebra-print flooring",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexFloorAnimal02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorAnimal02.png\")",
     "VFX": "No",
     "DIY": "No",
     "Buy": 1300,
@@ -5850,5 +5850,173 @@
     "Filename": "RoomTexFloorAnimal02",
     "Internal ID": 4962,
     "Unique Entry ID": "9Mdszd5EgwJ6omLPf"
+  },
+  {
+    "SourceSheet": "Floors",
+    "Name": "chic LEGO® flooring",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorLego03.png\")",
+    "VFX": "No",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Black",
+    "Color 2": "Black",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Lego",
+    "Tag": "LEGO Floors",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomTexFloorLego03",
+    "Internal ID": 1296,
+    "Unique Entry ID": "Bymaxz79gL2PkDMJP"
+  },
+  {
+    "SourceSheet": "Floors",
+    "Name": "colorful LEGO® flooring",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorLego00.png\")",
+    "VFX": "No",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Green",
+    "Color 2": "Green",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Lego",
+    "Tag": "LEGO Floors",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomTexFloorLego00",
+    "Internal ID": 1281,
+    "Unique Entry ID": "fjN2FDrEfdm5Nbkxa"
+  },
+  {
+    "SourceSheet": "Floors",
+    "Name": "cute LEGO® flooring",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorLego02.png\")",
+    "VFX": "No",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Aqua",
+    "Color 2": "Aqua",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Lego",
+    "Tag": "LEGO Floors",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomTexFloorLego02",
+    "Internal ID": 1295,
+    "Unique Entry ID": "DQMFu3LMY25FFYeJa"
+  },
+  {
+    "SourceSheet": "Floors",
+    "Name": "Korok Forest flooring",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorZeldaForest00.png\")",
+    "VFX": "Yes",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Green",
+    "Color 2": "Green",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "fantasy",
+    "HHA Concept 2": "ancient",
+    "HHA Series": "Zelda",
+    "Tag": "Zelda Floors",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomSpFloorZeldaForest00",
+    "Internal ID": 1067,
+    "Unique Entry ID": "t3EDeEyyMugksnpvP"
+  },
+  {
+    "SourceSheet": "Floors",
+    "Name": "modern LEGO® flooring",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexFloorLego01.png\")",
+    "VFX": "No",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Blue",
+    "Color 2": "Blue",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Lego",
+    "Tag": "LEGO Floors",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomTexFloorLego01",
+    "Internal ID": 1294,
+    "Unique Entry ID": "e5z4rueoCDPf5x8Bq"
+  },
+  {
+    "SourceSheet": "Floors",
+    "Name": "Tricolor Turf War flooring",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpFloorSplatoon00.png\")",
+    "VFX": "Yes",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Colorful",
+    "Color 2": "Colorful",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Splatoon",
+    "Tag": "Splatoon Floors",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomSpFloorSplatoon00",
+    "Internal ID": 1148,
+    "Unique Entry ID": "Ewj9xw2WErfnZcZw5"
   }
 ]

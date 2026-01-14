@@ -22,7 +22,7 @@ export interface Item {
   exchangeCurrency?: ExchangeCurrency | null;
   source?: string[];
   sourceNotes?: string[] | null;
-  seasonEvent?: null | string;
+  seasonEvent?: null | string[];
   seasonEventExclusive?: boolean | null;
   hhaBasePoints?: number;
   hhaCategory?: HhaCategory | null;
@@ -313,7 +313,7 @@ export interface Recipe {
   exchangeCurrency: ExchangeCurrency | null;
   source: string[];
   sourceNotes: string[] | null;
-  seasonEvent: null | string;
+  seasonEvent: null | string[];
   seasonEventExclusive: boolean | null;
   versionAdded: VersionAdded;
   unlocked: boolean;
@@ -1365,7 +1365,7 @@ export interface VariationElement {
   variation: number | null | string;
   exchangePrice?: number | null;
   exchangeCurrency?: ExchangeCurrency | null;
-  seasonEvent: null | string;
+  seasonEvent: null | string[];
   seasonEventExclusive: boolean | null;
   seasonality?: SeasonalAvailability;
   mannequinSeason?: SeasonalAvailability | null;

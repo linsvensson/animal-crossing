@@ -993,7 +993,7 @@
     "size": "1x1",
     "source": [ "K.K. concert" ],
     "sourceNotes": [ "Received on your first time seeing K.K. perform during your birthday" ],
-    "seasonEvent": "Birthday",
+    "seasonEvent": [ "Birthday" ],
     "seasonEventExclusive": true,
     "catalog": "Not for sale",
     "versionAdded": "1.0.0",

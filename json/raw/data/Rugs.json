@@ -2,7 +2,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "acorn rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherAcornM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherAcornM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 2400,
@@ -31,7 +31,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "aluminum rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectAluminumM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectAluminumM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -60,7 +60,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "apple rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherAppleM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherAppleM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 1200,
@@ -89,7 +89,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Bell-bag rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherBellM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherBellM00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 6000,
@@ -118,7 +118,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "black blocks rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareBlockM03.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -147,7 +147,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "black wooden-deck rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDeckM03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDeckM03.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -176,7 +176,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "black-design kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectNativeKitchenS03.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -205,7 +205,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue argyle rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectArgyleL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -234,7 +234,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue blocks rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareBlockM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -263,7 +263,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue dotted rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDotL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDotL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -292,7 +292,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue exercise mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectMatM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectMatM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -321,7 +321,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue Hawaiian quilt rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareHawaiianL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareHawaiianL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -350,7 +350,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue kilim-style carpet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareKirimL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -379,7 +379,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectKitchenS02.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -408,7 +408,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue medium round mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundSimpleM02.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -437,7 +437,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue message mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMessageS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -466,7 +466,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue Persian rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquarePersianL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -495,7 +495,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue shaggy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareShaggyL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -524,7 +524,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue small round mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundSimpleS02.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -553,7 +553,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue stripes rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBorderL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBorderL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -582,7 +582,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue vinyl sheet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectVinylM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectVinylM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -611,7 +611,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue wavy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectWaveL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectWaveL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -640,7 +640,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue wedding rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectJuneBrideM00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 375,
@@ -669,7 +669,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "blue-design kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectNativeKitchenS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -698,7 +698,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "bone entrance mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherBoneS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherBoneS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -727,7 +727,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "botanical rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBotanicalL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBotanicalL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -756,7 +756,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "brown argyle rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectArgyleL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -785,7 +785,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "brown cow-print rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherAnimalM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherAnimalM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -814,7 +814,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "brown kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectKitchenS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -843,7 +843,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "brown shaggy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareShaggyL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -872,7 +872,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "brown wooden-deck rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDeckM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDeckM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -901,7 +901,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Bunny Day rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherEasterM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherEasterM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 2400,
@@ -930,7 +930,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "cherry rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherCherryM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherCherryM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 1200,
@@ -959,7 +959,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "cherry-blossom rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherSakuraM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherSakuraM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 2400,
@@ -988,7 +988,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Cinnamoroll rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherCinnamonM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherCinnamonM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -1017,7 +1017,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "coconut mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectCoconutmatS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectCoconutmatS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -1046,7 +1046,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "colorful vinyl sheet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectVinylM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectVinylM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -1075,7 +1075,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "cookie rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundBiscuitM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundBiscuitM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -1104,7 +1104,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "dark bamboo bath mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBambooS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBambooS01.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 480,
@@ -1133,7 +1133,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "dark bamboo rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBambooM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBambooM01.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 960,
@@ -1162,7 +1162,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "dark square tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareWoodS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareWoodS03.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -1191,7 +1191,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "dark stones rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareStoneS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareStoneS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -1220,7 +1220,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "dark-wood flooring sheet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDisplayStandS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDisplayStandS02.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -1249,7 +1249,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "dark-wood flooring tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareDisplayStandS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareDisplayStandS02.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -1278,7 +1278,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Earth rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundEarthM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundEarthM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -1307,7 +1307,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "elegant beige rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareElegantL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareElegantL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1336,7 +1336,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "elegant black rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareElegantL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareElegantL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1365,7 +1365,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "elegant blue rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareElegantL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareElegantL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1394,7 +1394,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "elegant brown rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareElegantL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareElegantL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1423,7 +1423,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "festive rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareChristmasL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareChristmasL00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 1500,
@@ -1452,7 +1452,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "fish rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherFishM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherFishM00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 375,
@@ -1481,7 +1481,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "fluffy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherCloudM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherCloudM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -1510,7 +1510,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "football rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherFootballM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherFootballM00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1539,7 +1539,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "fossil rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherFossilM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherFossilM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -1568,7 +1568,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "frozen floor tiles",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareIceS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareIceS00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 3200,
@@ -1597,7 +1597,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "glowing-moss rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectGlowMossM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectGlowMossM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 300,
@@ -1626,7 +1626,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "gray brick rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareBrickS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareBrickS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -1655,7 +1655,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "gray floor tiles",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareTileS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareTileS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -1684,7 +1684,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "green bamboo mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBambooBathmatS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBambooBathmatS00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 480,
@@ -1713,7 +1713,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "green checked rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareCheckQuiltL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1742,7 +1742,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "green exercise mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectMatM02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectMatM02.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -1771,7 +1771,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "green exquisite rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectChinamatS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectChinamatS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -1800,7 +1800,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "green Hawaiian quilt rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareHawaiianL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareHawaiianL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1829,7 +1829,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "green kilim-style carpet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareKirimL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1858,7 +1858,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "green kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectKitchenS03.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -1887,7 +1887,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "green shaggy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareShaggyL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1916,7 +1916,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "green stripes rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBorderL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBorderL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -1945,7 +1945,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Hello Kitty rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherKittyM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherKittyM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -1974,7 +1974,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "imperial rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareChinaL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareChinaL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -2003,7 +2003,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "iron entrance mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectIronmatS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectIronmatS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2032,7 +2032,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "ivory medium round mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundSimpleM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2061,7 +2061,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "ivory simple bath mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBathmatS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2090,7 +2090,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "ivory small round mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundSimpleS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2119,7 +2119,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Kerokerokeroppi rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundKeroppiM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundKeroppiM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2148,7 +2148,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Kiki & Lala rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherKikilalaM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherKikilalaM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2177,7 +2177,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "lacy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundLaceM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundLaceM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2206,7 +2206,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "ladybug rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundLadybirdM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundLadybirdM00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 375,
@@ -2235,7 +2235,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Lakitu's Cloud rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMarioBM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMarioBM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2264,7 +2264,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "large Paradise Planning rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquarePatternL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquarePatternL00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 500,
@@ -2293,7 +2293,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "light bamboo bath mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBambooS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBambooS00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 1200,
@@ -2322,7 +2322,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "light bamboo rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBambooM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBambooM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 2400,
@@ -2351,7 +2351,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "light square tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareWoodS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareWoodS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2380,7 +2380,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "light stones rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareStoneS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareStoneS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2409,7 +2409,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "light-brown cow-print rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherAnimalM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherAnimalM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2438,7 +2438,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "light-wood flooring sheet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDisplayStandS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDisplayStandS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2467,7 +2467,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "light-wood flooring tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareDisplayStandS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareDisplayStandS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2496,7 +2496,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "magic-circle rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundMagicM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundMagicM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2525,7 +2525,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "maple-leaf rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMapleM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMapleM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 2400,
@@ -2554,7 +2554,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "mermaid rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMermaidM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMermaidM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 10360,
@@ -2583,7 +2583,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "modern wavy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectWaveL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectWaveL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -2612,7 +2612,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Mom's cool kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectMomS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectMomS00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 88,
@@ -2641,7 +2641,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Mom's lively kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectMomS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectMomS02.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 88,
@@ -2670,7 +2670,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Mom's playful kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectMomS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectMomS01.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 88,
@@ -2699,7 +2699,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Mom's reliable kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectMomS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectMomS03.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 88,
@@ -2728,7 +2728,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "monochromatic dotted rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDotL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDotL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -2757,7 +2757,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "monochromatic wavy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectWaveL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectWaveL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -2786,7 +2786,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "moon rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundMoonM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundMoonM00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -2815,7 +2815,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "mush rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMushM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMushM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2844,7 +2844,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "My Melody rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMymelodyM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMymelodyM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2873,7 +2873,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "natural wooden-deck rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDeckM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDeckM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -2902,7 +2902,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "natural-wood flooring sheet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDisplayStandS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDisplayStandS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2931,7 +2931,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "natural-wood flooring tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareDisplayStandS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareDisplayStandS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2960,7 +2960,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "natural-wood square tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareWoodS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareWoodS02.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -2989,7 +2989,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Nook Inc. botanical rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherTanukiM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherTanukiM00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 5000,
@@ -3018,7 +3018,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Nook Inc. rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherLeafM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherLeafM00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 5000,
@@ -3047,7 +3047,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Nook Inc. silk rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectTanukiL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectTanukiL00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 3000,
@@ -3076,7 +3076,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "orange rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherOrangeM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherOrangeM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 1200,
@@ -3105,7 +3105,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "oval entrance mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherCountryS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherCountryS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -3134,7 +3134,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "peach checked rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareCheckQuiltL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3163,7 +3163,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "peach rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherPeachM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherPeachM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 1200,
@@ -3192,7 +3192,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "peach stripes rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBorderL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBorderL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3221,7 +3221,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "pear rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherPearM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherPearM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 1200,
@@ -3250,7 +3250,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "pink Hawaiian quilt rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareHawaiianL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareHawaiianL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3279,7 +3279,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "pink heart rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherHeartM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3308,7 +3308,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "pink rose rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherRoseM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3337,7 +3337,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "pirate rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectPiratesM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectPiratesM00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 375,
@@ -3366,7 +3366,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Pompompurin rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherPurinM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherPurinM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3395,7 +3395,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "purple heart rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherHeartM02.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3424,7 +3424,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "purple Persian rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquarePersianL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3453,7 +3453,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "purple shaggy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareShaggyL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareShaggyL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3482,7 +3482,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "record rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundRecordM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundRecordM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3511,7 +3511,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red argyle rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectArgyleL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3540,7 +3540,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red blocks rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareBlockM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3569,7 +3569,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red brick rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareBrickS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareBrickS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -3598,7 +3598,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red carpet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectElegantM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectElegantM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3627,7 +3627,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red dotted rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDotL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDotL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3656,7 +3656,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red exercise mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectMatM03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectMatM03.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3685,7 +3685,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red exquisite rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectChinamatS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectChinamatS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -3714,7 +3714,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red kilim-style carpet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareKirimL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3743,7 +3743,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red medium round mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundSimpleM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3772,7 +3772,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red message mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMessageS03.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -3801,7 +3801,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red Persian rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquarePersianL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3830,7 +3830,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red rose rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherRoseM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3859,7 +3859,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red small round mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundSimpleS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -3888,7 +3888,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red vinyl sheet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectVinylM02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectVinylM02.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3917,7 +3917,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red watermelon rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherWatermelonM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherWatermelonM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -3946,7 +3946,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red wavy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectWaveL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectWaveL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -3975,7 +3975,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red wedding rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectJuneBrideM02.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 375,
@@ -4004,7 +4004,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red-and-blue checked rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareCheckQuiltL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -4033,7 +4033,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "red-design kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectNativeKitchenS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4062,7 +4062,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "retro dotted rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDotL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDotL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -4091,7 +4091,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "rough rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDoormatS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDoormatS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4120,7 +4120,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "round glowing-moss rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundGlowMossS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundGlowMossS00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 200,
@@ -4149,7 +4149,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "round vine rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundVineS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundVineS00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 400,
@@ -4178,7 +4178,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "rubber mud mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectRubberScraperS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectRubberScraperS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4207,7 +4207,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "shamrock rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherShamrockM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherShamrockM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4236,7 +4236,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "shanty mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareOldStrawL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareOldStrawL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -4265,7 +4265,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "shell rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherShellM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherShellM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 5400,
@@ -4294,7 +4294,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple entrance mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectEntranceS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectEntranceS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4323,7 +4323,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple green bath mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBathmatS03.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4352,7 +4352,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple medium avocado mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleM03.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4381,7 +4381,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple medium black mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleM07.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4410,7 +4410,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple medium blue mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleM02.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4439,7 +4439,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple medium brown mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4468,7 +4468,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple medium orange mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleM05.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4497,7 +4497,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple medium purple mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleM06.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4526,7 +4526,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple medium red mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleM04.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4555,7 +4555,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple navy bath mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBathmatS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4584,7 +4584,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple pink bath mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBathmatS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBathmatS02.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4613,7 +4613,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple small avocado mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleS03.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4642,7 +4642,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple small black mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS07.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleS07.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4671,7 +4671,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple small blue mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleS02.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4700,7 +4700,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple small brown mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4729,7 +4729,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple small orange mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleS05.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4758,7 +4758,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple small purple mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleS06.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4787,7 +4787,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "simple small red mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleS04.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -4816,7 +4816,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "skull rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherSkullM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherSkullM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4845,7 +4845,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "sloppy rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherSloppyL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherSloppyL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -4874,7 +4874,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "small Paradise Planning mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectPatternS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectPatternS00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 250,
@@ -4903,7 +4903,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "snowflake rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundSnowM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundSnowM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4932,7 +4932,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "spooky rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareHalloweenL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareHalloweenL00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 2000,
@@ -4961,7 +4961,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "stage rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundStageM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundStageM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -4990,7 +4990,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "starry-skies rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundZodiacM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundZodiacM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 5500,
@@ -5019,7 +5019,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "summer-shell rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherShellSnailM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherShellSnailM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 7200,
@@ -5048,7 +5048,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "sunflower rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherSunflowerM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherSunflowerM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5077,7 +5077,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "tatami mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectTatamiM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectTatamiM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5106,7 +5106,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "tree-stump rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherStumpM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherStumpM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 720,
@@ -5135,7 +5135,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "tropical rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundIslandM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundIslandM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5164,7 +5164,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Turkey Day rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareHarvestL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareHarvestL00.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 500,
@@ -5193,7 +5193,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "turquoise heart rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherHeartM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5222,7 +5222,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white exercise mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectMatM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectMatM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5251,7 +5251,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white heart rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherHeartM03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherHeartM03.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5280,7 +5280,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white message mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMessageS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -5309,7 +5309,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white rose rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherRoseM03.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5338,7 +5338,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white simple medium mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5367,7 +5367,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white simple small mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareSimpleS00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareSimpleS00.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -5396,7 +5396,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white square tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareWoodS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareWoodS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -5425,7 +5425,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white wedding rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectJuneBrideM03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectJuneBrideM03.png\")",
     "DIY": "No",
     "Buy": "NFS",
     "Sell": 375,
@@ -5454,7 +5454,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white wooden-deck rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDeckM02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDeckM02.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5483,7 +5483,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white-wood flooring sheet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectDisplayStandS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectDisplayStandS03.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -5512,7 +5512,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "white-wood flooring tile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareDisplayStandS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareDisplayStandS03.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -5541,7 +5541,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow argyle rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectArgyleL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectArgyleL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -5570,7 +5570,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow bamboo mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBambooBathmatS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBambooBathmatS01.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 1200,
@@ -5599,7 +5599,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow blocks rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareBlockM02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareBlockM02.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5628,7 +5628,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow checked rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareCheckQuiltL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareCheckQuiltL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -5657,7 +5657,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow Hawaiian quilt rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareHawaiianL01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareHawaiianL01.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -5686,7 +5686,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow kilim-style carpet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquareKirimL03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquareKirimL03.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -5715,7 +5715,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectKitchenS01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectKitchenS01.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -5744,7 +5744,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow medium round mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleM03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundSimpleM03.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5773,7 +5773,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow message mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMessageS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMessageS02.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -5802,7 +5802,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow Persian rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugSquarePersianL02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugSquarePersianL02.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -5831,7 +5831,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow rose rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherRoseM02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherRoseM02.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5860,7 +5860,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow small round mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRoundSimpleS03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRoundSimpleS03.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -5889,7 +5889,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow star rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherStarM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherStarM00.png\")",
     "DIY": "Yes",
     "Buy": "NFS",
     "Sell": 1500,
@@ -5918,7 +5918,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow stripes rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectBorderL00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectBorderL00.png\")",
     "DIY": "No",
     "Buy": 2000,
     "Sell": 500,
@@ -5947,7 +5947,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow vinyl sheet",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectVinylM03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectVinylM03.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -5976,7 +5976,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow watermelon rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherWatermelonM01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherWatermelonM01.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -6005,7 +6005,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "yellow-design kitchen mat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugRectNativeKitchenS02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugRectNativeKitchenS02.png\")",
     "DIY": "No",
     "Buy": 1000,
     "Sell": 250,
@@ -6034,7 +6034,7 @@
   {
     "SourceSheet": "Rugs",
     "Name": "Yoshi's Egg rug",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RugOtherMarioAM00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherMarioAM00.png\")",
     "DIY": "No",
     "Buy": 1500,
     "Sell": 375,
@@ -6059,5 +6059,34 @@
     "Filename": "RugOtherMarioAM00",
     "Internal ID": 13872,
     "Unique Entry ID": "CfuABFvYQYNAKQcR6"
+  },
+  {
+    "SourceSheet": "Rugs",
+    "Name": "LEGO® space logo rug",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RugOtherLEGOM00.png\")",
+    "DIY": "No",
+    "Buy": 1500,
+    "Sell": 375,
+    "Color 1": "Yellow",
+    "Color 2": "Red",
+    "Size": "3x2",
+    "Size Category": "Medium",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "space",
+    "HHA Series": "Lego",
+    "Tag": "RugLEGO",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RugOtherLEGOM00",
+    "Internal ID": 1293,
+    "Unique Entry ID": "eAocrWuwiE9kiNMyX"
   }
 ]

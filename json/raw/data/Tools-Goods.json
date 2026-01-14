@@ -2,7 +2,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "axe",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAxe.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAxe.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -41,7 +41,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "bamboo wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickBamboo.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickBamboo.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -80,7 +80,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "bean-tossing kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSoy0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSoy0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -119,7 +119,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "berry-vanilla soft serve",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcesoft3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcesoft3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -158,7 +158,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "bitter-orange folding fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSensu2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSensu2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -197,7 +197,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "blue balloon",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBalloonNormal.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBalloonNormal.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -236,7 +236,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "blue sparkler",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFireworks1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFireworks1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -275,7 +275,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "boba coffee",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolTapioca4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolTapioca4.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -314,7 +314,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "boba green tea",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolTapioca2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolTapioca2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -353,7 +353,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "boba mango tea",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolTapioca3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolTapioca3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -392,7 +392,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "boba milk tea",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolTapioca0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolTapioca0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -431,7 +431,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "boba strawberry tea",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolTapioca1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolTapioca1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -470,7 +470,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "bubble blower",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBubblesNormal.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBubblesNormal.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -509,7 +509,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "bug wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStcikInsect.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStcikInsect.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -548,7 +548,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "Bunny Day wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickEgg.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickEgg.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -587,7 +587,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "canned apple juice",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCanPlayer2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCanPlayer2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -626,7 +626,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "canned coffee",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCanPlayer5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCanPlayer5.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -665,7 +665,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "canned grape juice",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCanPlayer1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCanPlayer1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -704,7 +704,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "canned green tea",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCanPlayer3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCanPlayer3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -743,7 +743,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "canned orange juice",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCanPlayer0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCanPlayer0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -782,7 +782,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "canned soda",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCanPlayer7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCanPlayer7.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -821,7 +821,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "canned sports drink",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCanPlayer6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCanPlayer6.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -860,7 +860,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "canned tea",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCanPlayer4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCanPlayer4.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -899,7 +899,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "cherry-blossom wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickCherryblossom.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickCherryblossom.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -938,7 +938,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "chitose ame",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolChitoseame.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolChitoseame.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -977,7 +977,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "chocolate cone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcecream1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcecream1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -1016,7 +1016,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "chocolate donut",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDonutPlayer.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDonutPlayer.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -1055,7 +1055,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "chocolate frozen treat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcecandyPlayer2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcecandyPlayer2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -1094,7 +1094,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "chocolate soft serve",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcesoft1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcesoft1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -1133,7 +1133,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodDuck_Remake_0_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -1172,7 +1172,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodDuck_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -1211,7 +1211,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodDuck_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -1250,7 +1250,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodDuck_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -1289,7 +1289,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodDuck_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "No",
@@ -1328,7 +1328,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodDuck_Remake_5_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "No",
@@ -1367,7 +1367,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodDuck_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "No",
@@ -1406,7 +1406,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodDuck_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodDuck_Remake_7_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "DIY": "No",
@@ -1445,7 +1445,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful light stick",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSticklightColorful.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSticklightColorful.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -1484,7 +1484,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetPattern_Remake_0_0.png\")",
     "Variation": "Yellow & orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -1523,7 +1523,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetPattern_Remake_1_0.png\")",
     "Variation": "Red & yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -1562,7 +1562,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetPattern_Remake_2_0.png\")",
     "Variation": "Orange & blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -1601,7 +1601,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetPattern_Remake_3_0.png\")",
     "Variation": "Pink & yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -1640,7 +1640,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetPattern_Remake_4_0.png\")",
     "Variation": "Green & blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -1679,7 +1679,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetPattern_Remake_5_0.png\")",
     "Variation": "Purple & pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -1718,7 +1718,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetPattern_Remake_6_0.png\")",
     "Variation": "White & blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -1757,7 +1757,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetPattern_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetPattern_Remake_7_0.png\")",
     "Variation": "Gray & green",
     "Body Title": "Color",
     "DIY": "No",
@@ -1796,7 +1796,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopColorful_Remake_0_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -1835,7 +1835,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopColorful_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -1874,7 +1874,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopColorful_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -1913,7 +1913,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopColorful_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -1952,7 +1952,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopColorful_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "No",
@@ -1991,7 +1991,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopColorful_Remake_5_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "No",
@@ -2030,7 +2030,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopColorful_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "No",
@@ -2069,7 +2069,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopColorful_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopColorful_Remake_7_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "DIY": "No",
@@ -2108,7 +2108,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotColorful_Remake_0_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -2147,7 +2147,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotColorful_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -2186,7 +2186,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotColorful_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -2225,7 +2225,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotColorful_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -2264,7 +2264,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotColorful_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "No",
@@ -2303,7 +2303,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotColorful_Remake_5_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "No",
@@ -2342,7 +2342,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotColorful_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "No",
@@ -2381,7 +2381,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotColorful_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotColorful_Remake_7_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "DIY": "No",
@@ -2420,7 +2420,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringColorful_Remake_0_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -2459,7 +2459,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringColorful_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -2498,7 +2498,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringColorful_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -2537,7 +2537,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringColorful_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -2576,7 +2576,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringColorful_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "No",
@@ -2615,7 +2615,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringColorful_Remake_5_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "No",
@@ -2654,7 +2654,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringColorful_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "No",
@@ -2693,7 +2693,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "colorful watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringColorful_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringColorful_Remake_7_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "DIY": "No",
@@ -2732,7 +2732,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "cosmos wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickCosmos.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickCosmos.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -2771,7 +2771,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "dumbbell",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDumbbellPlayer_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDumbbellPlayer_Remake_0_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "No",
@@ -2810,7 +2810,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "dumbbell",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDumbbellPlayer_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDumbbellPlayer_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "No",
@@ -2849,7 +2849,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "dumbbell",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDumbbellPlayer_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDumbbellPlayer_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "No",
@@ -2888,7 +2888,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "dumbbell",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDumbbellPlayer_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDumbbellPlayer_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -2927,7 +2927,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "dumbbell",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDumbbellPlayer_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDumbbellPlayer_Remake_4_0.png\")",
     "Variation": "Gold",
     "Body Title": "Color",
     "DIY": "No",
@@ -2966,7 +2966,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "dumbbell",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDumbbellPlayer_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDumbbellPlayer_Remake_5_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "DIY": "No",
@@ -3005,7 +3005,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "duster",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDusterPlayer.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDusterPlayer.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -3044,7 +3044,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "elephant watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringElephant_Remake_0_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "DIY": "No",
@@ -3083,7 +3083,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "elephant watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringElephant_Remake_1_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "No",
@@ -3122,7 +3122,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "elephant watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringElephant_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -3161,7 +3161,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "elephant watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringElephant_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -3200,7 +3200,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "elephant watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringElephant_Remake_4_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "No",
@@ -3239,7 +3239,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "elephant watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringElephant_Remake_5_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -3278,7 +3278,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "elephant watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringElephant_Remake_6_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -3317,7 +3317,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "elephant watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringElephant_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringElephant_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "No",
@@ -3356,7 +3356,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fiery cheer megaphone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolMegaphone1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMegaphone1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -3395,7 +3395,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fish fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodColorful_Remake_0_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "No",
@@ -3434,7 +3434,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fish fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodColorful_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -3473,7 +3473,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fish fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodColorful_Remake_2_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -3512,7 +3512,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fish fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodColorful_Remake_3_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -3551,7 +3551,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fish fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodColorful_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -3590,7 +3590,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fish fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodColorful_Remake_5_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "No",
@@ -3629,7 +3629,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fish fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodColorful_Remake_6_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -3668,7 +3668,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fish fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodColorful_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodColorful_Remake_7_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "No",
@@ -3707,7 +3707,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fish wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickFish.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickFish.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -3746,7 +3746,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAngling_Remake_0_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -3785,7 +3785,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAngling_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -3824,7 +3824,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAngling_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -3863,7 +3863,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAngling_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -3902,7 +3902,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAngling_Remake_4_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -3941,7 +3941,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAngling_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -3980,7 +3980,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAngling_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -4019,7 +4019,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAngling_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAngling_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -4058,7 +4058,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "flimsy axe",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAxeStone.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAxeStone.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4097,7 +4097,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "flimsy fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodWood.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodWood.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4136,7 +4136,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "flimsy net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNet.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNet.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4175,7 +4175,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "flimsy shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolShovelWood.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolShovelWood.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4214,7 +4214,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "flimsy watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringWood.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringWood.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4253,7 +4253,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "flower-petal basket",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFlowershower.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFlowershower.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -4292,7 +4292,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "football cheer megaphone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolMegaphone0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMegaphone0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -4331,7 +4331,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "foxtail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFoxtailPlayer.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFoxtailPlayer.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4370,7 +4370,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "glittery cheer megaphone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolMegaphone3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMegaphone3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -4409,7 +4409,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "golden axe",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAxeGold.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAxeGold.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4448,7 +4448,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "golden ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitD.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitD.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4487,7 +4487,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "golden net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetGold.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetGold.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4526,7 +4526,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "golden rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodGold.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodGold.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4565,7 +4565,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "golden shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopGold.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopGold.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4604,7 +4604,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "golden slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotGold.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotGold.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4643,7 +4643,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "golden wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickGolden.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickGolden.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4682,7 +4682,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "golden watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringGold.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringGold.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -4721,7 +4721,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "grass-green folding fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSensu3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSensu3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -4760,7 +4760,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "green balloon",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBalloonNormal3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBalloonNormal3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -4799,7 +4799,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "handheld lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolLantern_Remake_0_0.png\")",
     "Variation": "Stars",
     "Body Title": "Variation",
     "DIY": "No",
@@ -4838,7 +4838,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "handheld lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolLantern_Remake_1_0.png\")",
     "Variation": "Moons",
     "Body Title": "Variation",
     "DIY": "No",
@@ -4877,7 +4877,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "handheld lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolLantern_Remake_2_0.png\")",
     "Variation": "Stained glass",
     "Body Title": "Variation",
     "DIY": "No",
@@ -4916,7 +4916,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "handheld lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolLantern_Remake_3_0.png\")",
     "Variation": "Suns",
     "Body Title": "Variation",
     "DIY": "No",
@@ -4955,7 +4955,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "handheld lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolLantern_Remake_4_0.png\")",
     "Variation": "Geese",
     "Body Title": "Variation",
     "DIY": "No",
@@ -4994,7 +4994,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "handheld lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolLantern_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolLantern_Remake_5_0.png\")",
     "Variation": "Leaves",
     "Body Title": "Variation",
     "DIY": "No",
@@ -5033,7 +5033,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "hyacinth wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickHyacinth.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickHyacinth.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -5072,7 +5072,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "ice wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickSnow.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickSnow.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -5111,7 +5111,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "iron ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitC0_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitC0_Remake_0_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -5150,7 +5150,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "iron ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitC0_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitC0_Remake_1_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -5189,7 +5189,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "iron ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitC0_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitC0_Remake_2_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -5228,7 +5228,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "iron wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickIron.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickIron.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -5267,7 +5267,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "Kiki & Lala wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickKikilala0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickKikilala0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -5306,7 +5306,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "ladder",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolLadder.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolLadder.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -5345,7 +5345,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "light stick",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSticklight.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSticklight.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -5384,7 +5384,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "lily wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickYuri.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickYuri.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -5423,7 +5423,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "magic bag",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/MenuIcon/SantaSack.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/MenuIcon/SantaSack.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -5462,7 +5462,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "maracas",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolMaracasCarnival.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMaracasCarnival.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -5501,7 +5501,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "matcha donut",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDonutPlayer3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDonutPlayer3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -5540,7 +5540,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "matcha-vanilla soft serve",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcesoft2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcesoft2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -5579,7 +5579,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "melon cotton candy",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCandyfloss2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCandyfloss2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -5618,7 +5618,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "melon-cheesecake cone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcecreamDouble1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcecreamDouble1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -5657,7 +5657,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "mums wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickChrysanthemum.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickChrysanthemum.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -5696,7 +5696,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "mushroom wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickMushroom_Remake_0_0.png\")",
     "Variation": "Ordinary mushroom",
     "Body Title": "Mushroom type",
     "DIY": "Yes",
@@ -5735,7 +5735,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "mushroom wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickMushroom_Remake_1_0.png\")",
     "Variation": "White mushroom",
     "Body Title": "Mushroom type",
     "DIY": "Yes",
@@ -5774,7 +5774,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "mushroom wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickMushroom_Remake_2_0.png\")",
     "Variation": "Strange mushroom",
     "Body Title": "Mushroom type",
     "DIY": "Yes",
@@ -5813,7 +5813,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "mushroom wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickMushroom_Remake_3_0.png\")",
     "Variation": "Red mushroom",
     "Body Title": "Mushroom type",
     "DIY": "Yes",
@@ -5852,7 +5852,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "mushroom wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickMushroom_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickMushroom_Remake_4_0.png\")",
     "Variation": "Yellow mushroom",
     "Body Title": "Mushroom type",
     "DIY": "Yes",
@@ -5891,7 +5891,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetNormal_Remake_0_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -5930,7 +5930,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetNormal_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -5969,7 +5969,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetNormal_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -6008,7 +6008,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetNormal_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -6047,7 +6047,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetNormal_Remake_4_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -6086,7 +6086,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetNormal_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -6125,7 +6125,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetNormal_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -6164,7 +6164,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetNormal_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetNormal_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -6203,7 +6203,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "nice branch",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBranchPlayer.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBranchPlayer.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -6242,7 +6242,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "Nook Inc. balloon",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBalloonNook.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBalloonNook.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -6281,7 +6281,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "Nook Inc. handheld pennant",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolPennantRcm.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolPennantRcm.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -6320,7 +6320,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "Nook Inc. uchiwa fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFanNook0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFanNook0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -6359,7 +6359,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "ocarina",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolOcarina.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolOcarina.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -6398,7 +6398,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "orange frozen treat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcecandyPlayer0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcecandyPlayer0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -6437,7 +6437,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "orange-mint cone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcecreamDouble2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcecreamDouble2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -6476,7 +6476,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodOutdoor_Remake_0_0.png\")",
     "Variation": "Avocado",
     "Body Title": "Color",
     "DIY": "No",
@@ -6515,7 +6515,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodOutdoor_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -6554,7 +6554,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodOutdoor_Remake_2_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -6593,7 +6593,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodOutdoor_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "No",
@@ -6632,7 +6632,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodOutdoor_Remake_4_0.png\")",
     "Variation": "Beige",
     "Body Title": "Color",
     "DIY": "No",
@@ -6671,7 +6671,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodOutdoor_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -6710,7 +6710,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodOutdoor_Remake_6_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -6749,7 +6749,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy fishing rod",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFishingrodOutdoor_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFishingrodOutdoor_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "No",
@@ -6788,7 +6788,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetOutdoor_Remake_0_0.png\")",
     "Variation": "Avocado",
     "Body Title": "Color",
     "DIY": "No",
@@ -6827,7 +6827,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetOutdoor_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -6866,7 +6866,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetOutdoor_Remake_2_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -6905,7 +6905,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetOutdoor_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "No",
@@ -6944,7 +6944,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetOutdoor_Remake_4_0.png\")",
     "Variation": "Beige",
     "Body Title": "Color",
     "DIY": "No",
@@ -6983,7 +6983,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetOutdoor_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -7022,7 +7022,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetOutdoor_Remake_6_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -7061,7 +7061,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetOutdoor_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetOutdoor_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "No",
@@ -7100,7 +7100,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopOutdoor_Remake_0_0.png\")",
     "Variation": "Avocado",
     "Body Title": "Color",
     "DIY": "No",
@@ -7139,7 +7139,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopOutdoor_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -7178,7 +7178,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopOutdoor_Remake_2_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -7217,7 +7217,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopOutdoor_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "No",
@@ -7256,7 +7256,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopOutdoor_Remake_4_0.png\")",
     "Variation": "Beige",
     "Body Title": "Color",
     "DIY": "No",
@@ -7295,7 +7295,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopOutdoor_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -7334,7 +7334,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopOutdoor_Remake_6_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -7373,7 +7373,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopOutdoor_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopOutdoor_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "No",
@@ -7412,7 +7412,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotOutdoor_Remake_0_0.png\")",
     "Variation": "Avocado",
     "Body Title": "Color",
     "DIY": "No",
@@ -7451,7 +7451,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotOutdoor_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -7490,7 +7490,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotOutdoor_Remake_2_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -7529,7 +7529,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotOutdoor_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "No",
@@ -7568,7 +7568,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotOutdoor_Remake_4_0.png\")",
     "Variation": "Beige",
     "Body Title": "Color",
     "DIY": "No",
@@ -7607,7 +7607,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotOutdoor_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -7646,7 +7646,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotOutdoor_Remake_6_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -7685,7 +7685,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshotOutdoor_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshotOutdoor_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "No",
@@ -7724,7 +7724,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringOutdoor_Remake_0_0.png\")",
     "Variation": "Avocado",
     "Body Title": "Color",
     "DIY": "No",
@@ -7763,7 +7763,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringOutdoor_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "No",
@@ -7802,7 +7802,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringOutdoor_Remake_2_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -7841,7 +7841,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringOutdoor_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "No",
@@ -7880,7 +7880,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringOutdoor_Remake_4_0.png\")",
     "Variation": "Beige",
     "Body Title": "Color",
     "DIY": "No",
@@ -7919,7 +7919,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringOutdoor_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -7958,7 +7958,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringOutdoor_Remake_6_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -7997,7 +7997,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "outdoorsy watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWateringOutdoor_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWateringOutdoor_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "No",
@@ -8036,7 +8036,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pan flute",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolPanpipe.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolPanpipe.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -8075,7 +8075,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pansy wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickPansy.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickPansy.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -8114,7 +8114,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "party popper",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCracker.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCracker.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -8153,7 +8153,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "peachy-pink folding fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSensu0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSensu0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -8192,7 +8192,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pink balloon",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBalloonNormal4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBalloonNormal4.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -8231,7 +8231,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pinwheel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWindmill.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWindmill.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -8270,7 +8270,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "plain cotton candy",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCandyfloss0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCandyfloss0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -8309,7 +8309,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pocket magazine",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolMagazine_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMagazine_Remake_0_0.png\")",
     "Variation": "Fashion",
     "Body Title": "Genre",
     "DIY": "No",
@@ -8348,7 +8348,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pocket magazine",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolMagazine_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMagazine_Remake_1_0.png\")",
     "Variation": "Music",
     "Body Title": "Genre",
     "DIY": "No",
@@ -8387,7 +8387,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pocket magazine",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolMagazine_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMagazine_Remake_2_0.png\")",
     "Variation": "Sports",
     "Body Title": "Genre",
     "DIY": "No",
@@ -8426,7 +8426,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pocket magazine",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolMagazine_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMagazine_Remake_3_0.png\")",
     "Variation": "Comic",
     "Body Title": "Genre",
     "DIY": "No",
@@ -8465,7 +8465,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pocketbook",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBookPlayer_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBookPlayer_Remake_0_0.png\")",
     "Variation": "Novel",
     "Body Title": "Genre",
     "DIY": "No",
@@ -8504,7 +8504,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pocketbook",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBookPlayer_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBookPlayer_Remake_1_0.png\")",
     "Variation": "Gardening guide",
     "Body Title": "Genre",
     "DIY": "No",
@@ -8543,7 +8543,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pocketbook",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBookPlayer_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBookPlayer_Remake_2_0.png\")",
     "Variation": "Bug guide",
     "Body Title": "Genre",
     "DIY": "No",
@@ -8582,7 +8582,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pocketbook",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBookPlayer_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBookPlayer_Remake_3_0.png\")",
     "Variation": "Fish guide",
     "Body Title": "Genre",
     "DIY": "No",
@@ -8621,7 +8621,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "pocketbook",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBookPlayer_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBookPlayer_Remake_4_0.png\")",
     "Variation": "Fossil guide",
     "Body Title": "Genre",
     "DIY": "No",
@@ -8660,7 +8660,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "printed-design shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopPattern_Remake_0_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -8699,7 +8699,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "printed-design shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopPattern_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "No",
@@ -8738,7 +8738,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "printed-design shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopPattern_Remake_2_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -8777,7 +8777,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "printed-design shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopPattern_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -8816,7 +8816,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "printed-design shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopPattern_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "No",
@@ -8855,7 +8855,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "printed-design shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopPattern_Remake_5_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -8894,7 +8894,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "printed-design shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopPattern_Remake_6_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "No",
@@ -8933,7 +8933,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "printed-design shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoopPattern_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopPattern_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "No",
@@ -8972,7 +8972,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "protein shake",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolProtein_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolProtein_Remake_0_0.png\")",
     "Variation": "Red",
     "Body Title": "Shaker color",
     "DIY": "No",
@@ -9011,7 +9011,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "protein shake",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolProtein_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolProtein_Remake_1_0.png\")",
     "Variation": "Blue",
     "Body Title": "Shaker color",
     "DIY": "No",
@@ -9050,7 +9050,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "protein shake",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolProtein_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolProtein_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Shaker color",
     "DIY": "No",
@@ -9089,7 +9089,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "protein shake",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolProtein_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolProtein_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Shaker color",
     "DIY": "No",
@@ -9128,7 +9128,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "rainbow soft serve",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcesoft4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcesoft4.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -9167,7 +9167,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "ramune-soda cotton candy",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCandyfloss3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCandyfloss3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -9206,7 +9206,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "ramune-soda frozen treat",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcecandyPlayer1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcecandyPlayer1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -9245,7 +9245,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "ramune-soda-lemon cone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcecreamDouble0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcecreamDouble0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -9284,7 +9284,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "red balloon",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBalloonNormal1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBalloonNormal1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -9323,7 +9323,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "red sparkler",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolFireworks.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolFireworks.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -9362,7 +9362,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "rose wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickRose.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickRose.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -9401,7 +9401,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shamrock soda",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolJuiceShamrock.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolJuiceShamrock.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -9440,7 +9440,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shamrock wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickShamrock.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickShamrock.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -9479,7 +9479,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shell wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickShell.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickShell.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -9518,7 +9518,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoop_Remake_0_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9557,7 +9557,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoop_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9596,7 +9596,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoop_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9635,7 +9635,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoop_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9674,7 +9674,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoop_Remake_4_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9713,7 +9713,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoop_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9752,7 +9752,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoop_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9791,7 +9791,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "shovel",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolScoop_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoop_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9830,7 +9830,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "sky-blue folding fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSensu1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSensu1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -9869,7 +9869,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshot_Remake_0_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9908,7 +9908,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshot_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9947,7 +9947,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshot_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -9986,7 +9986,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshot_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -10025,7 +10025,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshot_Remake_4_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -10064,7 +10064,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshot_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -10103,7 +10103,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshot_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -10142,7 +10142,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "slingshot",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolSlingshot_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolSlingshot_Remake_7_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -10181,7 +10181,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "sparkling cider",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolJuiceFuzzyapple.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolJuiceFuzzyapple.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -10220,7 +10220,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "spooky treats basket",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBasketHalloween_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBasketHalloween_Remake_0_0.png\")",
     "Variation": "Orange",
     "Body Title": "Pumpkin color",
     "DIY": "Yes",
@@ -10259,7 +10259,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "spooky treats basket",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBasketHalloween_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBasketHalloween_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Pumpkin color",
     "DIY": "Yes",
@@ -10298,7 +10298,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "spooky treats basket",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBasketHalloween_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBasketHalloween_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Pumpkin color",
     "DIY": "Yes",
@@ -10337,7 +10337,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "spooky treats basket",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBasketHalloween_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBasketHalloween_Remake_3_0.png\")",
     "Variation": "Monochrome",
     "Body Title": "Pumpkin color",
     "DIY": "Yes",
@@ -10376,7 +10376,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "spooky wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickHalloween.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickHalloween.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -10415,7 +10415,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "star net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetStar_Remake_0_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "No",
@@ -10454,7 +10454,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "star net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetStar_Remake_1_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "No",
@@ -10493,7 +10493,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "star net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetStar_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -10532,7 +10532,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "star net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetStar_Remake_3_0.png\")",
     "Variation": "Light green",
     "Body Title": "Color",
     "DIY": "No",
@@ -10571,7 +10571,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "star net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetStar_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "No",
@@ -10610,7 +10610,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "star net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetStar_Remake_5_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "No",
@@ -10649,7 +10649,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "star net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetStar_Remake_6_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "No",
@@ -10688,7 +10688,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "star net",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolNetStar_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetStar_Remake_7_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "No",
@@ -10727,7 +10727,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "star wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolChangeStick.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolChangeStick.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -10766,7 +10766,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "starry cheer megaphone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolMegaphone2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMegaphone2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -10805,7 +10805,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "stone axe",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAxeStoneNormal.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAxeStoneNormal.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -10844,7 +10844,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "strawberry cone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcecream2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcecream2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -10883,7 +10883,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "strawberry cotton candy",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCandyfloss1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCandyfloss1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -10922,7 +10922,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "strawberry donut",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDonutPlayer2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDonutPlayer2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -10961,7 +10961,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "takeout coffee",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolCupTakeout.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolCupTakeout.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -11000,7 +11000,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "tambourine",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolTambourine.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolTambourine.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -11039,7 +11039,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "timer",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolTimer.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolTimer.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -11078,7 +11078,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "tree-branch wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickTree.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickTree.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -11117,7 +11117,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "tulip wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickTulip.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickTulip.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -11156,7 +11156,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "tweeter",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBlowouts.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBlowouts.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -11195,7 +11195,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "uchiwa fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolPaperFan.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolPaperFan.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -11234,7 +11234,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "vanilla cone",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcecream0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcecream0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -11273,7 +11273,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "vanilla soft serve",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolIcesoft0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolIcesoft0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -11312,7 +11312,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "vaulting pole",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LongWoodenStick.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LongWoodenStick.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -11351,7 +11351,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "vine ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitA0_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitA0_Remake_0_0.png\")",
     "Variation": "Light brown",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11390,7 +11390,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "vine ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitA0_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitA0_Remake_1_0.png\")",
     "Variation": "Dark brown",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11429,7 +11429,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "vine ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitA0_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitA0_Remake_2_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11468,7 +11468,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickWood.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickWood.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -11507,7 +11507,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWatering_Remake_0_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11546,7 +11546,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWatering_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11585,7 +11585,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWatering_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11624,7 +11624,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWatering_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11663,7 +11663,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWatering_Remake_4_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11702,7 +11702,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWatering_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11741,7 +11741,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWatering_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11780,7 +11780,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "watering can",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolWatering_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolWatering_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -11819,7 +11819,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "wedding wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickJune.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickJune.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -11858,7 +11858,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "white-chocolate donut",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolDonutPlayer1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolDonutPlayer1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -11897,7 +11897,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "windflower wand",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolStickAnemones.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickAnemones.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -11936,7 +11936,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "wooden ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitB0_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitB0_Remake_0_0.png\")",
     "Variation": "Natural",
     "Body Title": "Paint color",
     "DIY": "Yes",
@@ -11975,7 +11975,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "wooden ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitB0_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitB0_Remake_1_0.png\")",
     "Variation": "Blue",
     "Body Title": "Paint color",
     "DIY": "Yes",
@@ -12014,7 +12014,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "wooden ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitB0_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitB0_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Paint color",
     "DIY": "Yes",
@@ -12053,7 +12053,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "wooden ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitB0_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitB0_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Paint color",
     "DIY": "Yes",
@@ -12092,7 +12092,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "wooden ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitB0_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitB0_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Paint color",
     "DIY": "Yes",
@@ -12131,7 +12131,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "wooden ladder set-up kit",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/LadderKitB0_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LadderKitB0_Remake_5_0.png\")",
     "Variation": "White",
     "Body Title": "Paint color",
     "DIY": "Yes",
@@ -12170,7 +12170,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "worn axe",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolAxeFragile.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAxeFragile.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -12209,7 +12209,7 @@
   {
     "SourceSheet": "Tools/Goods",
     "Name": "yellow balloon",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ToolBalloonNormal2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolBalloonNormal2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "No",
@@ -12244,5 +12244,434 @@
     "Variant ID": "NA",
     "Internal ID": 13124,
     "Unique Entry ID": "dF8pTGMJY5465vatR"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "dream axe",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAxeDream.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": "NA",
+    "Uses": 40,
+    "Stack Size": 1,
+    "Buy": "NFS",
+    "Sell": 222,
+    "HHA Base Points": 0,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "Beige",
+    "Color 2": "Black",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Slumber Islands",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "No",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "ToolAxeDream",
+    "Variant ID": "NA",
+    "Internal ID": 775,
+    "Unique Entry ID": "o9ckcsWX752zh6czX"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "dream fishing rod",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolAnglingDream_Remake_0_0.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": 1000,
+    "Uses": 10,
+    "Stack Size": 1,
+    "Buy": "NFS",
+    "Sell": 222,
+    "HHA Base Points": 0,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "Blue",
+    "Color 2": "Beige",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Slumber Islands",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "Yes",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "ToolAnglingDream_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 776,
+    "Unique Entry ID": "c5fdEiSChpJLaEhpJ"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "dream ladder",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolLadderDream.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": "NA",
+    "Uses": "Unlimited",
+    "Stack Size": 1,
+    "Buy": "NFS",
+    "Sell": 222,
+    "HHA Base Points": 0,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "Brown",
+    "Color 2": "Brown",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Slumber Islands",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "No",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "ToolLadderDream",
+    "Variant ID": "NA",
+    "Internal ID": 777,
+    "Unique Entry ID": "8cnHxg78MKhr8SLfo"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "dream net",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolNetDream_Remake_0_0.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": 1000,
+    "Uses": 10,
+    "Stack Size": 1,
+    "Buy": "NFS",
+    "Sell": 222,
+    "HHA Base Points": 0,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "Red",
+    "Color 2": "Beige",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Slumber Islands",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "Yes",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "ToolNetDream_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 779,
+    "Unique Entry ID": "kAkPxKsZv5KBadhKv"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "dream shovel",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolScoopDream_Remake_0_0.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": 1000,
+    "Uses": 40,
+    "Stack Size": 1,
+    "Buy": "NFS",
+    "Sell": 222,
+    "HHA Base Points": 0,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "None",
+    "Color 2": "Black",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Slumber Islands",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "No",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "ToolScoopDream_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 773,
+    "Unique Entry ID": "wPN6HhZgWymu3ZMcB"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "dream timer",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolTimerDream.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": "NA",
+    "Uses": "Unlimited",
+    "Stack Size": 1,
+    "Buy": "NFS",
+    "Sell": 222,
+    "HHA Base Points": 0,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "None",
+    "Color 2": "None",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Slumber Islands",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "No",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "ToolTimerDream",
+    "Variant ID": "NA",
+    "Internal ID": 1315,
+    "Unique Entry ID": "fyjHhmhXbiALE4Sb3"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "dream vaulting pole",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/LongWoodenStickDream.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": "NA",
+    "Uses": "Unlimited",
+    "Stack Size": 1,
+    "Buy": "NFS",
+    "Sell": 222,
+    "HHA Base Points": 0,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "Beige",
+    "Color 2": "Red",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Slumber Islands",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "No",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "LongWoodenStickDream",
+    "Variant ID": "NA",
+    "Internal ID": 778,
+    "Unique Entry ID": "goKqdJfPHkisXfKaK"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "megaphone",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolMegaphoneMike.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": "NA",
+    "Uses": "Unlimited",
+    "Stack Size": 1,
+    "Buy": 3500,
+    "Sell": 875,
+    "HHA Base Points": 0,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "White",
+    "Color 2": "Red",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Shop_EnableMegaphone",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "No",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "For sale",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "ToolMegaphoneMike",
+    "Variant ID": "NA",
+    "Internal ID": 1130,
+    "Unique Entry ID": "JmCJytuA6txzhf2cz"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "Ocarina of Time",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolOcarinaTime.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": "NA",
+    "Uses": "Unlimited",
+    "Stack Size": 1,
+    "Buy": 2500,
+    "Sell": 625,
+    "HHA Base Points": 201,
+    "HHA Concept 1": "fantasy",
+    "HHA Concept 2": "None",
+    "Color 1": "Purple",
+    "Color 2": "Blue",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "No",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "ToolOcarinaTime",
+    "Variant ID": "NA",
+    "Internal ID": 1073,
+    "Unique Entry ID": "pKfKRnzcQpTs24WNv"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "transceiver",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/MenuIcon/Transceiver.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": "NA",
+    "Uses": "Unlimited",
+    "Stack Size": 1,
+    "Buy": "NFS",
+    "Sell": "NA",
+    "HHA Base Points": 0,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "None",
+    "Color 2": "None",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Resetti",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "No",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "Transceiver",
+    "Variant ID": "NA",
+    "Internal ID": 1233,
+    "Unique Entry ID": "cxgtsYesQuMu5uhSt"
+  },
+  {
+    "SourceSheet": "Tools/Goods",
+    "Name": "Tri Rod",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ToolStickTri0.png\")",
+    "Variation": "NA",
+    "Body Title": "NA",
+    "DIY": "No",
+    "Customize": "No",
+    "Kit Cost": "NA",
+    "Kit Type": "None",
+    "Cyrus Customize Price": "NA",
+    "Uses": "Unlimited",
+    "Stack Size": 1,
+    "Buy": 13330,
+    "Sell": 3332,
+    "HHA Base Points": 201,
+    "HHA Concept 1": "None",
+    "HHA Concept 2": "None",
+    "Color 1": "Yellow",
+    "Color 2": "Green",
+    "Size": "1x1",
+    "Set": "None",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Villager Equippable": "No",
+    "Food Power": "NA",
+    "Lighting Type": "No lighting",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "ToolStickTri0",
+    "Variant ID": "NA",
+    "Internal ID": 1048,
+    "Unique Entry ID": "QojJMSosWgbHRhNPJ"
   }
 ]

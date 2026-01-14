@@ -2,7 +2,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "bamboo lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceBamboo.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceBamboo.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -28,7 +28,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "bamboo-slats fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSandProtection.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSandProtection.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -54,7 +54,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "barbed-wire fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceBarbedWire.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceBarbedWire.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -80,7 +80,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "block fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceConcreteBlock.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceConcreteBlock.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -106,7 +106,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "brick fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceWallRenga.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceWallRenga.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -132,7 +132,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "Bunny Day fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceEgg.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceEgg.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -158,7 +158,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "corral fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalWood.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceHorizontalWood.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -184,7 +184,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "corrugated iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_0_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -210,7 +210,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "corrugated iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -236,7 +236,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "corrugated iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -262,7 +262,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "corrugated iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -288,7 +288,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "corrugated iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_4_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -314,7 +314,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "corrugated iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_5_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -340,7 +340,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "corrugated iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_6_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -366,7 +366,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "corrugated iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_7_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -392,7 +392,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "country fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLog.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLog.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -418,7 +418,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "frozen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_0_0.png\")",
     "Variation": "Ice",
     "Body Title": "Illumination",
     "DIY": "Yes",
@@ -444,7 +444,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "frozen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_1_0.png\")",
     "Variation": "Ice blue",
     "Body Title": "Illumination",
     "DIY": "Yes",
@@ -470,7 +470,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "frozen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_2_0.png\")",
     "Variation": "Ice pink",
     "Body Title": "Illumination",
     "DIY": "Yes",
@@ -496,7 +496,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "frozen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_3_0.png\")",
     "Variation": "Ice yellow",
     "Body Title": "Illumination",
     "DIY": "Yes",
@@ -522,7 +522,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "frozen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_4_0.png\")",
     "Variation": "Ice orange",
     "Body Title": "Illumination",
     "DIY": "Yes",
@@ -548,7 +548,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "frozen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_5_0.png\")",
     "Variation": "Ice green",
     "Body Title": "Illumination",
     "DIY": "Yes",
@@ -574,7 +574,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "frozen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_6_0.png\")",
     "Variation": "Ice purple",
     "Body Title": "Illumination",
     "DIY": "Yes",
@@ -600,7 +600,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "green bamboo fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceCrossedBamboo.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCrossedBamboo.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -626,7 +626,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "hedge",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceIkegaki.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIkegaki.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -652,7 +652,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "imperial fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceChinese.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceChinese.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -678,7 +678,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_0_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -704,7 +704,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_1_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -730,7 +730,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -756,7 +756,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -782,7 +782,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -808,7 +808,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_5_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -834,7 +834,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -860,7 +860,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "iron fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -886,7 +886,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "iron-and-stone fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceIronAndStone.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIronAndStone.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -912,7 +912,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "large lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_0_0.png\")",
     "Variation": "Natural",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -938,7 +938,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "large lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -964,7 +964,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "large lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_2_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -990,7 +990,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "large lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_3_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1016,7 +1016,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "large lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1042,7 +1042,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "large lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_5_0.png\")",
     "Variation": "Dark brown",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1068,7 +1068,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "large lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_6_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1094,7 +1094,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "large lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_7_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1120,7 +1120,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_0_0.png\")",
     "Variation": "Natural",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1146,7 +1146,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1172,7 +1172,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_2_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1198,7 +1198,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1224,7 +1224,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1250,7 +1250,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_5_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1276,7 +1276,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_6_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1302,7 +1302,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "lattice fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_7_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1328,7 +1328,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "log fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalLog.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceHorizontalLog.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -1354,7 +1354,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "log-wall fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceLogWall.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLogWall.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -1380,7 +1380,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "mermaid fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceMermaid.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceMermaid.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -1406,7 +1406,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "park fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_0_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1432,7 +1432,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "park fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_1_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1458,7 +1458,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "park fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_2_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1484,7 +1484,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "park fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_3_0.png\")",
     "Variation": "Lime",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1510,7 +1510,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "park fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1536,7 +1536,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "park fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_5_0.png\")",
     "Variation": "Red & yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1562,7 +1562,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "park fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_6_0.png\")",
     "Variation": "Pink & blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1588,7 +1588,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "park fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_7_0.png\")",
     "Variation": "Orange & green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1614,7 +1614,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "rope fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFencePegRope.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePegRope.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -1640,7 +1640,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "simple wooden fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_0_0.png\")",
     "Variation": "Natural",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1666,7 +1666,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "simple wooden fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1692,7 +1692,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "simple wooden fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_2_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1718,7 +1718,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "simple wooden fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_3_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1744,7 +1744,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "simple wooden fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1770,7 +1770,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "simple wooden fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_5_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1796,7 +1796,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "simple wooden fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_6_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1822,7 +1822,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "simple wooden fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_7_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1848,7 +1848,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "spiky fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceSharply.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSharply.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -1874,7 +1874,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "spooky fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceHalloween.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceHalloween.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -1900,7 +1900,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "stone fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceStone.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceStone.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -1926,7 +1926,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "straw fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceDriedStraw.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceDriedStraw.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "DIY": "Yes",
@@ -1952,7 +1952,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "vertical-board fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_0_0.png\")",
     "Variation": "Natural",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -1978,7 +1978,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "vertical-board fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2004,7 +2004,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "vertical-board fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_2_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2030,7 +2030,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "vertical-board fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_3_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2056,7 +2056,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "vertical-board fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2082,7 +2082,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "vertical-board fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2108,7 +2108,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "vertical-board fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_6_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2134,7 +2134,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "vertical-board fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_7_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2160,7 +2160,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "wedding fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_0_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2186,7 +2186,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "wedding fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_1_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2212,7 +2212,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "wedding fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_2_0.png\")",
     "Variation": "Mint",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2238,7 +2238,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "wedding fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2264,7 +2264,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "wedding fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_4_0.png\")",
     "Variation": "Light blue",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2290,7 +2290,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "wedding fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_5_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2316,7 +2316,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "wedding fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_6_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2342,7 +2342,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "wedding fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "DIY": "Yes",
@@ -2368,7 +2368,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "zen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_0_0.png\")",
     "Variation": "Black",
     "Body Title": "Roof-tile color",
     "DIY": "Yes",
@@ -2394,7 +2394,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "zen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_1_0.png\")",
     "Variation": "Blue",
     "Body Title": "Roof-tile color",
     "DIY": "Yes",
@@ -2420,7 +2420,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "zen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Roof-tile color",
     "DIY": "Yes",
@@ -2446,7 +2446,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "zen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_3_0.png\")",
     "Variation": "Orange",
     "Body Title": "Roof-tile color",
     "DIY": "Yes",
@@ -2472,7 +2472,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "zen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_4_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Roof-tile color",
     "DIY": "Yes",
@@ -2498,7 +2498,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "zen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_5_0.png\")",
     "Variation": "Beige",
     "Body Title": "Roof-tile color",
     "DIY": "Yes",
@@ -2524,7 +2524,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "zen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_6_0.png\")",
     "Variation": "Green",
     "Body Title": "Roof-tile color",
     "DIY": "Yes",
@@ -2550,7 +2550,7 @@
   {
     "SourceSheet": "Fencing",
     "Name": "zen fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_7_0.png\")",
     "Variation": "Purple",
     "Body Title": "Roof-tile color",
     "DIY": "Yes",

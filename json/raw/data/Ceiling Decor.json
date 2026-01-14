@@ -2,7 +2,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "bird mobile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSeagullMobileCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSeagullMobileCeiling_Remake_0_0.png\")",
     "Variation": "Natural",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -46,7 +46,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "bird mobile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSeagullMobileCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSeagullMobileCeiling_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -90,7 +90,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "bird mobile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSeagullMobileCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSeagullMobileCeiling_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -134,7 +134,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "bird mobile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSeagullMobileCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSeagullMobileCeiling_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -178,7 +178,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "bird mobile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSeagullMobileCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSeagullMobileCeiling_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -222,7 +222,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "bird mobile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSeagullMobileCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSeagullMobileCeiling_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -266,7 +266,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "bird mobile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSeagullMobileCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSeagullMobileCeiling_Remake_6_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -310,7 +310,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "bird mobile",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSeagullMobileCeiling_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSeagullMobileCeiling_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -354,7 +354,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "candle chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierRetroCeilingL_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierRetroCeilingL_Remake_0_0.png\")",
     "Variation": "Black",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -398,7 +398,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "candle chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierRetroCeilingL_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierRetroCeilingL_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -442,7 +442,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "candle chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierRetroCeilingL_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierRetroCeilingL_Remake_2_0.png\")",
     "Variation": "Silver",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -486,7 +486,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "candle chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierRetroCeilingL_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierRetroCeilingL_Remake_3_0.png\")",
     "Variation": "Gold",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -530,7 +530,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "candle chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierRetroCeilingL_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierRetroCeilingL_Remake_4_0.png\")",
     "Variation": "Rust",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -574,7 +574,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFanCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFanCeiling_Remake_0_0.png\")",
     "Variation": "White",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -618,7 +618,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFanCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFanCeiling_Remake_1_0.png\")",
     "Variation": "Black",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -662,7 +662,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFanCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFanCeiling_Remake_2_0.png\")",
     "Variation": "Silver",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -706,7 +706,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFanCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFanCeiling_Remake_3_0.png\")",
     "Variation": "Brass",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -750,7 +750,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFanCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFanCeiling_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -794,7 +794,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFanCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFanCeiling_Remake_5_0.png\")",
     "Variation": "Red",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -838,7 +838,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFanCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFanCeiling_Remake_6_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -882,7 +882,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling fan",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFanCeiling_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFanCeiling_Remake_7_0.png\")",
     "Variation": "Wooden",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -926,7 +926,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling spotlight",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpotlightCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpotlightCeiling_Remake_0_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -970,7 +970,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling spotlight",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpotlightCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpotlightCeiling_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1014,7 +1014,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling spotlight",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpotlightCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpotlightCeiling_Remake_2_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1058,7 +1058,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling spotlight",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpotlightCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpotlightCeiling_Remake_3_0.png\")",
     "Variation": "Gold",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1102,7 +1102,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling spotlight",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpotlightCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpotlightCeiling_Remake_4_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1146,7 +1146,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling spotlight",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpotlightCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpotlightCeiling_Remake_5_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1190,7 +1190,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling spotlight",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpotlightCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpotlightCeiling_Remake_6_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1234,7 +1234,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ceiling spotlight",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpotlightCeiling_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpotlightCeiling_Remake_7_0.png\")",
     "Variation": "Colorful",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1278,7 +1278,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeilingL_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeilingL_Remake_0_0.png\")",
     "Variation": "Gold",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1322,7 +1322,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeilingL_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeilingL_Remake_1_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1366,7 +1366,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeilingL_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeilingL_Remake_2_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1410,7 +1410,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeilingL_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeilingL_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1454,7 +1454,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeilingL_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeilingL_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1498,7 +1498,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeilingL_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeilingL_Remake_5_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1542,7 +1542,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeilingL_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeilingL_Remake_6_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1586,7 +1586,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeilingL_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeilingL_Remake_7_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1630,7 +1630,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "disco ball",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMirrorBallCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMirrorBallCeiling_Remake_0_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1674,7 +1674,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "disco ball",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMirrorBallCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMirrorBallCeiling_Remake_1_0.png\")",
     "Variation": "Gold",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1718,7 +1718,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "disco ball",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMirrorBallCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMirrorBallCeiling_Remake_2_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1762,7 +1762,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "disco ball",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMirrorBallCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMirrorBallCeiling_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1806,7 +1806,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "disco ball",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMirrorBallCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMirrorBallCeiling_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1850,7 +1850,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "disco ball",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMirrorBallCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMirrorBallCeiling_Remake_5_0.png\")",
     "Variation": "Rainbow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1894,7 +1894,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "drapery",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDrapeCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDrapeCeiling_Remake_0_0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Berry red",
@@ -1938,7 +1938,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "drapery",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDrapeCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDrapeCeiling_Remake_0_1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Green",
@@ -1982,7 +1982,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "drapery",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDrapeCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDrapeCeiling_Remake_0_2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Yellow",
@@ -2026,7 +2026,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "drapery",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDrapeCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDrapeCeiling_Remake_0_3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Light blue",
@@ -2070,7 +2070,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "drapery",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDrapeCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDrapeCeiling_Remake_0_4.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "White",
@@ -2114,7 +2114,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "drapery",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDrapeCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDrapeCeiling_Remake_0_5.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Navy blue",
@@ -2158,7 +2158,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "drapery",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDrapeCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDrapeCeiling_Remake_0_6.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Black",
@@ -2202,7 +2202,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "drapery",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDrapeCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDrapeCeiling_Remake_0_7.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Purple",
@@ -2246,7 +2246,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dreamy hanging decoration",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDreamyCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDreamyCeiling_Remake_0_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2290,7 +2290,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dreamy hanging decoration",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDreamyCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDreamyCeiling_Remake_1_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2334,7 +2334,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dreamy hanging decoration",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDreamyCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDreamyCeiling_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2378,7 +2378,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dreamy hanging decoration",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDreamyCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDreamyCeiling_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2422,7 +2422,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dreamy hanging decoration",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDreamyCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDreamyCeiling_Remake_4_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2466,7 +2466,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dreamy hanging decoration",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDreamyCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDreamyCeiling_Remake_5_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2510,7 +2510,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_0_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Café menu",
@@ -2554,7 +2554,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_0_1.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Drink menu",
@@ -2598,7 +2598,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_0_2.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Fast-food menu",
@@ -2642,7 +2642,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_0_3.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Dinner menu",
@@ -2686,7 +2686,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_0_4.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Ice-cream menu",
@@ -2730,7 +2730,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_0_5.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Timetable",
@@ -2774,7 +2774,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_0_6.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Service numbers",
@@ -2818,7 +2818,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_0_7.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Stock updates",
@@ -2862,7 +2862,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Café menu",
@@ -2906,7 +2906,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_1_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_1_1.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Drink menu",
@@ -2950,7 +2950,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_1_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_1_2.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Fast-food menu",
@@ -2994,7 +2994,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_1_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_1_3.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Dinner menu",
@@ -3038,7 +3038,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_1_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_1_4.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Ice-cream menu",
@@ -3082,7 +3082,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_1_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_1_5.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Timetable",
@@ -3126,7 +3126,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_1_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_1_6.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Service numbers",
@@ -3170,7 +3170,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_1_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_1_7.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Stock updates",
@@ -3214,7 +3214,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_2_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Café menu",
@@ -3258,7 +3258,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_2_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_2_1.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Drink menu",
@@ -3302,7 +3302,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_2_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_2_2.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Fast-food menu",
@@ -3346,7 +3346,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_2_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_2_3.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Dinner menu",
@@ -3390,7 +3390,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_2_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_2_4.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Ice-cream menu",
@@ -3434,7 +3434,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_2_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_2_5.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Timetable",
@@ -3478,7 +3478,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_2_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_2_6.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Service numbers",
@@ -3522,7 +3522,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "dual hanging monitors",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardCeiling_Remake_2_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardCeiling_Remake_2_7.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Stock updates",
@@ -3566,7 +3566,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "enamel lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrEnamelCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrEnamelCeiling_Remake_0_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3610,7 +3610,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "enamel lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrEnamelCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrEnamelCeiling_Remake_1_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3654,7 +3654,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "enamel lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrEnamelCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrEnamelCeiling_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3698,7 +3698,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "enamel lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrEnamelCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrEnamelCeiling_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3742,7 +3742,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "enamel lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrEnamelCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrEnamelCeiling_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3786,7 +3786,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "enamel lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrEnamelCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrEnamelCeiling_Remake_5_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3830,7 +3830,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "enamel lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrEnamelCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrEnamelCeiling_Remake_6_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3874,7 +3874,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_0_0.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger",
     "Pattern": "Fuku (Good fortune)",
@@ -3918,7 +3918,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_0_1.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger",
     "Pattern": "Flowers",
@@ -3962,7 +3962,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_0_2.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger",
     "Pattern": "Matsuri (Festival)",
@@ -4006,7 +4006,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_0_3.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger",
     "Pattern": "Crest",
@@ -4050,7 +4050,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_0_4.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger",
     "Pattern": "Red & white stripes",
@@ -4094,7 +4094,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_0_5.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger",
     "Pattern": "Blue & white stripes",
@@ -4138,7 +4138,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_0_6.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger",
     "Pattern": "Yellow & white stripes",
@@ -4182,7 +4182,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_0_7.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger",
     "Pattern": "Green & white stripes",
@@ -4226,7 +4226,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_1_0.png\")",
     "Variation": "Black",
     "Body Title": "Hanger",
     "Pattern": "Fuku (Good fortune)",
@@ -4270,7 +4270,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_1_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_1_1.png\")",
     "Variation": "Black",
     "Body Title": "Hanger",
     "Pattern": "Flowers",
@@ -4314,7 +4314,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_1_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_1_2.png\")",
     "Variation": "Black",
     "Body Title": "Hanger",
     "Pattern": "Matsuri (Festival)",
@@ -4358,7 +4358,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_1_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_1_3.png\")",
     "Variation": "Black",
     "Body Title": "Hanger",
     "Pattern": "Crest",
@@ -4402,7 +4402,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_1_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_1_4.png\")",
     "Variation": "Black",
     "Body Title": "Hanger",
     "Pattern": "Red & white stripes",
@@ -4446,7 +4446,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_1_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_1_5.png\")",
     "Variation": "Black",
     "Body Title": "Hanger",
     "Pattern": "Blue & white stripes",
@@ -4490,7 +4490,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_1_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_1_6.png\")",
     "Variation": "Black",
     "Body Title": "Hanger",
     "Pattern": "Yellow & white stripes",
@@ -4534,7 +4534,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_1_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_1_7.png\")",
     "Variation": "Black",
     "Body Title": "Hanger",
     "Pattern": "Green & white stripes",
@@ -4578,7 +4578,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Hanger",
     "Pattern": "Fuku (Good fortune)",
@@ -4622,7 +4622,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_2_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_2_1.png\")",
     "Variation": "Red",
     "Body Title": "Hanger",
     "Pattern": "Flowers",
@@ -4666,7 +4666,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_2_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_2_2.png\")",
     "Variation": "Red",
     "Body Title": "Hanger",
     "Pattern": "Matsuri (Festival)",
@@ -4710,7 +4710,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_2_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_2_3.png\")",
     "Variation": "Red",
     "Body Title": "Hanger",
     "Pattern": "Crest",
@@ -4754,7 +4754,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_2_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_2_4.png\")",
     "Variation": "Red",
     "Body Title": "Hanger",
     "Pattern": "Red & white stripes",
@@ -4798,7 +4798,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_2_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_2_5.png\")",
     "Variation": "Red",
     "Body Title": "Hanger",
     "Pattern": "Blue & white stripes",
@@ -4842,7 +4842,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_2_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_2_6.png\")",
     "Variation": "Red",
     "Body Title": "Hanger",
     "Pattern": "Yellow & white stripes",
@@ -4886,7 +4886,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_2_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_2_7.png\")",
     "Variation": "Red",
     "Body Title": "Hanger",
     "Pattern": "Green & white stripes",
@@ -4930,7 +4930,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_3_0.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger",
     "Pattern": "Fuku (Good fortune)",
@@ -4974,7 +4974,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_3_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_3_1.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger",
     "Pattern": "Flowers",
@@ -5018,7 +5018,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_3_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_3_2.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger",
     "Pattern": "Matsuri (Festival)",
@@ -5062,7 +5062,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_3_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_3_3.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger",
     "Pattern": "Crest",
@@ -5106,7 +5106,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_3_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_3_4.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger",
     "Pattern": "Red & white stripes",
@@ -5150,7 +5150,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_3_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_3_5.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger",
     "Pattern": "Blue & white stripes",
@@ -5194,7 +5194,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_3_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_3_6.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger",
     "Pattern": "Yellow & white stripes",
@@ -5238,7 +5238,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival lantern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternCeiling_Remake_3_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternCeiling_Remake_3_7.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger",
     "Pattern": "Green & white stripes",
@@ -5282,7 +5282,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_0_0.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger color",
     "Pattern": "Fuku (Good fortune)",
@@ -5326,7 +5326,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_0_1.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger color",
     "Pattern": "Flowers",
@@ -5370,7 +5370,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_0_2.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger color",
     "Pattern": "Matsuri (Festival)",
@@ -5414,7 +5414,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_0_3.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger color",
     "Pattern": "Crest",
@@ -5458,7 +5458,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_0_4.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger color",
     "Pattern": "Red & white stripes",
@@ -5502,7 +5502,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_0_5.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger color",
     "Pattern": "Blue & white stripes",
@@ -5546,7 +5546,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_0_6.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger color",
     "Pattern": "Yellow & white stripes",
@@ -5590,7 +5590,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_0_7.png\")",
     "Variation": "Gold",
     "Body Title": "Hanger color",
     "Pattern": "Green & white stripes",
@@ -5634,7 +5634,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_1_0.png\")",
     "Variation": "Black",
     "Body Title": "Hanger color",
     "Pattern": "Fuku (Good fortune)",
@@ -5678,7 +5678,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_1_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_1_1.png\")",
     "Variation": "Black",
     "Body Title": "Hanger color",
     "Pattern": "Flowers",
@@ -5722,7 +5722,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_1_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_1_2.png\")",
     "Variation": "Black",
     "Body Title": "Hanger color",
     "Pattern": "Matsuri (Festival)",
@@ -5766,7 +5766,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_1_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_1_3.png\")",
     "Variation": "Black",
     "Body Title": "Hanger color",
     "Pattern": "Crest",
@@ -5810,7 +5810,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_1_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_1_4.png\")",
     "Variation": "Black",
     "Body Title": "Hanger color",
     "Pattern": "Red & white stripes",
@@ -5854,7 +5854,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_1_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_1_5.png\")",
     "Variation": "Black",
     "Body Title": "Hanger color",
     "Pattern": "Blue & white stripes",
@@ -5898,7 +5898,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_1_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_1_6.png\")",
     "Variation": "Black",
     "Body Title": "Hanger color",
     "Pattern": "Yellow & white stripes",
@@ -5942,7 +5942,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_1_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_1_7.png\")",
     "Variation": "Black",
     "Body Title": "Hanger color",
     "Pattern": "Green & white stripes",
@@ -5986,7 +5986,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Hanger color",
     "Pattern": "Fuku (Good fortune)",
@@ -6030,7 +6030,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_2_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_2_1.png\")",
     "Variation": "Red",
     "Body Title": "Hanger color",
     "Pattern": "Flowers",
@@ -6074,7 +6074,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_2_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_2_2.png\")",
     "Variation": "Red",
     "Body Title": "Hanger color",
     "Pattern": "Matsuri (Festival)",
@@ -6118,7 +6118,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_2_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_2_3.png\")",
     "Variation": "Red",
     "Body Title": "Hanger color",
     "Pattern": "Crest",
@@ -6162,7 +6162,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_2_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_2_4.png\")",
     "Variation": "Red",
     "Body Title": "Hanger color",
     "Pattern": "Red & white stripes",
@@ -6206,7 +6206,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_2_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_2_5.png\")",
     "Variation": "Red",
     "Body Title": "Hanger color",
     "Pattern": "Blue & white stripes",
@@ -6250,7 +6250,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_2_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_2_6.png\")",
     "Variation": "Red",
     "Body Title": "Hanger color",
     "Pattern": "Yellow & white stripes",
@@ -6294,7 +6294,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_2_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_2_7.png\")",
     "Variation": "Red",
     "Body Title": "Hanger color",
     "Pattern": "Green & white stripes",
@@ -6338,7 +6338,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_3_0.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger color",
     "Pattern": "Fuku (Good fortune)",
@@ -6382,7 +6382,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_3_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_3_1.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger color",
     "Pattern": "Flowers",
@@ -6426,7 +6426,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_3_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_3_2.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger color",
     "Pattern": "Matsuri (Festival)",
@@ -6470,7 +6470,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_3_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_3_3.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger color",
     "Pattern": "Crest",
@@ -6514,7 +6514,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_3_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_3_4.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger color",
     "Pattern": "Red & white stripes",
@@ -6558,7 +6558,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_3_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_3_5.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger color",
     "Pattern": "Blue & white stripes",
@@ -6602,7 +6602,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_3_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_3_6.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger color",
     "Pattern": "Yellow & white stripes",
@@ -6646,7 +6646,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "festival-lantern set",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrAsianLanternMCeiling_Remake_3_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrAsianLanternMCeiling_Remake_3_7.png\")",
     "Variation": "Brass",
     "Body Title": "Hanger color",
     "Pattern": "Green & white stripes",
@@ -6690,7 +6690,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "fluorescent light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFluorescentSimpleCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFluorescentSimpleCeiling_Remake_0_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6734,7 +6734,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "fluorescent light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFluorescentSimpleCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFluorescentSimpleCeiling_Remake_1_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6778,7 +6778,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "fluorescent light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFluorescentSimpleCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFluorescentSimpleCeiling_Remake_2_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6822,7 +6822,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging cube light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLampCubeCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLampCubeCeiling_Remake_0_0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "White",
@@ -6866,7 +6866,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging cube light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLampCubeCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLampCubeCeiling_Remake_0_1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Yellow",
@@ -6910,7 +6910,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging cube light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLampCubeCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLampCubeCeiling_Remake_0_2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Orange",
@@ -6954,7 +6954,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging cube light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLampCubeCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLampCubeCeiling_Remake_0_3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Red",
@@ -6998,7 +6998,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging cube light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLampCubeCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLampCubeCeiling_Remake_0_4.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Pink",
@@ -7042,7 +7042,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging cube light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLampCubeCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLampCubeCeiling_Remake_0_5.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Purple",
@@ -7086,7 +7086,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging cube light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLampCubeCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLampCubeCeiling_Remake_0_6.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Blue",
@@ -7130,7 +7130,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging cube light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLampCubeCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLampCubeCeiling_Remake_0_7.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Green",
@@ -7174,7 +7174,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging glowing moss",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLuMossLightCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLuMossLightCeiling_Remake_0_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7218,7 +7218,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging glowing moss",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLuMossLightCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLuMossLightCeiling_Remake_1_0.png\")",
     "Variation": "Turquoise",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7262,7 +7262,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging glowing moss",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLuMossLightCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLuMossLightCeiling_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7306,7 +7306,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging glowing moss",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLuMossLightCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLuMossLightCeiling_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7350,7 +7350,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging glowing moss",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLuMossLightCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLuMossLightCeiling_Remake_4_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7394,7 +7394,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging glowing moss",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLuMossLightCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLuMossLightCeiling_Remake_5_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7438,7 +7438,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging glowing moss",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLuMossLightCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLuMossLightCeiling_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7482,7 +7482,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging glowing moss",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLuMossLightCeiling_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLuMossLightCeiling_Remake_7_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7526,7 +7526,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_0_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Default",
@@ -7570,7 +7570,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_0_1.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "↑",
@@ -7614,7 +7614,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_0_2.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "→",
@@ -7658,7 +7658,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_0_3.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "←",
@@ -7702,7 +7702,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_0_4.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "No Entry",
@@ -7746,7 +7746,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_0_5.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Coffee",
@@ -7790,7 +7790,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_0_6.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Luggage",
@@ -7834,7 +7834,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_0_7.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Parking",
@@ -7878,7 +7878,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_1_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Default",
@@ -7922,7 +7922,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_1_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_1_1.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "↑",
@@ -7966,7 +7966,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_1_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_1_2.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "→",
@@ -8010,7 +8010,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_1_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_1_3.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "←",
@@ -8054,7 +8054,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_1_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_1_4.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "No Entry",
@@ -8098,7 +8098,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_1_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_1_5.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Coffee",
@@ -8142,7 +8142,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_1_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_1_6.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Luggage",
@@ -8186,7 +8186,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_1_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_1_7.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Parking",
@@ -8230,7 +8230,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "Default",
@@ -8274,7 +8274,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_2_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_2_1.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "↑",
@@ -8318,7 +8318,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_2_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_2_2.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "→",
@@ -8362,7 +8362,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_2_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_2_3.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "←",
@@ -8406,7 +8406,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_2_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_2_4.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "No Entry",
@@ -8450,7 +8450,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_2_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_2_5.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "Coffee",
@@ -8494,7 +8494,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_2_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_2_6.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "Luggage",
@@ -8538,7 +8538,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_2_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_2_7.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "Parking",
@@ -8582,7 +8582,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "Default",
@@ -8626,7 +8626,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_3_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_3_1.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "↑",
@@ -8670,7 +8670,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_3_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_3_2.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "→",
@@ -8714,7 +8714,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_3_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_3_3.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "←",
@@ -8758,7 +8758,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_3_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_3_4.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "No Entry",
@@ -8802,7 +8802,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_3_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_3_5.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "Coffee",
@@ -8846,7 +8846,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_3_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_3_6.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "Luggage",
@@ -8890,7 +8890,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_3_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_3_7.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "Parking",
@@ -8934,7 +8934,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_4_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "Default",
@@ -8978,7 +8978,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_4_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_4_1.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "↑",
@@ -9022,7 +9022,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_4_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_4_2.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "→",
@@ -9066,7 +9066,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_4_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_4_3.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "←",
@@ -9110,7 +9110,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_4_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_4_4.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "No Entry",
@@ -9154,7 +9154,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_4_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_4_5.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "Coffee",
@@ -9198,7 +9198,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_4_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_4_6.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "Luggage",
@@ -9242,7 +9242,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_4_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_4_7.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "Parking",
@@ -9286,7 +9286,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_5_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "Default",
@@ -9330,7 +9330,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_5_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_5_1.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "↑",
@@ -9374,7 +9374,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_5_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_5_2.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "→",
@@ -9418,7 +9418,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_5_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_5_3.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "←",
@@ -9462,7 +9462,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_5_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_5_4.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "No Entry",
@@ -9506,7 +9506,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_5_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_5_5.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "Coffee",
@@ -9550,7 +9550,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_5_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_5_6.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "Luggage",
@@ -9594,7 +9594,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_5_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_5_7.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "Parking",
@@ -9638,7 +9638,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_6_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "Default",
@@ -9682,7 +9682,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_6_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_6_1.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "↑",
@@ -9726,7 +9726,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_6_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_6_2.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "→",
@@ -9770,7 +9770,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_6_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_6_3.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "←",
@@ -9814,7 +9814,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_6_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_6_4.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "No Entry",
@@ -9858,7 +9858,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_6_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_6_5.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "Coffee",
@@ -9902,7 +9902,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_6_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_6_6.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "Luggage",
@@ -9946,7 +9946,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging guide sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingBoardCeiling_Remake_6_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingBoardCeiling_Remake_6_7.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "Parking",
@@ -9990,7 +9990,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging lightbulb",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBulbOnly_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBulbOnly_Remake_0_0.png\")",
     "Variation": "Black",
     "Body Title": "Cord color",
     "Pattern": "NA",
@@ -10034,7 +10034,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging lightbulb",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBulbOnly_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBulbOnly_Remake_1_0.png\")",
     "Variation": "Silver",
     "Body Title": "Cord color",
     "Pattern": "NA",
@@ -10078,7 +10078,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging lightbulb",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBulbOnly_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBulbOnly_Remake_2_0.png\")",
     "Variation": "Gold",
     "Body Title": "Cord color",
     "Pattern": "NA",
@@ -10122,7 +10122,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging lightbulb",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBulbOnly_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBulbOnly_Remake_3_0.png\")",
     "Variation": "Copper",
     "Body Title": "Cord color",
     "Pattern": "NA",
@@ -10166,7 +10166,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_0_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Presentation",
@@ -10210,7 +10210,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_0_1.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Video meeting",
@@ -10254,7 +10254,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_0_2.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Currency exchange",
@@ -10298,7 +10298,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_0_3.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Security footage",
@@ -10342,7 +10342,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_0_4.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Weather forecast",
@@ -10386,7 +10386,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_0_5.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Operations data",
@@ -10430,7 +10430,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_0_6.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Sports broadcast",
@@ -10474,7 +10474,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_0_7.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "Error screen",
@@ -10518,7 +10518,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Presentation",
@@ -10562,7 +10562,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_1_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_1_1.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Video meeting",
@@ -10606,7 +10606,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_1_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_1_2.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Currency exchange",
@@ -10650,7 +10650,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_1_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_1_3.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Security footage",
@@ -10694,7 +10694,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_1_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_1_4.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Weather forecast",
@@ -10738,7 +10738,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_1_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_1_5.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Operations data",
@@ -10782,7 +10782,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_1_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_1_6.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Sports broadcast",
@@ -10826,7 +10826,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_1_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_1_7.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "Error screen",
@@ -10870,7 +10870,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_2_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Presentation",
@@ -10914,7 +10914,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_2_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_2_1.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Video meeting",
@@ -10958,7 +10958,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_2_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_2_2.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Currency exchange",
@@ -11002,7 +11002,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_2_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_2_3.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Security footage",
@@ -11046,7 +11046,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_2_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_2_4.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Weather forecast",
@@ -11090,7 +11090,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_2_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_2_5.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Operations data",
@@ -11134,7 +11134,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_2_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_2_6.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Sports broadcast",
@@ -11178,7 +11178,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging monitor",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrElectricBoardSCeiling_Remake_2_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrElectricBoardSCeiling_Remake_2_7.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "Error screen",
@@ -11222,7 +11222,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging shelves",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingShelfCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingShelfCeiling_Remake_0_0.png\")",
     "Variation": "Light wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -11266,7 +11266,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging shelves",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingShelfCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingShelfCeiling_Remake_1_0.png\")",
     "Variation": "Orange wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -11310,7 +11310,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging shelves",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingShelfCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingShelfCeiling_Remake_2_0.png\")",
     "Variation": "Dark wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -11354,7 +11354,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging shelves",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingShelfCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingShelfCeiling_Remake_3_0.png\")",
     "Variation": "Vintage wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -11398,7 +11398,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging shelves",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingShelfCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingShelfCeiling_Remake_4_0.png\")",
     "Variation": "Natural wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -11442,7 +11442,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging shelves",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingShelfCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingShelfCeiling_Remake_5_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -11486,7 +11486,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging shelves",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingShelfCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingShelfCeiling_Remake_6_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -11530,7 +11530,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging shelves",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingShelfCeiling_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingShelfCeiling_Remake_7_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -11574,7 +11574,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingPanelCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingPanelCeiling_Remake_0_0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "SPECIAL",
@@ -11618,7 +11618,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingPanelCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingPanelCeiling_Remake_0_1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Tableware",
@@ -11662,7 +11662,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingPanelCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingPanelCeiling_Remake_0_2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Café menu",
@@ -11706,7 +11706,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingPanelCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingPanelCeiling_Remake_0_3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "WARNING",
@@ -11750,7 +11750,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingPanelCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingPanelCeiling_Remake_0_4.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Heart",
@@ -11794,7 +11794,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingPanelCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingPanelCeiling_Remake_0_5.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Hand-washing",
@@ -11838,7 +11838,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging sign",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHangingPanelCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHangingPanelCeiling_Remake_0_6.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Vintage sign",
@@ -11882,7 +11882,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging stage lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStagelightCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStagelightCeiling_Remake_0_0.png\")",
     "Variation": "White",
     "Body Title": "Light color",
     "Pattern": "NA",
@@ -11926,7 +11926,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging stage lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStagelightCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStagelightCeiling_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Light color",
     "Pattern": "NA",
@@ -11970,7 +11970,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging stage lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStagelightCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStagelightCeiling_Remake_2_0.png\")",
     "Variation": "Orange",
     "Body Title": "Light color",
     "Pattern": "NA",
@@ -12014,7 +12014,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging stage lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStagelightCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStagelightCeiling_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Light color",
     "Pattern": "NA",
@@ -12058,7 +12058,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging stage lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStagelightCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStagelightCeiling_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Light color",
     "Pattern": "NA",
@@ -12102,7 +12102,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging stage lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStagelightCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStagelightCeiling_Remake_5_0.png\")",
     "Variation": "Purple",
     "Body Title": "Light color",
     "Pattern": "NA",
@@ -12146,7 +12146,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging stage lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStagelightCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStagelightCeiling_Remake_6_0.png\")",
     "Variation": "Blue",
     "Body Title": "Light color",
     "Pattern": "NA",
@@ -12190,7 +12190,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "hanging stage lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStagelightCeiling_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStagelightCeiling_Remake_7_0.png\")",
     "Variation": "Green",
     "Body Title": "Light color",
     "Pattern": "NA",
@@ -12234,7 +12234,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_0_0.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Plain",
@@ -12278,7 +12278,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_0_1.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Cherry blossoms",
@@ -12322,7 +12322,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_0_2.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Well-frame pattern (Igeta)",
@@ -12366,7 +12366,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_0_3.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Bamboo",
@@ -12410,7 +12410,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_0_4.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Hemp leaves (Asanoha)",
@@ -12454,7 +12454,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_0_5.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Maple leaves",
@@ -12498,7 +12498,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_0_6.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Crests",
@@ -12542,7 +12542,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_0_7.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Koori (Ice)",
@@ -12586,7 +12586,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_1_0.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Plain",
@@ -12630,7 +12630,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_1_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_1_1.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Cherry blossoms",
@@ -12674,7 +12674,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_1_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_1_2.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Well-frame pattern (Igeta)",
@@ -12718,7 +12718,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_1_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_1_3.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Bamboo",
@@ -12762,7 +12762,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_1_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_1_4.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Hemp leaves (Asanoha)",
@@ -12806,7 +12806,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_1_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_1_5.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Maple leaves",
@@ -12850,7 +12850,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_1_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_1_6.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Crests",
@@ -12894,7 +12894,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_1_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_1_7.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Koori (Ice)",
@@ -12938,7 +12938,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_2_0.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Plain",
@@ -12982,7 +12982,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_2_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_2_1.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Cherry blossoms",
@@ -13026,7 +13026,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_2_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_2_2.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Well-frame pattern (Igeta)",
@@ -13070,7 +13070,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_2_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_2_3.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Bamboo",
@@ -13114,7 +13114,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_2_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_2_4.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Hemp leaves (Asanoha)",
@@ -13158,7 +13158,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_2_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_2_5.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Maple leaves",
@@ -13202,7 +13202,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_2_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_2_6.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Crests",
@@ -13246,7 +13246,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "horizontal split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenMCeiling_Remake_2_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenMCeiling_Remake_2_7.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Koori (Ice)",
@@ -13290,7 +13290,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "imperial lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChinaCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChinaCeiling_Remake_0_0.png\")",
     "Variation": "Ivory",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13334,7 +13334,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "imperial lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChinaCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChinaCeiling_Remake_1_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13378,7 +13378,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "imperial lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChinaCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChinaCeiling_Remake_2_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13422,7 +13422,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "imperial lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChinaCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChinaCeiling_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13466,7 +13466,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "imperial lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChinaCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChinaCeiling_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13510,7 +13510,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "imperial lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChinaCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChinaCeiling_Remake_5_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13554,7 +13554,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "imperial lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChinaCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChinaCeiling_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13598,7 +13598,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "milk-glass lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMilkGlassCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMilkGlassCeiling_Remake_0_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13642,7 +13642,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "milk-glass lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMilkGlassCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMilkGlassCeiling_Remake_1_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13686,7 +13686,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "milk-glass lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMilkGlassCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMilkGlassCeiling_Remake_2_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13730,7 +13730,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "milk-glass lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMilkGlassCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMilkGlassCeiling_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13774,7 +13774,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "milk-glass lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMilkGlassCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMilkGlassCeiling_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13818,7 +13818,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Moroccan lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMoroccanLampC_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMoroccanLampC_Remake_0_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13862,7 +13862,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Moroccan lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMoroccanLampC_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMoroccanLampC_Remake_1_0.png\")",
     "Variation": "Gold",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13906,7 +13906,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Moroccan lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMoroccanLampC_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMoroccanLampC_Remake_2_0.png\")",
     "Variation": "Copper",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13950,7 +13950,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Moroccan lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMoroccanLampC_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMoroccanLampC_Remake_3_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -13994,7 +13994,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Moroccan lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMoroccanLampC_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMoroccanLampC_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14038,7 +14038,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Moroccan lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMoroccanLampC_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMoroccanLampC_Remake_5_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14082,7 +14082,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Moroccan lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMoroccanLampC_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMoroccanLampC_Remake_6_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14126,7 +14126,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Moroccan lights",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrMoroccanLampC_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrMoroccanLampC_Remake_7_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14170,7 +14170,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Nordic pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNordicLampC_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNordicLampC_Remake_0_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14214,7 +14214,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Nordic pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNordicLampC_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNordicLampC_Remake_1_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14258,7 +14258,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Nordic pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNordicLampC_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNordicLampC_Remake_2_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14302,7 +14302,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Nordic pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNordicLampC_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNordicLampC_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14346,7 +14346,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Nordic pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNordicLampC_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNordicLampC_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14390,7 +14390,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Nordic pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNordicLampC_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNordicLampC_Remake_5_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14434,7 +14434,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "Nordic pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNordicLampC_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNordicLampC_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14478,7 +14478,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ornithopter",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrOrnithopterCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrOrnithopterCeiling_Remake_0_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14522,7 +14522,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ornithopter",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrOrnithopterCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrOrnithopterCeiling_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14566,7 +14566,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ornithopter",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrOrnithopterCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrOrnithopterCeiling_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14610,7 +14610,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ornithopter",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrOrnithopterCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrOrnithopterCeiling_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14654,7 +14654,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "ornithopter",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrOrnithopterCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrOrnithopterCeiling_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14698,7 +14698,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "paper-chain ceiling garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDecorationCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDecorationCeiling_Remake_0_0.png\")",
     "Variation": "Colorful",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14742,7 +14742,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "paper-chain ceiling garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDecorationCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDecorationCeiling_Remake_1_0.png\")",
     "Variation": "Pastel",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14786,7 +14786,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "paper-chain ceiling garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDecorationCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDecorationCeiling_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14830,7 +14830,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "paper-chain ceiling garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDecorationCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDecorationCeiling_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14874,7 +14874,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "paper-chain ceiling garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDecorationCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDecorationCeiling_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14918,7 +14918,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "paper-chain ceiling garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDecorationCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDecorationCeiling_Remake_5_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -14962,7 +14962,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "paper-chain ceiling garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDecorationCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDecorationCeiling_Remake_6_0.png\")",
     "Variation": "Black & purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15006,7 +15006,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "paper-chain ceiling garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrDecorationCeiling_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrDecorationCeiling_Remake_7_0.png\")",
     "Variation": "Gold & silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15050,7 +15050,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "range hood",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrRangehoodCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrRangehoodCeiling_Remake_0_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15094,7 +15094,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "range hood",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrRangehoodCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrRangehoodCeiling_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15138,7 +15138,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "range hood",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrRangehoodCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrRangehoodCeiling_Remake_2_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15182,7 +15182,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "range hood",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrRangehoodCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrRangehoodCeiling_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15226,7 +15226,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "range hood",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrRangehoodCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrRangehoodCeiling_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15270,7 +15270,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "round light fixture",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeiling_Remake_0_0.png\")",
     "Variation": "Black",
     "Body Title": "Metal color",
     "Pattern": "NA",
@@ -15314,7 +15314,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "round light fixture",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeiling_Remake_1_0.png\")",
     "Variation": "Silver",
     "Body Title": "Metal color",
     "Pattern": "NA",
@@ -15358,7 +15358,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "round light fixture",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrChandelierCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrChandelierCeiling_Remake_2_0.png\")",
     "Variation": "Gold",
     "Body Title": "Metal color",
     "Pattern": "NA",
@@ -15402,7 +15402,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "shaded pendant lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightTypicalCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightTypicalCeiling_Remake_0_0.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "White",
@@ -15446,7 +15446,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "shaded pendant lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightTypicalCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightTypicalCeiling_Remake_0_1.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Light gray",
@@ -15490,7 +15490,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "shaded pendant lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightTypicalCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightTypicalCeiling_Remake_0_2.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Pink",
@@ -15534,7 +15534,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "shaded pendant lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightTypicalCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightTypicalCeiling_Remake_0_3.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Light blue",
@@ -15578,7 +15578,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "shaded pendant lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightTypicalCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightTypicalCeiling_Remake_0_4.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Yellow design",
@@ -15622,7 +15622,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "shaded pendant lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightTypicalCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightTypicalCeiling_Remake_0_5.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Green design",
@@ -15666,7 +15666,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "shaded pendant lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightTypicalCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightTypicalCeiling_Remake_0_6.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Orange design",
@@ -15710,7 +15710,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "shaded pendant lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightTypicalCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightTypicalCeiling_Remake_0_7.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "Navy design",
@@ -15754,7 +15754,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "simple shaded lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightSimpleCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightSimpleCeiling_Remake_0_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15798,7 +15798,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "simple shaded lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightSimpleCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightSimpleCeiling_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15842,7 +15842,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "simple shaded lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightSimpleCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightSimpleCeiling_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15886,7 +15886,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "simple shaded lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightSimpleCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightSimpleCeiling_Remake_3_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15930,7 +15930,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "simple shaded lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightSimpleCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightSimpleCeiling_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -15974,7 +15974,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "simple shaded lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightSimpleCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightSimpleCeiling_Remake_5_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -16018,7 +16018,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "simple shaded lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrLightSimpleCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrLightSimpleCeiling_Remake_6_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -16062,7 +16062,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "spiral chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpiralChandelierCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpiralChandelierCeiling_Remake_0_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -16106,7 +16106,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "spiral chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpiralChandelierCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpiralChandelierCeiling_Remake_1_0.png\")",
     "Variation": "Gold",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -16150,7 +16150,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "spiral chandelier",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrSpiralChandelierCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrSpiralChandelierCeiling_Remake_2_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -16194,7 +16194,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "stained-glass light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStainedLightCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStainedLightCeiling_Remake_0_0.png\")",
     "Variation": "Colorful",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -16238,7 +16238,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "stained-glass light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStainedLightCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStainedLightCeiling_Remake_1_0.png\")",
     "Variation": "Red & yellow",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -16282,7 +16282,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "stained-glass light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStainedLightCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStainedLightCeiling_Remake_2_0.png\")",
     "Variation": "Green & red",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -16326,7 +16326,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "stained-glass light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStainedLightCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStainedLightCeiling_Remake_3_0.png\")",
     "Variation": "Gray",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -16370,7 +16370,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "stained-glass light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStainedLightCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStainedLightCeiling_Remake_4_0.png\")",
     "Variation": "Purple",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -16414,7 +16414,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "stained-glass light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStainedLightCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStainedLightCeiling_Remake_5_0.png\")",
     "Variation": "Roses",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -16458,7 +16458,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "stained-glass light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStainedLightCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStainedLightCeiling_Remake_6_0.png\")",
     "Variation": "Grapes",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -16502,7 +16502,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "stained-glass light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrStainedLightCeiling_Remake_7_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrStainedLightCeiling_Remake_7_0.png\")",
     "Variation": "Birds",
     "Body Title": "Variation",
     "Pattern": "NA",
@@ -16546,7 +16546,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_0_0.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Plain",
@@ -16590,7 +16590,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_0_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_0_1.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Seven treasures (Shippou)",
@@ -16634,7 +16634,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_0_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_0_2.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Arrow fletchings (Yagasuri)",
@@ -16678,7 +16678,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_0_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_0_3.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Balloon flowers",
@@ -16722,7 +16722,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_0_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_0_4.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Lucky cats (Maneki-neko)",
@@ -16766,7 +16766,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_0_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_0_5.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Cranes",
@@ -16810,7 +16810,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_0_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_0_6.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Wisteria",
@@ -16854,7 +16854,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_0_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_0_7.png\")",
     "Variation": "Brown",
     "Body Title": "Curtain rod",
     "Pattern": "Circle (Ensou)",
@@ -16898,7 +16898,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_1_0.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Plain",
@@ -16942,7 +16942,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_1_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_1_1.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Seven treasures (Shippou)",
@@ -16986,7 +16986,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_1_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_1_2.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Arrow fletchings (Yagasuri)",
@@ -17030,7 +17030,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_1_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_1_3.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Balloon flowers",
@@ -17074,7 +17074,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_1_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_1_4.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Lucky cats (Maneki-neko)",
@@ -17118,7 +17118,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_1_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_1_5.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Cranes",
@@ -17162,7 +17162,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_1_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_1_6.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Wisteria",
@@ -17206,7 +17206,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_1_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_1_7.png\")",
     "Variation": "Black",
     "Body Title": "Curtain rod",
     "Pattern": "Circle (Ensou)",
@@ -17250,7 +17250,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_2_0.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Plain",
@@ -17294,7 +17294,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_2_1.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_2_1.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Seven treasures (Shippou)",
@@ -17338,7 +17338,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_2_2.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_2_2.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Arrow fletchings (Yagasuri)",
@@ -17382,7 +17382,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_2_3.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_2_3.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Balloon flowers",
@@ -17426,7 +17426,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_2_4.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_2_4.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Lucky cats (Maneki-neko)",
@@ -17470,7 +17470,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_2_5.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_2_5.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Cranes",
@@ -17514,7 +17514,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_2_6.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_2_6.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Wisteria",
@@ -17558,7 +17558,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vertical split curtains",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrNorenSCeiling_Remake_2_7.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrNorenSCeiling_Remake_2_7.png\")",
     "Variation": "White",
     "Body Title": "Curtain rod",
     "Pattern": "Circle (Ensou)",
@@ -17602,7 +17602,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vine garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrVineDecolationCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrVineDecolationCeiling_Remake_0_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -17646,7 +17646,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vine garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrVineDecolationCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrVineDecolationCeiling_Remake_1_0.png\")",
     "Variation": "Light green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -17690,7 +17690,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vine garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrVineDecolationCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrVineDecolationCeiling_Remake_2_0.png\")",
     "Variation": "Dark green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -17734,7 +17734,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vine garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrVineDecolationCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrVineDecolationCeiling_Remake_3_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -17778,7 +17778,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "vine garland",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrVineDecolationCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrVineDecolationCeiling_Remake_4_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -17822,7 +17822,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wood-shade lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodCeiling_Remake_0_0.png\")",
     "Variation": "Natural wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -17866,7 +17866,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wood-shade lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodCeiling_Remake_1_0.png\")",
     "Variation": "Light wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -17910,7 +17910,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wood-shade lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodCeiling_Remake_2_0.png\")",
     "Variation": "Dark wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -17954,7 +17954,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wood-shade lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodCeiling_Remake_3_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -17998,7 +17998,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wood-shade lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodCeiling_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodCeiling_Remake_4_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -18042,7 +18042,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wood-shade lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodCeiling_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodCeiling_Remake_5_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -18086,7 +18086,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wood-shade lamp",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodCeiling_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodCeiling_Remake_6_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -18130,7 +18130,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wooden pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodPendantCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodPendantCeiling_Remake_0_0.png\")",
     "Variation": "Natural wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -18174,7 +18174,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wooden pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodPendantCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodPendantCeiling_Remake_1_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -18218,7 +18218,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wooden pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodPendantCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodPendantCeiling_Remake_2_0.png\")",
     "Variation": "Light wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -18262,7 +18262,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "wooden pendant light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrWoodPendantCeiling_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrWoodPendantCeiling_Remake_3_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -18306,7 +18306,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "zen light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrJapanCeiling_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrJapanCeiling_Remake_0_0.png\")",
     "Variation": "Natural wood",
     "Body Title": "Frame",
     "Pattern": "NA",
@@ -18350,7 +18350,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "zen light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrJapanCeiling_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrJapanCeiling_Remake_1_0.png\")",
     "Variation": "Dark wood",
     "Body Title": "Frame",
     "Pattern": "NA",
@@ -18394,7 +18394,7 @@
   {
     "SourceSheet": "Ceiling Decor",
     "Name": "zen light",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrJapanCeiling_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrJapanCeiling_Remake_2_0.png\")",
     "Variation": "Light wood",
     "Body Title": "Frame",
     "Pattern": "NA",

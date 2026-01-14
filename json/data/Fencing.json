@@ -2,7 +2,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "Bunny Day fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceEgg.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceEgg.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -15,7 +15,7 @@
     "sell": 240,
     "source": [ "Crafting" ],
     "sourceNotes": null,
-    "seasonEvent": "Bunny Day (days before); Bunny Day",
+    "seasonEvent": [ "Bunny Day (days before)", "Bunny Day" ],
     "seasonEventExclusive": true,
     "catalog": "Not for sale",
     "versionAdded": "1.1.0",
@@ -54,7 +54,7 @@
       "exchangeCurrency": null,
       "source": [ "Egg bottles", "Egg balloons" ],
       "sourceNotes": null,
-      "seasonEvent": "Bunny Day (days before); Bunny Day",
+      "seasonEvent": [ "Bunny Day (days before)", "Bunny Day" ],
       "seasonEventExclusive": true,
       "versionAdded": "1.1.0",
       "unlocked": true,
@@ -196,7 +196,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "bamboo lattice fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceBamboo.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceBamboo.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -268,7 +268,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "bamboo-slats fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSandProtection.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSandProtection.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -340,7 +340,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "barbed-wire fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceBarbedWire.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceBarbedWire.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -412,7 +412,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "block fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceConcreteBlock.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceConcreteBlock.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -484,7 +484,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "brick fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceWallRenga.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceWallRenga.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -556,7 +556,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "corral fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalWood.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceHorizontalWood.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -631,6 +631,7 @@
     "diy": true,
     "kitCost": 1,
     "sourceNotes": null,
+    "seasonEvent": null,
     "versionAdded": "2.0.0",
     "catalog": "Not for sale",
     "bodyTitle": "Color",
@@ -660,12 +661,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_0_0.png",
         "variation": "Gray",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceCorrugatedIron_Remake_0_0",
         "variantId": "0_0",
@@ -692,12 +692,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_1_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceCorrugatedIron_Remake_1_0",
         "variantId": "1_0",
@@ -724,12 +723,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_2_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceCorrugatedIron_Remake_2_0",
         "variantId": "2_0",
@@ -756,12 +754,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_3_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceCorrugatedIron_Remake_3_0",
         "variantId": "3_0",
@@ -788,12 +785,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_4_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceCorrugatedIron_Remake_4_0",
         "variantId": "4_0",
@@ -820,12 +816,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_5_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceCorrugatedIron_Remake_5_0",
         "variantId": "5_0",
@@ -852,12 +847,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_6_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceCorrugatedIron_Remake_6_0",
         "variantId": "6_0",
@@ -884,12 +878,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCorrugatedIron_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCorrugatedIron_Remake_7_0.png",
         "variation": "Brown",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceCorrugatedIron_Remake_7_0",
         "variantId": "7_0",
@@ -947,7 +940,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "country fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLog.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLog.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -1022,6 +1015,7 @@
     "diy": true,
     "kitCost": 1,
     "sourceNotes": null,
+    "seasonEvent": [ "snowflakes" ],
     "versionAdded": "2.0.0",
     "catalog": "Not for sale",
     "bodyTitle": "Illumination",
@@ -1051,12 +1045,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_0_0.png",
         "variation": "Ice",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "snowflakes",
         "seasonEventExclusive": true,
         "filename": "ItemFenceIce_Remake_0_0",
         "variantId": "0_0",
@@ -1083,12 +1076,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_1_0.png",
         "variation": "Ice blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "snowflakes",
         "seasonEventExclusive": true,
         "filename": "ItemFenceIce_Remake_1_0",
         "variantId": "1_0",
@@ -1115,12 +1107,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_2_0.png",
         "variation": "Ice pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "snowflakes",
         "seasonEventExclusive": true,
         "filename": "ItemFenceIce_Remake_2_0",
         "variantId": "2_0",
@@ -1147,12 +1138,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_3_0.png",
         "variation": "Ice yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "snowflakes",
         "seasonEventExclusive": true,
         "filename": "ItemFenceIce_Remake_3_0",
         "variantId": "3_0",
@@ -1179,12 +1169,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_4_0.png",
         "variation": "Ice orange",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "snowflakes",
         "seasonEventExclusive": true,
         "filename": "ItemFenceIce_Remake_4_0",
         "variantId": "4_0",
@@ -1211,12 +1200,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_5_0.png",
         "variation": "Ice green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "snowflakes",
         "seasonEventExclusive": true,
         "filename": "ItemFenceIce_Remake_5_0",
         "variantId": "5_0",
@@ -1243,12 +1231,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIce_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIce_Remake_6_0.png",
         "variation": "Ice purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "snowflakes",
         "seasonEventExclusive": true,
         "filename": "ItemFenceIce_Remake_6_0",
         "variantId": "6_0",
@@ -1286,7 +1273,7 @@
       "exchangeCurrency": null,
       "source": [ "Balloons" ],
       "sourceNotes": null,
-      "seasonEvent": "snowflakes",
+      "seasonEvent": [ "snowflakes" ],
       "seasonEventExclusive": true,
       "versionAdded": "2.0.0",
       "unlocked": true,
@@ -1306,7 +1293,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "green bamboo fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceCrossedBamboo.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceCrossedBamboo.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -1378,7 +1365,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "hedge",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIkegaki.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIkegaki.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -1474,7 +1461,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "imperial fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceChinese.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceChinese.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -1549,6 +1536,7 @@
     "diy": true,
     "kitCost": 1,
     "sourceNotes": null,
+    "seasonEvent": null,
     "versionAdded": "1.0.0",
     "catalog": "Not for sale",
     "bodyTitle": "Color",
@@ -1578,12 +1566,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_0_0.png",
         "variation": "Light blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceSteel_Remake_0_0",
         "variantId": "0_0",
@@ -1610,12 +1597,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_1_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceSteel_Remake_1_0",
         "variantId": "1_0",
@@ -1642,12 +1628,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_2_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceSteel_Remake_2_0",
         "variantId": "2_0",
@@ -1674,12 +1659,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_3_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceSteel_Remake_3_0",
         "variantId": "3_0",
@@ -1706,12 +1690,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_4_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceSteel_Remake_4_0",
         "variantId": "4_0",
@@ -1738,12 +1721,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_5_0.png",
         "variation": "Orange",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceSteel_Remake_5_0",
         "variantId": "5_0",
@@ -1770,12 +1752,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_6_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceSteel_Remake_6_0",
         "variantId": "6_0",
@@ -1802,12 +1783,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSteel_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSteel_Remake_7_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceSteel_Remake_7_0",
         "variantId": "7_0",
@@ -1865,7 +1845,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "iron-and-stone fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceIronAndStone.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceIronAndStone.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -1940,6 +1920,7 @@
     "diy": true,
     "kitCost": 1,
     "sourceNotes": null,
+    "seasonEvent": null,
     "versionAdded": "2.0.0",
     "catalog": "Not for sale",
     "bodyTitle": "Color",
@@ -1969,12 +1950,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_0_0.png",
         "variation": "Natural",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatticeBig_Remake_0_0",
         "variantId": "0_0",
@@ -2001,12 +1981,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_1_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatticeBig_Remake_1_0",
         "variantId": "1_0",
@@ -2033,12 +2012,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_2_0.png",
         "variation": "Brown",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatticeBig_Remake_2_0",
         "variantId": "2_0",
@@ -2065,12 +2043,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_3_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatticeBig_Remake_3_0",
         "variantId": "3_0",
@@ -2097,12 +2074,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_4_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatticeBig_Remake_4_0",
         "variantId": "4_0",
@@ -2129,12 +2105,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_5_0.png",
         "variation": "Dark brown",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatticeBig_Remake_5_0",
         "variantId": "5_0",
@@ -2161,12 +2136,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_6_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatticeBig_Remake_6_0",
         "variantId": "6_0",
@@ -2193,12 +2167,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatticeBig_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatticeBig_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatticeBig_Remake_7_0",
         "variantId": "7_0",
@@ -2259,6 +2232,7 @@
     "diy": true,
     "kitCost": 1,
     "sourceNotes": null,
+    "seasonEvent": null,
     "versionAdded": "1.0.0",
     "catalog": "Not for sale",
     "bodyTitle": "Color",
@@ -2288,12 +2262,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_0_0.png",
         "variation": "Natural",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatiiceNatural_Remake_0_0",
         "variantId": "0_0",
@@ -2320,12 +2293,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_1_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatiiceNatural_Remake_1_0",
         "variantId": "1_0",
@@ -2352,12 +2324,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_2_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatiiceNatural_Remake_2_0",
         "variantId": "2_0",
@@ -2384,12 +2355,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_3_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatiiceNatural_Remake_3_0",
         "variantId": "3_0",
@@ -2416,12 +2386,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_4_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatiiceNatural_Remake_4_0",
         "variantId": "4_0",
@@ -2448,12 +2417,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_5_0.png",
         "variation": "Light blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatiiceNatural_Remake_5_0",
         "variantId": "5_0",
@@ -2480,12 +2448,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_6_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatiiceNatural_Remake_6_0",
         "variantId": "6_0",
@@ -2512,12 +2479,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLatiiceNatural_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLatiiceNatural_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceLatiiceNatural_Remake_7_0",
         "variantId": "7_0",
@@ -2575,7 +2541,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "log fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceHorizontalLog.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceHorizontalLog.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -2647,7 +2613,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "log-wall fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceLogWall.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceLogWall.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -2719,7 +2685,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "mermaid fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceMermaid.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceMermaid.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -2834,6 +2800,7 @@
     "diy": true,
     "kitCost": 1,
     "sourceNotes": null,
+    "seasonEvent": null,
     "versionAdded": "2.0.0",
     "catalog": "Not for sale",
     "bodyTitle": "Color",
@@ -2863,12 +2830,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_0_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFencePark_Remake_0_0",
         "variantId": "0_0",
@@ -2895,12 +2861,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_1_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFencePark_Remake_1_0",
         "variantId": "1_0",
@@ -2927,12 +2892,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_2_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFencePark_Remake_2_0",
         "variantId": "2_0",
@@ -2959,12 +2923,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_3_0.png",
         "variation": "Lime",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFencePark_Remake_3_0",
         "variantId": "3_0",
@@ -2991,12 +2954,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_4_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFencePark_Remake_4_0",
         "variantId": "4_0",
@@ -3023,12 +2985,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_5_0.png",
         "variation": "Red & yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFencePark_Remake_5_0",
         "variantId": "5_0",
@@ -3055,12 +3016,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_6_0.png",
         "variation": "Pink & blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFencePark_Remake_6_0",
         "variantId": "6_0",
@@ -3087,12 +3047,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePark_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePark_Remake_7_0.png",
         "variation": "Orange & green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFencePark_Remake_7_0",
         "variantId": "7_0",
@@ -3150,7 +3109,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "rope fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFencePegRope.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFencePegRope.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3227,6 +3186,7 @@
     "sourceNotes": [
       "50 fences are given by Tom Nook after completing the three house plots during the main storyline"
     ],
+    "seasonEvent": null,
     "versionAdded": "1.0.0",
     "catalog": "Not for sale",
     "bodyTitle": "Color",
@@ -3256,12 +3216,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_0_0.png",
         "variation": "Natural",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceNatural_Remake_0_0",
         "variantId": "0_0",
@@ -3288,12 +3247,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_1_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceNatural_Remake_1_0",
         "variantId": "1_0",
@@ -3320,12 +3278,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_2_0.png",
         "variation": "Brown",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceNatural_Remake_2_0",
         "variantId": "2_0",
@@ -3352,12 +3309,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_3_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceNatural_Remake_3_0",
         "variantId": "3_0",
@@ -3384,12 +3340,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_4_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceNatural_Remake_4_0",
         "variantId": "4_0",
@@ -3416,12 +3371,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_5_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceNatural_Remake_5_0",
         "variantId": "5_0",
@@ -3448,12 +3402,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_6_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceNatural_Remake_6_0",
         "variantId": "6_0",
@@ -3480,12 +3433,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceNatural_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceNatural_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceNatural_Remake_7_0",
         "variantId": "7_0",
@@ -3543,7 +3495,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "spiky fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceSharply.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceSharply.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3615,7 +3567,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "spooky fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceHalloween.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceHalloween.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3628,7 +3580,7 @@
     "sell": 585,
     "source": [ "Crafting" ],
     "sourceNotes": null,
-    "seasonEvent": "Halloween (days before); Halloween",
+    "seasonEvent": [ "Halloween (days before)", "Halloween" ],
     "seasonEventExclusive": true,
     "catalog": "Not for sale",
     "versionAdded": "1.5.0",
@@ -3669,7 +3621,7 @@
       "sourceNotes": [
         "Obtained from crafting villagers during October or as a reward for gifting candy on Halloween"
       ],
-      "seasonEvent": "Halloween (days before); Halloween",
+      "seasonEvent": [ "Halloween (days before)", "Halloween" ],
       "seasonEventExclusive": true,
       "versionAdded": "1.5.0",
       "unlocked": true,
@@ -3710,7 +3662,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "stone fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceStone.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceStone.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3782,7 +3734,7 @@
   {
     "sourceSheet": "Fencing",
     "name": "straw fence",
-    "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceDriedStraw.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceDriedStraw.png",
     "variation": null,
     "bodyTitle": null,
     "diy": true,
@@ -3878,6 +3830,7 @@
     "diy": true,
     "kitCost": 1,
     "sourceNotes": null,
+    "seasonEvent": null,
     "versionAdded": "1.0.0",
     "catalog": "Not for sale",
     "bodyTitle": "Color",
@@ -3907,12 +3860,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_0_0.png",
         "variation": "Natural",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceVerticalWood_Remake_0_0",
         "variantId": "0_0",
@@ -3939,12 +3891,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_1_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceVerticalWood_Remake_1_0",
         "variantId": "1_0",
@@ -3971,12 +3922,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_2_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceVerticalWood_Remake_2_0",
         "variantId": "2_0",
@@ -4003,12 +3953,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_3_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceVerticalWood_Remake_3_0",
         "variantId": "3_0",
@@ -4035,12 +3984,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_4_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceVerticalWood_Remake_4_0",
         "variantId": "4_0",
@@ -4067,12 +4015,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_5_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceVerticalWood_Remake_5_0",
         "variantId": "5_0",
@@ -4099,12 +4046,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_6_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceVerticalWood_Remake_6_0",
         "variantId": "6_0",
@@ -4131,12 +4077,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceVerticalWood_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceVerticalWood_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceVerticalWood_Remake_7_0",
         "variantId": "7_0",
@@ -4197,6 +4142,7 @@
     "diy": true,
     "kitCost": 1,
     "sourceNotes": null,
+    "seasonEvent": [ "Wedding Season" ],
     "versionAdded": "1.2.0",
     "catalog": "Not for sale",
     "bodyTitle": "Color",
@@ -4226,12 +4172,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_0_0.png",
         "variation": "White",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "Wedding Season",
         "seasonEventExclusive": true,
         "filename": "ItemFenceJuneBride_Remake_0_0",
         "variantId": "0_0",
@@ -4258,12 +4203,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_1_0.png",
         "variation": "Pink",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "Wedding Season",
         "seasonEventExclusive": true,
         "filename": "ItemFenceJuneBride_Remake_1_0",
         "variantId": "1_0",
@@ -4290,12 +4234,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_2_0.png",
         "variation": "Mint",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "Wedding Season",
         "seasonEventExclusive": true,
         "filename": "ItemFenceJuneBride_Remake_2_0",
         "variantId": "2_0",
@@ -4322,12 +4265,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_3_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "Wedding Season",
         "seasonEventExclusive": true,
         "filename": "ItemFenceJuneBride_Remake_3_0",
         "variantId": "3_0",
@@ -4354,12 +4296,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_4_0.png",
         "variation": "Light blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "Wedding Season",
         "seasonEventExclusive": true,
         "filename": "ItemFenceJuneBride_Remake_4_0",
         "variantId": "4_0",
@@ -4386,12 +4327,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_5_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "Wedding Season",
         "seasonEventExclusive": true,
         "filename": "ItemFenceJuneBride_Remake_5_0",
         "variantId": "5_0",
@@ -4418,12 +4358,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_6_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "Wedding Season",
         "seasonEventExclusive": true,
         "filename": "ItemFenceJuneBride_Remake_6_0",
         "variantId": "6_0",
@@ -4450,12 +4389,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJuneBride_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJuneBride_Remake_7_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": "Wedding Season",
         "seasonEventExclusive": true,
         "filename": "ItemFenceJuneBride_Remake_7_0",
         "variantId": "7_0",
@@ -4493,7 +4431,7 @@
       "exchangeCurrency": null,
       "source": [ "Harvey" ],
       "sourceNotes": null,
-      "seasonEvent": "Wedding Season",
+      "seasonEvent": [ "Wedding Season" ],
       "seasonEventExclusive": true,
       "versionAdded": "1.2.0",
       "unlocked": true,
@@ -4516,6 +4454,7 @@
     "diy": true,
     "kitCost": 1,
     "sourceNotes": null,
+    "seasonEvent": null,
     "versionAdded": "1.0.0",
     "catalog": "Not for sale",
     "bodyTitle": "Roof-tile color",
@@ -4545,12 +4484,11 @@
     "unlocked": true,
     "variations": [
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_0_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_0_0.png",
         "variation": "Black",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceJapanese_Remake_0_0",
         "variantId": "0_0",
@@ -4577,12 +4515,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_1_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_1_0.png",
         "variation": "Blue",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceJapanese_Remake_1_0",
         "variantId": "1_0",
@@ -4609,12 +4546,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_2_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_2_0.png",
         "variation": "Red",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceJapanese_Remake_2_0",
         "variantId": "2_0",
@@ -4641,12 +4577,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_3_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_3_0.png",
         "variation": "Orange",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceJapanese_Remake_3_0",
         "variantId": "3_0",
@@ -4673,12 +4608,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_4_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_4_0.png",
         "variation": "Yellow",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceJapanese_Remake_4_0",
         "variantId": "4_0",
@@ -4705,12 +4639,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_5_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_5_0.png",
         "variation": "Beige",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceJapanese_Remake_5_0",
         "variantId": "5_0",
@@ -4737,12 +4670,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_6_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_6_0.png",
         "variation": "Green",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceJapanese_Remake_6_0",
         "variantId": "6_0",
@@ -4769,12 +4701,11 @@
         }
       },
       {
-        "image": "https://acnhcdn.com/latest/FtrIcon/ItemFenceJapanese_Remake_7_0.png",
+        "image": "https://nh-cdn.catalogue.ac/FtrIcon/ItemFenceJapanese_Remake_7_0.png",
         "variation": "Purple",
         "kitType": "Normal",
         "cyrusCustomizePrice": 1000,
         "stackSize": 50,
-        "seasonEvent": null,
         "seasonEventExclusive": null,
         "filename": "ItemFenceJapanese_Remake_7_0",
         "variantId": "7_0",

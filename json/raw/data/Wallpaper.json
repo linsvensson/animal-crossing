@@ -2,7 +2,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "abstract wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallAbstract00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallAbstract00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -37,7 +37,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "airplane wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallAirplane00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallAirplane00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -72,7 +72,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "ancient wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallEgypt00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallEgypt00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -107,7 +107,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "antique brick wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallAntique00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallAntique00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -142,7 +142,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "apparel-shop wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDisplay00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDisplay00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -177,7 +177,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "apple wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallApple00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallApple00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -212,7 +212,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "aqua tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTile01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -247,7 +247,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "arched-window wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallGlass00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallGlass00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -282,7 +282,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "aurora wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallAurora00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallAurora00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -317,7 +317,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "autumn wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallAutumun00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallAutumun00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "Yes",
@@ -352,7 +352,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "backyard-fence wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallBackyard00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallBackyard00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -387,7 +387,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "bamboo wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBamboo00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBamboo00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -422,7 +422,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "bamboo-grove wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallChikurin00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallChikurin00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -457,7 +457,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "bamboo-screen wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRattan00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRattan00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -492,7 +492,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "bank-vault wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSafeBox00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSafeBox00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -527,7 +527,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "basic wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallSimplePanel00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSimplePanel00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -562,7 +562,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "bathhouse wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPublicBath00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPublicBath00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -597,7 +597,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "beaded-curtain wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBeadsCurtain00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBeadsCurtain00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -632,7 +632,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "beige art-deco wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallArtDeco00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallArtDeco00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -667,7 +667,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "beige blossoming wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCountry00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -702,7 +702,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "beige Moroccan wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMorocco00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -737,7 +737,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "black botanical-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallWoodTile03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -772,7 +772,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "black European-style wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallFrench01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallFrench01.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -807,7 +807,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "black hallway wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHall03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -842,7 +842,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "black perforated-board wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPegboard02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -877,7 +877,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "black two-toned tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile06.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTwoToneTile06.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -912,7 +912,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "black window-panel wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallWindow01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallWindow01.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -947,7 +947,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "black-brick wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBrick02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -982,7 +982,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "black-crown wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCrown01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1017,7 +1017,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blackboard wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBlackBoard00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBlackBoard00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1052,7 +1052,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue blossoming wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCountry02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1087,7 +1087,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue camo wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCamouflage01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1122,7 +1122,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue delicate-blooms wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallManor03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1157,7 +1157,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue diner wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDiner00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1192,7 +1192,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue flower-print wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFlower03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1227,7 +1227,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue heart-pattern wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHeart00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1262,7 +1262,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue honeycomb-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHoneycomb01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1297,7 +1297,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue intricate wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFlowerPop00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1332,7 +1332,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue molded-panel wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPanelMold01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1367,7 +1367,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue Moroccan wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMorocco01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1402,7 +1402,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue Moroccan-style wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTadelakt00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTadelakt00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1437,7 +1437,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue painted-wood wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPaintWood00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1472,7 +1472,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue playroom wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallToy00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1507,7 +1507,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue quilt wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDollhouse01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1542,7 +1542,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue shanty wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTin02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1577,7 +1577,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue simple-cloth wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSimple03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1612,7 +1612,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue subway-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMetro00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMetro00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1647,7 +1647,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTile03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1682,7 +1682,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue two-toned tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile05.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTwoToneTile05.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1717,7 +1717,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue-crown wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCrown00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1752,7 +1752,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue-paint wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStucco03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1787,7 +1787,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue-rose wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRose03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1822,7 +1822,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "blue-striped wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStripe03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1857,7 +1857,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "botanical-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallWoodTile02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1892,7 +1892,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "brick garden wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallSchoolyard00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSchoolyard00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -1927,7 +1927,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "brown botanical-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallWoodTile01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1962,7 +1962,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "brown diner wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDiner03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -1997,7 +1997,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "brown hallway wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHall00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2032,7 +2032,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "brown herringbone wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHerringbone00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHerringbone00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -2067,7 +2067,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "brown shanty wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTin03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2102,7 +2102,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "brown wedding wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallChurch01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallChurch01.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2137,7 +2137,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "brown-brick wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBrick03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2172,7 +2172,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "brown-crown wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCrown03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2207,7 +2207,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Bunny Day wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallEaster00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallEaster00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -2242,7 +2242,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "butterflies wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallInsect00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallInsect00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2277,7 +2277,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "cabin wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallLog00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLog00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -2312,7 +2312,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "café-curtain wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallCafe00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallCafe00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2347,7 +2347,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "camo wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCamouflage00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2382,7 +2382,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "candles wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallCandle00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallCandle00.png\")",
     "VFX": "Yes",
     "VFX Type": "LightOff",
     "DIY": "No",
@@ -2417,7 +2417,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "chain-link fence",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallEmptyLot00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallEmptyLot00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2452,7 +2452,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "cherry wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCherry00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCherry00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -2487,7 +2487,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "cherry-blossom-trees wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallSakura00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSakura00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "Yes",
@@ -2522,7 +2522,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "chic tearoom wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMud03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2557,7 +2557,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "chic wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallClassic00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallClassic00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2592,7 +2592,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "chocolate hallway wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHall01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2627,7 +2627,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "chocolate herringbone wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHerringbone01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHerringbone01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -2662,7 +2662,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Cinnamoroll wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCinnamon00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCinnamon00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2697,7 +2697,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "circuit-board wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallGeek00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallGeek00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2732,7 +2732,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "circus wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallSummer00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSummer00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -2767,7 +2767,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "cityscape wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallNightView00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallNightView00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2802,7 +2802,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "classic-library wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallLibrary00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLibrary00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -2837,7 +2837,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "club wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallClub00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallClub00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -2872,7 +2872,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "coffee-shop wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCoffee00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCoffee00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2907,7 +2907,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "colorful puzzle wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPuzzle01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2942,7 +2942,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "colorful-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTile02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -2977,7 +2977,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "common wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCommon00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCommon00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3012,7 +3012,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "concession-stand wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallStand00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallStand00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3047,7 +3047,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "concrete wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallConcrete00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallConcrete00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3082,7 +3082,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "construction-site wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBlueSheet00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBlueSheet00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3117,7 +3117,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "crepe-design wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrepe00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCrepe00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3152,7 +3152,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "cute blue wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCute02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3187,7 +3187,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "cute red wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCute01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3222,7 +3222,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "cute white wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCute00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3257,7 +3257,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "cute yellow wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCute03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCute03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3292,7 +3292,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "dark wooden-mosaic wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMixPlankWood01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMixPlankWood01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -3327,7 +3327,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "dark-chocolate wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallChocolate00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallChocolate00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3362,7 +3362,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "desert vista",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallDesert00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallDesert00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -3397,7 +3397,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "dig-site wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStratum00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStratum00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3432,7 +3432,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "dirt-clod wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallOldSoil00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallOldSoil00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3467,7 +3467,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "dojo wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBaseboards00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBaseboards00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3502,7 +3502,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "dungeon wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallJail00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallJail00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3537,7 +3537,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "exquisite wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallChina00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallChina00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3572,7 +3572,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "falling-snow wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallSnowy00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSnowy00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "Yes",
@@ -3607,7 +3607,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "fireworks-show wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallFireworks00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallFireworks00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3642,7 +3642,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "forest wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMushForest00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMushForest00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -3677,7 +3677,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "frozen-foods freezer wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallFrozenFood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallFrozenFood00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3712,7 +3712,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "future-tech wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallTechnology00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallTechnology00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -3747,7 +3747,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "garbage-heap wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallGarbage00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallGarbage00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -3782,7 +3782,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "glowing-moss cave wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallGlowCave00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallGlowCave00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -3817,7 +3817,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "glowing-moss forest wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallGlowMoss00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallGlowMoss00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -3852,7 +3852,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "glowing-moss ruins wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallGlowRemains00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallGlowRemains00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "Yes",
@@ -3887,7 +3887,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "gold-screen wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFusumaGorgeous00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFusumaGorgeous00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -3922,7 +3922,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "golden wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallGold00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallGold00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -3957,7 +3957,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "graveyard wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallCemetery00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallCemetery00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -3992,7 +3992,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "gray diner wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDiner02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4027,7 +4027,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "gray locker-room wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallLocker01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLocker01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4062,7 +4062,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "gray molded-panel wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPanelMold02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4097,7 +4097,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "gray shanty wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTin00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4132,7 +4132,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "gray-shelving wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallShelf01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallShelf01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4167,7 +4167,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "gray-striped wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStripe02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4202,7 +4202,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green blossoming wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCountry03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4237,7 +4237,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green delicate-blooms wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallManor02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4272,7 +4272,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green flower-print wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFlower01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4307,7 +4307,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green honeycomb-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHoneycomb02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4342,7 +4342,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green intricate wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFlowerPop02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4377,7 +4377,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green molded-panel wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPanelMold03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4412,7 +4412,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green painted-wood wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPaintWood01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4447,7 +4447,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green playroom wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallToy02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4482,7 +4482,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green wedding wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallChurch02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallChurch02.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4517,7 +4517,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "green-paint wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStucco04.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4552,7 +4552,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "greenhouse wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallGreenHouse00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallGreenHouse00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4587,7 +4587,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "groovy wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPsyche00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPsyche00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4622,7 +4622,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "hallway wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBoard00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBoard00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4657,7 +4657,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "harmonious wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallOriental00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallOriental00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4692,7 +4692,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "heavy-curtain wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallThickCurtain00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallThickCurtain00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4727,7 +4727,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Hello Kitty wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallKitty00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallKitty00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4762,7 +4762,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "honeycomb wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoney00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHoney00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -4797,7 +4797,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "honeycomb-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHoneycomb00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4832,7 +4832,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "ice wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallIce00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallIce00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -4867,7 +4867,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "ice-cream-shoppe wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallIcecream00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallIcecream00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4902,7 +4902,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "iceberg wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallIceFloe00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallIceFloe00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -4937,7 +4937,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "imperial wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDynasty00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDynasty00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -4972,7 +4972,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "industrial wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFactory00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFactory00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5007,7 +5007,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "ivy wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallIvy00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallIvy00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5042,7 +5042,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Jingle wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallXmas00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallXmas00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "Yes",
@@ -5077,7 +5077,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "jungle wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallJungle00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallJungle00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -5112,7 +5112,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Kerokerokeroppi wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallKeroppi00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallKeroppi00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5147,7 +5147,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Kiki & Lala wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallKikilala00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallKikilala00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5182,7 +5182,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "kisses wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallKiss00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallKiss00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5217,7 +5217,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "laboratory wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallLabo00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallLabo00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "No",
@@ -5252,7 +5252,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "lattice wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallLattice00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLattice00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5287,7 +5287,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "limestone-cave wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallLimestone00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallLimestone00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -5322,7 +5322,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "magma-cavern wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallVolcano00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallVolcano00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -5357,7 +5357,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "manga-library wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallLibrary01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLibrary01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -5392,7 +5392,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "mangrove wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMangrove00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMangrove00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5427,7 +5427,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "marine pop wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFish00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFish00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5462,7 +5462,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "meadow vista",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallHighLands00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallHighLands00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -5497,7 +5497,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "mermaid wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallMermaid00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallMermaid00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "Yes",
@@ -5532,7 +5532,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "misty-garden wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallRain00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallRain00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "No",
@@ -5567,7 +5567,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "mod wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMod00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMod00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5602,7 +5602,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "modern shoji-screen wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallShojiModem00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallShojiModem00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5637,7 +5637,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "modern tearoom wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMud02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5672,7 +5672,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "modern wood wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMixwood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMixwood00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -5707,7 +5707,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "monochromatic dotted wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDot00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5742,7 +5742,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "monochromatic-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTile00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5777,7 +5777,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "mortar wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPlaster00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPlaster00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5812,7 +5812,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "mosaic-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMosaicTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMosaicTile00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5847,7 +5847,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "mossy-garden wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMoss00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMoss00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5882,7 +5882,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "museum wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMuseum00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMuseum00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -5917,7 +5917,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "mush wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMush00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMush00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -5952,7 +5952,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "mushroom mural",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallMario00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallMario00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -5987,7 +5987,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "My Melody wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMymelody00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMymelody00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6022,7 +6022,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Nook Inc. wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFirst00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFirst00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6057,7 +6057,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "ocean-horizon wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallHorizon00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallHorizon00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -6092,7 +6092,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "office wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallOffice00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallOffice00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6127,7 +6127,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "old wallpaper",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallOld00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallOld00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6162,7 +6162,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "olive Moroccan wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMorocco03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6197,7 +6197,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "operating-room wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallOperatingRoom00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallOperatingRoom00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6232,7 +6232,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "orange camo wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCamouflage03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6267,7 +6267,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "orange molded-panel wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPanelMold00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPanelMold00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6302,7 +6302,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "orange Moroccan-style wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTadelakt01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTadelakt01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6337,7 +6337,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "orange wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallOrange00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallOrange00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -6372,7 +6372,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "orange-paint wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStucco01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6407,7 +6407,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "outdoor-window wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTeahouse00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTeahouse00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6442,7 +6442,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "paintball wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallAtelier00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallAtelier00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6477,7 +6477,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "palace wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallPalace00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallPalace00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6512,7 +6512,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Paradise Planning wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallGoldRich00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallGoldRich00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6547,7 +6547,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "party wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallParty00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallParty00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6582,7 +6582,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pastel dotted wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDot01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6617,7 +6617,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pastel puzzle wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPuzzle00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6652,7 +6652,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "paw-print wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFootmark00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFootmark00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6687,7 +6687,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "peach two-toned tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTwoToneTile04.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6722,7 +6722,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "peach wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPeach00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPeach00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -6757,7 +6757,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pear wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPear00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPear00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -6792,7 +6792,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "perforated-board wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPegboard01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6827,7 +6827,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pharmacy-shelving wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMedicineRoom00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMedicineRoom00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6862,7 +6862,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink blossoming wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCountry01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCountry01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6897,7 +6897,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink diner wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDiner01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDiner01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6932,7 +6932,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink flower-print wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFlower00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -6967,7 +6967,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink heart-pattern wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHeart01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7002,7 +7002,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink painted-wood wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPaintWood02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7037,7 +7037,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink playroom wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallToy01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7072,7 +7072,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink quilt wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDollhouse00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7107,7 +7107,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink shanty wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTin01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTin01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7142,7 +7142,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink simple-cloth wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSimple02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7177,7 +7177,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink-crown wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCrown02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCrown02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7212,7 +7212,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pink-striped wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStripe01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7247,7 +7247,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "pirate wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallPirates00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallPirates00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7282,7 +7282,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Pompompurin wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPurin00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPurin00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7317,7 +7317,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "prom wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallBallroom00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallBallroom00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -7352,7 +7352,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "purple camo wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCamouflage02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCamouflage02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7387,7 +7387,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "purple dotted wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDot04.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7422,7 +7422,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "purple Moroccan wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMorocco02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMorocco02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7457,7 +7457,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "purple puzzle wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPuzzle03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7492,7 +7492,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "purple quilt wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDollhouse03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7527,7 +7527,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "purple-rose wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRose01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7562,7 +7562,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "rammed-earth wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHanchiku00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHanchiku00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7597,7 +7597,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "ramshackle wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRuins00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRuins00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7632,7 +7632,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "red art-deco wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallArtDeco01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallArtDeco01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7667,7 +7667,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "red delicate-blooms wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallManor01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7702,7 +7702,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "red dotted wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDot02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDot02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7737,7 +7737,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "red heart-pattern wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHeart03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7772,7 +7772,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "red intricate wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFlowerPop03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7807,7 +7807,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "red locker-room wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallLocker00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLocker00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7842,7 +7842,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "red perforated-board wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPegboard03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7877,7 +7877,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "red two-toned tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwoToneTile03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTwoToneTile03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7912,7 +7912,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "red-brick wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBrick01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7947,7 +7947,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "retro flower-print wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallKitsch00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallKitsch00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -7982,7 +7982,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "retro restaurant wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRestaurant00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRestaurant00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8017,7 +8017,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "rice-paddy wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallFarm00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallFarm00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -8052,7 +8052,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "ringside seating",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallWrestling00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallWrestling00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8087,7 +8087,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "robo-wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRobo00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRobo00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8122,7 +8122,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "rock-climbing wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBouldering00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBouldering00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8157,7 +8157,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Room Sketch wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallSketch00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSketch00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8192,7 +8192,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "rope-net wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallRopenet00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallRopenet00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -8227,7 +8227,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "rose wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRose00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8262,7 +8262,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "ruins wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRemains00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRemains00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8297,7 +8297,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "rustic-stone wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStone00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStone00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -8332,7 +8332,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "sakura-wood wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSolidWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSolidWood00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -8367,7 +8367,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "sci-fi wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallSF00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSF00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "Yes",
@@ -8402,7 +8402,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "screen wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFusuma00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFusuma00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8437,7 +8437,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "sea view",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallSeaView00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSeaView00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -8472,7 +8472,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "security-monitors wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallMonitor00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallMonitor00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "No",
@@ -8507,7 +8507,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "sepia puzzle wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPuzzle02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPuzzle02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8542,7 +8542,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "server-room wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallServer00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallServer00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "No",
@@ -8577,7 +8577,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "shoji screen",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallShoji00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallShoji00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8612,7 +8612,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "shutter wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallShutter00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallShutter00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8647,7 +8647,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "ski-slope wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallGelande00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallGelande00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "Yes",
@@ -8682,7 +8682,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "skull wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallSkull00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSkull00.png\")",
     "VFX": "Yes",
     "VFX Type": "LightOff",
     "DIY": "No",
@@ -8717,7 +8717,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "sky wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallCloud00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallCloud00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -8752,7 +8752,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "skyscraper wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSkyscraper00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSkyscraper00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8787,7 +8787,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "snowflake wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSnowCrystal00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSnowCrystal00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -8822,7 +8822,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "soothing tearoom wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMud01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8857,7 +8857,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "spooky wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHalloween00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHalloween00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8892,7 +8892,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "stacked-wood wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFireWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFireWood00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -8927,7 +8927,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "stadium wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallStadium00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallStadium00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8962,7 +8962,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "standard tearoom wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMud00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMud00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -8997,7 +8997,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "starry wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallStarPrint00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallStarPrint00.png\")",
     "VFX": "Yes",
     "VFX Type": "LightOff",
     "DIY": "Yes",
@@ -9032,7 +9032,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "starry-sky wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallStarSky00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallStarSky00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -9067,7 +9067,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "stately wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRenaissance00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRenaissance00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9102,7 +9102,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "steampunk wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSteampunk00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSteampunk00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9137,7 +9137,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "steel-frame wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSteel00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSteel00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -9172,7 +9172,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "stone wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBasement00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBasement00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -9207,7 +9207,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "stormy-night wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallThunder00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallThunder00.png\")",
     "VFX": "Yes",
     "VFX Type": "Random",
     "DIY": "No",
@@ -9242,7 +9242,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "straw wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStraw00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStraw00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9277,7 +9277,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "strawberry-chocolate wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallChocolate02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallChocolate02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9312,7 +9312,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "street-art wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStreetArt00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStreetArt00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9347,7 +9347,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "summit wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallMountainTop00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallMountainTop00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -9382,7 +9382,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "supermarket wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSupermarket00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSupermarket00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9417,7 +9417,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "tent wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallGlamping00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallGlamping00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9452,7 +9452,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "train-window wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallTrain00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallTrain00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -9487,7 +9487,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "tree-lined wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRoadsideTree00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRoadsideTree00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9522,7 +9522,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "tropical vista",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallTropical00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallTropical00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "Yes",
@@ -9557,7 +9557,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "Turkey Day wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHarvest00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHarvest00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9592,7 +9592,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "underwater wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallFishTank00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallFishTank00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "Yes",
@@ -9627,7 +9627,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "wavy-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallWaveTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallWaveTile00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9662,7 +9662,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "wedding-party wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallJuneBride00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallJuneBride00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9697,7 +9697,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "western vista",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallWilderness00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallWilderness00.png\")",
     "VFX": "Yes",
     "VFX Type": "Synchro",
     "DIY": "No",
@@ -9732,7 +9732,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white botanical-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallWoodTile00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallWoodTile00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9767,7 +9767,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white delicate-blooms wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallManor00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallManor00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9802,7 +9802,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white European-style wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallFrench00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallFrench00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9837,7 +9837,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white hallway wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHall02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHall02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9872,7 +9872,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white honeycomb-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHoneycomb03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHoneycomb03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9907,7 +9907,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white painted-wood wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPaintWood03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPaintWood03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9942,7 +9942,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white perforated-board wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallPegboard00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallPegboard00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -9977,7 +9977,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white simple-cloth wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSimple00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10012,7 +10012,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white subway-tile wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMetro01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMetro01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10047,7 +10047,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white wedding wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallChurch00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallChurch00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10082,7 +10082,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white window-panel wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomSpWallWindow00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallWindow00.png\")",
     "VFX": "Yes",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10117,7 +10117,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white-brick wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallBrick00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallBrick00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10152,7 +10152,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white-chocolate wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallChocolate01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallChocolate01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10187,7 +10187,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white-rose wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallRose02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallRose02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10222,7 +10222,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "white-shelving wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallShelf00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallShelf00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10257,7 +10257,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "wild-wood wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallWildWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallWildWood00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -10292,7 +10292,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "wooden-knot wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallCedar00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallCedar00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -10327,7 +10327,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "wooden-mosaic wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallMixPlankWood00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallMixPlankWood00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -10362,7 +10362,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "woodland wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallJukai00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallJukai00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "Yes",
@@ -10397,7 +10397,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "yellow flower-print wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlower02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFlower02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10432,7 +10432,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "yellow heart-pattern wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallHeart02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallHeart02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10467,7 +10467,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "yellow intricate wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallFlowerPop01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallFlowerPop01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10502,7 +10502,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "yellow playroom wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallToy03.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallToy03.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10537,7 +10537,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "yellow quilt wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallDollhouse02.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallDollhouse02.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10572,7 +10572,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "yellow simple-cloth wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallSimple01.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallSimple01.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10607,7 +10607,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "yellow-paint wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStucco00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStucco00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10642,7 +10642,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "yellow-striped wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallStripe04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallStripe04.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10677,7 +10677,7 @@
   {
     "SourceSheet": "Wallpaper",
     "Name": "zen architecture wall",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/RoomTexWallTwotone00.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallTwotone00.png\")",
     "VFX": "No",
     "VFX Type": "NA",
     "DIY": "No",
@@ -10708,5 +10708,215 @@
     "Filename": "RoomTexWallTwotone00",
     "Internal ID": 13333,
     "Unique Entry ID": "puwFr4WzMEfameWnz"
+  },
+  {
+    "SourceSheet": "Wallpaper",
+    "Name": "chic LEGO® wall",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLego03.png\")",
+    "VFX": "No",
+    "VFX Type": "NA",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Gray",
+    "Color 2": "Gray",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Window Type": "None",
+    "Window Color": "NA",
+    "Pane Type": "NA",
+    "Curtain Type": "None",
+    "Curtain Color": "NA",
+    "Ceiling Type": "Plain",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Lego",
+    "Tag": "LEGO Walls",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomTexWallLego03",
+    "Internal ID": 1292,
+    "Unique Entry ID": "xG5WsXZmDzvxPBiMS"
+  },
+  {
+    "SourceSheet": "Wallpaper",
+    "Name": "colorful LEGO® wall",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLego00.png\")",
+    "VFX": "No",
+    "VFX Type": "NA",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Yellow",
+    "Color 2": "Yellow",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Window Type": "None",
+    "Window Color": "NA",
+    "Pane Type": "NA",
+    "Curtain Type": "None",
+    "Curtain Color": "NA",
+    "Ceiling Type": "Plain",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Lego",
+    "Tag": "LEGO Walls",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomTexWallLego00",
+    "Internal ID": 1282,
+    "Unique Entry ID": "nhwkuBYzogRZ684o9"
+  },
+  {
+    "SourceSheet": "Wallpaper",
+    "Name": "cute LEGO® wall",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLego02.png\")",
+    "VFX": "No",
+    "VFX Type": "NA",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Pink",
+    "Color 2": "Pink",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Window Type": "None",
+    "Window Color": "NA",
+    "Pane Type": "NA",
+    "Curtain Type": "None",
+    "Curtain Color": "NA",
+    "Ceiling Type": "Plain",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Lego",
+    "Tag": "LEGO Walls",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomTexWallLego02",
+    "Internal ID": 1291,
+    "Unique Entry ID": "q9oMMzxz2AEYTuJZ7"
+  },
+  {
+    "SourceSheet": "Wallpaper",
+    "Name": "Eeltail Alley wall",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallSplatoon00.png\")",
+    "VFX": "Yes",
+    "VFX Type": "Synchro",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "White",
+    "Color 2": "Aqua",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Window Type": "None",
+    "Window Color": "NA",
+    "Pane Type": "NA",
+    "Curtain Type": "None",
+    "Curtain Color": "NA",
+    "Ceiling Type": "Plain",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Splatoon",
+    "Tag": "Splatoon Walls",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomSpWallSplatoon00",
+    "Internal ID": 1140,
+    "Unique Entry ID": "efdsxy8td4sWzMQBw"
+  },
+  {
+    "SourceSheet": "Wallpaper",
+    "Name": "Korok Forest wall",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomSpWallZeldaForest00.png\")",
+    "VFX": "Yes",
+    "VFX Type": "NA",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "Green",
+    "Color 2": "Green",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Window Type": "None",
+    "Window Color": "NA",
+    "Pane Type": "NA",
+    "Curtain Type": "None",
+    "Curtain Color": "NA",
+    "Ceiling Type": "Plain",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "fantasy",
+    "HHA Concept 2": "ancient",
+    "HHA Series": "Zelda",
+    "Tag": "Zelda Walls",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomSpWallZeldaForest00",
+    "Internal ID": 1057,
+    "Unique Entry ID": "AWM5mc797FNs8RY3z"
+  },
+  {
+    "SourceSheet": "Wallpaper",
+    "Name": "modern LEGO® wall",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/RoomTexWallLego01.png\")",
+    "VFX": "No",
+    "VFX Type": "NA",
+    "DIY": "No",
+    "Buy": 3000,
+    "Sell": 750,
+    "Color 1": "White",
+    "Color 2": "Colorful",
+    "Exchange Price": "NA",
+    "Exchange Currency": "NA",
+    "Source": "Nook Shopping Promotion",
+    "Source Notes": "",
+    "Season/Event": "NA",
+    "Season/Event Exclusive": "NA",
+    "Window Type": "None",
+    "Window Color": "NA",
+    "Pane Type": "NA",
+    "Curtain Type": "None",
+    "Curtain Color": "NA",
+    "Ceiling Type": "Plain",
+    "HHA Base Points": 201,
+    "HHA Concept 1": "child's room",
+    "HHA Concept 2": "None",
+    "HHA Series": "Lego",
+    "Tag": "LEGO Walls",
+    "Catalog": "Not in catalog",
+    "Version Added": "3.0.0",
+    "Unlocked?": "Yes",
+    "Filename": "RoomTexWallLego01",
+    "Internal ID": 1290,
+    "Unique Entry ID": "5aY2FCma48tNnG6gM"
   }
 ]
