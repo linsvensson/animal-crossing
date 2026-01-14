@@ -1464,10 +1464,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Purple" ]
       },
@@ -2331,10 +2331,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -2606,10 +2606,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -2881,8 +2881,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "グレー",
-          "kRko": "그레이",
+          "jPja": "灰色",
+          "kRko": "회색",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -3073,6 +3073,8 @@
         "internalId": 11030,
         "uniqueEntryId": "r9N2a2TYhvXBKiihn",
         "variantTranslations": {
+          "sourceSheet": "Item Variant Names",
+          "id": 856,
           "eUde": "Weiß",
           "eUen": "White",
           "eUit": "Bianco",
@@ -3083,10 +3085,11 @@
           "uSen": "White",
           "uSfr": "Blanc",
           "uSes": "Blanco",
-          "jPja": "白",
-          "kRko": "하얀색",
+          "jPja": "ホワイト",
+          "kRko": "화이트",
           "tWzh": "白色",
-          "cNzh": "白色"
+          "cNzh": "白色",
+          "plural": false
         },
         "colors": [ "White", "White" ]
       },
@@ -3108,6 +3111,8 @@
         "internalId": 5738,
         "uniqueEntryId": "4SLmXuCkS4eBjPbLn",
         "variantTranslations": {
+          "sourceSheet": "Item Pattern Names",
+          "id": 856,
           "eUde": "Rosa",
           "eUen": "Pink",
           "eUit": "Rosa",
@@ -3121,7 +3126,8 @@
           "jPja": "ピンク",
           "kRko": "핑크",
           "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "cNzh": "粉红",
+          "plural": false
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -3143,6 +3149,8 @@
         "internalId": 11028,
         "uniqueEntryId": "79zoWzHvMBJYcwuAy",
         "variantTranslations": {
+          "sourceSheet": "Item Pattern Names",
+          "id": 856,
           "eUde": "Gelb",
           "eUen": "Yellow",
           "eUit": "Giallo",
@@ -3156,7 +3164,8 @@
           "jPja": "イエロー",
           "kRko": "옐로",
           "tWzh": "黃色",
-          "cNzh": "黄色"
+          "cNzh": "黄色",
+          "plural": false
         },
         "colors": [ "Yellow", "Yellow" ]
       },
@@ -3178,6 +3187,8 @@
         "internalId": 11029,
         "uniqueEntryId": "F3PoMop5MGyaxtKjZ",
         "variantTranslations": {
+          "sourceSheet": "Item Pattern Names",
+          "id": 856,
           "eUde": "Grün",
           "eUen": "Green",
           "eUit": "Verde",
@@ -3191,7 +3202,8 @@
           "jPja": "グリーン",
           "kRko": "그린",
           "tWzh": "綠色",
-          "cNzh": "绿色"
+          "cNzh": "绿色",
+          "plural": false
         },
         "colors": [ "Green", "Green" ]
       },
@@ -3213,6 +3225,8 @@
         "internalId": 11027,
         "uniqueEntryId": "9wWYKTtMdo9pWqfsM",
         "variantTranslations": {
+          "sourceSheet": "Item Pattern Names",
+          "id": 856,
           "eUde": "Blau",
           "eUen": "Blue",
           "eUit": "Blu",
@@ -3226,7 +3240,8 @@
           "jPja": "ブルー",
           "kRko": "블루",
           "tWzh": "藍色",
-          "cNzh": "蓝色"
+          "cNzh": "蓝色",
+          "plural": false
         },
         "colors": [ "Aqua", "Aqua" ]
       }
@@ -3393,10 +3408,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -3725,7 +3740,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancio",
+          "eUit": "Arancione",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -3733,8 +3748,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "オレンジ",
-          "kRko": "오렌지",
+          "jPja": "橙",
+          "kRko": "귤색",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -5759,8 +5774,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "グレー",
-          "kRko": "그레이",
+          "jPja": "灰色",
+          "kRko": "회색",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -5829,10 +5844,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -5856,7 +5871,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancio",
+          "eUit": "Arancione",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -5864,8 +5879,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "オレンジ",
-          "kRko": "오렌지",
+          "jPja": "橙",
+          "kRko": "귤색",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -6384,7 +6399,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancio",
+          "eUit": "Arancione",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -6392,8 +6407,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "オレンジ",
-          "kRko": "오렌지",
+          "jPja": "橙",
+          "kRko": "귤색",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -6709,10 +6724,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -7346,10 +7361,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -8254,10 +8269,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -9211,10 +9226,10 @@
         "internalId": 271,
         "uniqueEntryId": "FKCBZCF27pK5iMz3N",
         "variantTranslations": {
-          "eUde": "Rosa-gelb",
+          "eUde": "Pink-gelb",
           "eUen": "Pink & yellow",
           "eUit": "Rosa e giallo",
-          "eUnl": "Roze-geel",
+          "eUnl": "Roze en geel",
           "eUru": "Розовый с желтым",
           "eUfr": "Rose et jaune",
           "eUes": "Rosa y amarillo",
@@ -9676,8 +9691,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "グレー",
-          "kRko": "그레이",
+          "jPja": "灰色",
+          "kRko": "회색",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -9994,7 +10009,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancio",
+          "eUit": "Arancione",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -10002,8 +10017,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "オレンジ",
-          "kRko": "오렌지",
+          "jPja": "橙",
+          "kRko": "귤색",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -11387,10 +11402,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -11973,8 +11988,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "グレー",
-          "kRko": "그레이",
+          "jPja": "灰色",
+          "kRko": "회색",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -12453,8 +12468,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "グレー",
-          "kRko": "그레이",
+          "jPja": "灰色",
+          "kRko": "회색",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -12833,10 +12848,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -13930,10 +13945,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Purple" ]
       },
@@ -14248,7 +14263,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancio",
+          "eUit": "Arancione",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -14256,8 +14271,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "オレンジ",
-          "kRko": "오렌지",
+          "jPja": "橙",
+          "kRko": "귤색",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -14574,7 +14589,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancio",
+          "eUit": "Arancione",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -14582,8 +14597,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "オレンジ",
-          "kRko": "오렌지",
+          "jPja": "橙",
+          "kRko": "귤색",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -14652,10 +14667,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Purple", "Pink" ]
       }
@@ -14882,10 +14897,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -14909,7 +14924,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancio",
+          "eUit": "Arancione",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -14917,8 +14932,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "オレンジ",
-          "kRko": "오렌지",
+          "jPja": "橙",
+          "kRko": "귤색",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },
@@ -15173,10 +15188,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Pink" ]
       },
@@ -15378,8 +15393,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "グレー",
-          "kRko": "그레이",
+          "jPja": "灰色",
+          "kRko": "회색",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -15618,8 +15633,8 @@
           "uSen": "Gray",
           "uSfr": "Gris",
           "uSes": "Gris",
-          "jPja": "グレー",
-          "kRko": "그레이",
+          "jPja": "灰色",
+          "kRko": "회색",
           "tWzh": "灰色",
           "cNzh": "灰色"
         },
@@ -15990,10 +16005,10 @@
           "uSen": "Pink",
           "uSfr": "Rose",
           "uSes": "Rosa",
-          "jPja": "ピンク",
-          "kRko": "핑크",
-          "tWzh": "粉紅色",
-          "cNzh": "粉红"
+          "jPja": "桃色",
+          "kRko": "분홍색",
+          "tWzh": "桃紅色",
+          "cNzh": "桃红色"
         },
         "colors": [ "Pink", "Black" ]
       },
@@ -17179,7 +17194,7 @@
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
-          "eUit": "Arancio",
+          "eUit": "Arancione",
           "eUnl": "Oranje",
           "eUru": "Оранжевый",
           "eUfr": "Orange",
@@ -17187,8 +17202,8 @@
           "uSen": "Orange",
           "uSfr": "Orange",
           "uSes": "Naranja",
-          "jPja": "オレンジ",
-          "kRko": "오렌지",
+          "jPja": "橙",
+          "kRko": "귤색",
           "tWzh": "橘色",
           "cNzh": "橘色"
         },

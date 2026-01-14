@@ -30,6 +30,7 @@ export const categories = {
     'Umbrellas',
     'Wall-mounted',
     'Wallpaper',
+    'Interior Structures',
   ],
   Achievements: ['Achievements'],
   Creatures: ['Fish', 'Insects', 'Sea Creatures'],

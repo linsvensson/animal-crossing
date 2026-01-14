@@ -1252,6 +1252,7 @@ export enum ItemSourceSheet {
   Umbrellas = 'Umbrellas',
   WallMounted = 'Wall-mounted',
   Wallpaper = 'Wallpaper',
+  InteriorStructures = 'Interior Structures',
 }
 
 export enum Style {

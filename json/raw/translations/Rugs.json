@@ -1,6 +1,24 @@
 [
   {
     "SourceSheet": "Rugs",
+    "Id": "Rug_01293",
+    "EUde": "LEGO®-Weltraum-Teppich",
+    "EUen": "LEGO® space logo rug",
+    "EUit": "tappeto logo spazio LEGO®",
+    "EUnl": "LEGO®-ruimtelogotapijt",
+    "EUru": "космический ковер LEGO®",
+    "EUfr": "tapis logo espace LEGO®",
+    "EUes": "alfombra LEGO® espacial",
+    "USen": "LEGO® space logo rug",
+    "USfr": "tapis logo espace LEGO®",
+    "USes": "alfombra LEGO® espacial",
+    "JPja": "LEGO®スペースミッションラグ",
+    "KRko": "LEGO® 우주 미션 러그",
+    "TWzh": "LEGO®太空任務地毯",
+    "CNzh": "LEGO®太空任务地毯"
+  },
+  {
+    "SourceSheet": "Rugs",
     "Id": "Rug_07322",
     "EUde": "Rosa-Herzteppich",
     "EUen": "pink heart rug",

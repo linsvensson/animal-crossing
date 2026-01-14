@@ -1,6 +1,24 @@
 [
   {
     "SourceSheet": "Umbrellas",
+    "Id": "Umbrella_01260",
+    "EUde": "Hotelschirm",
+    "EUen": "hotel umbrella",
+    "EUit": "ombrello dell'hotel",
+    "EUnl": "hotelparaplu",
+    "EUru": "отельный зонт",
+    "EUfr": "parapluie d'hôtel",
+    "EUes": "paraguas del hotel",
+    "USen": "hotel umbrella",
+    "USfr": "parapluie d'hôtel",
+    "USes": "paraguas del hotel",
+    "JPja": "ホテルのかさ",
+    "KRko": "호텔 우산",
+    "TWzh": "旅館雨傘",
+    "CNzh": "旅馆雨伞"
+  },
+  {
+    "SourceSheet": "Umbrellas",
     "Id": "Umbrella_05861",
     "EUde": "Punkteschirm",
     "EUen": "Toad parasol",
