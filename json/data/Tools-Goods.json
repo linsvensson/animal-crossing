@@ -57,7 +57,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickEgg.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickEgg.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -505,7 +505,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "axe",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolAxe.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolAxe.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -610,7 +610,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickBamboo.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickBamboo.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1890,7 +1890,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickCherryblossom.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickCherryblossom.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4016,7 +4016,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cosmos wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickCosmos.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickCosmos.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -5920,7 +5920,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "fishing rod",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolAngling.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolAngling.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -6024,7 +6024,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy axe",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolAxeStone.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolAxeStone.png",
       "imageSh": null,
       "buy": 280,
       "sell": 200,
@@ -6111,7 +6111,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy fishing rod",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolFishingrodWood.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolFishingrodWood.png",
       "imageSh": null,
       "buy": 280,
       "sell": 200,
@@ -6198,7 +6198,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy net",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolNet.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolNet.png",
       "imageSh": null,
       "buy": 280,
       "sell": 200,
@@ -6283,7 +6283,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy shovel",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolShovelWood.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolShovelWood.png",
       "imageSh": null,
       "buy": 280,
       "sell": 200,
@@ -6368,7 +6368,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "flimsy watering can",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolWateringWood.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolWateringWood.png",
       "imageSh": null,
       "buy": 280,
       "sell": 200,
@@ -6565,7 +6565,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "foxtail",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolFoxtailPlayer.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolFoxtailPlayer.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -6725,7 +6725,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden axe",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolAxeGold.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolAxeGold.png",
       "imageSh": null,
       "buy": -1,
       "sell": null,
@@ -6829,7 +6829,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden ladder set-up kit",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/LadderKitD.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/LadderKitD.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -6933,7 +6933,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden net",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolNetGold.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolNetGold.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7037,7 +7037,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden rod",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolFishingrodGold.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolFishingrodGold.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7141,7 +7141,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden shovel",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolScoopGold.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolScoopGold.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7245,7 +7245,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden slingshot",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolSlingshotGold.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolSlingshotGold.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7349,7 +7349,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickGolden.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickGolden.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7432,7 +7432,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden watering can",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolWateringGold.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolWateringGold.png",
       "imageSh": null,
       "buy": -1,
       "sell": null,
@@ -7924,7 +7924,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hyacinth wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickHyacinth.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickHyacinth.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8028,7 +8028,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ice wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickSnow.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickSnow.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8208,7 +8208,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron ladder set-up kit",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/LadderKitC0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/LadderKitC0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8312,7 +8312,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickIron.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickIron.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8395,7 +8395,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ladder",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolLadder.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolLadder.png",
       "imageSh": null,
       "buy": 500,
       "sell": 200,
@@ -8537,7 +8537,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lily wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickYuri.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickYuri.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9046,7 +9046,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mums wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickChrysanthemum.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickChrysanthemum.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9321,7 +9321,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mushroom wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickMushroom.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickMushroom.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9707,7 +9707,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "net",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolNetNormal.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolNetNormal.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9811,7 +9811,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "nice branch",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolBranchPlayer.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolBranchPlayer.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9894,7 +9894,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ocarina",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolOcarina.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolOcarina.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -11792,7 +11792,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pan flute",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolPanpipe.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolPanpipe.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -11875,7 +11875,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pansy wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickPansy.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickPansy.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -13612,7 +13612,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rose wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickRose.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickRose.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -13773,7 +13773,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shamrock wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickShamrock.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickShamrock.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -13877,7 +13877,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shell wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickShell.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickShell.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -14263,7 +14263,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shovel",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolScoop.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolScoop.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -14708,7 +14708,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "slingshot",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolSlingshot.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolSlingshot.png",
       "imageSh": null,
       "buy": 300,
       "sell": 200,
@@ -14982,7 +14982,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "spooky treats basket",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolBasketHalloween.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolBasketHalloween.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -15106,7 +15106,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "spooky wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickHalloween.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickHalloween.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -15549,7 +15549,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "star wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolChangeStick.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolChangeStick.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -15689,7 +15689,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone axe",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolAxeStoneNormal.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolAxeStoneNormal.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16198,7 +16198,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tree-branch wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickTree.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickTree.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16281,7 +16281,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tulip wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickTulip.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickTulip.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16631,7 +16631,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "vaulting pole",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/LongWoodenStick.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/LongWoodenStick.png",
       "imageSh": null,
       "buy": 500,
       "sell": 200,
@@ -16811,7 +16811,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "vine ladder set-up kit",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/LadderKitA0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/LadderKitA0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16933,7 +16933,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickWood.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickWood.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -17298,7 +17298,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "watering can",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolWatering.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolWatering.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -17402,7 +17402,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wedding wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickJune.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickJune.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -17563,7 +17563,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "windflower wand",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ToolStickAnemones.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ToolStickAnemones.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -17875,7 +17875,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden ladder set-up kit",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/LadderKitB0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/LadderKitB0.png",
       "imageSh": null,
       "buy": 2000,
       "sell": 200,

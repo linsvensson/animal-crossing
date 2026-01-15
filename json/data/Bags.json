@@ -57,8 +57,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiAsian0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiAsian0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchiAsian0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchiAsian0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -89,8 +89,8 @@
         "colors": [ "Black", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiAsian1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiAsian1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchiAsian1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchiAsian1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -128,8 +128,8 @@
   {
     "sourceSheet": "Bags",
     "name": "Bunny Day bag",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackEgg0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackEgg0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackEgg0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackEgg0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -238,7 +238,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day bag",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagBackpackEgg0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagBackpackEgg0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -388,8 +388,8 @@
   {
     "sourceSheet": "Bags",
     "name": "DAL backpack",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDal0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDal0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackDal0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackDal0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -538,8 +538,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackQuilt6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackQuilt6.png",
         "variation": "Forest print",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -570,8 +570,8 @@
         "colors": [ "White", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackQuilt1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackQuilt1.png",
         "variation": "Flowers",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -602,8 +602,8 @@
         "colors": [ "Gray", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackQuilt2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackQuilt2.png",
         "variation": "Polka dots",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -634,8 +634,8 @@
         "colors": [ "Pink", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackQuilt7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackQuilt7.png",
         "variation": "Chick",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -666,8 +666,8 @@
         "colors": [ "Orange", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackQuilt0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackQuilt0.png",
         "variation": "M",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -698,8 +698,8 @@
         "colors": [ "Yellow", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackQuilt4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackQuilt4.png",
         "variation": "Cherries",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -730,8 +730,8 @@
         "colors": [ "Aqua", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackQuilt5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackQuilt5.png",
         "variation": "Denim with stripes",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -762,8 +762,8 @@
         "colors": [ "Blue", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackQuilt3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackQuilt3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackQuilt3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackQuilt3.png",
         "variation": "Colorful quilt design",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -801,8 +801,8 @@
   {
     "sourceSheet": "Bags",
     "name": "Nook Inc. knapsack",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackNook0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackNook0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackNook0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackNook0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -875,8 +875,8 @@
   {
     "sourceSheet": "Bags",
     "name": "Nook Inc. pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderNook0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderNook0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderNook0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderNook0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -970,8 +970,8 @@
   {
     "sourceSheet": "Bags",
     "name": "acorn pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderAcorn0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderAcorn0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderAcorn0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderAcorn0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -1042,7 +1042,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "acorn pochette",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderAcorn0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagShoulderAcorn0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1126,7 +1126,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperfashion0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaperfashion0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1158,7 +1158,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperfashion1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaperfashion1.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1271,7 +1271,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasket0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagBasket0.png",
         "variation": "Light brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1303,7 +1303,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasket2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagBasket2.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1335,7 +1335,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasket1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagBasket1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1373,8 +1373,8 @@
   {
     "sourceSheet": "Bags",
     "name": "basket pack",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBasket0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBasket0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBasket0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBasket0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -1464,7 +1464,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "basket pack",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagBackpackBasket0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagBackpackBasket0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1547,8 +1547,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiBijou0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiBijou0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchiBijou0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchiBijou0.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1579,8 +1579,8 @@
         "colors": [ "Purple", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiBijou1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiBijou1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchiBijou1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchiBijou1.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1611,8 +1611,8 @@
         "colors": [ "Pink", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiBijou2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiBijou2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchiBijou2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchiBijou2.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1705,8 +1705,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBear0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBear0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1737,8 +1737,8 @@
         "colors": [ "Beige", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBear1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBear1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1769,8 +1769,8 @@
         "colors": [ "White", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBear2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBear2.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1801,8 +1801,8 @@
         "colors": [ "Pink", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBear3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBear3.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1833,8 +1833,8 @@
         "colors": [ "Aqua", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBear4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBear4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBear4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBear4.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1927,8 +1927,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownPattern0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownPattern0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownPattern0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownPattern0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1959,8 +1959,8 @@
         "colors": [ "Yellow", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownPattern1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownPattern1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownPattern1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownPattern1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1999,7 +1999,7 @@
     "sourceSheet": "Bags",
     "name": "bread-print eco bag",
     "closetImage": null,
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagEcobread0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagEcobread0.png",
     "variation": null,
     "diy": false,
     "buy": 840,
@@ -2072,8 +2072,8 @@
   {
     "sourceSheet": "Bags",
     "name": "bug cage",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCage0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCage0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderCage0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderCage0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -2165,8 +2165,8 @@
   {
     "sourceSheet": "Bags",
     "name": "butterfly backpack",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackButterfly0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackButterfly0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackButterfly0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackButterfly0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -2352,7 +2352,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotecamouflage0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTotecamouflage0.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2384,7 +2384,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotecamouflage1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTotecamouflage1.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2422,8 +2422,8 @@
   {
     "sourceSheet": "Bags",
     "name": "canvas backpack",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTote0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTote0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTote0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTote0.png",
     "variation": null,
     "diy": false,
     "buy": 1300,
@@ -2551,8 +2551,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownCheck2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownCheck2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownCheck2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownCheck2.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2583,8 +2583,8 @@
         "colors": [ "Gray", "Brown" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownCheck3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownCheck3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownCheck3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownCheck3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2615,8 +2615,8 @@
         "colors": [ "Green", "Brown" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownCheck1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownCheck1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownCheck1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownCheck1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2647,8 +2647,8 @@
         "colors": [ "Aqua", "Brown" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownCheck0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownCheck0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownCheck0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownCheck0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2686,8 +2686,8 @@
   {
     "sourceSheet": "Bags",
     "name": "cherry-blossom pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCherryblossoms0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCherryblossoms0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderCherryblossoms0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderCherryblossoms0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -2777,7 +2777,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom pochette",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderCherryblossoms0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagShoulderCherryblossoms0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2860,8 +2860,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchi4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchi4.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2892,8 +2892,8 @@
         "colors": [ "White", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchi5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchi5.png",
         "variation": "Ash",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2924,8 +2924,8 @@
         "colors": [ "Gray", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchi1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchi1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2956,8 +2956,8 @@
         "colors": [ "Red", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchi3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchi3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2988,8 +2988,8 @@
         "colors": [ "Green", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchi2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchi2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3020,8 +3020,8 @@
         "colors": [ "Blue", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchi6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchi6.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3052,8 +3052,8 @@
         "colors": [ "Brown", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchi0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchi0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchi0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchi0.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3146,8 +3146,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCanvas2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCanvas2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderCanvas2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderCanvas2.png",
         "variation": "Ivory",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3178,8 +3178,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCanvas1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCanvas1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderCanvas1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderCanvas1.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3210,8 +3210,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderCanvas0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderCanvas0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderCanvas0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderCanvas0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3343,7 +3343,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagSecond0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagSecond0.png",
         "variation": "Light brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3375,7 +3375,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagSecond3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagSecond3.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3407,7 +3407,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagSecond2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagSecond2.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3439,7 +3439,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagSecond1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagSecond1.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3570,8 +3570,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBody3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBody3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBody3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBody3.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3605,8 +3605,8 @@
         "colors": [ "White", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBody0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBody0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBody0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBody0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3637,8 +3637,8 @@
         "colors": [ "Pink", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBody2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBody2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBody2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBody2.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3669,8 +3669,8 @@
         "colors": [ "Yellow", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBody1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBody1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBody1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBody1.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3801,8 +3801,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderDrum0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderDrum0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderDrum0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderDrum0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3833,8 +3833,8 @@
         "colors": [ "Red", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderDrum1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderDrum1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderDrum1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderDrum1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3927,8 +3927,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackDelivery0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackDelivery0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3959,8 +3959,8 @@
         "colors": [ "Black", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackDelivery5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackDelivery5.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3991,8 +3991,8 @@
         "colors": [ "Pink", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackDelivery3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackDelivery3.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4023,8 +4023,8 @@
         "colors": [ "Yellow", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackDelivery2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackDelivery2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4055,8 +4055,8 @@
         "colors": [ "Green", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackDelivery1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackDelivery1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4087,8 +4087,8 @@
         "colors": [ "Blue", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDelivery4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDelivery4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackDelivery4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackDelivery4.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4182,7 +4182,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperflower0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaperflower0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4214,7 +4214,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperflower1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaperflower1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4253,7 +4253,7 @@
     "sourceSheet": "Bags",
     "name": "diamond-weave basket bag",
     "closetImage": null,
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasketdiagram0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagBasketdiagram0.png",
     "variation": null,
     "diy": false,
     "buy": 1280,
@@ -4438,8 +4438,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownYumekawa0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownYumekawa0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownYumekawa0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownYumekawa0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4470,8 +4470,8 @@
         "colors": [ "Pink", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownYumekawa1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownYumekawa1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownYumekawa1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownYumekawa1.png",
         "variation": "Mint",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4509,8 +4509,8 @@
   {
     "sourceSheet": "Bags",
     "name": "dreamy pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderYumekawa0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderYumekawa0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderYumekawa0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderYumekawa0.png",
     "variation": null,
     "diy": false,
     "buy": 1080,
@@ -4602,8 +4602,8 @@
   {
     "sourceSheet": "Bags",
     "name": "dreamy ribbon pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderYumekawaRibbon0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderYumekawaRibbon0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderYumekawaRibbon0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderYumekawaRibbon0.png",
     "variation": null,
     "diy": false,
     "buy": 1080,
@@ -4695,8 +4695,8 @@
   {
     "sourceSheet": "Bags",
     "name": "dreamy unicorn pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderYumekawaUnicorn0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderYumekawaUnicorn0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderYumekawaUnicorn0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderYumekawaUnicorn0.png",
     "variation": null,
     "diy": false,
     "buy": 1160,
@@ -4862,8 +4862,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDry0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDry0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackDry0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackDry0.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4897,8 +4897,8 @@
         "colors": [ "Yellow", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackDry1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackDry1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackDry1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackDry1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4995,7 +4995,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperelectric0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaperelectric0.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5030,7 +5030,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperelectric1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaperelectric1.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5062,7 +5062,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperelectric3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaperelectric3.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5097,7 +5097,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaperelectric2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaperelectric2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5212,8 +5212,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderParty2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderParty2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderParty2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderParty2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5244,8 +5244,8 @@
         "colors": [ "Black", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderParty0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderParty0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderParty0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderParty0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5276,8 +5276,8 @@
         "colors": [ "Pink", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderParty1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderParty1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderParty1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderParty1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5389,8 +5389,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMountain2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMountain2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMountain2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMountain2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5424,8 +5424,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMountain0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMountain0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMountain0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMountain0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5456,8 +5456,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMountain1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMountain1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMountain1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMountain1.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5488,8 +5488,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMountain3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMountain3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMountain3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMountain3.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5601,8 +5601,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFakefur0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFakefur0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderFakefur0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderFakefur0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5633,8 +5633,8 @@
         "colors": [ "Pink", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFakefur1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFakefur1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderFakefur1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderFakefur1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5672,8 +5672,8 @@
   {
     "sourceSheet": "Bags",
     "name": "fish pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFish0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFish0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderFish0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderFish0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -5771,7 +5771,7 @@
     "sourceSheet": "Bags",
     "name": "fish-print eco bag",
     "closetImage": null,
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagEcofish0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagEcofish0.png",
     "variation": null,
     "diy": false,
     "buy": 840,
@@ -5845,7 +5845,7 @@
     "sourceSheet": "Bags",
     "name": "flower-print eco bag",
     "closetImage": null,
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagEcoflower0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagEcoflower0.png",
     "variation": null,
     "diy": false,
     "buy": 840,
@@ -5992,8 +5992,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackLid2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackLid2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackLid2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackLid2.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6024,8 +6024,8 @@
         "colors": [ "Gray", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackLid3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackLid3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackLid3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackLid3.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6056,8 +6056,8 @@
         "colors": [ "Pink", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackLid0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackLid0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackLid0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackLid0.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6088,8 +6088,8 @@
         "colors": [ "Green", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackLid1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackLid1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackLid1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackLid1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6183,7 +6183,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagFuroshiki0.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6215,7 +6215,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagFuroshiki4.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6247,7 +6247,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagFuroshiki3.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6279,7 +6279,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagFuroshiki2.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6311,7 +6311,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagFuroshiki1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6343,7 +6343,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagFuroshiki5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagFuroshiki5.png",
         "variation": "Gold",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6381,8 +6381,8 @@
   {
     "sourceSheet": "Bags",
     "name": "grape-harvest basket",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHarvest0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHarvest0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHarvest0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHarvest0.png",
     "variation": null,
     "diy": false,
     "buy": 800,
@@ -6586,8 +6586,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderPattern0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderPattern0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderPattern0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderPattern0.png",
         "variation": "Pop",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6618,8 +6618,8 @@
         "colors": [ "Pink", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderPattern1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderPattern1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderPattern1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderPattern1.png",
         "variation": "Cool",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6712,8 +6712,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderRace0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderRace0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderRace0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderRace0.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6744,8 +6744,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderRace1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderRace1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderRace1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderRace1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6857,8 +6857,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHardshell2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHardshell2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHardshell2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHardshell2.png",
         "variation": "Silver",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6889,8 +6889,8 @@
         "colors": [ "Gray", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHardshell1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHardshell1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHardshell1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHardshell1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6921,8 +6921,8 @@
         "colors": [ "Red", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHardshell0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHardshell0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHardshell0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHardshell0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6955,6 +6955,80 @@
     ],
     "styles": [ "Cool", "Active" ],
     "themes": [ "outdoorsy", "work" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Bags",
+    "name": "hero's sword and shield",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMasterswordHylianshield0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMasterswordHylianshield0.png",
+    "variation": null,
+    "diy": false,
+    "buy": 5000,
+    "sell": 1250,
+    "hhaBasePoints": 201,
+    "size": "1x1",
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "seasonalAvailability": "All Year",
+    "seasonality": "All Year",
+    "gender": "Free",
+    "sortOrder": 1,
+    "villagerEquippable": false,
+    "catalog": null,
+    "versionAdded": "3.0.0",
+    "unlocked": true,
+    "filename": "BagBackpackMasterswordHylianshield0",
+    "clothGroupId": 1554,
+    "internalId": 1044,
+    "uniqueEntryId": "S7SxMrJcgrQrMsFS7",
+    "themesTranslations": {
+      "fairy tale": {
+        "sourceSheet": "Fashion Themes",
+        "id": "Fairyland",
+        "eUde": "Märchenkleidung",
+        "eUen": "fairy tale",
+        "eUit": "da fiaba",
+        "eUnl": "sprookjesthema",
+        "eUru": "фантазийный",
+        "eUfr": "tenue féerique",
+        "eUes": "de fantasía",
+        "uSen": "fairy tale",
+        "uSfr": "tenue féérique",
+        "uSes": "de fantasía",
+        "jPja": "メルヘン",
+        "kRko": "메르헨",
+        "tWzh": "童話世界",
+        "cNzh": "童话世界",
+        "plural": false
+      }
+    },
+    "translations": {
+      "sourceSheet": "Bags",
+      "id": "1554",
+      "eUde": "Heldenschwert mit Schild",
+      "eUen": "hero's sword and shield",
+      "eUit": "spada dell'eroe con scudo",
+      "eUnl": "heldenzwaard en -schild",
+      "eUru": "меч со щитом Героя",
+      "eUfr": "épée du Héros et bouclier",
+      "eUes": "espada y escudo del héroe",
+      "uSen": "hero's sword and shield",
+      "uSfr": "épée du Héros et bouclier",
+      "uSes": "espada y escudo del héroe",
+      "jPja": "ゆうしゃのけんとたて",
+      "kRko": "용사의 검과 방패",
+      "tWzh": "勇者的劍與盾",
+      "cNzh": "勇者的剑与盾",
+      "plural": false
+    },
+    "colors": [ "Blue", "Gray" ],
+    "styles": [ "Simple", "Cool" ],
+    "themes": [ "fairy tale" ],
     "recipe": null
   },
   {
@@ -7053,8 +7127,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHalloween2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHalloween2.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7085,8 +7159,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHalloween5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHalloween5.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7117,8 +7191,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHalloween4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHalloween4.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7149,8 +7223,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHalloween0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHalloween0.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7181,8 +7255,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHalloween3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHalloween3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7213,8 +7287,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackHalloween1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackHalloween1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackHalloween1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackHalloween1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7247,6 +7321,80 @@
     ],
     "styles": [ "Cool", "Cool" ],
     "themes": [ "fairy tale", "goth", "party" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Bags",
+    "name": "ink tank",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackInktank0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackInktank0.png",
+    "variation": null,
+    "diy": false,
+    "buy": 2500,
+    "sell": 625,
+    "hhaBasePoints": 201,
+    "size": "1x1",
+    "exchangePrice": null,
+    "exchangeCurrency": null,
+    "source": [ "Nook Shopping Promotion" ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "seasonalAvailability": "All Year",
+    "seasonality": "All Year",
+    "gender": "Free",
+    "sortOrder": 1,
+    "villagerEquippable": false,
+    "catalog": null,
+    "versionAdded": "3.0.0",
+    "unlocked": true,
+    "filename": "BagBackpackInktank0",
+    "clothGroupId": 1550,
+    "internalId": 1258,
+    "uniqueEntryId": "LRpwTw5vqnRLKpa2W",
+    "themesTranslations": {
+      "sporty": {
+        "sourceSheet": "Fashion Themes",
+        "id": "Sport",
+        "eUde": "Sportkleidung",
+        "eUen": "sporty",
+        "eUit": "da sport",
+        "eUnl": "sportthema",
+        "eUru": "спортивный",
+        "eUfr": "tenue sport",
+        "eUes": "deportivo",
+        "uSen": "sporty",
+        "uSfr": "tenue sport",
+        "uSes": "deportivo",
+        "jPja": "スポーツ",
+        "kRko": "스포츠",
+        "tWzh": "運動",
+        "cNzh": "运动",
+        "plural": false
+      }
+    },
+    "translations": {
+      "sourceSheet": "Bags",
+      "id": "1550",
+      "eUde": "Tintentank",
+      "eUen": "ink tank",
+      "eUit": "serbatoio inchiostro",
+      "eUnl": "inkttank",
+      "eUru": "баллон с краской",
+      "eUfr": "réservoir d'encre",
+      "eUes": "tanque de tinta",
+      "uSen": "ink tank",
+      "uSfr": "réservoir d'encre",
+      "uSes": "tanque de tinta",
+      "jPja": "インクタンク",
+      "kRko": "잉크 탱크",
+      "tWzh": "墨汁槽",
+      "cNzh": "墨汁槽",
+      "plural": false
+    },
+    "colors": [ "Yellow", "Black" ],
+    "styles": [ "Active", "Cool" ],
+    "themes": [ "sporty" ],
     "recipe": null
   },
   {
@@ -7326,8 +7474,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMusician0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMusician0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7358,8 +7506,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMusician1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMusician1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7390,8 +7538,8 @@
         "colors": [ "White", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMusician3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMusician3.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7422,8 +7570,8 @@
         "colors": [ "Red", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMusician4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMusician4.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7454,8 +7602,8 @@
         "colors": [ "Pink", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackMusician2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackMusician2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackMusician2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackMusician2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7567,8 +7715,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJet0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJet0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackJet0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackJet0.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7599,8 +7747,8 @@
         "colors": [ "Gray", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJet1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJet1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackJet1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackJet1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7631,8 +7779,8 @@
         "colors": [ "Black", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJet2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJet2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackJet2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackJet2.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7763,8 +7911,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackKnapsack1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackKnapsack1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackKnapsack1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackKnapsack1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7795,8 +7943,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackKnapsack0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackKnapsack0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackKnapsack0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackKnapsack0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7834,8 +7982,8 @@
   {
     "sourceSheet": "Bags",
     "name": "knitted-grass backpack",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackGrass0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackGrass0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackGrass0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackGrass0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -7944,7 +8092,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "knitted-grass backpack",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagBackpackGrass0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagBackpackGrass0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8047,8 +8195,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownLeopard0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownLeopard0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownLeopard0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownLeopard0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8079,8 +8227,8 @@
         "colors": [ "Brown", "Brown" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownLeopard1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownLeopard1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownLeopard1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownLeopard1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8111,8 +8259,8 @@
         "colors": [ "Gray", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownLeopard2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownLeopard2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownLeopard2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownLeopard2.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8143,8 +8291,8 @@
         "colors": [ "Pink", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownLeopard3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownLeopard3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownLeopard3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownLeopard3.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8182,8 +8330,8 @@
   {
     "sourceSheet": "Bags",
     "name": "log pack",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackWood0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackWood0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackWood0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackWood0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -8292,7 +8440,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "log pack",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagBackpackWood0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagBackpackWood0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8376,7 +8524,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaper0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaper0.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8408,7 +8556,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaper1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaper1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8440,7 +8588,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagPaper2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagPaper2.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8534,7 +8682,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotelogo0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTotelogo0.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8566,7 +8714,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotelogo1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTotelogo1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8598,7 +8746,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTotelogo2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTotelogo2.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8636,8 +8784,8 @@
   {
     "sourceSheet": "Bags",
     "name": "maple-leaf pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderMaple0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderMaple0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderMaple0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderMaple0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -8708,7 +8856,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "maple-leaf pochette",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderMaple0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagShoulderMaple0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8829,8 +8977,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderMessenger2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderMessenger2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderMessenger2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderMessenger2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8861,8 +9009,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderMessenger1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderMessenger1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderMessenger1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderMessenger1.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8893,8 +9041,8 @@
         "colors": [ "Orange", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderMessenger0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderMessenger0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderMessenger0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderMessenger0.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9025,8 +9173,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSmall0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSmall0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSmall0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSmall0.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9057,8 +9205,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSmall1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSmall1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSmall1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSmall1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9170,8 +9318,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackOutdoor1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackOutdoor1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackOutdoor1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackOutdoor1.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9202,8 +9350,8 @@
         "colors": [ "Orange", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackOutdoor0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackOutdoor0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackOutdoor0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackOutdoor0.png",
         "variation": "Avocado",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9234,8 +9382,8 @@
         "colors": [ "Green", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackOutdoor2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackOutdoor2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackOutdoor2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackOutdoor2.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9347,8 +9495,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackPanda0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackPanda0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackPanda0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackPanda0.png",
         "variation": "Black & white",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9379,8 +9527,8 @@
         "colors": [ "White", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackPanda1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackPanda1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackPanda1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackPanda1.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9492,8 +9640,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBodybag1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBodybag1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBodybag1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBodybag1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9524,8 +9672,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackBodybag0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackBodybag0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackBodybag0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackBodybag0.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9656,8 +9804,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFringe1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFringe1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderFringe1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderFringe1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9688,8 +9836,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFringe0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFringe0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderFringe0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderFringe0.png",
         "variation": "Camel",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9821,7 +9969,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagLeather0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9853,7 +10001,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagLeather3.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9885,7 +10033,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagLeather1.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9917,7 +10065,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagLeather4.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9949,7 +10097,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagLeather2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9981,7 +10129,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagLeather5.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10013,7 +10161,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagLeather6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagLeather6.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10125,8 +10273,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderLeather1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderLeather1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderLeather1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderLeather1.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10157,8 +10305,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderLeather0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderLeather0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderLeather0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderLeather0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10251,8 +10399,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownDot3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownDot3.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10283,8 +10431,8 @@
         "colors": [ "Red", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownDot0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownDot0.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10315,8 +10463,8 @@
         "colors": [ "Yellow", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownDot1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownDot1.png",
         "variation": "Lime",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10347,8 +10495,8 @@
         "colors": [ "Green", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownDot2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownDot2.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10379,8 +10527,8 @@
         "colors": [ "Aqua", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownDot4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownDot4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownDot4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownDot4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10492,8 +10640,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTasukiprom4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTasukiprom4.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10524,8 +10672,8 @@
         "colors": [ "White", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTasukiprom5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTasukiprom5.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10556,8 +10704,8 @@
         "colors": [ "Black", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTasukiprom0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTasukiprom0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10588,8 +10736,8 @@
         "colors": [ "Red", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTasukiprom6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTasukiprom6.png",
         "variation": "Gold",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10620,8 +10768,8 @@
         "colors": [ "Yellow", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTasukiprom2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTasukiprom2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10652,8 +10800,8 @@
         "colors": [ "Green", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTasukiprom1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTasukiprom1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10684,8 +10832,8 @@
         "colors": [ "Blue", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTasukiprom3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTasukiprom3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTasukiprom3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTasukiprom3.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10778,8 +10926,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquarePython0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquarePython0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSquarePython0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSquarePython0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10810,8 +10958,8 @@
         "colors": [ "Brown", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquarePython1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquarePython1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSquarePython1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSquarePython1.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10923,8 +11071,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackRandsel0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackRandsel0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10955,8 +11103,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackRandsel1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackRandsel1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10987,8 +11135,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackRandsel6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackRandsel6.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11019,8 +11167,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackRandsel3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackRandsel3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11051,8 +11199,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackRandsel5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackRandsel5.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11083,8 +11231,8 @@
         "colors": [ "Aqua", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackRandsel4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackRandsel4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11115,8 +11263,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackRandsel7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackRandsel7.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11147,8 +11295,8 @@
         "colors": [ "Purple", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackRandsel2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackRandsel2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackRandsel2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackRandsel2.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11260,8 +11408,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSports1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSports1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSports1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSports1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11292,8 +11440,8 @@
         "colors": [ "White", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSports0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSports0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSports0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSports0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11324,8 +11472,8 @@
         "colors": [ "White", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSports2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSports2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSports2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSports2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11437,8 +11585,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSacosh2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSacosh2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSacosh2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSacosh2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11472,8 +11620,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSacosh1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSacosh1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSacosh1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSacosh1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11507,8 +11655,8 @@
         "colors": [ "Red", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSacosh0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSacosh0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSacosh0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSacosh0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11623,8 +11771,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackStudent1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackStudent1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11655,8 +11803,8 @@
         "colors": [ "Black", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackStudent4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackStudent4.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11687,8 +11835,8 @@
         "colors": [ "Red", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackStudent3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackStudent3.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11719,8 +11867,8 @@
         "colors": [ "Blue", "Brown" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackStudent0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackStudent0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11751,8 +11899,8 @@
         "colors": [ "Brown", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStudent2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStudent2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackStudent2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackStudent2.png",
         "variation": "Camel",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11864,8 +12012,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSchoolbag0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSchoolbag0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11896,8 +12044,8 @@
         "colors": [ "Blue", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSchoolbag3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSchoolbag3.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11928,8 +12076,8 @@
         "colors": [ "Gray", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSchoolbag2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSchoolbag2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11960,8 +12108,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSchoolbag5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSchoolbag5.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11992,8 +12140,8 @@
         "colors": [ "Green", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSchoolbag1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSchoolbag1.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12024,8 +12172,8 @@
         "colors": [ "Blue", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSchoolbag4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSchoolbag4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSchoolbag4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSchoolbag4.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12063,8 +12211,8 @@
   {
     "sourceSheet": "Bags",
     "name": "shellfish pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderShell0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderShell0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderShell0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderShell0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -12154,7 +12302,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shellfish pochette",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderShell0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagShoulderShell0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -12276,8 +12424,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSimple0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSimple0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownSimple0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownSimple0.png",
         "variation": "Camel",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12308,8 +12456,8 @@
         "colors": [ "Brown", "Brown" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSimple1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSimple1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownSimple1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownSimple1.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12340,8 +12488,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSimple2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSimple2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownSimple2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownSimple2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12435,7 +12583,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTote0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12467,7 +12615,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTote2.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12499,7 +12647,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTote3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12531,7 +12679,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTote1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12563,7 +12711,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTote5.png",
         "variation": "Black & white",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12595,7 +12743,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagTote4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagTote4.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12633,8 +12781,8 @@
   {
     "sourceSheet": "Bags",
     "name": "snowflake pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSnow0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSnow0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSnow0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSnow0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -12743,7 +12891,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "snowflake pochette",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderSnow0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagShoulderSnow0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -12826,8 +12974,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSpace2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSpace2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownSpace2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownSpace2.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12858,8 +13006,8 @@
         "colors": [ "Pink", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSpace1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSpace1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownSpace1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownSpace1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12890,8 +13038,8 @@
         "colors": [ "Green", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownSpace0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownSpace0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownSpace0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownSpace0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13022,8 +13170,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSquare1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSquare1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSquare1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSquare1.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13054,8 +13202,8 @@
         "colors": [ "Pink", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSquare0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSquare0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSquare0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSquare0.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13086,8 +13234,8 @@
         "colors": [ "Yellow", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackSquare2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackSquare2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackSquare2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackSquare2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13180,8 +13328,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquare0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquare0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSquare0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSquare0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13212,8 +13360,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquare1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquare1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSquare1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSquare1.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13251,8 +13399,8 @@
   {
     "sourceSheet": "Bags",
     "name": "star pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderStar0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderStar0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderStar0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderStar0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -13361,7 +13509,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "star pochette",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderStar0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagShoulderStar0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -13389,8 +13537,8 @@
   {
     "sourceSheet": "Bags",
     "name": "straw pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderRattan0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderRattan0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderRattan0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderRattan0.png",
     "variation": null,
     "diy": false,
     "buy": 980,
@@ -13576,7 +13724,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasketborder0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagBasketborder0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13608,7 +13756,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagBasketborder1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagBasketborder1.png",
         "variation": "Black & white",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13720,8 +13868,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStuds1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStuds1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackStuds1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackStuds1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13752,8 +13900,8 @@
         "colors": [ "White", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackStuds0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackStuds0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackStuds0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackStuds0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13865,8 +14013,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSword0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSword0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSword0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSword0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13897,8 +14045,8 @@
         "colors": [ "Red", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSword1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSword1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSword1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSword1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13929,8 +14077,8 @@
         "colors": [ "Blue", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSword2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSword2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSword2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSword2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13968,8 +14116,8 @@
   {
     "sourceSheet": "Bags",
     "name": "tackle bag",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderFishing0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderFishing0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderFishing0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderFishing0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -14179,7 +14327,7 @@
     "variations": [
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagToteflower0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagToteflower0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14211,7 +14359,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagToteflower2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagToteflower2.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14243,7 +14391,7 @@
       },
       {
         "closetImage": null,
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagToteflower1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagToteflower1.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14281,8 +14429,8 @@
   {
     "sourceSheet": "Bags",
     "name": "tool bag",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTool0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTool0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTool0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTool0.png",
     "variation": null,
     "diy": false,
     "buy": 910,
@@ -14448,8 +14596,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTown3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTown3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTown3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTown3.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14480,8 +14628,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTown1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTown1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTown1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTown1.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14515,8 +14663,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTown0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTown0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTown0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTown0.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14550,8 +14698,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTown2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTown2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTown2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTown2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14666,8 +14814,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTravel0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTravel0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTravel0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTravel0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14701,8 +14849,8 @@
         "colors": [ "Pink", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTravel1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTravel1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTravel1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTravel1.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14736,8 +14884,8 @@
         "colors": [ "Green", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTravel2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTravel2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTravel2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTravel2.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14768,8 +14916,8 @@
         "colors": [ "Aqua", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderTravel3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderTravel3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderTravel3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderTravel3.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14903,8 +15051,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJourney0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJourney0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackJourney0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackJourney0.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14935,8 +15083,8 @@
         "colors": [ "Orange", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJourney1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJourney1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackJourney1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackJourney1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14967,8 +15115,8 @@
         "colors": [ "Blue", "Beige" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackJourney2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackJourney2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackJourney2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackJourney2.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15007,7 +15155,7 @@
     "sourceSheet": "Bags",
     "name": "veggie-print eco bag",
     "closetImage": null,
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/ToolBagEco0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/ToolBagEco0.png",
     "variation": null,
     "diy": false,
     "buy": 840,
@@ -15080,8 +15228,8 @@
   {
     "sourceSheet": "Bags",
     "name": "woven-vine pochette",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderVine0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderVine0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderVine0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderVine0.png",
     "variation": null,
     "diy": true,
     "buy": -1,
@@ -15171,7 +15319,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "woven-vine pochette",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/BagShoulderVine0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/BagShoulderVine0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -15274,8 +15422,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownZebra0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownZebra0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownZebra0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownZebra0.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15306,8 +15454,8 @@
         "colors": [ "White", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagBackpackTownZebra1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagBackpackTownZebra1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagBackpackTownZebra1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagBackpackTownZebra1.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15400,8 +15548,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquareZebra0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquareZebra0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSquareZebra0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSquareZebra0.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15432,8 +15580,8 @@
         "colors": [ "White", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderSquareZebra1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderSquareZebra1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderSquareZebra1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderSquareZebra1.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15529,8 +15677,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiJapan0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiJapan0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchiJapan0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchiJapan0.png",
         "variation": "Dark blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15561,8 +15709,8 @@
         "colors": [ "Blue", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiJapan1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiJapan1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchiJapan1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchiJapan1.png",
         "variation": "Wisteria",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15593,8 +15741,8 @@
         "colors": [ "Yellow", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/BagShoulderGamaguchiJapan2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/BagShoulderGamaguchiJapan2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/BagShoulderGamaguchiJapan2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/BagShoulderGamaguchiJapan2.png",
         "variation": "Sky blue",
         "exchangePrice": null,
         "exchangeCurrency": null,

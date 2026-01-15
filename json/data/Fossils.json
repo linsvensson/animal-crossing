@@ -2,7 +2,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "T. rex skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTRexA.png",
     "buy": -1,
     "sell": 6000,
     "fossilGroup": "T. Rex",
@@ -43,7 +43,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "T. rex tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTRexC.png",
     "buy": -1,
     "sell": 5000,
     "fossilGroup": "T. Rex",
@@ -84,7 +84,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "T. rex torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTRexB.png",
     "buy": -1,
     "sell": 5500,
     "fossilGroup": "T. Rex",
@@ -125,7 +125,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "acanthostega",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFourLegs.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilFirstFourLegs.png",
     "buy": -1,
     "sell": 2000,
     "fossilGroup": "acanthostega",
@@ -166,7 +166,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "amber",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmber.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAmber.png",
     "buy": -1,
     "sell": 1200,
     "fossilGroup": "amber",
@@ -207,7 +207,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "ammonite",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAmmonoidea.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAmmonoidea.png",
     "buy": -1,
     "sell": 1100,
     "fossilGroup": "ammonite",
@@ -248,7 +248,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "ankylo skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAnkylosaurusA.png",
     "buy": -1,
     "sell": 3500,
     "fossilGroup": "Ankylosaurus",
@@ -289,7 +289,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "ankylo tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAnkylosaurusC.png",
     "buy": -1,
     "sell": 2500,
     "fossilGroup": "Ankylosaurus",
@@ -330,7 +330,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "ankylo torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAnkylosaurusB.png",
     "buy": -1,
     "sell": 3000,
     "fossilGroup": "Ankylosaurus",
@@ -371,7 +371,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "anomalocaris",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAnomalocaris.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAnomalocaris.png",
     "buy": -1,
     "sell": 2000,
     "fossilGroup": "anomalocaris",
@@ -412,7 +412,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "archaeopteryx",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchaeopteryx.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilArchaeopteryx.png",
     "buy": -1,
     "sell": 1300,
     "fossilGroup": "archaeopteryx",
@@ -453,7 +453,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "archelon skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilArchelonA.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Archelon",
@@ -494,7 +494,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "archelon tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilArchelonB.png",
     "buy": -1,
     "sell": 3500,
     "fossilGroup": "Archelon",
@@ -535,7 +535,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "australopith",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilAustralopithecus.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAustralopithecus.png",
     "buy": -1,
     "sell": 1100,
     "fossilGroup": "australopith",
@@ -576,7 +576,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "brachio chest",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrachiosaurusB.png",
     "buy": -1,
     "sell": 5500,
     "fossilGroup": "Brachiosaurus",
@@ -617,7 +617,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "brachio pelvis",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrachiosaurusC.png",
     "buy": -1,
     "sell": 5000,
     "fossilGroup": "Brachiosaurus",
@@ -658,7 +658,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "brachio skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrachiosaurusA.png",
     "buy": -1,
     "sell": 6000,
     "fossilGroup": "Brachiosaurus",
@@ -699,7 +699,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "brachio tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusD.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrachiosaurusD.png",
     "buy": -1,
     "sell": 5500,
     "fossilGroup": "Brachiosaurus",
@@ -740,7 +740,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "coprolite",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilCoprolite.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilCoprolite.png",
     "buy": -1,
     "sell": 1100,
     "fossilGroup": "coprolite",
@@ -781,7 +781,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "deinony tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDeinonychusB.png",
     "buy": -1,
     "sell": 2500,
     "fossilGroup": "Deinonychus",
@@ -822,7 +822,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "deinony torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDeinonychusA.png",
     "buy": -1,
     "sell": 3000,
     "fossilGroup": "Deinonychus",
@@ -863,7 +863,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "dimetrodon skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDimetrodonA.png",
     "buy": -1,
     "sell": 5500,
     "fossilGroup": "Dimetrodon",
@@ -904,7 +904,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "dimetrodon torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDimetrodonB.png",
     "buy": -1,
     "sell": 5000,
     "fossilGroup": "Dimetrodon",
@@ -945,7 +945,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "dinosaur track",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIchnology.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilIchnology.png",
     "buy": -1,
     "sell": 1000,
     "fossilGroup": "dinosaur track",
@@ -986,7 +986,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "diplo chest",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusC.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Diplodocus",
@@ -1027,7 +1027,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "diplo neck",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusB.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Diplodocus",
@@ -1068,7 +1068,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "diplo pelvis",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusD.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusD.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Diplodocus",
@@ -1109,7 +1109,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "diplo skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusA.png",
     "buy": -1,
     "sell": 5000,
     "fossilGroup": "Diplodocus",
@@ -1150,7 +1150,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "diplo tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusE.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusE.png",
     "buy": -1,
     "sell": 5000,
     "fossilGroup": "Diplodocus",
@@ -1191,7 +1191,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "diplo tail tip",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusF.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusF.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Diplodocus",
@@ -1232,7 +1232,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "dunkleosteus",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilDunkleosteus.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDunkleosteus.png",
     "buy": -1,
     "sell": 3500,
     "fossilGroup": "dunkleosteus",
@@ -1273,7 +1273,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "eusthenopteron",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstAmphibian.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilFirstAmphibian.png",
     "buy": -1,
     "sell": 2000,
     "fossilGroup": "eusthenopteron",
@@ -1314,7 +1314,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "iguanodon skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilIguanodonA.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Iguanodon",
@@ -1355,7 +1355,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "iguanodon tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilIguanodonC.png",
     "buy": -1,
     "sell": 3000,
     "fossilGroup": "Iguanodon",
@@ -1396,7 +1396,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "iguanodon torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilIguanodonB.png",
     "buy": -1,
     "sell": 3500,
     "fossilGroup": "Iguanodon",
@@ -1437,7 +1437,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "juramaia",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstMammal.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilFirstMammal.png",
     "buy": -1,
     "sell": 1500,
     "fossilGroup": "juramaia",
@@ -1478,7 +1478,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "left megalo side",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilMegalocerosB.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Megaloceros",
@@ -1519,7 +1519,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "left ptera wing",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPteranodonC.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Pteranodon",
@@ -1560,7 +1560,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "left quetzal wing",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilQuetzalcoatlusC.png",
     "buy": -1,
     "sell": 5000,
     "fossilGroup": "Quetzalcoatlus",
@@ -1601,7 +1601,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "mammoth skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilMammothA.png",
     "buy": -1,
     "sell": 3000,
     "fossilGroup": "Mammoth",
@@ -1642,7 +1642,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "mammoth torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilMammothB.png",
     "buy": -1,
     "sell": 2500,
     "fossilGroup": "Mammoth",
@@ -1683,7 +1683,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "megacero skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrontotheriumA.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Megacerops",
@@ -1724,7 +1724,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "megacero tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrontotheriumC.png",
     "buy": -1,
     "sell": 3000,
     "fossilGroup": "Megacerops",
@@ -1765,7 +1765,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "megacero torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrontotheriumB.png",
     "buy": -1,
     "sell": 3500,
     "fossilGroup": "Megacerops",
@@ -1806,7 +1806,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "myllokunmingia",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFish.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilFirstFish.png",
     "buy": -1,
     "sell": 1500,
     "fossilGroup": "myllokunmingia",
@@ -1847,7 +1847,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "ophthalmo skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilOphthalmosaurusA.png",
     "buy": -1,
     "sell": 2500,
     "fossilGroup": "Ophthalmosaurus",
@@ -1888,7 +1888,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "ophthalmo torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilOphthalmosaurusB.png",
     "buy": -1,
     "sell": 2000,
     "fossilGroup": "Ophthalmosaurus",
@@ -1929,7 +1929,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "pachy skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPachycephalosaurusA.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Pachycephalosaurus",
@@ -1970,7 +1970,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "pachy tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPachycephalosaurusB.png",
     "buy": -1,
     "sell": 3500,
     "fossilGroup": "Pachycephalosaurus",
@@ -2011,7 +2011,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "parasaur skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilParasaurolophusA.png",
     "buy": -1,
     "sell": 3500,
     "fossilGroup": "Parasaurolophus",
@@ -2052,7 +2052,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "parasaur tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilParasaurolophusC.png",
     "buy": -1,
     "sell": 2500,
     "fossilGroup": "Parasaurolophus",
@@ -2093,7 +2093,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "parasaur torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilParasaurolophusB.png",
     "buy": -1,
     "sell": 3000,
     "fossilGroup": "Parasaurolophus",
@@ -2134,7 +2134,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "plesio skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilElasmosaurusA.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Plesiosaurus",
@@ -2175,7 +2175,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "plesio tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilElasmosaurusC.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Plesiosaurus",
@@ -2216,7 +2216,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "plesio torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilElasmosaurusB.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Plesiosaurus",
@@ -2257,7 +2257,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "ptera body",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPteranodonA.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Pteranodon",
@@ -2298,7 +2298,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "quetzal torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilQuetzalcoatlusA.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Quetzalcoatlus",
@@ -2339,7 +2339,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "right megalo side",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilMegalocerosA.png",
     "buy": -1,
     "sell": 5500,
     "fossilGroup": "Megaloceros",
@@ -2380,7 +2380,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "right ptera wing",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPteranodonB.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Pteranodon",
@@ -2421,7 +2421,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "right quetzal wing",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilQuetzalcoatlusB.png",
     "buy": -1,
     "sell": 5000,
     "fossilGroup": "Quetzalcoatlus",
@@ -2462,7 +2462,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "sabertooth skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSmilodonA.png",
     "buy": -1,
     "sell": 2500,
     "fossilGroup": "Sabertooth Tiger",
@@ -2503,7 +2503,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "sabertooth tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSmilodonB.png",
     "buy": -1,
     "sell": 2000,
     "fossilGroup": "Sabertooth Tiger",
@@ -2544,7 +2544,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "shark-tooth pattern",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilShark.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilShark.png",
     "buy": -1,
     "sell": 1000,
     "fossilGroup": "shark-tooth pattern",
@@ -2585,7 +2585,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "spino skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSpinosaurusA.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Spinosaurus",
@@ -2626,7 +2626,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "spino tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSpinosaurusC.png",
     "buy": -1,
     "sell": 2500,
     "fossilGroup": "Spinosaurus",
@@ -2667,7 +2667,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "spino torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSpinosaurusB.png",
     "buy": -1,
     "sell": 3000,
     "fossilGroup": "Spinosaurus",
@@ -2708,7 +2708,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "stego skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilStegosaurusA.png",
     "buy": -1,
     "sell": 5000,
     "fossilGroup": "Stegosaurus",
@@ -2749,7 +2749,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "stego tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilStegosaurusC.png",
     "buy": -1,
     "sell": 4000,
     "fossilGroup": "Stegosaurus",
@@ -2790,7 +2790,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "stego torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilStegosaurusB.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Stegosaurus",
@@ -2831,7 +2831,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "tricera skull",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsA.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTriceratopsA.png",
     "buy": -1,
     "sell": 5500,
     "fossilGroup": "Triceratops",
@@ -2872,7 +2872,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "tricera tail",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsC.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTriceratopsC.png",
     "buy": -1,
     "sell": 4500,
     "fossilGroup": "Triceratops",
@@ -2913,7 +2913,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "tricera torso",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsB.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTriceratopsB.png",
     "buy": -1,
     "sell": 5000,
     "fossilGroup": "Triceratops",
@@ -2954,7 +2954,7 @@
   {
     "sourceSheet": "Fossils",
     "name": "trilobite",
-    "image": "https://acnhcdn.com/latest/FtrIcon/FtrFossilTrilobite.png",
+    "image": "https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTrilobite.png",
     "buy": -1,
     "sell": 1300,
     "fossilGroup": "trilobite",

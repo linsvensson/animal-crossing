@@ -2,7 +2,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "DAL umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaDoc0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaDoc0.png",
     "diy": false,
     "buy": -1,
     "sell": 1010,
@@ -48,7 +48,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "Nook Inc. umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaRco0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaRco0.png",
     "diy": false,
     "buy": -1,
     "sell": 3500,
@@ -94,7 +94,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "Paradise Planning umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaTakumi0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaTakumi0.png",
     "diy": false,
     "buy": -1,
     "sell": 500,
@@ -140,7 +140,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "Toad parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPolkadotRed.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPolkadotRed.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -186,7 +186,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "apple umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaApple0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaApple0.png",
     "diy": true,
     "buy": -1,
     "sell": 1400,
@@ -230,7 +230,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "apple umbrella",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaApple0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/UmbrellaApple0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -278,7 +278,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "bat umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBat0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaBat0.png",
     "diy": false,
     "buy": 840,
     "sell": 210,
@@ -324,7 +324,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "beach umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBeach0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaBeach0.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -370,7 +370,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "bear umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBear0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaBear0.png",
     "diy": false,
     "buy": 1570,
     "sell": 392,
@@ -416,7 +416,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "black chic umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace5.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPacodarace5.png",
     "diy": false,
     "buy": 1620,
     "sell": 405,
@@ -462,7 +462,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "black lace umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaRace0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaRace0.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -508,7 +508,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "blue dot parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPolkadot2.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPolkadot2.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -554,7 +554,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "blue shiny-bows parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace2.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPacodarace2.png",
     "diy": false,
     "buy": 1620,
     "sell": 405,
@@ -600,7 +600,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "blue umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStandard2.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaStandard2.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -646,7 +646,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "busted umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBroken0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaBroken0.png",
     "diy": false,
     "buy": 1570,
     "sell": 392,
@@ -692,7 +692,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "camo umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaOutdoor0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaOutdoor0.png",
     "diy": false,
     "buy": 650,
     "sell": 162,
@@ -738,7 +738,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "candy umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaGingham0.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -784,7 +784,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "cherry umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaCherry0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaCherry0.png",
     "diy": true,
     "buy": -1,
     "sell": 1400,
@@ -828,7 +828,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry umbrella",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaCherry0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/UmbrellaCherry0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -876,7 +876,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "cherry-blossom umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaCherryblossom0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaCherryblossom0.png",
     "diy": true,
     "buy": -1,
     "sell": 2800,
@@ -920,7 +920,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom umbrella",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaCherryblossom0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/UmbrellaCherryblossom0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -948,7 +948,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "eggy parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPolkadot1.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPolkadot1.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -994,7 +994,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "exquisite parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaChina0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaChina0.png",
     "diy": false,
     "buy": 1670,
     "sell": 417,
@@ -1040,7 +1040,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "fairy-tale umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaFairytale0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaFairytale0.png",
     "diy": false,
     "buy": 820,
     "sell": 205,
@@ -1086,7 +1086,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "fish umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaFish0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaFish0.png",
     "diy": false,
     "buy": -1,
     "sell": 80,
@@ -1137,7 +1137,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "frog umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaFrog0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaFrog0.png",
     "diy": false,
     "buy": 1570,
     "sell": 392,
@@ -1183,7 +1183,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "gelato umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaTricolor0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaTricolor0.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -1229,7 +1229,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "ghost umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaTeruteru0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaTeruteru0.png",
     "diy": false,
     "buy": 1670,
     "sell": 417,
@@ -1275,7 +1275,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "grape umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGrape0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaGrape0.png",
     "diy": false,
     "buy": 1550,
     "sell": 387,
@@ -1321,7 +1321,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "green chic umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace4.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPacodarace4.png",
     "diy": false,
     "buy": 1620,
     "sell": 405,
@@ -1367,7 +1367,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "green umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStandard3.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaStandard3.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -1412,8 +1412,54 @@
   },
   {
     "sourceSheet": "Umbrellas",
+    "name": "hotel umbrella",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaHotel0.png",
+    "diy": false,
+    "buy": -1,
+    "sell": 375,
+    "hhaBasePoints": 151,
+    "size": "1x1",
+    "exchangePrice": 15,
+    "exchangeCurrency": "Hotel Tickets",
+    "source": [ "Hotel Souvenir Shop" ],
+    "sourceNotes": null,
+    "seasonEvent": null,
+    "seasonEventExclusive": null,
+    "gender": "Free",
+    "villagerGender": "Free",
+    "villagerEquippable": true,
+    "catalog": "Not for sale",
+    "versionAdded": "3.0.0",
+    "unlocked": true,
+    "filename": "UmbrellaHotel0",
+    "internalId": 1260,
+    "uniqueEntryId": "aJygjHmzii5SEbhEo",
+    "translations": {
+      "sourceSheet": "Umbrellas",
+      "id": 1260,
+      "eUde": "Hotelschirm",
+      "eUen": "hotel umbrella",
+      "eUit": "ombrello dell'hotel",
+      "eUnl": "hotelparaplu",
+      "eUru": "отельный зонт",
+      "eUfr": "parapluie d'hôtel",
+      "eUes": "paraguas del hotel",
+      "uSen": "hotel umbrella",
+      "uSfr": "parapluie d'hôtel",
+      "uSes": "paraguas del hotel",
+      "jPja": "ホテルのかさ",
+      "kRko": "호텔 우산",
+      "tWzh": "旅館雨傘",
+      "cNzh": "旅馆雨伞",
+      "plural": false
+    },
+    "colors": [ "Blue", "Red" ],
+    "recipe": null
+  },
+  {
+    "sourceSheet": "Umbrellas",
     "name": "hydrangea umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaHydrangea0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaHydrangea0.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -1459,7 +1505,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "kabuki umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaKabuki0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaKabuki0.png",
     "diy": false,
     "buy": 1670,
     "sell": 417,
@@ -1505,7 +1551,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "kiwi umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaKiwi0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaKiwi0.png",
     "diy": false,
     "buy": 1550,
     "sell": 387,
@@ -1551,7 +1597,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "lacy parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaLace0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaLace0.png",
     "diy": false,
     "buy": 1550,
     "sell": 387,
@@ -1597,7 +1643,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "ladybug umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaLadybug0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaLadybug0.png",
     "diy": false,
     "buy": -1,
     "sell": 80,
@@ -1643,7 +1689,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "leaf umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaLeaf0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaLeaf0.png",
     "diy": true,
     "buy": -1,
     "sell": 300,
@@ -1687,7 +1733,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "leaf umbrella",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaLeaf0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/UmbrellaLeaf0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1735,7 +1781,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "lemon umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham4.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaGingham4.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -1781,7 +1827,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "logo umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaLogo0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaLogo0.png",
     "diy": false,
     "buy": 650,
     "sell": 162,
@@ -1827,7 +1873,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "maple-leaf umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaAutumn0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaAutumn0.png",
     "diy": true,
     "buy": -1,
     "sell": 2800,
@@ -1871,7 +1917,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "maple-leaf umbrella",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaAutumn0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/UmbrellaAutumn0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1899,7 +1945,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "melon umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham1.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaGingham1.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -1945,7 +1991,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "mini-flower-print umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaFlorets0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaFlorets0.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -1991,7 +2037,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "mint umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham2.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaGingham2.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -2037,7 +2083,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "mush umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaMushroom0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaMushroom0.png",
     "diy": true,
     "buy": -1,
     "sell": 1200,
@@ -2081,7 +2127,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mush umbrella",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaMushroom0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/UmbrellaMushroom0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2129,7 +2175,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "orange umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaOrange0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaOrange0.png",
     "diy": true,
     "buy": -1,
     "sell": 1400,
@@ -2173,7 +2219,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange umbrella",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaOrange0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/UmbrellaOrange0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2221,7 +2267,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "panda umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPanda0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPanda0.png",
     "diy": false,
     "buy": 1570,
     "sell": 392,
@@ -2267,7 +2313,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "paper parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBangasa0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaBangasa0.png",
     "diy": false,
     "buy": 870,
     "sell": 217,
@@ -2313,7 +2359,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "patterned vinyl umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBoundary0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaBoundary0.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -2359,7 +2405,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "peach umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPeach0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPeach0.png",
     "diy": true,
     "buy": -1,
     "sell": 1400,
@@ -2403,7 +2449,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach umbrella",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaPeach0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/UmbrellaPeach0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2451,7 +2497,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "pear umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPear0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPear0.png",
     "diy": true,
     "buy": -1,
     "sell": 1400,
@@ -2495,7 +2541,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pear umbrella",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/UmbrellaPear0.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/UmbrellaPear0.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2543,7 +2589,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "petal parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaMargaret0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaMargaret0.png",
     "diy": false,
     "buy": 1590,
     "sell": 397,
@@ -2589,7 +2635,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "picnic umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham3.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaGingham3.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -2635,7 +2681,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "pineapple umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPineapple0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPineapple0.png",
     "diy": false,
     "buy": 1550,
     "sell": 387,
@@ -2681,7 +2727,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "pink shiny-bows parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPacodarace0.png",
     "diy": false,
     "buy": 1620,
     "sell": 405,
@@ -2727,7 +2773,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "pink umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaSchool0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaSchool0.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -2773,7 +2819,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "purple chic umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacoda0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPacoda0.png",
     "diy": false,
     "buy": 1620,
     "sell": 405,
@@ -2819,7 +2865,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "purple shiny-bows parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace1.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPacodarace1.png",
     "diy": false,
     "buy": 1620,
     "sell": 405,
@@ -2865,7 +2911,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "rainbow umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaRainbow0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaRainbow0.png",
     "diy": false,
     "buy": 840,
     "sell": 210,
@@ -2911,7 +2957,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "raindrop umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaRain0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaRain0.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -2957,7 +3003,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "red chic umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace6.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPacodarace6.png",
     "diy": false,
     "buy": 1620,
     "sell": 405,
@@ -3003,7 +3049,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "red umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStandard1.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaStandard1.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -3049,7 +3095,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "snowflake umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaCrystal0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaCrystal0.png",
     "diy": false,
     "buy": 1550,
     "sell": 387,
@@ -3095,7 +3141,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "spider umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaSpider0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaSpider0.png",
     "diy": false,
     "buy": 840,
     "sell": 210,
@@ -3141,7 +3187,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "strawberry umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStrawberry0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaStrawberry0.png",
     "diy": false,
     "buy": 1550,
     "sell": 387,
@@ -3187,7 +3233,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "striped umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStripe0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaStripe0.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -3233,7 +3279,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "sunny parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaSunflower0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaSunflower0.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -3279,7 +3325,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "tartan-check umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPlaid0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPlaid0.png",
     "diy": false,
     "buy": 750,
     "sell": 187,
@@ -3325,7 +3371,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "two-tone umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaTwocolor0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaTwocolor0.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -3371,7 +3417,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "vinyl umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaVinyl0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaVinyl0.png",
     "diy": false,
     "buy": 770,
     "sell": 192,
@@ -3417,7 +3463,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "watermelon umbrella",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaWater0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaWater0.png",
     "diy": false,
     "buy": 1550,
     "sell": 387,
@@ -3463,7 +3509,7 @@
   {
     "sourceSheet": "Umbrellas",
     "name": "white shiny-bows parasol",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace3.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/UmbrellaPacodarace3.png",
     "diy": false,
     "buy": 1620,
     "sell": 405,

@@ -46,7 +46,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceEgg.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceEgg.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -240,7 +240,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo lattice fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceBamboo.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceBamboo.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -312,7 +312,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo-slats fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSandProtection.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceSandProtection.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -384,7 +384,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "barbed-wire fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceBarbedWire.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceBarbedWire.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -456,7 +456,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "block fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceConcreteBlock.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceConcreteBlock.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -528,7 +528,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "brick fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceWallRenga.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceWallRenga.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -600,7 +600,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "corral fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceHorizontalWood.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceHorizontalWood.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -912,7 +912,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "corrugated iron fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceCorrugatedIron.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceCorrugatedIron.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -984,7 +984,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "country fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLog.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceLog.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1265,7 +1265,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "frozen fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIce.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceIce.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1337,7 +1337,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "green bamboo fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceCrossedBamboo.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceCrossedBamboo.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1409,7 +1409,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hedge",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIkegaki.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceIkegaki.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1505,7 +1505,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "imperial fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceChinese.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceChinese.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1817,7 +1817,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSteel.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceSteel.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1889,7 +1889,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iron-and-stone fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceIronAndStone.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceIronAndStone.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2201,7 +2201,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "large lattice fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLatticeBig.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceLatticeBig.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2513,7 +2513,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "lattice fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLatiiceNatural.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceLatiiceNatural.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2585,7 +2585,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "log fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceHorizontalLog.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceHorizontalLog.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2657,7 +2657,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "log-wall fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceLogWall.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceLogWall.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2729,7 +2729,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mermaid fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceMermaid.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceMermaid.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3081,7 +3081,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "park fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFencePark.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFencePark.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3153,7 +3153,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rope fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFencePegRope.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFencePegRope.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3467,7 +3467,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "simple wooden fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceNatural.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceNatural.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3539,7 +3539,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "spiky fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceSharply.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceSharply.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3611,7 +3611,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "spooky fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceHalloween.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceHalloween.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3706,7 +3706,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceStone.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceStone.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3778,7 +3778,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "straw fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceDriedStraw.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceDriedStraw.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4111,7 +4111,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "vertical-board fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceVerticalWood.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceVerticalWood.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4423,7 +4423,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wedding fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceJuneBride.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceJuneBride.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4735,7 +4735,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "zen fence",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/ItemFenceJapanese.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/ItemFenceJapanese.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,

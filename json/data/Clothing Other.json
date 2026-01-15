@@ -2,8 +2,8 @@
   {
     "sourceSheet": "Clothing Other",
     "name": "Nook Inc. wet suit",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLNook0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLNook0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/TopsTexMarinesuitNormalLNook0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/TopsTexMarinesuitNormalLNook0.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -230,8 +230,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/TopsTexMarinesuitNormalNGreco3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/TopsTexMarinesuitNormalNGreco3.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -262,8 +262,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/TopsTexMarinesuitNormalNGreco0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/TopsTexMarinesuitNormalNGreco0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -294,8 +294,8 @@
         "colors": [ "Red", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/TopsTexMarinesuitNormalNGreco2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/TopsTexMarinesuitNormalNGreco2.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -326,8 +326,8 @@
         "colors": [ "Yellow", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/TopsTexMarinesuitNormalNGreco1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/TopsTexMarinesuitNormalNGreco1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -460,8 +460,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/TopsTexMarinesuitNormalLRashguard2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/TopsTexMarinesuitNormalLRashguard2.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -492,8 +492,8 @@
         "colors": [ "Yellow", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/TopsTexMarinesuitNormalLRashguard3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/TopsTexMarinesuitNormalLRashguard3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -524,8 +524,8 @@
         "colors": [ "Green", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/TopsTexMarinesuitNormalLRashguard0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/TopsTexMarinesuitNormalLRashguard0.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -556,8 +556,8 @@
         "colors": [ "Aqua", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/TopsTexMarinesuitNormalLRashguard1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/TopsTexMarinesuitNormalLRashguard1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,

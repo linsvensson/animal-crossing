@@ -115,7 +115,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherEasterM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherEasterM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -596,7 +596,25 @@
     "filename": "RugOtherLEGOM00",
     "internalId": 1293,
     "uniqueEntryId": "eAocrWuwiE9kiNMyX",
-    "seriesTranslations": null,
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "061",
+      "eUde": "LEGO®",
+      "eUen": "LEGO®",
+      "eUit": "LEGO®",
+      "eUnl": "LEGO®-stijl",
+      "eUru": "LEGO®",
+      "eUfr": "LEGO®",
+      "eUes": "LEGO®",
+      "uSen": "LEGO®",
+      "uSfr": "LEGO®",
+      "uSes": "LEGO®",
+      "jPja": "LEGO®",
+      "kRko": "LEGO®",
+      "tWzh": "LEGO®",
+      "cNzh": "LEGO®",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Rugs",
       "id": 1293,
@@ -618,7 +636,7 @@
     },
     "colors": [ "Yellow", "Red" ],
     "concepts": [ "child's room", "space" ],
-    "series": "Lego",
+    "series": "LEGO®",
     "recipe": null
   },
   {
@@ -1431,7 +1449,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "acorn rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherAcornM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherAcornM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1570,7 +1588,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "apple rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherAppleM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherAppleM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2970,7 +2988,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherCherryM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherCherryM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3082,7 +3100,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherSakuraM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherSakuraM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3315,7 +3333,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark bamboo bath mat",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRectBambooS01.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRectBambooS01.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3407,7 +3425,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark bamboo rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRectBambooM01.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRectBambooM01.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3875,7 +3893,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "festive rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugSquareChristmasL00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugSquareChristmasL00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4160,7 +4178,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "frozen floor tiles",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugSquareIceS00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugSquareIceS00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4233,7 +4251,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "glowing-moss rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRectGlowMossM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRectGlowMossM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4486,7 +4504,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "green bamboo mat",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRectBambooBathmatS00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRectBambooBathmatS00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -5302,7 +5320,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "light bamboo bath mat",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRectBambooS00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRectBambooS00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -5394,7 +5412,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "light bamboo rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRectBambooM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRectBambooM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -5768,7 +5786,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "maple-leaf rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherMapleM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherMapleM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -5860,7 +5878,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mermaid rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherMermaidM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherMermaidM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -6434,7 +6452,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherOrangeM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherOrangeM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -6640,7 +6658,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherPeachM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherPeachM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -6799,7 +6817,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pear rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherPearM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherPearM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8312,7 +8330,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "round glowing-moss rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRoundGlowMossS00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRoundGlowMossS00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8405,7 +8423,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "round vine rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRoundVineS00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRoundVineS00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8658,7 +8676,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "shell rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherShellM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherShellM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9936,7 +9954,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "starry-skies rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRoundZodiacM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRoundZodiacM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -10009,7 +10027,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "summer-shell rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherShellSnailM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherShellSnailM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -10215,7 +10233,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tree-stump rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherStumpM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherStumpM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -11097,7 +11115,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "yellow bamboo mat",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugRectBambooBathmatS01.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugRectBambooBathmatS01.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -11584,7 +11602,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "yellow star rug",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RugOtherStarM00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RugOtherStarM00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,

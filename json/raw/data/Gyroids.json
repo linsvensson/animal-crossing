@@ -2,7 +2,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "aluminoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet00_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet00_Remake_0_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -46,7 +46,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "aluminoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet00_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet00_Remake_1_0.png\")",
     "Variation": "Copper",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -90,7 +90,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "aluminoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet00_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet00_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -134,7 +134,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "aluminoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet00_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet00_Remake_3_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -178,7 +178,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "arfoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody02_Remake_0_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -222,7 +222,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "arfoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody02_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -266,7 +266,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "arfoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody02_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -310,7 +310,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "arfoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody02_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -354,7 +354,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "arfoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody02_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody02_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -398,7 +398,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "babbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody01_Remake_0_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -442,7 +442,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "babbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody01_Remake_1_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -486,7 +486,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "babbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody01_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -530,7 +530,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "babbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody01_Remake_3_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -574,7 +574,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "babbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody01_Remake_4_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -618,7 +618,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "babbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody01_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody01_Remake_5_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -662,7 +662,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bendoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick02_Remake_0_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -706,7 +706,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bendoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick02_Remake_1_0.png\")",
     "Variation": "Beige",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -750,7 +750,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bendoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick02_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -794,7 +794,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bendoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick02_Remake_3_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -838,7 +838,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bendoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick02_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -882,7 +882,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bendoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick02_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick02_Remake_5_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -926,7 +926,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bloopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare00_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare00_Remake_0_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -970,7 +970,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bloopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare00_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare00_Remake_1_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1014,7 +1014,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bloopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare00_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare00_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1058,7 +1058,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bloopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare00_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare00_Remake_3_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1102,7 +1102,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boioingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash00_Remake_0_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1146,7 +1146,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boioingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash00_Remake_1_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1190,7 +1190,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boioingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash00_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1234,7 +1234,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boioingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash00_Remake_3_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1278,7 +1278,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boioingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash00_Remake_4_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1322,7 +1322,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boioingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash00_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash00_Remake_5_0.png\")",
     "Variation": "Wood",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1366,7 +1366,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boomoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick03_Remake_0_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1410,7 +1410,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boomoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick03_Remake_1_0.png\")",
     "Variation": "Camel",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1454,7 +1454,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boomoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick03_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1498,7 +1498,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boomoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick03_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1542,7 +1542,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boomoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick03_Remake_4_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1586,7 +1586,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "boomoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick03_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick03_Remake_5_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1630,7 +1630,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "brewstoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare04.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare04.png\")",
     "Variation": "NA",
     "Body Title": "NA",
     "Pattern": "NA",
@@ -1674,7 +1674,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bubbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody12_Remake_0_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1718,7 +1718,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bubbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody12_Remake_1_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1762,7 +1762,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bubbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody12_Remake_2_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1806,7 +1806,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bubbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody12_Remake_3_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1850,7 +1850,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bubbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody12_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody12_Remake_4_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1894,7 +1894,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bwongoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody04_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody04_Remake_0_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1938,7 +1938,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bwongoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody04_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody04_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -1982,7 +1982,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bwongoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody04_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody04_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2026,7 +2026,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "bwongoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody04_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody04_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2070,7 +2070,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "clatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare03_Remake_0_0.png\")",
     "Variation": "Pop",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2114,7 +2114,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "clatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare03_Remake_1_0.png\")",
     "Variation": "Natural",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2158,7 +2158,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "clatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare03_Remake_2_0.png\")",
     "Variation": "Cool",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2202,7 +2202,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "clatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare03_Remake_3_0.png\")",
     "Variation": "Cute",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2246,7 +2246,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "clatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare03_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare03_Remake_4_0.png\")",
     "Variation": "Chic",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2290,7 +2290,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "crumploid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare02_Remake_0_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2334,7 +2334,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "crumploid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare02_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2378,7 +2378,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "crumploid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare02_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2422,7 +2422,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "crumploid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare02_Remake_3_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2466,7 +2466,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "crumploid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare02_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2510,7 +2510,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "crumploid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare02_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare02_Remake_5_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2554,7 +2554,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "dootoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet03_Remake_0_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2598,7 +2598,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "dootoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet03_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2642,7 +2642,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "dootoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet03_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2686,7 +2686,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "dootoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet03_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2730,7 +2730,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "dootoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet03_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2774,7 +2774,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "dootoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet03_Remake_5_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2818,7 +2818,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "dootoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet03_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet03_Remake_6_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2862,7 +2862,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "drummoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet02_Remake_0_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2906,7 +2906,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "drummoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet02_Remake_1_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2950,7 +2950,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "drummoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet02_Remake_2_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -2994,7 +2994,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "drummoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet02_Remake_3_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3038,7 +3038,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "drummoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet02_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet02_Remake_4_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3082,7 +3082,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "flutteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat03_Remake_0_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3126,7 +3126,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "flutteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat03_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3170,7 +3170,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "flutteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat03_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3214,7 +3214,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "flutteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat03_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3258,7 +3258,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "flutteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat03_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat03_Remake_4_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3302,7 +3302,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "jingloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash02_Remake_0_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3346,7 +3346,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "jingloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash02_Remake_1_0.png\")",
     "Variation": "Gold",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3390,7 +3390,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "jingloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash02_Remake_2_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3434,7 +3434,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "jingloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash02_Remake_3_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3478,7 +3478,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "jingloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash02_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash02_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3522,7 +3522,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "laseroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody06_Remake_0_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3566,7 +3566,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "laseroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody06_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3610,7 +3610,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "laseroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody06_Remake_2_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3654,7 +3654,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "laseroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody06_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3698,7 +3698,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "laseroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody06_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody06_Remake_4_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3742,7 +3742,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "oinkoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody10_Remake_0_0.png\")",
     "Variation": "Beige",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3786,7 +3786,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "oinkoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody10_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3830,7 +3830,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "oinkoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody10_Remake_2_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3874,7 +3874,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "oinkoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody10_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3918,7 +3918,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "oinkoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody10_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -3962,7 +3962,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "oinkoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody10_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody10_Remake_5_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4006,7 +4006,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "petaloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody13_Remake_0_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4050,7 +4050,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "petaloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody13_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4094,7 +4094,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "petaloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody13_Remake_2_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4138,7 +4138,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "petaloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody13_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4182,7 +4182,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "petaloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody13_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4226,7 +4226,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "petaloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody13_Remake_5_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4270,7 +4270,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "petaloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody13_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody13_Remake_6_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4314,7 +4314,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rattloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash03_Remake_0_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4358,7 +4358,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rattloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash03_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4402,7 +4402,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rattloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash03_Remake_2_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4446,7 +4446,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rattloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash03_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4490,7 +4490,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rattloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash03_Remake_4_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4534,7 +4534,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rattloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash03_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash03_Remake_5_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4578,7 +4578,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "ringoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody09_Remake_0_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4622,7 +4622,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "ringoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody09_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4666,7 +4666,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "ringoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody09_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4710,7 +4710,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "ringoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody09_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4754,7 +4754,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "ringoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody09_Remake_4_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4798,7 +4798,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "ringoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody09_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody09_Remake_5_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4842,7 +4842,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rumbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick01_Remake_0_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4886,7 +4886,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rumbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick01_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4930,7 +4930,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rumbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick01_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -4974,7 +4974,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rumbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick01_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5018,7 +5018,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rumbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick01_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5062,7 +5062,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rumbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick01_Remake_5_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5106,7 +5106,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "rumbloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick01_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick01_Remake_6_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5150,7 +5150,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "scatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat00_Remake_0_0.png\")",
     "Variation": "Light brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5194,7 +5194,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "scatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat00_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5238,7 +5238,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "scatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat00_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5282,7 +5282,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "scatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat00_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5326,7 +5326,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "scatteroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat00_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat00_Remake_4_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5370,7 +5370,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "spikenoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat01_Remake_0_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5414,7 +5414,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "spikenoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat01_Remake_1_0.png\")",
     "Variation": "Orange",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5458,7 +5458,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "spikenoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat01_Remake_2_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5502,7 +5502,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "spikenoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat01_Remake_3_0.png\")",
     "Variation": "Light green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5546,7 +5546,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "spikenoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat01_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5590,7 +5590,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "spikenoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat01_Remake_5_0.png\")",
     "Variation": "Camel",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5634,7 +5634,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "spikenoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat01_Remake_6_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat01_Remake_6_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5678,7 +5678,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "sproingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare01_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare01_Remake_0_0.png\")",
     "Variation": "Camel",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5722,7 +5722,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "sproingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare01_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare01_Remake_1_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5766,7 +5766,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "sproingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare01_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare01_Remake_2_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5810,7 +5810,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "sproingoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaSnare01_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaSnare01_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5854,7 +5854,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeakoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody07_Remake_0_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5898,7 +5898,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeakoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody07_Remake_1_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5942,7 +5942,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeakoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody07_Remake_2_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -5986,7 +5986,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeakoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody07_Remake_3_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6030,7 +6030,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeakoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody07_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody07_Remake_4_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6074,7 +6074,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeezoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat02_Remake_0_0.png\")",
     "Variation": "Beige",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6118,7 +6118,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeezoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat02_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6162,7 +6162,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeezoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat02_Remake_2_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6206,7 +6206,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeezoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat02_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6250,7 +6250,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeezoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat02_Remake_4_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6294,7 +6294,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "squeezoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaHiHat02_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaHiHat02_Remake_5_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6338,7 +6338,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "stelloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash01_Remake_0_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6382,7 +6382,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "stelloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash01_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6426,7 +6426,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "stelloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash01_Remake_2_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6470,7 +6470,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "stelloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash01_Remake_3_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6514,7 +6514,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "stelloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaCrash01_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaCrash01_Remake_4_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6558,7 +6558,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "thwopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick00_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick00_Remake_0_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6602,7 +6602,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "thwopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick00_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick00_Remake_1_0.png\")",
     "Variation": "Beige",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6646,7 +6646,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "thwopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick00_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick00_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6690,7 +6690,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "thwopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaKick00_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaKick00_Remake_3_0.png\")",
     "Variation": "Gray",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6734,7 +6734,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tockoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody08_Remake_0_0.png\")",
     "Variation": "Pop",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6778,7 +6778,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tockoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody08_Remake_1_0.png\")",
     "Variation": "Natural",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6822,7 +6822,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tockoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody08_Remake_2_0.png\")",
     "Variation": "Cool",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6866,7 +6866,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tockoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody08_Remake_3_0.png\")",
     "Variation": "Cute",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6910,7 +6910,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tockoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody08_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody08_Remake_4_0.png\")",
     "Variation": "Chic",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6954,7 +6954,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tremoloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody11_Remake_0_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -6998,7 +6998,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tremoloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody11_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7042,7 +7042,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tremoloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody11_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7086,7 +7086,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tremoloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody11_Remake_3_0.png\")",
     "Variation": "Purple",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7130,7 +7130,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "tremoloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody11_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody11_Remake_4_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7174,7 +7174,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "twangoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody05_Remake_0_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7218,7 +7218,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "twangoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody05_Remake_1_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7262,7 +7262,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "twangoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody05_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7306,7 +7306,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "twangoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody05_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7350,7 +7350,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "twangoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody05_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody05_Remake_4_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7394,7 +7394,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "wallopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet01_Remake_0_0.png\")",
     "Variation": "Camel",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7438,7 +7438,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "wallopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet01_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7482,7 +7482,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "wallopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet01_Remake_2_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7526,7 +7526,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "wallopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet01_Remake_3_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7570,7 +7570,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "wallopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet01_Remake_4_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7614,7 +7614,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "wallopoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet01_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet01_Remake_5_0.png\")",
     "Variation": "Black",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7658,7 +7658,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whirroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet04_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet04_Remake_0_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7702,7 +7702,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whirroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet04_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet04_Remake_1_0.png\")",
     "Variation": "Red",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7746,7 +7746,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whirroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet04_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet04_Remake_2_0.png\")",
     "Variation": "Gold",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7790,7 +7790,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whirroid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaDrumSet04_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaDrumSet04_Remake_3_0.png\")",
     "Variation": "Silver",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7834,7 +7834,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whistloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody03_Remake_0_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7878,7 +7878,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whistloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody03_Remake_1_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7922,7 +7922,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whistloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody03_Remake_2_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -7966,7 +7966,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whistloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody03_Remake_3_0.png\")",
     "Variation": "Green",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -8010,7 +8010,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whistloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody03_Remake_4_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -8054,7 +8054,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "whistloid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody03_Remake_5_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody03_Remake_5_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -8098,7 +8098,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "xylophoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_0_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody00_Remake_0_0.png\")",
     "Variation": "Yellow",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -8142,7 +8142,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "xylophoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_1_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody00_Remake_1_0.png\")",
     "Variation": "Blue",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -8186,7 +8186,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "xylophoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_2_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody00_Remake_2_0.png\")",
     "Variation": "Pink",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -8230,7 +8230,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "xylophoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_3_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody00_Remake_3_0.png\")",
     "Variation": "White",
     "Body Title": "Color",
     "Pattern": "NA",
@@ -8274,7 +8274,7 @@
   {
     "SourceSheet": "Gyroids",
     "Name": "xylophoid",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrHaniwaMelody00_Remake_4_0.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrHaniwaMelody00_Remake_4_0.png\")",
     "Variation": "Brown",
     "Body Title": "Color",
     "Pattern": "NA",

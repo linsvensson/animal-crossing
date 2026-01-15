@@ -8580,7 +8580,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "festival-lantern set",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrAsianLanternMCeiling.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrAsianLanternMCeiling.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9473,7 +9473,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "hanging glowing moss",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrLuMossLightCeiling.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrLuMossLightCeiling.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -21004,7 +21004,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "vine garland",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrVineDecolationCeiling.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrVineDecolationCeiling.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,

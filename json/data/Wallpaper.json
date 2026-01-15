@@ -72,7 +72,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Bunny Day wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallEaster00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallEaster00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -508,7 +508,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "Jingle wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallXmas00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallXmas00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -711,7 +711,25 @@
     "filename": "RoomSpWallZeldaForest00",
     "internalId": 1057,
     "uniqueEntryId": "AWM5mc797FNs8RY3z",
-    "seriesTranslations": null,
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "055",
+      "eUde": "The Legend of Zelda",
+      "eUen": "The Legend of Zelda",
+      "eUit": "The Legend of Zelda",
+      "eUnl": "The Legend of Zelda-stijl",
+      "eUru": "The Legend of Zelda",
+      "eUfr": "The Legend of Zelda",
+      "eUes": "The Legend of Zelda",
+      "uSen": "The Legend of Zelda",
+      "uSfr": "The Legend of Zelda",
+      "uSes": "The Legend of Zelda",
+      "jPja": "ゼルダのでんせつ",
+      "kRko": "젤다의 전설",
+      "tWzh": "薩爾達傳說",
+      "cNzh": "塞尔达传说",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 1057,
@@ -733,7 +751,7 @@
     },
     "colors": [ "Green", "Green" ],
     "concepts": [ "fantasy", "ancient" ],
-    "series": "Zelda",
+    "series": "The Legend of Zelda",
     "recipe": null
   },
   {
@@ -1449,7 +1467,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "apple wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallApple00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallApple00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1726,7 +1744,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "autumn wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallAutumun00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallAutumun00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1899,7 +1917,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallBamboo00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallBamboo00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1997,7 +2015,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "bamboo-grove wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallChikurin00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallChikurin00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3666,6 +3684,25 @@
     "filename": "RoomTexWallToy00",
     "internalId": 4888,
     "uniqueEntryId": "GFvGWj5w9m6i5eRwu",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "060",
+      "eUde": "Junior",
+      "eUen": "kids",
+      "eUit": "bimbi",
+      "eUnl": "kinderstijl",
+      "eUru": "Дети",
+      "eUfr": "enfants",
+      "eUes": "infantil",
+      "uSen": "kids",
+      "uSfr": "enfants",
+      "uSes": "infantil",
+      "jPja": "キッズ",
+      "kRko": "어린이용",
+      "tWzh": "兒童",
+      "cNzh": "儿童",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4888,
@@ -3687,7 +3724,7 @@
     },
     "colors": [ "Aqua", "Blue" ],
     "concepts": [ "child's room", "fancy" ],
-    "series": null,
+    "series": "kids",
     "recipe": null
   },
   {
@@ -4577,7 +4614,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "brown herringbone wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallHerringbone00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallHerringbone00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -4940,7 +4977,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cabin wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallLog00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallLog00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -5250,7 +5287,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallCherry00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallCherry00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -5368,7 +5405,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "cherry-blossom-trees wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallSakura00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallSakura00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -5422,7 +5459,25 @@
     "filename": "RoomTexWallLego03",
     "internalId": 1292,
     "uniqueEntryId": "xG5WsXZmDzvxPBiMS",
-    "seriesTranslations": null,
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "061",
+      "eUde": "LEGO®",
+      "eUen": "LEGO®",
+      "eUit": "LEGO®",
+      "eUnl": "LEGO®-stijl",
+      "eUru": "LEGO®",
+      "eUfr": "LEGO®",
+      "eUes": "LEGO®",
+      "uSen": "LEGO®",
+      "uSfr": "LEGO®",
+      "uSes": "LEGO®",
+      "jPja": "LEGO®",
+      "kRko": "LEGO®",
+      "tWzh": "LEGO®",
+      "cNzh": "LEGO®",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 1292,
@@ -5444,7 +5499,7 @@
     },
     "colors": [ "Gray", "Gray" ],
     "concepts": [ "child's room" ],
-    "series": "Lego",
+    "series": "LEGO®",
     "recipe": null
   },
   {
@@ -5660,7 +5715,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "chocolate herringbone wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallHerringbone01.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallHerringbone01.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -5898,7 +5953,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "classic-library wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallLibrary00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallLibrary00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -6078,7 +6133,25 @@
     "filename": "RoomTexWallLego00",
     "internalId": 1282,
     "uniqueEntryId": "nhwkuBYzogRZ684o9",
-    "seriesTranslations": null,
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "061",
+      "eUde": "LEGO®",
+      "eUen": "LEGO®",
+      "eUit": "LEGO®",
+      "eUnl": "LEGO®-stijl",
+      "eUru": "LEGO®",
+      "eUfr": "LEGO®",
+      "eUes": "LEGO®",
+      "uSen": "LEGO®",
+      "uSfr": "LEGO®",
+      "uSes": "LEGO®",
+      "jPja": "LEGO®",
+      "kRko": "LEGO®",
+      "tWzh": "LEGO®",
+      "cNzh": "LEGO®",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 1282,
@@ -6100,7 +6173,7 @@
     },
     "colors": [ "Yellow", "Yellow" ],
     "concepts": [ "child's room" ],
-    "series": "Lego",
+    "series": "LEGO®",
     "recipe": null
   },
   {
@@ -6503,7 +6576,25 @@
     "filename": "RoomTexWallLego02",
     "internalId": 1291,
     "uniqueEntryId": "q9oMMzxz2AEYTuJZ7",
-    "seriesTranslations": null,
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "061",
+      "eUde": "LEGO®",
+      "eUen": "LEGO®",
+      "eUit": "LEGO®",
+      "eUnl": "LEGO®-stijl",
+      "eUru": "LEGO®",
+      "eUfr": "LEGO®",
+      "eUes": "LEGO®",
+      "uSen": "LEGO®",
+      "uSfr": "LEGO®",
+      "uSes": "LEGO®",
+      "jPja": "LEGO®",
+      "kRko": "LEGO®",
+      "tWzh": "LEGO®",
+      "cNzh": "LEGO®",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 1291,
@@ -6525,7 +6616,7 @@
     },
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "child's room" ],
-    "series": "Lego",
+    "series": "LEGO®",
     "recipe": null
   },
   {
@@ -6794,7 +6885,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "dark wooden-mosaic wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMixPlankWood01.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallMixPlankWood01.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7244,7 +7335,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "falling-snow wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallSnowy00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallSnowy00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7395,7 +7486,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "forest wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMushForest00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallMushForest00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7664,7 +7755,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "garbage-heap wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallGarbage00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallGarbage00.png",
       "imageSh": null,
       "buy": -1,
       "sell": null,
@@ -7743,7 +7834,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "glowing-moss cave wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallGlowCave00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallGlowCave00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7843,7 +7934,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "glowing-moss forest wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallGlowMoss00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallGlowMoss00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -7943,7 +8034,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "glowing-moss ruins wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallGlowRemains00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallGlowRemains00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8043,7 +8134,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "gold-screen wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallFusumaGorgeous00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallFusumaGorgeous00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8141,7 +8232,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallGold00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallGold00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -8956,6 +9047,25 @@
     "filename": "RoomTexWallToy02",
     "internalId": 6866,
     "uniqueEntryId": "hrZPmBpEgQ8SZm2oe",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "060",
+      "eUde": "Junior",
+      "eUen": "kids",
+      "eUit": "bimbi",
+      "eUnl": "kinderstijl",
+      "eUru": "Дети",
+      "eUfr": "enfants",
+      "eUes": "infantil",
+      "uSen": "kids",
+      "uSfr": "enfants",
+      "uSes": "infantil",
+      "jPja": "キッズ",
+      "kRko": "어린이용",
+      "tWzh": "兒童",
+      "cNzh": "儿童",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6866,
@@ -8977,7 +9087,7 @@
     },
     "colors": [ "Green", "Green" ],
     "concepts": [ "child's room", "fancy" ],
-    "series": null,
+    "series": "kids",
     "recipe": null
   },
   {
@@ -9424,7 +9534,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "honeycomb wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallHoney00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallHoney00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9575,7 +9685,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ice wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallIce00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallIce00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9707,7 +9817,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "iceberg wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallIceFloe00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallIceFloe00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -9945,7 +10055,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "jungle wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallJungle00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallJungle00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -10312,7 +10422,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "manga-library wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallLibrary01.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallLibrary01.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -10594,7 +10704,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mermaid wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallMermaid00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallMermaid00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -10858,7 +10968,25 @@
     "filename": "RoomTexWallLego01",
     "internalId": 1290,
     "uniqueEntryId": "5aY2FCma48tNnG6gM",
-    "seriesTranslations": null,
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "061",
+      "eUde": "LEGO®",
+      "eUen": "LEGO®",
+      "eUit": "LEGO®",
+      "eUnl": "LEGO®-stijl",
+      "eUru": "LEGO®",
+      "eUfr": "LEGO®",
+      "eUes": "LEGO®",
+      "uSen": "LEGO®",
+      "uSfr": "LEGO®",
+      "uSes": "LEGO®",
+      "jPja": "LEGO®",
+      "kRko": "LEGO®",
+      "tWzh": "LEGO®",
+      "cNzh": "LEGO®",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 1290,
@@ -10880,7 +11008,7 @@
     },
     "colors": [ "White", "Colorful" ],
     "concepts": [ "child's room" ],
-    "series": "Lego",
+    "series": "LEGO®",
     "recipe": null
   },
   {
@@ -11043,7 +11171,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "modern wood wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMixwood00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallMixwood00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -11459,7 +11587,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "mush wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMush00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallMush00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -11591,7 +11719,7 @@
     "curtainColor": null,
     "ceilingType": "Plain",
     "hhaBasePoints": 201,
-    "tag": "Neta Walls",
+    "tag": "Mario Walls",
     "catalog": null,
     "versionAdded": "1.8.0",
     "unlocked": true,
@@ -12157,7 +12285,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "orange wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallOrange00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallOrange00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -12752,7 +12880,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "peach wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallPeach00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallPeach00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -12870,7 +12998,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "pear wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallPear00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallPear00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -13334,6 +13462,25 @@
     "filename": "RoomTexWallToy01",
     "internalId": 4889,
     "uniqueEntryId": "xYNWemEyTsD9zG8iC",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "060",
+      "eUde": "Junior",
+      "eUen": "kids",
+      "eUit": "bimbi",
+      "eUnl": "kinderstijl",
+      "eUru": "Дети",
+      "eUfr": "enfants",
+      "eUes": "infantil",
+      "uSen": "kids",
+      "uSfr": "enfants",
+      "uSes": "infantil",
+      "jPja": "キッズ",
+      "kRko": "어린이용",
+      "tWzh": "兒童",
+      "cNzh": "儿童",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4889,
@@ -13355,7 +13502,7 @@
     },
     "colors": [ "Pink", "Pink" ],
     "concepts": [ "child's room", "fancy" ],
-    "series": null,
+    "series": "kids",
     "recipe": null
   },
   {
@@ -15059,7 +15206,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rope-net wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallRopenet00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallRopenet00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -15265,7 +15412,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "rustic-stone wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallStone00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallStone00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -15363,7 +15510,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sakura-wood wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallSolidWood00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallSolidWood00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -15442,7 +15589,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "sci-fi wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallSF00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallSF00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -15892,7 +16039,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "ski-slope wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallGelande00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallGelande00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16130,7 +16277,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "snowflake wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallSnowCrystal00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallSnowCrystal00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16334,7 +16481,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stacked-wood wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallFireWood00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallFireWood00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16519,7 +16666,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "starry wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallStarPrint00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallStarPrint00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16617,7 +16764,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "starry-sky wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallStarSky00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallStarSky00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16802,7 +16949,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "steel-frame wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallSteel00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallSteel00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -16881,7 +17028,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "stone wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallBasement00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallBasement00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -17437,7 +17584,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tropical vista",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallTropical00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallTropical00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -17536,7 +17683,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "underwater wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomSpWallFishTank00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomSpWallFishTank00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -18665,7 +18812,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wild-wood wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallWildWood00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallWildWood00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -18744,7 +18891,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden-knot wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallCedar00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallCedar00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -18823,7 +18970,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden-mosaic wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallMixPlankWood00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallMixPlankWood00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -18902,7 +19049,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "woodland wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/RoomTexWallJukai00.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/RoomTexWallJukai00.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -19136,6 +19283,25 @@
     "filename": "RoomTexWallToy03",
     "internalId": 6865,
     "uniqueEntryId": "mraytANoYBQvA8qAk",
+    "seriesTranslations": {
+      "sourceSheet": "HHA Themes",
+      "id": "060",
+      "eUde": "Junior",
+      "eUen": "kids",
+      "eUit": "bimbi",
+      "eUnl": "kinderstijl",
+      "eUru": "Дети",
+      "eUfr": "enfants",
+      "eUes": "infantil",
+      "uSen": "kids",
+      "uSfr": "enfants",
+      "uSes": "infantil",
+      "jPja": "キッズ",
+      "kRko": "어린이용",
+      "tWzh": "兒童",
+      "cNzh": "儿童",
+      "plural": false
+    },
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6865,
@@ -19157,7 +19323,7 @@
     },
     "colors": [ "Yellow", "Yellow" ],
     "concepts": [ "child's room", "fancy" ],
-    "series": null,
+    "series": "kids",
     "recipe": null
   },
   {

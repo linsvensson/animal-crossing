@@ -2,7 +2,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "acanthostega",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFourLegs.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilFirstFourLegs.png\")",
     "Buy": "NFS",
     "Sell": 2000,
     "Fossil Group": "acanthostega",
@@ -22,7 +22,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "amber",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilAmber.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAmber.png\")",
     "Buy": "NFS",
     "Sell": 1200,
     "Fossil Group": "amber",
@@ -42,7 +42,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "ammonite",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilAmmonoidea.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAmmonoidea.png\")",
     "Buy": "NFS",
     "Sell": 1100,
     "Fossil Group": "ammonite",
@@ -62,7 +62,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "ankylo skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAnkylosaurusA.png\")",
     "Buy": "NFS",
     "Sell": 3500,
     "Fossil Group": "Ankylosaurus",
@@ -82,7 +82,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "ankylo tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAnkylosaurusC.png\")",
     "Buy": "NFS",
     "Sell": 2500,
     "Fossil Group": "Ankylosaurus",
@@ -102,7 +102,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "ankylo torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilAnkylosaurusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAnkylosaurusB.png\")",
     "Buy": "NFS",
     "Sell": 3000,
     "Fossil Group": "Ankylosaurus",
@@ -122,7 +122,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "anomalocaris",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilAnomalocaris.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAnomalocaris.png\")",
     "Buy": "NFS",
     "Sell": 2000,
     "Fossil Group": "anomalocaris",
@@ -142,7 +142,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "archaeopteryx",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilArchaeopteryx.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilArchaeopteryx.png\")",
     "Buy": "NFS",
     "Sell": 1300,
     "Fossil Group": "archaeopteryx",
@@ -162,7 +162,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "archelon skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilArchelonA.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Archelon",
@@ -182,7 +182,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "archelon tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilArchelonB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilArchelonB.png\")",
     "Buy": "NFS",
     "Sell": 3500,
     "Fossil Group": "Archelon",
@@ -202,7 +202,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "australopith",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilAustralopithecus.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilAustralopithecus.png\")",
     "Buy": "NFS",
     "Sell": 1100,
     "Fossil Group": "australopith",
@@ -222,7 +222,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "brachio chest",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrachiosaurusB.png\")",
     "Buy": "NFS",
     "Sell": 5500,
     "Fossil Group": "Brachiosaurus",
@@ -242,7 +242,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "brachio pelvis",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrachiosaurusC.png\")",
     "Buy": "NFS",
     "Sell": 5000,
     "Fossil Group": "Brachiosaurus",
@@ -262,7 +262,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "brachio skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrachiosaurusA.png\")",
     "Buy": "NFS",
     "Sell": 6000,
     "Fossil Group": "Brachiosaurus",
@@ -282,7 +282,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "brachio tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilBrachiosaurusD.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrachiosaurusD.png\")",
     "Buy": "NFS",
     "Sell": 5500,
     "Fossil Group": "Brachiosaurus",
@@ -302,7 +302,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "coprolite",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilCoprolite.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilCoprolite.png\")",
     "Buy": "NFS",
     "Sell": 1100,
     "Fossil Group": "coprolite",
@@ -322,7 +322,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "deinony tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDeinonychusB.png\")",
     "Buy": "NFS",
     "Sell": 2500,
     "Fossil Group": "Deinonychus",
@@ -342,7 +342,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "deinony torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDeinonychusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDeinonychusA.png\")",
     "Buy": "NFS",
     "Sell": 3000,
     "Fossil Group": "Deinonychus",
@@ -362,7 +362,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "dimetrodon skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDimetrodonA.png\")",
     "Buy": "NFS",
     "Sell": 5500,
     "Fossil Group": "Dimetrodon",
@@ -382,7 +382,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "dimetrodon torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDimetrodonB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDimetrodonB.png\")",
     "Buy": "NFS",
     "Sell": 5000,
     "Fossil Group": "Dimetrodon",
@@ -402,7 +402,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "dinosaur track",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilIchnology.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilIchnology.png\")",
     "Buy": "NFS",
     "Sell": 1000,
     "Fossil Group": "dinosaur track",
@@ -422,7 +422,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "diplo chest",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusC.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Diplodocus",
@@ -442,7 +442,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "diplo neck",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusB.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Diplodocus",
@@ -462,7 +462,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "diplo pelvis",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusD.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusD.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Diplodocus",
@@ -482,7 +482,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "diplo skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusA.png\")",
     "Buy": "NFS",
     "Sell": 5000,
     "Fossil Group": "Diplodocus",
@@ -502,7 +502,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "diplo tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusE.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusE.png\")",
     "Buy": "NFS",
     "Sell": 5000,
     "Fossil Group": "Diplodocus",
@@ -522,7 +522,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "diplo tail tip",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDiplodocusF.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDiplodocusF.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Diplodocus",
@@ -542,7 +542,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "dunkleosteus",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilDunkleosteus.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilDunkleosteus.png\")",
     "Buy": "NFS",
     "Sell": 3500,
     "Fossil Group": "dunkleosteus",
@@ -562,7 +562,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "eusthenopteron",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstAmphibian.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilFirstAmphibian.png\")",
     "Buy": "NFS",
     "Sell": 2000,
     "Fossil Group": "eusthenopteron",
@@ -582,7 +582,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "iguanodon skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilIguanodonA.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Iguanodon",
@@ -602,7 +602,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "iguanodon tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilIguanodonC.png\")",
     "Buy": "NFS",
     "Sell": 3000,
     "Fossil Group": "Iguanodon",
@@ -622,7 +622,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "iguanodon torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilIguanodonB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilIguanodonB.png\")",
     "Buy": "NFS",
     "Sell": 3500,
     "Fossil Group": "Iguanodon",
@@ -642,7 +642,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "juramaia",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstMammal.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilFirstMammal.png\")",
     "Buy": "NFS",
     "Sell": 1500,
     "Fossil Group": "juramaia",
@@ -662,7 +662,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "left megalo side",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilMegalocerosB.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Megaloceros",
@@ -682,7 +682,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "left ptera wing",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPteranodonC.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Pteranodon",
@@ -702,7 +702,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "left quetzal wing",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilQuetzalcoatlusC.png\")",
     "Buy": "NFS",
     "Sell": 5000,
     "Fossil Group": "Quetzalcoatlus",
@@ -722,7 +722,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "mammoth skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilMammothA.png\")",
     "Buy": "NFS",
     "Sell": 3000,
     "Fossil Group": "Mammoth",
@@ -742,7 +742,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "mammoth torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilMammothB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilMammothB.png\")",
     "Buy": "NFS",
     "Sell": 2500,
     "Fossil Group": "Mammoth",
@@ -762,7 +762,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "megacero skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrontotheriumA.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Megacerops",
@@ -782,7 +782,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "megacero tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrontotheriumC.png\")",
     "Buy": "NFS",
     "Sell": 3000,
     "Fossil Group": "Megacerops",
@@ -802,7 +802,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "megacero torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilBrontotheriumB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilBrontotheriumB.png\")",
     "Buy": "NFS",
     "Sell": 3500,
     "Fossil Group": "Megacerops",
@@ -822,7 +822,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "myllokunmingia",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilFirstFish.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilFirstFish.png\")",
     "Buy": "NFS",
     "Sell": 1500,
     "Fossil Group": "myllokunmingia",
@@ -842,7 +842,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "ophthalmo skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilOphthalmosaurusA.png\")",
     "Buy": "NFS",
     "Sell": 2500,
     "Fossil Group": "Ophthalmosaurus",
@@ -862,7 +862,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "ophthalmo torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilOphthalmosaurusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilOphthalmosaurusB.png\")",
     "Buy": "NFS",
     "Sell": 2000,
     "Fossil Group": "Ophthalmosaurus",
@@ -882,7 +882,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "pachy skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPachycephalosaurusA.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Pachycephalosaurus",
@@ -902,7 +902,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "pachy tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilPachycephalosaurusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPachycephalosaurusB.png\")",
     "Buy": "NFS",
     "Sell": 3500,
     "Fossil Group": "Pachycephalosaurus",
@@ -922,7 +922,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "parasaur skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilParasaurolophusA.png\")",
     "Buy": "NFS",
     "Sell": 3500,
     "Fossil Group": "Parasaurolophus",
@@ -942,7 +942,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "parasaur tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilParasaurolophusC.png\")",
     "Buy": "NFS",
     "Sell": 2500,
     "Fossil Group": "Parasaurolophus",
@@ -962,7 +962,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "parasaur torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilParasaurolophusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilParasaurolophusB.png\")",
     "Buy": "NFS",
     "Sell": 3000,
     "Fossil Group": "Parasaurolophus",
@@ -982,7 +982,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "plesio skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilElasmosaurusA.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Plesiosaurus",
@@ -1002,7 +1002,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "plesio tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilElasmosaurusC.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Plesiosaurus",
@@ -1022,7 +1022,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "plesio torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilElasmosaurusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilElasmosaurusB.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Plesiosaurus",
@@ -1042,7 +1042,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "ptera body",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPteranodonA.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Pteranodon",
@@ -1062,7 +1062,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "quetzal torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilQuetzalcoatlusA.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Quetzalcoatlus",
@@ -1082,7 +1082,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "right megalo side",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilMegalocerosA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilMegalocerosA.png\")",
     "Buy": "NFS",
     "Sell": 5500,
     "Fossil Group": "Megaloceros",
@@ -1102,7 +1102,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "right ptera wing",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilPteranodonB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilPteranodonB.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Pteranodon",
@@ -1122,7 +1122,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "right quetzal wing",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilQuetzalcoatlusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilQuetzalcoatlusB.png\")",
     "Buy": "NFS",
     "Sell": 5000,
     "Fossil Group": "Quetzalcoatlus",
@@ -1142,7 +1142,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "sabertooth skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSmilodonA.png\")",
     "Buy": "NFS",
     "Sell": 2500,
     "Fossil Group": "Sabertooth Tiger",
@@ -1162,7 +1162,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "sabertooth tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilSmilodonB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSmilodonB.png\")",
     "Buy": "NFS",
     "Sell": 2000,
     "Fossil Group": "Sabertooth Tiger",
@@ -1182,7 +1182,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "shark-tooth pattern",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilShark.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilShark.png\")",
     "Buy": "NFS",
     "Sell": 1000,
     "Fossil Group": "shark-tooth pattern",
@@ -1202,7 +1202,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "spino skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSpinosaurusA.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Spinosaurus",
@@ -1222,7 +1222,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "spino tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSpinosaurusC.png\")",
     "Buy": "NFS",
     "Sell": 2500,
     "Fossil Group": "Spinosaurus",
@@ -1242,7 +1242,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "spino torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilSpinosaurusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilSpinosaurusB.png\")",
     "Buy": "NFS",
     "Sell": 3000,
     "Fossil Group": "Spinosaurus",
@@ -1262,7 +1262,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "stego skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilStegosaurusA.png\")",
     "Buy": "NFS",
     "Sell": 5000,
     "Fossil Group": "Stegosaurus",
@@ -1282,7 +1282,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "stego tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilStegosaurusC.png\")",
     "Buy": "NFS",
     "Sell": 4000,
     "Fossil Group": "Stegosaurus",
@@ -1302,7 +1302,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "stego torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilStegosaurusB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilStegosaurusB.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Stegosaurus",
@@ -1322,7 +1322,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "T. rex skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTRexA.png\")",
     "Buy": "NFS",
     "Sell": 6000,
     "Fossil Group": "T. Rex",
@@ -1342,7 +1342,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "T. rex tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTRexC.png\")",
     "Buy": "NFS",
     "Sell": 5000,
     "Fossil Group": "T. Rex",
@@ -1362,7 +1362,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "T. rex torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilTRexB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTRexB.png\")",
     "Buy": "NFS",
     "Sell": 5500,
     "Fossil Group": "T. Rex",
@@ -1382,7 +1382,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "tricera skull",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsA.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTriceratopsA.png\")",
     "Buy": "NFS",
     "Sell": 5500,
     "Fossil Group": "Triceratops",
@@ -1402,7 +1402,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "tricera tail",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsC.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTriceratopsC.png\")",
     "Buy": "NFS",
     "Sell": 4500,
     "Fossil Group": "Triceratops",
@@ -1422,7 +1422,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "tricera torso",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilTriceratopsB.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTriceratopsB.png\")",
     "Buy": "NFS",
     "Sell": 5000,
     "Fossil Group": "Triceratops",
@@ -1442,7 +1442,7 @@
   {
     "SourceSheet": "Fossils",
     "Name": "trilobite",
-    "Image": "=IMAGE(\"https://acnhcdn.com/latest/FtrIcon/FtrFossilTrilobite.png\")",
+    "Image": "=IMAGE(\"https://nh-cdn.catalogue.ac/FtrIcon/FtrFossilTrilobite.png\")",
     "Buy": "NFS",
     "Sell": 1300,
     "Fossil Group": "trilobite",

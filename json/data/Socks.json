@@ -76,8 +76,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAlan1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAlan1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAlan1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAlan1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -109,8 +109,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAlan5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAlan5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAlan5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAlan5.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -142,8 +142,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAlan2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAlan2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAlan2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAlan2.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -175,8 +175,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAlan3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAlan3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAlan3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAlan3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -208,8 +208,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAlan4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAlan4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAlan4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAlan4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -241,8 +241,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAlan0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAlan0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAlan0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAlan0.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -281,8 +281,8 @@
   {
     "sourceSheet": "Socks",
     "name": "Kerokerokeroppi socks",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKeroppi0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKeroppi0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKeroppi0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKeroppi0.png",
     "variation": null,
     "diy": false,
     "buy": 720,
@@ -375,8 +375,8 @@
   {
     "sourceSheet": "Socks",
     "name": "Kiki & Lala socks",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKikilala0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKikilala0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKikilala0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKikilala0.png",
     "variation": null,
     "diy": false,
     "buy": 720,
@@ -583,8 +583,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatesocks1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatesocks1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatesocks1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatesocks1.png",
         "variation": "Midnight",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -616,8 +616,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatesocks2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatesocks2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatesocks2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatesocks2.png",
         "variation": "Passion",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -649,8 +649,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatesocks5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatesocks5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatesocks5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatesocks5.png",
         "variation": "Love",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -682,8 +682,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatesocks4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatesocks4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatesocks4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatesocks4.png",
         "variation": "Sunset",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -715,8 +715,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatesocks3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatesocks3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatesocks3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatesocks3.png",
         "variation": "Ocean",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -748,8 +748,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatesocks0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatesocks0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatesocks0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatesocks0.png",
         "variation": "Twilight",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -902,8 +902,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatetights1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatetights1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatetights1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatetights1.png",
         "variation": "Midnight",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -935,8 +935,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatetights2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatetights2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatetights2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatetights2.png",
         "variation": "Passion",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -968,8 +968,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatetights5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatetights5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatetights5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatetights5.png",
         "variation": "Love",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1001,8 +1001,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatetights4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatetights4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatetights4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatetights4.png",
         "variation": "Sunset",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1034,8 +1034,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatetights3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatetights3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatetights3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatetights3.png",
         "variation": "Ocean",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1067,8 +1067,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKatetights0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKatetights0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKatetights0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKatetights0.png",
         "variation": "Twilight",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1107,8 +1107,8 @@
   {
     "sourceSheet": "Socks",
     "name": "Nook Inc. socks",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorderRco.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorderRco.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBorderRco.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBorderRco.png",
     "variation": null,
     "diy": false,
     "buy": -1,
@@ -1275,8 +1275,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAerobics0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAerobics0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAerobics0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAerobics0.png",
         "variation": "Red & pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1308,8 +1308,8 @@
         "colors": [ "Pink", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAerobics3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAerobics3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAerobics3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAerobics3.png",
         "variation": "Light blue & salmon pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1341,8 +1341,8 @@
         "colors": [ "Pink", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAerobics2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAerobics2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAerobics2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAerobics2.png",
         "variation": "Purple & orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1374,8 +1374,8 @@
         "colors": [ "Orange", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAerobics1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAerobics1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAerobics1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAerobics1.png",
         "variation": "Emerald & lime",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1407,8 +1407,8 @@
         "colors": [ "Green", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAerobics4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAerobics4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAerobics4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAerobics4.png",
         "variation": "Yellow & blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1540,8 +1540,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexArgyle5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexArgyle5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexArgyle5.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1573,8 +1573,8 @@
         "colors": [ "White", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexArgyle4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexArgyle4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexArgyle4.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1606,8 +1606,8 @@
         "colors": [ "Gray", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexArgyle1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexArgyle1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexArgyle1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1639,8 +1639,8 @@
         "colors": [ "Red", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexArgyle7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexArgyle7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexArgyle7.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1672,8 +1672,8 @@
         "colors": [ "Pink", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexArgyle6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexArgyle6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexArgyle6.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1705,8 +1705,8 @@
         "colors": [ "Orange", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexArgyle2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexArgyle2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexArgyle2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1738,8 +1738,8 @@
         "colors": [ "Green", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexArgyle0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexArgyle0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexArgyle0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1771,8 +1771,8 @@
         "colors": [ "Blue", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexArgyle3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexArgyle3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexArgyle3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexArgyle3.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1923,8 +1923,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRibbon3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRibbon3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRibbon3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRibbon3.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1956,8 +1956,8 @@
         "colors": [ "White", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRibbon2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRibbon2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRibbon2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRibbon2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -1989,8 +1989,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRibbon0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRibbon0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRibbon0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRibbon0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2022,8 +2022,8 @@
         "colors": [ "Pink", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRibbon1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRibbon1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRibbon1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRibbon1.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2055,8 +2055,8 @@
         "colors": [ "Yellow", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRibbon5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRibbon5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRibbon5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRibbon5.png",
         "variation": "Peacock blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2088,8 +2088,8 @@
         "colors": [ "Green", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRibbon4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRibbon4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRibbon4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRibbon4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2202,8 +2202,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFolded0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFolded0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFolded0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFolded0.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2235,8 +2235,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFolded1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFolded1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFolded1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFolded1.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2268,8 +2268,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFolded2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFolded2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFolded2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFolded2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2301,8 +2301,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFolded3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFolded3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFolded3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFolded3.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2396,8 +2396,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMultiblock5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMultiblock5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMultiblock5.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2429,8 +2429,8 @@
         "colors": [ "White", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMultiblock7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMultiblock7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMultiblock7.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2462,8 +2462,8 @@
         "colors": [ "Pink", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMultiblock6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMultiblock6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMultiblock6.png",
         "variation": "Lime",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2495,8 +2495,8 @@
         "colors": [ "Green", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMultiblock1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMultiblock1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMultiblock1.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2528,8 +2528,8 @@
         "colors": [ "Green", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMultiblock3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMultiblock3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMultiblock3.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2561,8 +2561,8 @@
         "colors": [ "Blue", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMultiblock0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMultiblock0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMultiblock0.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2594,8 +2594,8 @@
         "colors": [ "Purple", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMultiblock2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMultiblock2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMultiblock2.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2627,8 +2627,8 @@
         "colors": [ "Brown", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMultiblock4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMultiblock4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMultiblock4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMultiblock4.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2760,8 +2760,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCompression4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCompression4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCompression4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCompression4.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2793,8 +2793,8 @@
         "colors": [ "Black", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCompression2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCompression2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCompression2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCompression2.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2826,8 +2826,8 @@
         "colors": [ "Black", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCompression1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCompression1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCompression1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCompression1.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2859,8 +2859,8 @@
         "colors": [ "Black", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCompression3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCompression3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCompression3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCompression3.png",
         "variation": "Mint",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -2892,8 +2892,8 @@
         "colors": [ "Black", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCompression0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCompression0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCompression0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCompression0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3006,8 +3006,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCountry3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCountry3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCountry3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCountry3.png",
         "variation": "Black ribbons",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3039,8 +3039,8 @@
         "colors": [ "White", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCountry0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCountry0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCountry0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCountry0.png",
         "variation": "Red ribbons",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3072,8 +3072,8 @@
         "colors": [ "White", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCountry1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCountry1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCountry1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCountry1.png",
         "variation": "Green ribbons",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3105,8 +3105,8 @@
         "colors": [ "White", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCountry2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCountry2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCountry2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCountry2.png",
         "variation": "Blue ribbons",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3219,8 +3219,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCrocheting1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCrocheting1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCrocheting1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCrocheting1.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3252,8 +3252,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCrocheting2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCrocheting2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCrocheting2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCrocheting2.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3285,8 +3285,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCrocheting3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCrocheting3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCrocheting3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCrocheting3.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3318,8 +3318,8 @@
         "colors": [ "Aqua", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCrocheting0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCrocheting0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCrocheting0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCrocheting0.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3451,8 +3451,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDenimleggings1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDenimleggings1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDenimleggings1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDenimleggings1.png",
         "variation": "Indigo blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3484,8 +3484,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDenimleggings3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDenimleggings3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDenimleggings3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDenimleggings3.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3517,8 +3517,8 @@
         "colors": [ "Aqua", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDenimleggings2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDenimleggings2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDenimleggings2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDenimleggings2.png",
         "variation": "Saxon blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3550,8 +3550,8 @@
         "colors": [ "Aqua", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDenimleggings0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDenimleggings0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDenimleggings0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDenimleggings0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3645,8 +3645,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDotknee3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDotknee3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDotknee3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDotknee3.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3678,8 +3678,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDotknee0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDotknee0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDotknee0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDotknee0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3711,8 +3711,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDotknee1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDotknee1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDotknee1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDotknee1.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3744,8 +3744,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDotknee2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDotknee2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDotknee2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDotknee2.png",
         "variation": "Cyan",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3877,8 +3877,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexEmbroidery1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexEmbroidery1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexEmbroidery1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexEmbroidery1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3910,8 +3910,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexEmbroidery2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexEmbroidery2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexEmbroidery2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexEmbroidery2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3943,8 +3943,8 @@
         "colors": [ "Green", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexEmbroidery4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexEmbroidery4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexEmbroidery4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexEmbroidery4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -3976,8 +3976,8 @@
         "colors": [ "Blue", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexEmbroidery5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexEmbroidery5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexEmbroidery5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexEmbroidery5.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4009,8 +4009,8 @@
         "colors": [ "Purple", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexEmbroidery0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexEmbroidery0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexEmbroidery0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexEmbroidery0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4042,8 +4042,8 @@
         "colors": [ "Brown", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexEmbroidery3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexEmbroidery3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexEmbroidery3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexEmbroidery3.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4156,8 +4156,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailysocks5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailysocks5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailysocks5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailysocks5.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4189,8 +4189,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailysocks3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailysocks3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailysocks3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailysocks3.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4222,8 +4222,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailysocks1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailysocks1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailysocks1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailysocks1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4255,8 +4255,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailysocks2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailysocks2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailysocks2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailysocks2.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4288,8 +4288,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailysocks0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailysocks0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailysocks0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailysocks0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4321,8 +4321,8 @@
         "colors": [ "Brown", "Brown" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailysocks4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailysocks4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailysocks4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailysocks4.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4435,8 +4435,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailytights3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailytights3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailytights3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailytights3.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4468,8 +4468,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailytights1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailytights1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailytights1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailytights1.png",
         "variation": "Light gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4501,8 +4501,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailytights2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailytights2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailytights2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailytights2.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4534,8 +4534,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailytights0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailytights0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailytights0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailytights0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4567,8 +4567,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailytights4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailytights4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailytights4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailytights4.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4600,8 +4600,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexDailytights5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexDailytights5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexDailytights5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexDailytights5.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4714,8 +4714,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAmitights1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAmitights1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAmitights1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAmitights1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4747,8 +4747,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAmitights0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAmitights0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAmitights0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAmitights0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4780,8 +4780,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexAmitights2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexAmitights2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexAmitights2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexAmitights2.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4932,8 +4932,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFlowerdot0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFlowerdot0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFlowerdot0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFlowerdot0.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4965,8 +4965,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFlowerdot4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFlowerdot4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFlowerdot4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFlowerdot4.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -4998,8 +4998,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFlowerdot1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFlowerdot1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFlowerdot1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFlowerdot1.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5031,8 +5031,8 @@
         "colors": [ "Pink", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFlowerdot3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFlowerdot3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFlowerdot3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFlowerdot3.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5064,8 +5064,8 @@
         "colors": [ "Yellow", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFlowerdot2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFlowerdot2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFlowerdot2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFlowerdot2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5216,8 +5216,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilledknee0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilledknee0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilledknee0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5249,8 +5249,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilledknee2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilledknee2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilledknee2.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5282,8 +5282,8 @@
         "colors": [ "Red", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilledknee5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilledknee5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilledknee5.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5315,8 +5315,8 @@
         "colors": [ "Pink", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilledknee3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilledknee3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilledknee3.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5348,8 +5348,8 @@
         "colors": [ "Orange", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilledknee7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilledknee7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilledknee7.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5381,8 +5381,8 @@
         "colors": [ "Yellow", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilledknee1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilledknee1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilledknee1.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5414,8 +5414,8 @@
         "colors": [ "Green", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilledknee4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilledknee4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilledknee4.png",
         "variation": "Mint",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5447,8 +5447,8 @@
         "colors": [ "Aqua", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilledknee6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilledknee6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilledknee6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilledknee6.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5599,8 +5599,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilled0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilled0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilled0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilled0.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5632,8 +5632,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilled2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilled2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilled2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilled2.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5665,8 +5665,8 @@
         "colors": [ "Pink", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilled1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilled1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilled1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilled1.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5698,8 +5698,8 @@
         "colors": [ "Yellow", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilled3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilled3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilled3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilled3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5731,8 +5731,8 @@
         "colors": [ "Green", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilled5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilled5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilled5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilled5.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5764,8 +5764,8 @@
         "colors": [ "Aqua", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFrilled4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFrilled4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFrilled4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFrilled4.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5878,8 +5878,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCharacter4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCharacter4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCharacter4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCharacter4.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5911,8 +5911,8 @@
         "colors": [ "Black", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCharacter2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCharacter2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCharacter2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCharacter2.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5944,8 +5944,8 @@
         "colors": [ "Red", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCharacter0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCharacter0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCharacter0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCharacter0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -5977,8 +5977,8 @@
         "colors": [ "Pink", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCharacter3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCharacter3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCharacter3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCharacter3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6010,8 +6010,8 @@
         "colors": [ "Green", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexCharacter1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexCharacter1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexCharacter1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexCharacter1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6143,8 +6143,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexGarter1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexGarter1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexGarter1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexGarter1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6176,8 +6176,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexGarter0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexGarter0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexGarter0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexGarter0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6209,8 +6209,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexGarter3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexGarter3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexGarter3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexGarter3.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6242,8 +6242,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexGarter2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexGarter2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexGarter2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexGarter2.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6337,8 +6337,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexChimayo4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexChimayo4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexChimayo4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexChimayo4.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6370,8 +6370,8 @@
         "colors": [ "Pink", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexChimayo0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexChimayo0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexChimayo0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexChimayo0.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6403,8 +6403,8 @@
         "colors": [ "Yellow", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexChimayo5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexChimayo5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexChimayo5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexChimayo5.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6436,8 +6436,8 @@
         "colors": [ "Green", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexChimayo1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexChimayo1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexChimayo1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexChimayo1.png",
         "variation": "Peacock blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6469,8 +6469,8 @@
         "colors": [ "Aqua", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexChimayo2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexChimayo2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexChimayo2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexChimayo2.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6502,8 +6502,8 @@
         "colors": [ "Purple", "Colorful" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexChimayo3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexChimayo3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexChimayo3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexChimayo3.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6616,8 +6616,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHandknit2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHandknit2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHandknit2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHandknit2.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6649,8 +6649,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHandknit0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHandknit0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHandknit0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHandknit0.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6682,8 +6682,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHandknit1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHandknit1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHandknit1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHandknit1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6796,8 +6796,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHole0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHole0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHole0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHole0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6829,8 +6829,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHole1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHole1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHole1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHole1.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6862,8 +6862,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHole2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHole2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHole2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHole2.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -6995,8 +6995,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHoletights0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHoletights0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHoletights0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7028,8 +7028,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHoletights3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHoletights3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHoletights3.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7061,8 +7061,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHoletights1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHoletights1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHoletights1.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7094,8 +7094,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHoletights7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHoletights7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHoletights7.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7127,8 +7127,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHoletights5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHoletights5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHoletights5.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7160,8 +7160,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHoletights2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHoletights2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHoletights2.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7193,8 +7193,8 @@
         "colors": [ "Aqua", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHoletights6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHoletights6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHoletights6.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7226,8 +7226,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHoletights4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHoletights4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHoletights4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHoletights4.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7359,8 +7359,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHalloween2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHalloween2.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7392,8 +7392,8 @@
         "colors": [ "White", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHalloween5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHalloween5.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7425,8 +7425,8 @@
         "colors": [ "Black", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHalloween4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHalloween4.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7458,8 +7458,8 @@
         "colors": [ "Red", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHalloween0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHalloween0.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7491,8 +7491,8 @@
         "colors": [ "Orange", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHalloween3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHalloween3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7524,8 +7524,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexHalloween1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexHalloween1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexHalloween1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexHalloween1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7676,8 +7676,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKids7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKids7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKids7.png",
         "variation": "Black & gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7709,8 +7709,8 @@
         "colors": [ "Black", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKids0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKids0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKids0.png",
         "variation": "Red & light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7742,8 +7742,8 @@
         "colors": [ "Red", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKids6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKids6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKids6.png",
         "variation": "Pink & yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7775,8 +7775,8 @@
         "colors": [ "Pink", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKids3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKids3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKids3.png",
         "variation": "Yellow & purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7808,8 +7808,8 @@
         "colors": [ "Yellow", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKids2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKids2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKids2.png",
         "variation": "Lime & pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7841,8 +7841,8 @@
         "colors": [ "Green", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKids4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKids4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKids4.png",
         "variation": "Light blue & red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7874,8 +7874,8 @@
         "colors": [ "Aqua", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKids1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKids1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKids1.png",
         "variation": "Blue & orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7907,8 +7907,8 @@
         "colors": [ "Blue", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexKids5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexKids5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexKids5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexKids5.png",
         "variation": "Purple & green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -7947,8 +7947,8 @@
   {
     "sourceSheet": "Socks",
     "name": "knee bandages",
-    "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBandage0.png",
-    "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBandage0.png",
+    "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBandage0.png",
+    "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBandage0.png",
     "variation": null,
     "diy": false,
     "buy": 240,
@@ -8115,8 +8115,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexProtector0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexProtector0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexProtector0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexProtector0.png",
         "variation": "Black & red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8148,8 +8148,8 @@
         "colors": [ "Black", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexProtector1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexProtector1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexProtector1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexProtector1.png",
         "variation": "Black & blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8181,8 +8181,8 @@
         "colors": [ "Black", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexProtector2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexProtector2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexProtector2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexProtector2.png",
         "variation": "Black & yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8214,8 +8214,8 @@
         "colors": [ "Black", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexProtector3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexProtector3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexProtector3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexProtector3.png",
         "variation": "Black & pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8247,8 +8247,8 @@
         "colors": [ "Black", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexProtector4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexProtector4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexProtector4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexProtector4.png",
         "variation": "White & black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8399,8 +8399,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLace0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLace0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLace0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLace0.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8432,8 +8432,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLace3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLace3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLace3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLace3.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8465,8 +8465,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLace1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLace1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLace1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLace1.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8498,8 +8498,8 @@
         "colors": [ "Pink", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLace2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLace2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLace2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLace2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8531,8 +8531,8 @@
         "colors": [ "Green", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLace4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLace4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLace4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLace4.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8645,8 +8645,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SockstTexOverlapping4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SockstTexOverlapping4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SockstTexOverlapping4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SockstTexOverlapping4.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8678,8 +8678,8 @@
         "colors": [ "Gray", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SockstTexOverlapping5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SockstTexOverlapping5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SockstTexOverlapping5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SockstTexOverlapping5.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8711,8 +8711,8 @@
         "colors": [ "Gray", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SockstTexOverlapping2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SockstTexOverlapping2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SockstTexOverlapping2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SockstTexOverlapping2.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8744,8 +8744,8 @@
         "colors": [ "Gray", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SockstTexOverlapping3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SockstTexOverlapping3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SockstTexOverlapping3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SockstTexOverlapping3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8777,8 +8777,8 @@
         "colors": [ "Gray", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SockstTexOverlapping1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SockstTexOverlapping1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SockstTexOverlapping1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SockstTexOverlapping1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8810,8 +8810,8 @@
         "colors": [ "Gray", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SockstTexOverlapping0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SockstTexOverlapping0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SockstTexOverlapping0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SockstTexOverlapping0.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8924,8 +8924,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLegwarmer2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLegwarmer2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLegwarmer2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLegwarmer2.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8957,8 +8957,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLegwarmer1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLegwarmer1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLegwarmer1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLegwarmer1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -8990,8 +8990,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLegwarmer3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLegwarmer3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLegwarmer3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLegwarmer3.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9023,8 +9023,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLegwarmer5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLegwarmer5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLegwarmer5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLegwarmer5.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9056,8 +9056,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLegwarmer0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLegwarmer0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLegwarmer0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLegwarmer0.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9089,8 +9089,8 @@
         "colors": [ "Purple", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLegwarmer4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLegwarmer4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLegwarmer4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLegwarmer4.png",
         "variation": "Light purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9203,8 +9203,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMixtweed0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMixtweed0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMixtweed0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9236,8 +9236,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMixtweed5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMixtweed5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMixtweed5.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9269,8 +9269,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMixtweed6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMixtweed6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMixtweed6.png",
         "variation": "Lime",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9302,8 +9302,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMixtweed1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMixtweed1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMixtweed1.png",
         "variation": "Avocado",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9335,8 +9335,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMixtweed2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMixtweed2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMixtweed2.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9368,8 +9368,8 @@
         "colors": [ "Aqua", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMixtweed4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMixtweed4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMixtweed4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9401,8 +9401,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMixtweed3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMixtweed3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMixtweed3.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9434,8 +9434,8 @@
         "colors": [ "Purple", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexMixtweed7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexMixtweed7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexMixtweed7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexMixtweed7.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9567,8 +9567,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeonleggings1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeonleggings1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeonleggings1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeonleggings1.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9600,8 +9600,8 @@
         "colors": [ "Pink", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeonleggings2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeonleggings2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeonleggings2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeonleggings2.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9633,8 +9633,8 @@
         "colors": [ "Orange", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeonleggings0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeonleggings0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeonleggings0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeonleggings0.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9666,8 +9666,8 @@
         "colors": [ "Yellow", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeonleggings3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeonleggings3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeonleggings3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeonleggings3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9699,8 +9699,8 @@
         "colors": [ "Green", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeonleggings4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeonleggings4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeonleggings4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeonleggings4.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9813,8 +9813,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeontights1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeontights1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeontights1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeontights1.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9846,8 +9846,8 @@
         "colors": [ "Pink", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeontights2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeontights2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeontights2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeontights2.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9879,8 +9879,8 @@
         "colors": [ "Orange", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeontights0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeontights0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeontights0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeontights0.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9912,8 +9912,8 @@
         "colors": [ "Yellow", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeontights3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeontights3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeontights3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeontights3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -9945,8 +9945,8 @@
         "colors": [ "Green", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNeontights4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNeontights4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNeontights4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNeontights4.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10097,8 +10097,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSneakerin1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSneakerin1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSneakerin1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10130,8 +10130,8 @@
         "colors": [ "White", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSneakerin0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSneakerin0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSneakerin0.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10163,8 +10163,8 @@
         "colors": [ "Gray", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSneakerin2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSneakerin2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSneakerin2.png",
         "variation": "Berry red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10196,8 +10196,8 @@
         "colors": [ "Red", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSneakerin4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSneakerin4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSneakerin4.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10229,8 +10229,8 @@
         "colors": [ "Orange", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSneakerin7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSneakerin7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSneakerin7.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10262,8 +10262,8 @@
         "colors": [ "Yellow", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSneakerin5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSneakerin5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSneakerin5.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10295,8 +10295,8 @@
         "colors": [ "Green", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSneakerin3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSneakerin3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSneakerin3.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10328,8 +10328,8 @@
         "colors": [ "Aqua", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSneakerin6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSneakerin6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSneakerin6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSneakerin6.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10461,8 +10461,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNordic4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNordic4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNordic4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNordic4.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10494,8 +10494,8 @@
         "colors": [ "Gray", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNordic2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNordic2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNordic2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNordic2.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10530,8 +10530,8 @@
         "colors": [ "Red", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNordic5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNordic5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNordic5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNordic5.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10563,8 +10563,8 @@
         "colors": [ "Green", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNordic6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNordic6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNordic6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNordic6.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10596,8 +10596,8 @@
         "colors": [ "Aqua", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNordic3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNordic3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNordic3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNordic3.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10629,8 +10629,8 @@
         "colors": [ "Blue", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNordic0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNordic0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNordic0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNordic0.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10662,8 +10662,8 @@
         "colors": [ "Blue", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNordic1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNordic1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNordic1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNordic1.png",
         "variation": "Ivory",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10814,8 +10814,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripedot1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripedot1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripedot1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripedot1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10847,8 +10847,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripedot0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripedot0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripedot0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripedot0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -10980,8 +10980,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBobble0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBobble0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBobble0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBobble0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11013,8 +11013,8 @@
         "colors": [ "Pink", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBobble3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBobble3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBobble3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBobble3.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11046,8 +11046,8 @@
         "colors": [ "Orange", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBobble2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBobble2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBobble2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBobble2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11079,8 +11079,8 @@
         "colors": [ "Green", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBobble1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBobble1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBobble1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBobble1.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11112,8 +11112,8 @@
         "colors": [ "Aqua", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBobble4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBobble4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBobble4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBobble4.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11207,8 +11207,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexPucker1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexPucker1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexPucker1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexPucker1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11240,8 +11240,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexPucker0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexPucker0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexPucker0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexPucker0.png",
         "variation": "Mustard",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11273,8 +11273,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexPucker3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexPucker3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexPucker3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexPucker3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11306,8 +11306,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexPucker2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexPucker2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexPucker2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexPucker2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11339,8 +11339,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexPucker4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexPucker4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexPucker4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexPucker4.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11472,8 +11472,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRun0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRun0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRun0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRun0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11505,8 +11505,8 @@
         "colors": [ "Black", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRun1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRun1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRun1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRun1.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11538,8 +11538,8 @@
         "colors": [ "Black", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRun3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRun3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRun3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRun3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11571,8 +11571,8 @@
         "colors": [ "Black", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexRun2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexRun2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexRun2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexRun2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11666,8 +11666,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancesocks1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancesocks1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancesocks1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11699,8 +11699,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancesocks4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancesocks4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancesocks4.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11732,8 +11732,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancesocks5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancesocks5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancesocks5.png",
         "variation": "Camel",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11765,8 +11765,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancesocks6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancesocks6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancesocks6.png",
         "variation": "Avocado",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11798,8 +11798,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancesocks0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancesocks0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancesocks0.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11831,8 +11831,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancesocks2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancesocks2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancesocks2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11864,8 +11864,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancesocks3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancesocks3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancesocks3.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11897,8 +11897,8 @@
         "colors": [ "Purple", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancesocks7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancesocks7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancesocks7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancesocks7.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -11992,8 +11992,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancetights6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancetights6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancetights6.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12025,8 +12025,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancetights5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancetights5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancetights5.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12058,8 +12058,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancetights0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancetights0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancetights0.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12091,8 +12091,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancetights1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancetights1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancetights1.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12124,8 +12124,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancetights7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancetights7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancetights7.png",
         "variation": "Yellow-green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12157,8 +12157,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancetights2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancetights2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancetights2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12190,8 +12190,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancetights4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancetights4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancetights4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12223,8 +12223,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexNuancetights3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexNuancetights3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexNuancetights3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexNuancetights3.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12337,8 +12337,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSequins4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSequins4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSequins4.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12370,8 +12370,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSequins2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSequins2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSequins2.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12403,8 +12403,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSequins1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSequins1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSequins1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12436,8 +12436,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSequins0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSequins0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSequins0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12472,8 +12472,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSequins3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSequins3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSequins3.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12505,8 +12505,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSequins7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSequins7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSequins7.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12541,8 +12541,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSequins5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSequins5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSequins5.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12577,8 +12577,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSequins6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSequins6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSequins6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSequins6.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12710,8 +12710,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSeethrough5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSeethrough5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSeethrough5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSeethrough5.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12743,8 +12743,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSeethrough1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSeethrough1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSeethrough1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSeethrough1.png",
         "variation": "Berry red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12776,8 +12776,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSeethrough3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSeethrough3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSeethrough3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSeethrough3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12809,8 +12809,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSeethrough4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSeethrough4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSeethrough4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSeethrough4.png",
         "variation": "Olive",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12842,8 +12842,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSeethrough0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSeethrough0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSeethrough0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSeethrough0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12875,8 +12875,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSeethrough2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSeethrough2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSeethrough2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSeethrough2.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -12970,8 +12970,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSimpleknee1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSimpleknee1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSimpleknee1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSimpleknee1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13003,8 +13003,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSimpleknee2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSimpleknee2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSimpleknee2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSimpleknee2.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13036,8 +13036,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSimpleknee0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSimpleknee0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSimpleknee0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSimpleknee0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13069,8 +13069,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSimpleknee3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSimpleknee3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSimpleknee3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSimpleknee3.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13183,8 +13183,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexOnepoint2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexOnepoint2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexOnepoint2.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13216,8 +13216,8 @@
         "colors": [ "White", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexOnepoint3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexOnepoint3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexOnepoint3.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13249,8 +13249,8 @@
         "colors": [ "Gray", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexOnepoint1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexOnepoint1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexOnepoint1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13282,8 +13282,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexOnepoint6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexOnepoint6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexOnepoint6.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13315,8 +13315,8 @@
         "colors": [ "Red", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexOnepoint7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexOnepoint7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexOnepoint7.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13348,8 +13348,8 @@
         "colors": [ "Pink", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexOnepoint5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexOnepoint5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexOnepoint5.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13381,8 +13381,8 @@
         "colors": [ "Orange", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexOnepoint0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexOnepoint0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexOnepoint0.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13414,8 +13414,8 @@
         "colors": [ "Blue", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexOnepoint4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexOnepoint4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexOnepoint4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexOnepoint4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13528,8 +13528,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootball6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootball6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootball6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootball6.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13561,8 +13561,8 @@
         "colors": [ "White", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootball4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootball4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootball4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootball4.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13594,8 +13594,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootball1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootball1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootball1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootball1.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13627,8 +13627,8 @@
         "colors": [ "Red", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootball5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootball5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootball5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootball5.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13660,8 +13660,8 @@
         "colors": [ "Orange", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootball2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootball2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootball2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootball2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13693,8 +13693,8 @@
         "colors": [ "Green", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootball3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootball3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootball3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootball3.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13726,8 +13726,8 @@
         "colors": [ "Aqua", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootball0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootball0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootball0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootball0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13859,8 +13859,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSpider1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSpider1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSpider1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSpider1.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13892,8 +13892,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSpider0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSpider0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSpider0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSpider0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13925,8 +13925,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSpider2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSpider2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSpider2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSpider2.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -13958,8 +13958,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexSpider3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexSpider3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexSpider3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexSpider3.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14072,8 +14072,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTights2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexTights2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexTights2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexTights2.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14105,8 +14105,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTights1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexTights1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexTights1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexTights1.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14138,8 +14138,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTights0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexTights0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexTights0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexTights0.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14171,8 +14171,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTights3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexTights3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexTights3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexTights3.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14204,8 +14204,8 @@
         "colors": [ "Brown", "Brown" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTights4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexTights4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexTights4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexTights4.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14337,8 +14337,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLeggings3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLeggings3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLeggings3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLeggings3.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14373,8 +14373,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLeggings1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLeggings1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLeggings1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLeggings1.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14406,8 +14406,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLeggings2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLeggings2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLeggings2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLeggings2.png",
         "variation": "Dark gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14439,8 +14439,8 @@
         "colors": [ "Gray", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLeggings4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLeggings4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLeggings4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLeggings4.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14472,8 +14472,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLeggings6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLeggings6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLeggings6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLeggings6.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14508,8 +14508,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLeggings0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLeggings0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLeggings0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLeggings0.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14541,8 +14541,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLeggings5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLeggings5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLeggings5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLeggings5.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14655,8 +14655,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorder0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBorder0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBorder0.png",
         "variation": "Monotone",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14688,8 +14688,8 @@
         "colors": [ "Black", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorder5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBorder5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBorder5.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14721,8 +14721,8 @@
         "colors": [ "Red", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorder4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBorder4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBorder4.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14754,8 +14754,8 @@
         "colors": [ "Orange", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorder3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBorder3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBorder3.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14787,8 +14787,8 @@
         "colors": [ "Yellow", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorder2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBorder2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBorder2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14820,8 +14820,8 @@
         "colors": [ "Green", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorder1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBorder1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBorder1.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14853,8 +14853,8 @@
         "colors": [ "Aqua", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorder7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBorder7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBorder7.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -14886,8 +14886,8 @@
         "colors": [ "Blue", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexBorder6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexBorder6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexBorder6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexBorder6.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15000,8 +15000,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripe1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripe1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripe1.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15033,8 +15033,8 @@
         "colors": [ "Gray", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripe0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripe0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripe0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15066,8 +15066,8 @@
         "colors": [ "Red", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripe2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripe2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripe2.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15099,8 +15099,8 @@
         "colors": [ "Pink", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripe7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripe7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripe7.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15132,8 +15132,8 @@
         "colors": [ "Orange", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripe4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripe4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripe4.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15165,8 +15165,8 @@
         "colors": [ "Yellow", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripe6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripe6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripe6.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15198,8 +15198,8 @@
         "colors": [ "Green", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripe3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripe3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripe3.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15231,8 +15231,8 @@
         "colors": [ "Aqua", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStripe5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStripe5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStripe5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStripe5.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15364,8 +15364,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTabi0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexTabi0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexTabi0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexTabi0.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15397,8 +15397,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTabi1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexTabi1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexTabi1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexTabi1.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15430,8 +15430,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexTabi2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexTabi2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexTabi2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexTabi2.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15544,8 +15544,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFluffy6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFluffy6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFluffy6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFluffy6.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15577,8 +15577,8 @@
         "colors": [ "Gray", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFluffy5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFluffy5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFluffy5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFluffy5.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15610,8 +15610,8 @@
         "colors": [ "Red", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFluffy0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFluffy0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFluffy0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFluffy0.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15643,8 +15643,8 @@
         "colors": [ "Pink", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFluffy3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFluffy3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFluffy3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFluffy3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15676,8 +15676,8 @@
         "colors": [ "Green", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFluffy2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFluffy2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFluffy2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFluffy2.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15709,8 +15709,8 @@
         "colors": [ "Aqua", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFluffy1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFluffy1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFluffy1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFluffy1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15742,8 +15742,8 @@
         "colors": [ "Purple", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFluffy4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFluffy4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFluffy4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFluffy4.png",
         "variation": "Beige",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15875,8 +15875,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLine3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLine3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLine3.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15908,8 +15908,8 @@
         "colors": [ "White", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLine1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLine1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLine1.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15941,8 +15941,8 @@
         "colors": [ "White", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLine2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLine2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLine2.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -15977,8 +15977,8 @@
         "colors": [ "White", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLine0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLine0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLine0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16010,8 +16010,8 @@
         "colors": [ "White", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLine5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLine5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLine5.png",
         "variation": "Berry red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16043,8 +16043,8 @@
         "colors": [ "Gray", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLine6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLine6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLine6.png",
         "variation": "Dark green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16076,8 +16076,8 @@
         "colors": [ "Gray", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLine4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLine4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLine4.png",
         "variation": "Navy blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16109,8 +16109,8 @@
         "colors": [ "Gray", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexLine7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexLine7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexLine7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexLine7.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16242,8 +16242,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootcover7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootcover7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootcover7.png",
         "variation": "White",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16275,8 +16275,8 @@
         "colors": [ "White", "White" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootcover6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootcover6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootcover6.png",
         "variation": "Black",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16308,8 +16308,8 @@
         "colors": [ "Black", "Black" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootcover1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootcover1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootcover1.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16341,8 +16341,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootcover3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootcover3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootcover3.png",
         "variation": "Olive",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16374,8 +16374,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootcover4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootcover4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootcover4.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16407,8 +16407,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootcover0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootcover0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootcover0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16440,8 +16440,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootcover5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootcover5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootcover5.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16473,8 +16473,8 @@
         "colors": [ "Purple", "Purple" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexFootcover2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexFootcover2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexFootcover2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexFootcover2.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16606,8 +16606,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividleggings2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividleggings2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividleggings2.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16639,8 +16639,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividleggings3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividleggings3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividleggings3.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16672,8 +16672,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividleggings7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividleggings7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividleggings7.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16705,8 +16705,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividleggings5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividleggings5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividleggings5.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16738,8 +16738,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividleggings6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividleggings6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividleggings6.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16771,8 +16771,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividleggings0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividleggings0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividleggings0.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16804,8 +16804,8 @@
         "colors": [ "Aqua", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividleggings4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividleggings4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividleggings4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16837,8 +16837,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividleggings1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividleggings1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividleggings1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividleggings1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -16970,8 +16970,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividsocks0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividsocks0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividsocks0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividsocks0.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17003,8 +17003,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividsocks5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividsocks5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividsocks5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividsocks5.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17036,8 +17036,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividsocks6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividsocks6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividsocks6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividsocks6.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17069,8 +17069,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividsocks7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividsocks7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividsocks7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividsocks7.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17102,8 +17102,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexStandard1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexStandard1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexStandard1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexStandard1.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17135,8 +17135,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividsocks2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividsocks2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividsocks2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividsocks2.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17168,8 +17168,8 @@
         "colors": [ "Aqua", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividsocks3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividsocks3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividsocks3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividsocks3.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17201,8 +17201,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividsocks4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividsocks4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividsocks4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividsocks4.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17315,8 +17315,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividtights2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividtights2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividtights2.png",
         "variation": "Red",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17351,8 +17351,8 @@
         "colors": [ "Red", "Red" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividtights3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividtights3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividtights3.png",
         "variation": "Pink",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17387,8 +17387,8 @@
         "colors": [ "Pink", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights7.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividtights7.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividtights7.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividtights7.png",
         "variation": "Orange",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17420,8 +17420,8 @@
         "colors": [ "Orange", "Orange" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights5.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividtights5.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividtights5.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividtights5.png",
         "variation": "Yellow",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17456,8 +17456,8 @@
         "colors": [ "Yellow", "Yellow" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights6.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividtights6.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividtights6.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividtights6.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17492,8 +17492,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividtights0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividtights0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividtights0.png",
         "variation": "Light blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17525,8 +17525,8 @@
         "colors": [ "Aqua", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividtights4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividtights4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividtights4.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17561,8 +17561,8 @@
         "colors": [ "Blue", "Blue" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexVividtights1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexVividtights1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexVividtights1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexVividtights1.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17656,8 +17656,8 @@
     "unlocked": true,
     "variations": [
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexWave4.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexWave4.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexWave4.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexWave4.png",
         "variation": "Gray",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17689,8 +17689,8 @@
         "colors": [ "Black", "Gray" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexWave3.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexWave3.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexWave3.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexWave3.png",
         "variation": "Green",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17722,8 +17722,8 @@
         "colors": [ "Green", "Green" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexWave0.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexWave0.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexWave0.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexWave0.png",
         "variation": "Blue",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17755,8 +17755,8 @@
         "colors": [ "Blue", "Aqua" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexWave2.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexWave2.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexWave2.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexWave2.png",
         "variation": "Purple",
         "exchangePrice": null,
         "exchangeCurrency": null,
@@ -17788,8 +17788,8 @@
         "colors": [ "Purple", "Pink" ]
       },
       {
-        "closetImage": "https://acnhcdn.com/latest/ClosetIcon/SocksTexWave1.png",
-        "storageImage": "https://acnhcdn.com/latest/FtrIcon/SocksTexWave1.png",
+        "closetImage": "https://nh-cdn.catalogue.ac/ClosetIcon/SocksTexWave1.png",
+        "storageImage": "https://nh-cdn.catalogue.ac/FtrIcon/SocksTexWave1.png",
         "variation": "Brown",
         "exchangePrice": null,
         "exchangeCurrency": null,

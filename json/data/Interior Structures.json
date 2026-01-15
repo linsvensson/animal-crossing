@@ -161,7 +161,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "brick pillar",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallPillarBrick.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallPillarBrick.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -249,7 +249,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "concrete pillar",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallPillarConcrete.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallPillarConcrete.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -337,7 +337,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "golden pillar",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallPillarGold.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallPillarGold.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -524,7 +524,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "low brick island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterBrickS.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterBrickS.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -612,7 +612,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "low concrete island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterConcreteS.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterConcreteS.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -700,7 +700,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "low golden island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterGoldS.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterGoldS.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -887,7 +887,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "low marble island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterMarbleS.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterMarbleS.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1264,7 +1264,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "low simple island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterPlainS.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterPlainS.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1352,7 +1352,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "low steel island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterSteelS.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterSteelS.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1539,7 +1539,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "low wooden island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterWoodS.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterWoodS.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1726,7 +1726,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "marble pillar",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallPillarMarble.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallPillarMarble.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -1814,7 +1814,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "partition wall",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallHigh.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallHigh.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2191,7 +2191,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "simple pillar",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallPillarPlain.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallPillarPlain.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2279,7 +2279,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "steel pillar",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallPillarSteel.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallPillarSteel.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2466,7 +2466,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tall brick island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterBrickL.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterBrickL.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2554,7 +2554,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tall concrete island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterConcreteL.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterConcreteL.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2642,7 +2642,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tall golden island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterGoldL.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterGoldL.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -2829,7 +2829,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tall marble island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterMarbleL.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterMarbleL.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3206,7 +3206,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tall simple island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterPlainL.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterPlainL.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3294,7 +3294,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tall steel island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterSteelL.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterSteelL.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3481,7 +3481,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "tall wooden island counter",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallCounterWoodL.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallCounterWoodL.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
@@ -3668,7 +3668,7 @@
     "recipe": {
       "sourceSheet": "Recipes",
       "name": "wooden pillar",
-      "image": "https://acnhcdn.com/latest/DIYRecipeIcon/FtrWallPillarWood.png",
+      "image": "https://nh-cdn.catalogue.ac/DIYRecipeIcon/FtrWallPillarWood.png",
       "imageSh": null,
       "buy": -1,
       "sell": 200,
