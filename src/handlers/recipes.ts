@@ -38,6 +38,8 @@ const tabs: string[] = [
   'Shells',
   'Tools',
   'Walls',
+  'Turnips',
+  'Money',
 ];
 
 for (const recipe of recipes) {

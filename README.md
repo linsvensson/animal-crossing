@@ -77,3 +77,12 @@ The spreadsheets that were converted and is available through this module are:
 If you use any JSON file and/or this module for a project, please credit and link these spreadsheets somewhere in your project.
 
 And thanks to the [acdb-team](https://github.com/acdb-team), as I took inspiration from their repo, [google-sheets-to-json](https://github.com/acdb-team/google-sheets-to-json).
+
+
+## Notes
+```
+nvm use 18
+```
+```
+npm run build:src && npm run start
+```

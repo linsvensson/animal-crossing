@@ -7585,7 +7585,27 @@
       "internalId": 473,
       "uniqueEntryId": "6HtNgH3LKjQA5kxtg",
       "materials": { "50,000 Bells": 1 },
-      "materialsTranslations": { "50,000 Bells": null }
+      "materialsTranslations": {
+        "50,000 Bells": {
+          "sourceSheet": "Money",
+          "id": 2163,
+          "eUde": "50.000-Sterni-Sack",
+          "eUen": "50,000 Bells",
+          "eUit": "sacco da 50.000 s",
+          "eUnl": "50.000 klingels",
+          "eUru": "50 000 диней",
+          "eUfr": "sac de 50 000 clochettes",
+          "eUes": "bolsa de 50 000 bayas",
+          "uSen": "50,000 Bells",
+          "uSfr": "sac de 50 000 clochettes",
+          "uSes": "bolsa de 50 000 bayas",
+          "jPja": "50000ベル",
+          "kRko": "50,000벨",
+          "tWzh": "50000鈴錢",
+          "cNzh": "50000铃钱",
+          "plural": false
+        }
+      }
     }
   },
   {

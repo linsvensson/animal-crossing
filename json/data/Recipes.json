@@ -35266,7 +35266,27 @@
       "plural": false
     },
     "materials": { "10 turnips": 1 },
-    "materialsTranslations": { "10 turnips": null }
+    "materialsTranslations": {
+      "10 turnips": {
+        "sourceSheet": "Turnips",
+        "id": 2632,
+        "eUde": "10 Rüben",
+        "eUen": "10 turnips",
+        "eUit": "mazzo di 10 rape",
+        "eUnl": "10 knollen",
+        "eUru": "10 реп",
+        "eUfr": "lot de 10 navets",
+        "eUes": "manojo 10 nabos",
+        "uSen": "10 turnips",
+        "uSfr": "lot de 10 navets",
+        "uSes": "manojo 10 nabos",
+        "jPja": "10カブ",
+        "kRko": "10무",
+        "tWzh": "10棵",
+        "cNzh": "10棵大头菜",
+        "plural": false
+      }
+    }
   },
   {
     "sourceSheet": "Recipes",
@@ -42779,7 +42799,27 @@
       "plural": false
     },
     "materials": { "50,000 Bells": 1 },
-    "materialsTranslations": { "50,000 Bells": null }
+    "materialsTranslations": {
+      "50,000 Bells": {
+        "sourceSheet": "Money",
+        "id": 2163,
+        "eUde": "50.000-Sterni-Sack",
+        "eUen": "50,000 Bells",
+        "eUit": "sacco da 50.000 s",
+        "eUnl": "50.000 klingels",
+        "eUru": "50 000 диней",
+        "eUfr": "sac de 50 000 clochettes",
+        "eUes": "bolsa de 50 000 bayas",
+        "uSen": "50,000 Bells",
+        "uSfr": "sac de 50 000 clochettes",
+        "uSes": "bolsa de 50 000 bayas",
+        "jPja": "50000ベル",
+        "kRko": "50,000벨",
+        "tWzh": "50000鈴錢",
+        "cNzh": "50000铃钱",
+        "plural": false
+      }
+    }
   },
   {
     "sourceSheet": "Recipes",
@@ -50273,7 +50313,27 @@
       "plural": false
     },
     "materials": { "99,000 Bells": 3 },
-    "materialsTranslations": { "99,000 Bells": null }
+    "materialsTranslations": {
+      "99,000 Bells": {
+        "sourceSheet": "Money",
+        "id": 2212,
+        "eUde": "99.000-Sterni-Sack",
+        "eUen": "99,000 Bells",
+        "eUit": "sacco da 99.000 s",
+        "eUnl": "99.000 klingels",
+        "eUru": "99 000 диней",
+        "eUfr": "sac de 99 000 clochettes",
+        "eUes": "bolsa de 99 000 bayas",
+        "uSen": "99,000 Bells",
+        "uSfr": "sac de 99 000 clochettes",
+        "uSes": "bolsa de 99 000 bayas",
+        "jPja": "99000ベル",
+        "kRko": "99,000벨",
+        "tWzh": "99000鈴錢",
+        "cNzh": "99000铃钱",
+        "plural": false
+      }
+    }
   },
   {
     "sourceSheet": "Recipes",
@@ -56351,7 +56411,27 @@
       "plural": false
     },
     "materials": { "30 turnips": 1 },
-    "materialsTranslations": { "30 turnips": null }
+    "materialsTranslations": {
+      "30 turnips": {
+        "sourceSheet": "Turnips",
+        "id": 2634,
+        "eUde": "30 Rüben",
+        "eUen": "30 turnips",
+        "eUit": "mazzo di 30 rape",
+        "eUnl": "30 knollen",
+        "eUru": "30 реп",
+        "eUfr": "lot de 30 navets",
+        "eUes": "manojo 30 nabos",
+        "uSen": "30 turnips",
+        "uSfr": "lot de 30 navets",
+        "uSes": "manojo 30 nabos",
+        "jPja": "30カブ",
+        "kRko": "30무",
+        "tWzh": "30棵",
+        "cNzh": "30棵大头菜",
+        "plural": false
+      }
+    }
   },
   {
     "sourceSheet": "Recipes",
@@ -68089,7 +68169,25 @@
     },
     "materials": { "10 turnips": 1, "tomato": 1 },
     "materialsTranslations": {
-      "10 turnips": null,
+      "10 turnips": {
+        "sourceSheet": "Turnips",
+        "id": 2632,
+        "eUde": "10 Rüben",
+        "eUen": "10 turnips",
+        "eUit": "mazzo di 10 rape",
+        "eUnl": "10 knollen",
+        "eUru": "10 реп",
+        "eUfr": "lot de 10 navets",
+        "eUes": "manojo 10 nabos",
+        "uSen": "10 turnips",
+        "uSfr": "lot de 10 navets",
+        "uSes": "manojo 10 nabos",
+        "jPja": "10カブ",
+        "kRko": "10무",
+        "tWzh": "10棵",
+        "cNzh": "10棵大头菜",
+        "plural": false
+      },
       "tomato": {
         "sourceSheet": "Plants",
         "id": 2570,
