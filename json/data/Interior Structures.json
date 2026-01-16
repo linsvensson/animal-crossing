@@ -183,7 +183,27 @@
       "internalId": 831,
       "uniqueEntryId": "tHuA39XBMyQendPb2",
       "materials": { "clay": 4 },
-      "materialsTranslations": { "clay": null }
+      "materialsTranslations": {
+        "clay": {
+          "sourceSheet": "Crafting Items",
+          "id": 3090,
+          "eUde": "Lehm",
+          "eUen": "clay",
+          "eUit": "pezzi di argilla",
+          "eUnl": "kleihompen",
+          "eUru": "куски глины",
+          "eUfr": "argile",
+          "eUes": "bolas de arcilla",
+          "uSen": "clay",
+          "uSfr": "argile",
+          "uSes": "bolas de arcilla",
+          "jPja": "ねんど",
+          "kRko": "점토",
+          "tWzh": "黏土",
+          "cNzh": "黏土",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -271,7 +291,46 @@
       "internalId": 837,
       "uniqueEntryId": "ER3YvPSaaPNB5PgKd",
       "materials": { "stone": 3, "iron nugget": 1 },
-      "materialsTranslations": { "stone": null, "iron nugget": null }
+      "materialsTranslations": {
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        },
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -359,7 +418,27 @@
       "internalId": 835,
       "uniqueEntryId": "NtqEiTFP8SyhYA8Gz",
       "materials": { "gold nugget": 4 },
-      "materialsTranslations": { "gold nugget": null }
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -546,7 +625,27 @@
       "internalId": 783,
       "uniqueEntryId": "vZFJxuhpMHQT6Bamg",
       "materials": { "clay": 4 },
-      "materialsTranslations": { "clay": null }
+      "materialsTranslations": {
+        "clay": {
+          "sourceSheet": "Crafting Items",
+          "id": 3090,
+          "eUde": "Lehm",
+          "eUen": "clay",
+          "eUit": "pezzi di argilla",
+          "eUnl": "kleihompen",
+          "eUru": "куски глины",
+          "eUfr": "argile",
+          "eUes": "bolas de arcilla",
+          "uSen": "clay",
+          "uSfr": "argile",
+          "uSes": "bolas de arcilla",
+          "jPja": "ねんど",
+          "kRko": "점토",
+          "tWzh": "黏土",
+          "cNzh": "黏土",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -634,7 +733,46 @@
       "internalId": 780,
       "uniqueEntryId": "4RA96zfHGC4FHsSgA",
       "materials": { "stone": 3, "iron nugget": 1 },
-      "materialsTranslations": { "stone": null, "iron nugget": null }
+      "materialsTranslations": {
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        },
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -722,7 +860,27 @@
       "internalId": 814,
       "uniqueEntryId": "hNPu7gGCz5LwhE6qi",
       "materials": { "gold nugget": 4 },
-      "materialsTranslations": { "gold nugget": null }
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -909,7 +1067,27 @@
       "internalId": 818,
       "uniqueEntryId": "m7Y5C8HZxdKFXA7z9",
       "materials": { "stone": 8 },
-      "materialsTranslations": { "stone": null }
+      "materialsTranslations": {
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -1286,7 +1464,46 @@
       "internalId": 792,
       "uniqueEntryId": "QQxJAft7BT9cFzyAu",
       "materials": { "clay": 2, "stone": 2 },
-      "materialsTranslations": { "clay": null, "stone": null }
+      "materialsTranslations": {
+        "clay": {
+          "sourceSheet": "Crafting Items",
+          "id": 3090,
+          "eUde": "Lehm",
+          "eUen": "clay",
+          "eUit": "pezzi di argilla",
+          "eUnl": "kleihompen",
+          "eUru": "куски глины",
+          "eUfr": "argile",
+          "eUes": "bolas de arcilla",
+          "uSen": "clay",
+          "uSfr": "argile",
+          "uSes": "bolas de arcilla",
+          "jPja": "ねんど",
+          "kRko": "점토",
+          "tWzh": "黏土",
+          "cNzh": "黏土",
+          "plural": true
+        },
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -1374,7 +1591,27 @@
       "internalId": 805,
       "uniqueEntryId": "Dn9BgaSHsq22AcJxw",
       "materials": { "iron nugget": 4 },
-      "materialsTranslations": { "iron nugget": null }
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -1561,7 +1798,65 @@
       "internalId": 797,
       "uniqueEntryId": "SSxMPekGAJhX6g4h6",
       "materials": { "wood": 2, "hardwood": 2, "softwood": 2 },
-      "materialsTranslations": { "wood": null, "hardwood": null, "softwood": null }
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        },
+        "hardwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2769,
+          "eUde": "Hartholz",
+          "eUen": "hardwood",
+          "eUit": "legna dura",
+          "eUnl": "hardhout",
+          "eUru": "твердая древесина",
+          "eUfr": "bois dur",
+          "eUes": "tablas rígidas",
+          "uSen": "hardwood",
+          "uSfr": "bois dur",
+          "uSes": "tablas rígidas",
+          "jPja": "かたいもくざい",
+          "kRko": "단단한 목재",
+          "tWzh": "硬木材",
+          "cNzh": "硬木材",
+          "plural": true
+        },
+        "softwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2767,
+          "eUde": "Weichholz",
+          "eUen": "softwood",
+          "eUit": "legna morbida",
+          "eUnl": "zachthout",
+          "eUru": "мягкая древесина",
+          "eUfr": "bois tendre",
+          "eUes": "tablas flexibles",
+          "uSen": "softwood",
+          "uSfr": "bois tendre",
+          "uSes": "tablas flexibles",
+          "jPja": "やわらかいもくざい",
+          "kRko": "부드러운 목재",
+          "tWzh": "軟木材",
+          "cNzh": "软木材",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -1748,7 +2043,27 @@
       "internalId": 832,
       "uniqueEntryId": "FcdYF93FKNpbTi8vH",
       "materials": { "stone": 8 },
-      "materialsTranslations": { "stone": null }
+      "materialsTranslations": {
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -1836,7 +2151,46 @@
       "internalId": 753,
       "uniqueEntryId": "taa5jSwuss9wHWtEN",
       "materials": { "wood": 3, "clay": 3 },
-      "materialsTranslations": { "wood": null, "clay": null }
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        },
+        "clay": {
+          "sourceSheet": "Crafting Items",
+          "id": 3090,
+          "eUde": "Lehm",
+          "eUen": "clay",
+          "eUit": "pezzi di argilla",
+          "eUnl": "kleihompen",
+          "eUru": "куски глины",
+          "eUfr": "argile",
+          "eUes": "bolas de arcilla",
+          "uSen": "clay",
+          "uSfr": "argile",
+          "uSes": "bolas de arcilla",
+          "jPja": "ねんど",
+          "kRko": "점토",
+          "tWzh": "黏土",
+          "cNzh": "黏土",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -2213,7 +2567,46 @@
       "internalId": 833,
       "uniqueEntryId": "ePCJYo8etMd8aPGzN",
       "materials": { "clay": 2, "stone": 2 },
-      "materialsTranslations": { "clay": null, "stone": null }
+      "materialsTranslations": {
+        "clay": {
+          "sourceSheet": "Crafting Items",
+          "id": 3090,
+          "eUde": "Lehm",
+          "eUen": "clay",
+          "eUit": "pezzi di argilla",
+          "eUnl": "kleihompen",
+          "eUru": "куски глины",
+          "eUfr": "argile",
+          "eUes": "bolas de arcilla",
+          "uSen": "clay",
+          "uSfr": "argile",
+          "uSes": "bolas de arcilla",
+          "jPja": "ねんど",
+          "kRko": "점토",
+          "tWzh": "黏土",
+          "cNzh": "黏土",
+          "plural": true
+        },
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -2301,7 +2694,27 @@
       "internalId": 834,
       "uniqueEntryId": "ANiQQA4Qm9sADWu3z",
       "materials": { "iron nugget": 4 },
-      "materialsTranslations": { "iron nugget": null }
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -2488,7 +2901,27 @@
       "internalId": 779,
       "uniqueEntryId": "hvbta6p5tY8Kz4s2J",
       "materials": { "clay": 8 },
-      "materialsTranslations": { "clay": null }
+      "materialsTranslations": {
+        "clay": {
+          "sourceSheet": "Crafting Items",
+          "id": 3090,
+          "eUde": "Lehm",
+          "eUen": "clay",
+          "eUit": "pezzi di argilla",
+          "eUnl": "kleihompen",
+          "eUru": "куски глины",
+          "eUfr": "argile",
+          "eUes": "bolas de arcilla",
+          "uSen": "clay",
+          "uSfr": "argile",
+          "uSes": "bolas de arcilla",
+          "jPja": "ねんど",
+          "kRko": "점토",
+          "tWzh": "黏土",
+          "cNzh": "黏土",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -2576,7 +3009,46 @@
       "internalId": 777,
       "uniqueEntryId": "jCAeMKtYrACgCFwJ4",
       "materials": { "stone": 6, "iron nugget": 2 },
-      "materialsTranslations": { "stone": null, "iron nugget": null }
+      "materialsTranslations": {
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        },
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -2664,7 +3136,27 @@
       "internalId": 811,
       "uniqueEntryId": "7evz4LvmDnJdtgMYF",
       "materials": { "gold nugget": 8 },
-      "materialsTranslations": { "gold nugget": null }
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -2851,7 +3343,27 @@
       "internalId": 813,
       "uniqueEntryId": "wwNWSiXHd5sgsun7N",
       "materials": { "stone": 16 },
-      "materialsTranslations": { "stone": null }
+      "materialsTranslations": {
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -3228,7 +3740,46 @@
       "internalId": 794,
       "uniqueEntryId": "sS5zdMiTXwWhHQ4NL",
       "materials": { "clay": 4, "stone": 4 },
-      "materialsTranslations": { "clay": null, "stone": null }
+      "materialsTranslations": {
+        "clay": {
+          "sourceSheet": "Crafting Items",
+          "id": 3090,
+          "eUde": "Lehm",
+          "eUen": "clay",
+          "eUit": "pezzi di argilla",
+          "eUnl": "kleihompen",
+          "eUru": "куски глины",
+          "eUfr": "argile",
+          "eUes": "bolas de arcilla",
+          "uSen": "clay",
+          "uSfr": "argile",
+          "uSes": "bolas de arcilla",
+          "jPja": "ねんど",
+          "kRko": "점토",
+          "tWzh": "黏土",
+          "cNzh": "黏土",
+          "plural": true
+        },
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -3316,7 +3867,27 @@
       "internalId": 803,
       "uniqueEntryId": "KpBqfCKshx5tyqukv",
       "materials": { "iron nugget": 8 },
-      "materialsTranslations": { "iron nugget": null }
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -3503,7 +4074,65 @@
       "internalId": 784,
       "uniqueEntryId": "K3xxdaCJF7GXzuwhn",
       "materials": { "wood": 3, "hardwood": 3, "softwood": 3 },
-      "materialsTranslations": { "wood": null, "hardwood": null, "softwood": null }
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        },
+        "hardwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2769,
+          "eUde": "Hartholz",
+          "eUen": "hardwood",
+          "eUit": "legna dura",
+          "eUnl": "hardhout",
+          "eUru": "твердая древесина",
+          "eUfr": "bois dur",
+          "eUes": "tablas rígidas",
+          "uSen": "hardwood",
+          "uSfr": "bois dur",
+          "uSes": "tablas rígidas",
+          "jPja": "かたいもくざい",
+          "kRko": "단단한 목재",
+          "tWzh": "硬木材",
+          "cNzh": "硬木材",
+          "plural": true
+        },
+        "softwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2767,
+          "eUde": "Weichholz",
+          "eUen": "softwood",
+          "eUit": "legna morbida",
+          "eUnl": "zachthout",
+          "eUru": "мягкая древесина",
+          "eUfr": "bois tendre",
+          "eUes": "tablas flexibles",
+          "uSen": "softwood",
+          "uSfr": "bois tendre",
+          "uSes": "tablas flexibles",
+          "jPja": "やわらかいもくざい",
+          "kRko": "부드러운 목재",
+          "tWzh": "軟木材",
+          "cNzh": "软木材",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -3690,7 +4319,65 @@
       "internalId": 836,
       "uniqueEntryId": "hwCjYvSR9wamDvmoR",
       "materials": { "wood": 2, "hardwood": 2, "softwood": 2 },
-      "materialsTranslations": { "wood": null, "hardwood": null, "softwood": null }
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        },
+        "hardwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2769,
+          "eUde": "Hartholz",
+          "eUen": "hardwood",
+          "eUit": "legna dura",
+          "eUnl": "hardhout",
+          "eUru": "твердая древесина",
+          "eUfr": "bois dur",
+          "eUes": "tablas rígidas",
+          "uSen": "hardwood",
+          "uSfr": "bois dur",
+          "uSes": "tablas rígidas",
+          "jPja": "かたいもくざい",
+          "kRko": "단단한 목재",
+          "tWzh": "硬木材",
+          "cNzh": "硬木材",
+          "plural": true
+        },
+        "softwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2767,
+          "eUde": "Weichholz",
+          "eUen": "softwood",
+          "eUit": "legna morbida",
+          "eUnl": "zachthout",
+          "eUru": "мягкая древесина",
+          "eUfr": "bois tendre",
+          "eUes": "tablas flexibles",
+          "uSen": "softwood",
+          "uSfr": "bois tendre",
+          "uSes": "tablas flexibles",
+          "jPja": "やわらかいもくざい",
+          "kRko": "부드러운 목재",
+          "tWzh": "軟木材",
+          "cNzh": "软木材",
+          "plural": true
+        }
+      }
     }
   }
 ]

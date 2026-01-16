@@ -1064,7 +1064,27 @@
       "internalId": 632,
       "uniqueEntryId": "a9FFbP64fTcJ3Cn5E",
       "materials": { "acorn": 6 },
-      "materialsTranslations": { "acorn": null }
+      "materialsTranslations": {
+        "acorn": {
+          "sourceSheet": "Crafting Items",
+          "id": 5727,
+          "eUde": "Eichel",
+          "eUen": "acorn",
+          "eUit": "ghianda",
+          "eUnl": "eikel",
+          "eUru": "желудь",
+          "eUfr": "gland",
+          "eUes": "bellota",
+          "uSen": "acorn",
+          "uSfr": "gland",
+          "uSes": "bellota",
+          "jPja": "どんぐり",
+          "kRko": "도토리",
+          "tWzh": "橡栗",
+          "cNzh": "橡栗",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -1486,7 +1506,27 @@
       "internalId": 645,
       "uniqueEntryId": "j2a3p7Gtpy8fW2Z5S",
       "materials": { "young spring bamboo": 6 },
-      "materialsTranslations": { "young spring bamboo": null }
+      "materialsTranslations": {
+        "young spring bamboo": {
+          "sourceSheet": "Crafting Items",
+          "id": 5729,
+          "eUde": "Frühlingsbambus",
+          "eUen": "young spring bamboo",
+          "eUit": "bambù giovani primavera",
+          "eUnl": "jonge lentebamboe",
+          "eUru": "весенний бамбук",
+          "eUfr": "jeunes bambous printemps",
+          "eUes": "tallos de bambú primaveral",
+          "uSen": "young spring bamboo",
+          "uSfr": "jeunes bambous printemps",
+          "uSes": "tallos de bambú primaveral",
+          "jPja": "はるのわかたけ",
+          "kRko": "봄의 대나무",
+          "tWzh": "春筍",
+          "cNzh": "春笋",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -2799,7 +2839,27 @@
       "internalId": 630,
       "uniqueEntryId": "vh9iLeDKLo3LR8T4G",
       "materials": { "cherry-blossom petal": 6 },
-      "materialsTranslations": { "cherry-blossom petal": null }
+      "materialsTranslations": {
+        "cherry-blossom petal": {
+          "sourceSheet": "Crafting Items",
+          "id": 5859,
+          "eUde": "Kirschblüte",
+          "eUen": "cherry-blossom petal",
+          "eUit": "petalo di ciliegio",
+          "eUnl": "kersenbloesemblaadje",
+          "eUru": "лепесток вишни",
+          "eUfr": "pétale de cerisier",
+          "eUes": "pétalo de cerezo",
+          "uSen": "cherry-blossom petal",
+          "uSfr": "pétale de cerisier",
+          "uSes": "pétalo de cerezo",
+          "jPja": "さくらのはなびら",
+          "kRko": "벚꽃잎",
+          "tWzh": "櫻花花瓣",
+          "cNzh": "樱花花瓣",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -8462,7 +8522,46 @@
       "internalId": 638,
       "uniqueEntryId": "fGoNxEDmgeZRehXXj",
       "materials": { "wood": 3, "hardwood": 5 },
-      "materialsTranslations": { "wood": null, "hardwood": null }
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        },
+        "hardwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2769,
+          "eUde": "Hartholz",
+          "eUen": "hardwood",
+          "eUit": "legna dura",
+          "eUnl": "hardhout",
+          "eUru": "твердая древесина",
+          "eUfr": "bois dur",
+          "eUes": "tablas rígidas",
+          "uSen": "hardwood",
+          "uSfr": "bois dur",
+          "uSes": "tablas rígidas",
+          "jPja": "かたいもくざい",
+          "kRko": "단단한 목재",
+          "tWzh": "硬木材",
+          "cNzh": "硬木材",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -8878,7 +8977,27 @@
       "internalId": 631,
       "uniqueEntryId": "7uFqbJaQoW2doC3B3",
       "materials": { "maple leaf": 6 },
-      "materialsTranslations": { "maple leaf": null }
+      "materialsTranslations": {
+        "maple leaf": {
+          "sourceSheet": "Crafting Items",
+          "id": 7374,
+          "eUde": "Herbstblatt",
+          "eUen": "maple leaf",
+          "eUit": "foglia d'acero",
+          "eUnl": "esdoornblad",
+          "eUru": "кленовый лист",
+          "eUfr": "feuille d'érable",
+          "eUes": "hoja de arce",
+          "uSen": "maple leaf",
+          "uSfr": "feuille d'érable",
+          "uSes": "hoja de arce",
+          "jPja": "もみじのはっぱ",
+          "kRko": "단풍잎",
+          "tWzh": "楓葉",
+          "cNzh": "枫叶",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -12913,7 +13032,27 @@
       "internalId": 633,
       "uniqueEntryId": "8b7zapAg4LJDda6Tk",
       "materials": { "snowflake": 6 },
-      "materialsTranslations": { "snowflake": null }
+      "materialsTranslations": {
+        "snowflake": {
+          "sourceSheet": "Crafting Items",
+          "id": 3539,
+          "eUde": "Schneeflocke",
+          "eUen": "snowflake",
+          "eUit": "fiocco di neve",
+          "eUnl": "sneeuwvlok",
+          "eUru": "снежинка",
+          "eUfr": "flocon de neige",
+          "eUes": "copo de nieve",
+          "uSen": "snowflake",
+          "uSfr": "flocon de neige",
+          "uSes": "copo de nieve",
+          "jPja": "ゆきのけっしょう",
+          "kRko": "눈의 결정",
+          "tWzh": "雪花",
+          "cNzh": "雪花",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -13531,7 +13670,27 @@
       "internalId": 627,
       "uniqueEntryId": "4fJpnNtzwpyCgJcNg",
       "materials": { "star fragment": 6 },
-      "materialsTranslations": { "star fragment": null }
+      "materialsTranslations": {
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {

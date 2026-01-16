@@ -1830,7 +1830,27 @@
       "internalId": 716,
       "uniqueEntryId": "dYrMmg7tsBvSwarEc",
       "materials": { "gold nugget": 5 },
-      "materialsTranslations": { "gold nugget": null }
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -22135,7 +22155,27 @@
       "internalId": 644,
       "uniqueEntryId": "ihpryTYADPJmMyH3G",
       "materials": { "gold nugget": 5 },
-      "materialsTranslations": { "gold nugget": null }
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -27327,7 +27367,27 @@
       "internalId": 641,
       "uniqueEntryId": "3u8tk4SyAemkHTRzz",
       "materials": { "iron nugget": 5 },
-      "materialsTranslations": { "iron nugget": null }
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -32685,7 +32745,65 @@
       "internalId": 1017,
       "uniqueEntryId": "hsET2xdWiacz4BF6A",
       "materials": { "red ornament": 3, "blue ornament": 3, "gold ornament": 3 },
-      "materialsTranslations": { "red ornament": null, "blue ornament": null, "gold ornament": null }
+      "materialsTranslations": {
+        "red ornament": {
+          "sourceSheet": "Crafting Items",
+          "id": 5730,
+          "eUde": "Rotschmuck",
+          "eUen": "red ornament",
+          "eUit": "decorazione rossa",
+          "eUnl": "rode versiering",
+          "eUru": "красное украшение",
+          "eUfr": "boule rouge",
+          "eUes": "adorno rojo",
+          "uSen": "red ornament",
+          "uSfr": "boule rouge",
+          "uSes": "adorno rojo",
+          "jPja": "あかいオーナメント",
+          "kRko": "빨간 오너먼트",
+          "tWzh": "紅色裝飾品",
+          "cNzh": "红色装饰品",
+          "plural": false
+        },
+        "blue ornament": {
+          "sourceSheet": "Crafting Items",
+          "id": 5731,
+          "eUde": "Blauschmuck",
+          "eUen": "blue ornament",
+          "eUit": "decorazione blu",
+          "eUnl": "blauwe versiering",
+          "eUru": "синее украшение",
+          "eUfr": "boule bleue",
+          "eUes": "adorno azul",
+          "uSen": "blue ornament",
+          "uSfr": "boule bleue",
+          "uSes": "adorno azul",
+          "jPja": "あおいオーナメント",
+          "kRko": "파란 오너먼트",
+          "tWzh": "藍色裝飾品",
+          "cNzh": "蓝色装饰品",
+          "plural": false
+        },
+        "gold ornament": {
+          "sourceSheet": "Crafting Items",
+          "id": 5732,
+          "eUde": "Goldschmuck",
+          "eUen": "gold ornament",
+          "eUit": "decorazione dorata",
+          "eUnl": "gouden versiering",
+          "eUru": "золотое украшение",
+          "eUfr": "boule dorée",
+          "eUes": "adorno dorado",
+          "uSen": "gold ornament",
+          "uSfr": "boule dorée",
+          "uSes": "adorno dorado",
+          "jPja": "きんのオーナメント",
+          "kRko": "금 오너먼트",
+          "tWzh": "金色裝飾品",
+          "cNzh": "金色装饰品",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -44852,7 +44970,46 @@
       "internalId": 637,
       "uniqueEntryId": "6TuttvHpXz8cBQAqa",
       "materials": { "large snowflake": 1, "snowflake": 5 },
-      "materialsTranslations": { "large snowflake": null, "snowflake": null }
+      "materialsTranslations": {
+        "large snowflake": {
+          "sourceSheet": "Crafting Items",
+          "id": 3540,
+          "eUde": "Riesenschneeflocke",
+          "eUen": "large snowflake",
+          "eUit": "fiocco di neve grande",
+          "eUnl": "grote sneeuwvlok",
+          "eUru": "крупная снежинка",
+          "eUfr": "grand flocon de neige",
+          "eUes": "copo de nieve XL",
+          "uSen": "large snowflake",
+          "uSfr": "grand flocon de neige",
+          "uSes": "copo de nieve XL",
+          "jPja": "ゆきのだいけっしょう",
+          "kRko": "커다란 눈의 결정",
+          "tWzh": "大雪花",
+          "cNzh": "大雪花",
+          "plural": false
+        },
+        "snowflake": {
+          "sourceSheet": "Crafting Items",
+          "id": 3539,
+          "eUde": "Schneeflocke",
+          "eUen": "snowflake",
+          "eUit": "fiocco di neve",
+          "eUnl": "sneeuwvlok",
+          "eUru": "снежинка",
+          "eUfr": "flocon de neige",
+          "eUes": "copo de nieve",
+          "uSen": "snowflake",
+          "uSfr": "flocon de neige",
+          "uSes": "copo de nieve",
+          "jPja": "ゆきのけっしょう",
+          "kRko": "눈의 결정",
+          "tWzh": "雪花",
+          "cNzh": "雪花",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -46844,7 +47001,27 @@
       "internalId": 628,
       "uniqueEntryId": "ruy96poyPqtxc5K4Y",
       "materials": { "star fragment": 5 },
-      "materialsTranslations": { "star fragment": null }
+      "materialsTranslations": {
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {

@@ -942,7 +942,27 @@
       "internalId": 629,
       "uniqueEntryId": "Ss2QnC4nP26NFyexM",
       "materials": { "cherry-blossom petal": 7 },
-      "materialsTranslations": { "cherry-blossom petal": null }
+      "materialsTranslations": {
+        "cherry-blossom petal": {
+          "sourceSheet": "Crafting Items",
+          "id": 5859,
+          "eUde": "Kirschblüte",
+          "eUen": "cherry-blossom petal",
+          "eUit": "petalo di ciliegio",
+          "eUnl": "kersenbloesemblaadje",
+          "eUru": "лепесток вишни",
+          "eUfr": "pétale de cerisier",
+          "eUes": "pétalo de cerezo",
+          "uSen": "cherry-blossom petal",
+          "uSfr": "pétale de cerisier",
+          "uSes": "pétalo de cerezo",
+          "jPja": "さくらのはなびら",
+          "kRko": "벚꽃잎",
+          "tWzh": "櫻花花瓣",
+          "cNzh": "樱花花瓣",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -1939,7 +1959,27 @@
       "internalId": 541,
       "uniqueEntryId": "MWAN27apJPewSFHiR",
       "materials": { "maple leaf": 7 },
-      "materialsTranslations": { "maple leaf": null }
+      "materialsTranslations": {
+        "maple leaf": {
+          "sourceSheet": "Crafting Items",
+          "id": 7374,
+          "eUde": "Herbstblatt",
+          "eUen": "maple leaf",
+          "eUit": "foglia d'acero",
+          "eUnl": "esdoornblad",
+          "eUru": "кленовый лист",
+          "eUfr": "feuille d'érable",
+          "eUes": "hoja de arce",
+          "uSen": "maple leaf",
+          "uSfr": "feuille d'érable",
+          "uSes": "hoja de arce",
+          "jPja": "もみじのはっぱ",
+          "kRko": "단풍잎",
+          "tWzh": "楓葉",
+          "cNzh": "枫叶",
+          "plural": false
+        }
+      }
     }
   },
   {

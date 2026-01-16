@@ -25794,7 +25794,27 @@
       "internalId": 566,
       "uniqueEntryId": "9ThvdcF6fyMHcpzx2",
       "materials": { "gold nugget": 8 },
-      "materialsTranslations": { "gold nugget": null }
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -27898,7 +27918,27 @@
       "internalId": 640,
       "uniqueEntryId": "qMDWWFfXPFTMpGTpQ",
       "materials": { "iron nugget": 8 },
-      "materialsTranslations": { "iron nugget": null }
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
+      }
     }
   },
   {

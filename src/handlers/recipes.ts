@@ -29,6 +29,7 @@ const tabs: string[] = [
   'Craft',
   'Dresses',
   'Event Items',
+  'Crafting Items',
   'ETC',
   'Furniture',
   'Floors',

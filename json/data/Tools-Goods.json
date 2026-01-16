@@ -99,7 +99,25 @@
           "cNzh": "蹦蹦不倒娃娃",
           "plural": false
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -547,8 +565,44 @@
           "cNzh": "简陋斧头",
           "plural": false
         },
-        "wood": null,
-        "iron nugget": null
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        },
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
       }
     }
   },
@@ -632,7 +686,46 @@
       "internalId": 538,
       "uniqueEntryId": "Z5FSewP6wM2McqRCJ",
       "materials": { "young spring bamboo": 6, "star fragment": 3 },
-      "materialsTranslations": { "young spring bamboo": null, "star fragment": null }
+      "materialsTranslations": {
+        "young spring bamboo": {
+          "sourceSheet": "Crafting Items",
+          "id": 5729,
+          "eUde": "Frühlingsbambus",
+          "eUen": "young spring bamboo",
+          "eUit": "bambù giovani primavera",
+          "eUnl": "jonge lentebamboe",
+          "eUru": "весенний бамбук",
+          "eUfr": "jeunes bambous printemps",
+          "eUes": "tallos de bambú primaveral",
+          "uSen": "young spring bamboo",
+          "uSfr": "jeunes bambous printemps",
+          "uSes": "tallos de bambú primaveral",
+          "jPja": "はるのわかたけ",
+          "kRko": "봄의 대나무",
+          "tWzh": "春筍",
+          "cNzh": "春笋",
+          "plural": true
+        },
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -1912,7 +2005,46 @@
       "internalId": 537,
       "uniqueEntryId": "TRZ2p8L58k3FvGpPJ",
       "materials": { "cherry-blossom petal": 3, "star fragment": 3 },
-      "materialsTranslations": { "cherry-blossom petal": null, "star fragment": null }
+      "materialsTranslations": {
+        "cherry-blossom petal": {
+          "sourceSheet": "Crafting Items",
+          "id": 5859,
+          "eUde": "Kirschblüte",
+          "eUen": "cherry-blossom petal",
+          "eUit": "petalo di ciliegio",
+          "eUnl": "kersenbloesemblaadje",
+          "eUru": "лепесток вишни",
+          "eUfr": "pétale de cerisier",
+          "eUes": "pétalo de cerezo",
+          "uSen": "cherry-blossom petal",
+          "uSfr": "pétale de cerisier",
+          "uSes": "pétalo de cerezo",
+          "jPja": "さくらのはなびら",
+          "kRko": "벚꽃잎",
+          "tWzh": "櫻花花瓣",
+          "cNzh": "樱花花瓣",
+          "plural": false
+        },
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -4058,7 +4190,25 @@
           "cNzh": "白色波斯菊",
           "plural": true
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -5962,7 +6112,25 @@
           "cNzh": "简陋钓竿",
           "plural": false
         },
-        "iron nugget": null
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
       }
     }
   },
@@ -6048,7 +6216,46 @@
       "internalId": 10,
       "uniqueEntryId": "6WFHd6r74ZDND9eCx",
       "materials": { "tree branch": 5, "stone": 1 },
-      "materialsTranslations": { "tree branch": null, "stone": null }
+      "materialsTranslations": {
+        "tree branch": {
+          "sourceSheet": "Crafting Items",
+          "id": 2500,
+          "eUde": "Ast",
+          "eUen": "tree branch",
+          "eUit": "ramo",
+          "eUnl": "tak",
+          "eUru": "ветка",
+          "eUfr": "branche d'arbre",
+          "eUes": "rama",
+          "uSen": "tree branch",
+          "uSfr": "branche d'arbre",
+          "uSes": "rama",
+          "jPja": "きのえだ",
+          "kRko": "나뭇가지",
+          "tWzh": "樹枝",
+          "cNzh": "树枝",
+          "plural": false
+        },
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -6135,7 +6342,27 @@
       "internalId": 21,
       "uniqueEntryId": "9JboJHudaWqqbQxbZ",
       "materials": { "tree branch": 5 },
-      "materialsTranslations": { "tree branch": null }
+      "materialsTranslations": {
+        "tree branch": {
+          "sourceSheet": "Crafting Items",
+          "id": 2500,
+          "eUde": "Ast",
+          "eUen": "tree branch",
+          "eUit": "ramo",
+          "eUnl": "tak",
+          "eUru": "ветка",
+          "eUfr": "branche d'arbre",
+          "eUes": "rama",
+          "uSen": "tree branch",
+          "uSfr": "branche d'arbre",
+          "uSes": "rama",
+          "jPja": "きのえだ",
+          "kRko": "나뭇가지",
+          "tWzh": "樹枝",
+          "cNzh": "树枝",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -6222,7 +6449,27 @@
       "internalId": 22,
       "uniqueEntryId": "jF9AD5TZekwWomWwJ",
       "materials": { "tree branch": 5 },
-      "materialsTranslations": { "tree branch": null }
+      "materialsTranslations": {
+        "tree branch": {
+          "sourceSheet": "Crafting Items",
+          "id": 2500,
+          "eUde": "Ast",
+          "eUen": "tree branch",
+          "eUit": "ramo",
+          "eUnl": "tak",
+          "eUru": "ветка",
+          "eUfr": "branche d'arbre",
+          "eUes": "rama",
+          "uSen": "tree branch",
+          "uSfr": "branche d'arbre",
+          "uSes": "rama",
+          "jPja": "きのえだ",
+          "kRko": "나뭇가지",
+          "tWzh": "樹枝",
+          "cNzh": "树枝",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -6305,7 +6552,27 @@
       "internalId": 19,
       "uniqueEntryId": "bPp3TpiueJDRte9wT",
       "materials": { "hardwood": 5 },
-      "materialsTranslations": { "hardwood": null }
+      "materialsTranslations": {
+        "hardwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2769,
+          "eUde": "Hartholz",
+          "eUen": "hardwood",
+          "eUit": "legna dura",
+          "eUnl": "hardhout",
+          "eUru": "твердая древесина",
+          "eUfr": "bois dur",
+          "eUes": "tablas rígidas",
+          "uSen": "hardwood",
+          "uSfr": "bois dur",
+          "uSes": "tablas rígidas",
+          "jPja": "かたいもくざい",
+          "kRko": "단단한 목재",
+          "tWzh": "硬木材",
+          "cNzh": "硬木材",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -6390,7 +6657,27 @@
       "internalId": 20,
       "uniqueEntryId": "FnnhLbn7KQdg2Xqey",
       "materials": { "softwood": 5 },
-      "materialsTranslations": { "softwood": null }
+      "materialsTranslations": {
+        "softwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2767,
+          "eUde": "Weichholz",
+          "eUen": "softwood",
+          "eUit": "legna morbida",
+          "eUnl": "zachthout",
+          "eUru": "мягкая древесина",
+          "eUfr": "bois tendre",
+          "eUes": "tablas flexibles",
+          "uSen": "softwood",
+          "uSfr": "bois tendre",
+          "uSes": "tablas flexibles",
+          "jPja": "やわらかいもくざい",
+          "kRko": "부드러운 목재",
+          "tWzh": "軟木材",
+          "cNzh": "软木材",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -6748,7 +7035,25 @@
       "uniqueEntryId": "M67DJhFjbWusf3xXk",
       "materials": { "gold nugget": 1, "axe": 1 },
       "materialsTranslations": {
-        "gold nugget": null,
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        },
         "axe": {
           "sourceSheet": "Tools",
           "id": 2100,
@@ -6871,7 +7176,25 @@
           "cNzh": "梯子",
           "plural": false
         },
-        "gold nugget": null
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        }
       }
     }
   },
@@ -6956,7 +7279,25 @@
       "uniqueEntryId": "cnQ4qLNgFDK7F4NQJ",
       "materials": { "gold nugget": 1, "net": 1 },
       "materialsTranslations": {
-        "gold nugget": null,
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        },
         "net": {
           "sourceSheet": "Tools",
           "id": 5784,
@@ -7060,7 +7401,25 @@
       "uniqueEntryId": "FTWgTtoCgm3jNGhM4",
       "materials": { "gold nugget": 1, "fishing rod": 1 },
       "materialsTranslations": {
-        "gold nugget": null,
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        },
         "fishing rod": {
           "sourceSheet": "Tools",
           "id": 2377,
@@ -7164,7 +7523,25 @@
       "uniqueEntryId": "aEtPEYkwgj9BJ48Et",
       "materials": { "gold nugget": 1, "shovel": 1 },
       "materialsTranslations": {
-        "gold nugget": null,
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        },
         "shovel": {
           "sourceSheet": "Tools",
           "id": 2099,
@@ -7268,7 +7645,25 @@
       "uniqueEntryId": "W7WY5fpjB4Lc36YYs",
       "materials": { "gold nugget": 1, "slingshot": 1 },
       "materialsTranslations": {
-        "gold nugget": null,
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        },
         "slingshot": {
           "sourceSheet": "Tools",
           "id": 2822,
@@ -7371,7 +7766,46 @@
       "internalId": 539,
       "uniqueEntryId": "RgNWgCdnAK2qjJTmo",
       "materials": { "gold nugget": 2, "star fragment": 3 },
-      "materialsTranslations": { "gold nugget": null, "star fragment": null }
+      "materialsTranslations": {
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        },
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -7455,7 +7889,25 @@
       "uniqueEntryId": "HShnyCLB3cPL5xNTx",
       "materials": { "gold nugget": 1, "watering can": 1 },
       "materialsTranslations": {
-        "gold nugget": null,
+        "gold nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2505,
+          "eUde": "Golderz",
+          "eUen": "gold nugget",
+          "eUit": "minerale d'oro",
+          "eUnl": "goudklompje",
+          "eUru": "золотой самородок",
+          "eUfr": "pépite d'or",
+          "eUes": "pepita de oro",
+          "uSen": "gold nugget",
+          "uSfr": "pépite d'or",
+          "uSes": "pepita de oro",
+          "jPja": "きんこうせき",
+          "kRko": "금광석",
+          "tWzh": "金礦石",
+          "cNzh": "金矿石",
+          "plural": false
+        },
         "watering can": {
           "sourceSheet": "Tools",
           "id": 2379,
@@ -7966,7 +8418,25 @@
           "cNzh": "粉红风信子",
           "plural": true
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -8050,7 +8520,46 @@
       "internalId": 533,
       "uniqueEntryId": "pfuLcy3eLoxPsFMQy",
       "materials": { "large snowflake": 1, "star fragment": 3 },
-      "materialsTranslations": { "large snowflake": null, "star fragment": null }
+      "materialsTranslations": {
+        "large snowflake": {
+          "sourceSheet": "Crafting Items",
+          "id": 3540,
+          "eUde": "Riesenschneeflocke",
+          "eUen": "large snowflake",
+          "eUit": "fiocco di neve grande",
+          "eUnl": "grote sneeuwvlok",
+          "eUru": "крупная снежинка",
+          "eUfr": "grand flocon de neige",
+          "eUes": "copo de nieve XL",
+          "uSen": "large snowflake",
+          "uSfr": "grand flocon de neige",
+          "uSes": "copo de nieve XL",
+          "jPja": "ゆきのだいけっしょう",
+          "kRko": "커다란 눈의 결정",
+          "tWzh": "大雪花",
+          "cNzh": "大雪花",
+          "plural": false
+        },
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -8250,7 +8759,25 @@
           "cNzh": "梯子",
           "plural": false
         },
-        "iron nugget": null
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
       }
     }
   },
@@ -8334,7 +8861,46 @@
       "internalId": 540,
       "uniqueEntryId": "MYYovLTdmLov8y2hL",
       "materials": { "iron nugget": 3, "star fragment": 3 },
-      "materialsTranslations": { "iron nugget": null, "star fragment": null }
+      "materialsTranslations": {
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        },
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -8419,7 +8985,65 @@
       "internalId": 107,
       "uniqueEntryId": "QHAFqRRLE65RSvmQh",
       "materials": { "wood": 4, "hardwood": 4, "softwood": 4 },
-      "materialsTranslations": { "wood": null, "hardwood": null, "softwood": null }
+      "materialsTranslations": {
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        },
+        "hardwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2769,
+          "eUde": "Hartholz",
+          "eUen": "hardwood",
+          "eUit": "legna dura",
+          "eUnl": "hardhout",
+          "eUru": "твердая древесина",
+          "eUfr": "bois dur",
+          "eUes": "tablas rígidas",
+          "uSen": "hardwood",
+          "uSfr": "bois dur",
+          "uSes": "tablas rígidas",
+          "jPja": "かたいもくざい",
+          "kRko": "단단한 목재",
+          "tWzh": "硬木材",
+          "cNzh": "硬木材",
+          "plural": true
+        },
+        "softwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2767,
+          "eUde": "Weichholz",
+          "eUen": "softwood",
+          "eUit": "legna morbida",
+          "eUnl": "zachthout",
+          "eUru": "мягкая древесина",
+          "eUfr": "bois tendre",
+          "eUes": "tablas flexibles",
+          "uSen": "softwood",
+          "uSfr": "bois tendre",
+          "uSes": "tablas flexibles",
+          "jPja": "やわらかいもくざい",
+          "kRko": "부드러운 목재",
+          "tWzh": "軟木材",
+          "cNzh": "软木材",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -8579,7 +9203,25 @@
           "cNzh": "白色百合",
           "plural": true
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -9088,7 +9730,25 @@
           "cNzh": "黄色菊花",
           "plural": true
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -9363,7 +10023,25 @@
           "cNzh": "瘦小蘑菇",
           "plural": false
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -9749,7 +10427,25 @@
           "cNzh": "简陋捕虫网",
           "plural": false
         },
-        "iron nugget": null
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
       }
     }
   },
@@ -9833,7 +10529,27 @@
       "internalId": 1037,
       "uniqueEntryId": "tsyn9RLgQXbAzYbNu",
       "materials": { "tree branch": 3 },
-      "materialsTranslations": { "tree branch": null }
+      "materialsTranslations": {
+        "tree branch": {
+          "sourceSheet": "Crafting Items",
+          "id": 2500,
+          "eUde": "Ast",
+          "eUen": "tree branch",
+          "eUit": "ramo",
+          "eUnl": "tak",
+          "eUru": "ветка",
+          "eUfr": "branche d'arbre",
+          "eUes": "rama",
+          "uSen": "tree branch",
+          "uSfr": "branche d'arbre",
+          "uSes": "rama",
+          "jPja": "きのえだ",
+          "kRko": "나뭇가지",
+          "tWzh": "樹枝",
+          "cNzh": "树枝",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -9916,7 +10632,27 @@
       "internalId": 218,
       "uniqueEntryId": "QzhL3j8Tgv2cNDZQe",
       "materials": { "clay": 5 },
-      "materialsTranslations": { "clay": null }
+      "materialsTranslations": {
+        "clay": {
+          "sourceSheet": "Crafting Items",
+          "id": 3090,
+          "eUde": "Lehm",
+          "eUen": "clay",
+          "eUit": "pezzi di argilla",
+          "eUnl": "kleihompen",
+          "eUru": "куски глины",
+          "eUfr": "argile",
+          "eUes": "bolas de arcilla",
+          "uSen": "clay",
+          "uSfr": "argile",
+          "uSes": "bolas de arcilla",
+          "jPja": "ねんど",
+          "kRko": "점토",
+          "tWzh": "黏土",
+          "cNzh": "黏土",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -11814,7 +12550,27 @@
       "internalId": 398,
       "uniqueEntryId": "oEeGqoaMP9XdQE3NF",
       "materials": { "young spring bamboo": 7 },
-      "materialsTranslations": { "young spring bamboo": null }
+      "materialsTranslations": {
+        "young spring bamboo": {
+          "sourceSheet": "Crafting Items",
+          "id": 5729,
+          "eUde": "Frühlingsbambus",
+          "eUen": "young spring bamboo",
+          "eUit": "bambù giovani primavera",
+          "eUnl": "jonge lentebamboe",
+          "eUru": "весенний бамбук",
+          "eUfr": "jeunes bambous printemps",
+          "eUes": "tallos de bambú primaveral",
+          "uSen": "young spring bamboo",
+          "uSfr": "jeunes bambous printemps",
+          "uSes": "tallos de bambú primaveral",
+          "jPja": "はるのわかたけ",
+          "kRko": "봄의 대나무",
+          "tWzh": "春筍",
+          "cNzh": "春笋",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -11917,7 +12673,25 @@
           "cNzh": "黄色三色堇",
           "plural": true
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -13654,7 +14428,25 @@
           "cNzh": "红色玫瑰",
           "plural": true
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -13815,7 +14607,25 @@
           "cNzh": "杂草",
           "plural": false
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -13919,7 +14729,25 @@
           "cNzh": "夏天贝壳",
           "plural": false
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -14305,7 +15133,25 @@
           "cNzh": "简陋铲子",
           "plural": false
         },
-        "iron nugget": null
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
       }
     }
   },
@@ -14730,7 +15576,27 @@
       "internalId": 29,
       "uniqueEntryId": "Bbew7NAtvtH9wLJrD",
       "materials": { "hardwood": 5 },
-      "materialsTranslations": { "hardwood": null }
+      "materialsTranslations": {
+        "hardwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2769,
+          "eUde": "Hartholz",
+          "eUen": "hardwood",
+          "eUit": "legna dura",
+          "eUnl": "hardhout",
+          "eUru": "твердая древесина",
+          "eUfr": "bois dur",
+          "eUes": "tablas rígidas",
+          "uSen": "hardwood",
+          "uSfr": "bois dur",
+          "uSes": "tablas rígidas",
+          "jPja": "かたいもくざい",
+          "kRko": "단단한 목재",
+          "tWzh": "硬木材",
+          "cNzh": "硬木材",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -15148,7 +16014,25 @@
           "cNzh": "万圣节灯笼",
           "plural": false
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -15571,7 +16455,46 @@
       "internalId": 523,
       "uniqueEntryId": "yv5a3yQPS9tmBjhaP",
       "materials": { "large star fragment": 1, "star fragment": 3 },
-      "materialsTranslations": { "large star fragment": null, "star fragment": null }
+      "materialsTranslations": {
+        "large star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5984,
+          "eUde": "Riesensternensplitter",
+          "eUen": "large star fragment",
+          "eUit": "frammento di stella grande",
+          "eUnl": "groot sterrenfragment",
+          "eUru": "крупный осколок звезды",
+          "eUfr": "fragment de grande étoile",
+          "eUes": "fragmento de estrella XL",
+          "uSen": "large star fragment",
+          "uSfr": "fragment de grande étoile",
+          "uSes": "fragmento de estrella XL",
+          "jPja": "おおきなほしのかけら",
+          "kRko": "커다란 별의 조각",
+          "tWzh": "大星星碎片",
+          "cNzh": "大星星碎片",
+          "plural": false
+        },
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -15731,7 +16654,25 @@
           "cNzh": "简陋斧头",
           "plural": false
         },
-        "wood": null
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        }
       }
     }
   },
@@ -16220,7 +17161,46 @@
       "internalId": 535,
       "uniqueEntryId": "8WNAJXXX3Dn4Ggv5T",
       "materials": { "tree branch": 5, "star fragment": 3 },
-      "materialsTranslations": { "tree branch": null, "star fragment": null }
+      "materialsTranslations": {
+        "tree branch": {
+          "sourceSheet": "Crafting Items",
+          "id": 2500,
+          "eUde": "Ast",
+          "eUen": "tree branch",
+          "eUit": "ramo",
+          "eUnl": "tak",
+          "eUru": "ветка",
+          "eUfr": "branche d'arbre",
+          "eUes": "rama",
+          "uSen": "tree branch",
+          "uSfr": "branche d'arbre",
+          "uSes": "rama",
+          "jPja": "きのえだ",
+          "kRko": "나뭇가지",
+          "tWzh": "樹枝",
+          "cNzh": "树枝",
+          "plural": false
+        },
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -16323,7 +17303,25 @@
           "cNzh": "红色郁金香",
           "plural": true
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -16653,7 +17651,27 @@
       "internalId": 183,
       "uniqueEntryId": "osL5JbW5XpPxQZR6b",
       "materials": { "softwood": 5 },
-      "materialsTranslations": { "softwood": null }
+      "materialsTranslations": {
+        "softwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2767,
+          "eUde": "Weichholz",
+          "eUen": "softwood",
+          "eUit": "legna morbida",
+          "eUnl": "zachthout",
+          "eUru": "мягкая древесина",
+          "eUfr": "bois tendre",
+          "eUes": "tablas flexibles",
+          "uSen": "softwood",
+          "uSfr": "bois tendre",
+          "uSes": "tablas flexibles",
+          "jPja": "やわらかいもくざい",
+          "kRko": "부드러운 목재",
+          "tWzh": "軟木材",
+          "cNzh": "软木材",
+          "plural": true
+        }
+      }
     }
   },
   {
@@ -16955,7 +17973,27 @@
       "internalId": 532,
       "uniqueEntryId": "8vcfcHLWY7MLbb9Hn",
       "materials": { "star fragment": 2 },
-      "materialsTranslations": { "star fragment": null }
+      "materialsTranslations": {
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -17340,7 +18378,25 @@
           "cNzh": "简陋浇花壶",
           "plural": false
         },
-        "iron nugget": null
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
       }
     }
   },
@@ -17444,7 +18500,25 @@
           "cNzh": "婚礼花架",
           "plural": false
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -17605,7 +18679,25 @@
           "cNzh": "橘色银莲花",
           "plural": true
         },
-        "star fragment": null
+        "star fragment": {
+          "sourceSheet": "Crafting Items",
+          "id": 5983,
+          "eUde": "Sternensplitter",
+          "eUen": "star fragment",
+          "eUit": "frammento di stella",
+          "eUnl": "sterrenfragment",
+          "eUru": "осколок звезды",
+          "eUfr": "fragment d'étoile",
+          "eUes": "fragmento de estrella",
+          "uSen": "star fragment",
+          "uSfr": "fragment d'étoile",
+          "uSes": "fragmento de estrella",
+          "jPja": "ほしのかけら",
+          "kRko": "별의 조각",
+          "tWzh": "星星碎片",
+          "cNzh": "星星碎片",
+          "plural": false
+        }
       }
     }
   },
@@ -17917,7 +19009,25 @@
           "cNzh": "梯子",
           "plural": false
         },
-        "wood": null
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        }
       }
     }
   },

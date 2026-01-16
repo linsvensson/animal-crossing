@@ -4141,8 +4141,44 @@
           "cNzh": "圆木桩",
           "plural": false
         },
-        "clay": null,
-        "stone": null
+        "clay": {
+          "sourceSheet": "Crafting Items",
+          "id": 3090,
+          "eUde": "Lehm",
+          "eUen": "clay",
+          "eUit": "pezzi di argilla",
+          "eUnl": "kleihompen",
+          "eUru": "куски глины",
+          "eUfr": "argile",
+          "eUes": "bolas de arcilla",
+          "uSen": "clay",
+          "uSfr": "argile",
+          "uSes": "bolas de arcilla",
+          "jPja": "ねんど",
+          "kRko": "점토",
+          "tWzh": "黏土",
+          "cNzh": "黏土",
+          "plural": true
+        },
+        "stone": {
+          "sourceSheet": "Crafting Items",
+          "id": 2502,
+          "eUde": "Stein",
+          "eUen": "stone",
+          "eUit": "pietra",
+          "eUnl": "steen",
+          "eUru": "камень",
+          "eUfr": "pierre",
+          "eUes": "piedra",
+          "uSen": "stone",
+          "uSfr": "pierre",
+          "uSes": "piedra",
+          "jPja": "いし",
+          "kRko": "돌",
+          "tWzh": "石頭",
+          "cNzh": "石头",
+          "plural": false
+        }
       }
     }
   },
@@ -4400,10 +4436,82 @@
       "uniqueEntryId": "r2Hct8GMigwWDdwc8",
       "materials": { "wood": 15, "softwood": 15, "hardwood": 15, "iron nugget": 15 },
       "materialsTranslations": {
-        "wood": null,
-        "softwood": null,
-        "hardwood": null,
-        "iron nugget": null
+        "wood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2768,
+          "eUde": "Holz",
+          "eUen": "wood",
+          "eUit": "legna normale",
+          "eUnl": "hout",
+          "eUru": "древесина",
+          "eUfr": "bois",
+          "eUes": "tablas normales",
+          "uSen": "wood",
+          "uSfr": "bois",
+          "uSes": "tablas normales",
+          "jPja": "もくざい",
+          "kRko": "목재",
+          "tWzh": "木材",
+          "cNzh": "木材",
+          "plural": true
+        },
+        "softwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2767,
+          "eUde": "Weichholz",
+          "eUen": "softwood",
+          "eUit": "legna morbida",
+          "eUnl": "zachthout",
+          "eUru": "мягкая древесина",
+          "eUfr": "bois tendre",
+          "eUes": "tablas flexibles",
+          "uSen": "softwood",
+          "uSfr": "bois tendre",
+          "uSes": "tablas flexibles",
+          "jPja": "やわらかいもくざい",
+          "kRko": "부드러운 목재",
+          "tWzh": "軟木材",
+          "cNzh": "软木材",
+          "plural": true
+        },
+        "hardwood": {
+          "sourceSheet": "Crafting Items",
+          "id": 2769,
+          "eUde": "Hartholz",
+          "eUen": "hardwood",
+          "eUit": "legna dura",
+          "eUnl": "hardhout",
+          "eUru": "твердая древесина",
+          "eUfr": "bois dur",
+          "eUes": "tablas rígidas",
+          "uSen": "hardwood",
+          "uSfr": "bois dur",
+          "uSes": "tablas rígidas",
+          "jPja": "かたいもくざい",
+          "kRko": "단단한 목재",
+          "tWzh": "硬木材",
+          "cNzh": "硬木材",
+          "plural": true
+        },
+        "iron nugget": {
+          "sourceSheet": "Crafting Items",
+          "id": 2511,
+          "eUde": "Eisenerz",
+          "eUen": "iron nugget",
+          "eUit": "minerale di ferro",
+          "eUnl": "ijzerklompje",
+          "eUru": "железный самородок",
+          "eUfr": "pépite de fer",
+          "eUes": "pepita de hierro",
+          "uSen": "iron nugget",
+          "uSfr": "pépite de fer",
+          "uSes": "pepita de hierro",
+          "jPja": "てっこうせき",
+          "kRko": "철광석",
+          "tWzh": "鐵礦石",
+          "cNzh": "铁矿石",
+          "plural": false
+        }
       }
     }
   },
@@ -6135,7 +6243,65 @@
       "internalId": 751,
       "uniqueEntryId": "NLbsc7TY99g5MZR6t",
       "materials": { "red ornament": 1, "blue ornament": 1, "gold ornament": 1 },
-      "materialsTranslations": { "red ornament": null, "blue ornament": null, "gold ornament": null }
+      "materialsTranslations": {
+        "red ornament": {
+          "sourceSheet": "Crafting Items",
+          "id": 5730,
+          "eUde": "Rotschmuck",
+          "eUen": "red ornament",
+          "eUit": "decorazione rossa",
+          "eUnl": "rode versiering",
+          "eUru": "красное украшение",
+          "eUfr": "boule rouge",
+          "eUes": "adorno rojo",
+          "uSen": "red ornament",
+          "uSfr": "boule rouge",
+          "uSes": "adorno rojo",
+          "jPja": "あかいオーナメント",
+          "kRko": "빨간 오너먼트",
+          "tWzh": "紅色裝飾品",
+          "cNzh": "红色装饰品",
+          "plural": false
+        },
+        "blue ornament": {
+          "sourceSheet": "Crafting Items",
+          "id": 5731,
+          "eUde": "Blauschmuck",
+          "eUen": "blue ornament",
+          "eUit": "decorazione blu",
+          "eUnl": "blauwe versiering",
+          "eUru": "синее украшение",
+          "eUfr": "boule bleue",
+          "eUes": "adorno azul",
+          "uSen": "blue ornament",
+          "uSfr": "boule bleue",
+          "uSes": "adorno azul",
+          "jPja": "あおいオーナメント",
+          "kRko": "파란 오너먼트",
+          "tWzh": "藍色裝飾品",
+          "cNzh": "蓝色装饰品",
+          "plural": false
+        },
+        "gold ornament": {
+          "sourceSheet": "Crafting Items",
+          "id": 5732,
+          "eUde": "Goldschmuck",
+          "eUen": "gold ornament",
+          "eUit": "decorazione dorata",
+          "eUnl": "gouden versiering",
+          "eUru": "золотое украшение",
+          "eUfr": "boule dorée",
+          "eUes": "adorno dorado",
+          "uSen": "gold ornament",
+          "uSfr": "boule dorée",
+          "uSes": "adorno dorado",
+          "jPja": "きんのオーナメント",
+          "kRko": "금 오너먼트",
+          "tWzh": "金色裝飾品",
+          "cNzh": "金色装饰品",
+          "plural": false
+        }
+      }
     }
   },
   {
@@ -11023,7 +11189,25 @@
           "cNzh": "杂草",
           "plural": false
         },
-        "tree branch": null
+        "tree branch": {
+          "sourceSheet": "Crafting Items",
+          "id": 2500,
+          "eUde": "Ast",
+          "eUen": "tree branch",
+          "eUit": "ramo",
+          "eUnl": "tak",
+          "eUru": "ветка",
+          "eUfr": "branche d'arbre",
+          "eUes": "rama",
+          "uSen": "tree branch",
+          "uSfr": "branche d'arbre",
+          "uSes": "rama",
+          "jPja": "きのえだ",
+          "kRko": "나뭇가지",
+          "tWzh": "樹枝",
+          "cNzh": "树枝",
+          "plural": false
+        }
       }
     }
   },
