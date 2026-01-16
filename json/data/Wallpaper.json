@@ -8434,7 +8434,25 @@
           "cNzh": "光藓",
           "plural": true
         },
-        "ruins wall": null
+        "ruins wall": {
+          "sourceSheet": "Wallpaper",
+          "id": 5228,
+          "eUde": "Ruinenwand",
+          "eUen": "ruins wall",
+          "eUit": "muro rovine",
+          "eUnl": "mysterieuze ruïnewand",
+          "eUru": "стена «Руины»",
+          "eUfr": "mur de ruine",
+          "eUes": "pared ruinas misteriosas",
+          "uSen": "ruins wall",
+          "uSfr": "mur de ruine",
+          "uSes": "pared ruinas misteriosas",
+          "jPja": "いせきのかべ",
+          "kRko": "유적 벽",
+          "tWzh": "遺跡牆",
+          "cNzh": "遗迹墙",
+          "plural": false
+        }
       }
     }
   },
@@ -8534,7 +8552,25 @@
           "cNzh": "金矿石",
           "plural": false
         },
-        "screen wall": null
+        "screen wall": {
+          "sourceSheet": "Wallpaper",
+          "id": 4819,
+          "eUde": "Schiebetürtapete",
+          "eUen": "screen wall",
+          "eUit": "muro porta scorrevole",
+          "eUnl": "scherm",
+          "eUru": "стена-ширма",
+          "eUfr": "mur paravent en papier",
+          "eUes": "pared bruma oriental",
+          "uSen": "screen wall",
+          "uSfr": "mur paravent en papier",
+          "uSes": "pared bruma oriental",
+          "jPja": "ふすま",
+          "kRko": "미닫이 문 벽",
+          "tWzh": "日式拉門",
+          "cNzh": "日式拉门",
+          "plural": false
+        }
       }
     }
   },

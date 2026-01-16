@@ -38,6 +38,7 @@ const tabs: string[] = [
   'Shells',
   'Tools',
   'Walls',
+  'Wallpaper',
   'Turnips',
   'Money',
 ];
