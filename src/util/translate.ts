@@ -167,7 +167,7 @@ export function translate(item: obj): void {
     item.themesTranslations = zipObject(item.labelThemes, array);
   }
 
-  // We'll also set the translations for the item's hha series, if one exists.
+  // We'll also set the translations for the item's hha set, if one exists.
   if (item.hhaSet) {
     item.setTranslations = find(item.hhaSet, ['HHA Sets']);
   }
