@@ -168,6 +168,11 @@ export function translate(item: obj): void {
   }
 
   // We'll also set the translations for the item's hha series, if one exists.
+  if (item.hhaSet) {
+    item.setTranslations = find(item.hhaSet, ['HHA Sets']);
+  }
+
+  // We'll also set the translations for the item's hha series, if one exists.
   if (item.hhaSeries) {
     item.seriesTranslations = find(item.hhaSeries, ['HHA Themes']);
   }
