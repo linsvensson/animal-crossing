@@ -1,4 +1,4 @@
-import { obj } from '../types/object';
+import { obj } from '../types/object.js';
 
 /**
  * Returns a copy of the given object with falsy values removed.

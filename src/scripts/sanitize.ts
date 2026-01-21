@@ -1,15 +1,20 @@
-import { camelCase, flatten, omit, pick, zipObject } from 'lodash';
+import lodash from 'lodash';
+const camelCase = lodash.camelCase;
+const flatten = lodash.flatten;
+const omit = lodash.omit;
+const pick = lodash.pick;
+const zipObject = lodash.zipObject;
 import { basename, join } from 'path';
 
-import { directories } from '../util/directories';
-import { get } from '../util/get';
-import { link } from '../util/link';
-import { readdir } from '../util/readdir';
-import { separate } from '../util/separate';
-import { translate } from '../util/translate';
-import { width } from '../util/width';
-import { write } from '../util/write';
-import { obj } from '../types/object';
+import { directories } from '../util/directories.js';
+import { get } from '../util/get.js';
+import { link } from '../util/link.js';
+import { readdir } from '../util/readdir.js';
+import { separate } from '../util/separate.js';
+import { translate } from '../util/translate.js';
+import { width } from '../util/width.js';
+import { write } from '../util/write.js';
+import { obj } from '../types/object.js';
 
 // After converting the spreadsheets into JSON, the keys and values won't
 // necessarily be in compliant of JavaScript syntax. For every item, the keys

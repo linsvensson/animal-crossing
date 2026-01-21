@@ -1,10 +1,10 @@
 import { join } from 'path';
 
-import { category } from '../util/category';
-import { directories } from '../util/directories';
-import { write } from '../util/write';
-import { width } from '../util/width';
-import { obj } from '../types/object';
+import { category } from '../util/category.js';
+import { directories } from '../util/directories.js';
+import { write } from '../util/write.js';
+import { width } from '../util/width.js';
+import { obj } from '../types/object.js';
 
 // An achievement in Animal Crossing may have up to 6 tiers, with each tier
 // having an amount of Nook Miles to award the player and a modifier/noun for

@@ -1,10 +1,12 @@
-import { camelCase, mapKeys } from 'lodash';
+import lodash from 'lodash';
+const camelCase = lodash.camelCase;
+const mapKeys = lodash.mapKeys;
 import { join } from 'path';
 
-import { directories } from '../util/directories';
-import { get } from '../util/get';
-import { write } from '../util/write';
-import { obj } from '../types/object';
+import { directories } from '../util/directories.js';
+import { get } from '../util/get.js';
+import { write } from '../util/write.js';
+import { obj } from '../types/object.js';
 
 // This scripts reads and combines all translations into a single file and edits
 // the IDs of some translations to a number over a string when possible.

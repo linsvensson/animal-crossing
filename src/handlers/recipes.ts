@@ -1,12 +1,13 @@
 import { join } from 'path';
-import { zipObject } from 'lodash';
+import lodash from 'lodash';
+const zipObject = lodash.zipObject;
 
-import { category } from '../util/category';
-import { directories } from '../util/directories';
-import { write } from '../util/write';
-import { find } from '../util/translate';
-import { width } from '../util/width';
-import { obj } from '../types/object';
+import { category } from '../util/category.js';
+import { directories } from '../util/directories.js';
+import { write } from '../util/write.js';
+import { find } from '../util/translate.js';
+import { width } from '../util/width.js';
+import { obj } from '../types/object.js';
 
 // Obviously, there are craftiable items in Animal Crossing, with each recipe
 // having a maximum amount of six materials, I'm assuming. On the spreadsheet,

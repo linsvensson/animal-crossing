@@ -1,9 +1,9 @@
 import { join } from 'path';
 
-import { categories } from './categories';
-import { directories } from './directories';
-import { get } from './get';
-import { obj } from '../types/object';
+import { categories } from './categories.js';
+import { directories } from './directories.js';
+import { get } from './get.js';
+import { obj } from '../types/object.js';
 
 /**
  * Returns an array containing the absolute paths of files in the category.

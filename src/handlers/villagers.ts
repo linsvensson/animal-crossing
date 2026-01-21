@@ -1,11 +1,11 @@
 import { join } from 'path';
 
-import { category } from '../util/category';
-import { directories } from '../util/directories';
-import { separate } from '../util/separate';
-import { write } from '../util/write';
-import { width } from '../util/width';
-import { obj } from '../types/object';
+import { category } from '../util/category.js';
+import { directories } from '../util/directories.js';
+import { separate } from '../util/separate.js';
+import { write } from '../util/write.js';
+import { width } from '../util/width.js';
+import { obj } from '../types/object.js';
 
 // This script merges some values from villagers into an array, such as the
 // villager's style and colors. In addition, the translations for the villager's

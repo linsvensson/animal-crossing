@@ -1,14 +1,16 @@
-import { mapKeys, pick } from 'lodash';
+import lodash from 'lodash';
+const mapKeys = lodash.mapKeys;
+const pick = lodash.pick;
 
-import { directories } from '../util/directories';
-import { files } from '../util/category';
-import { get } from '../util/get';
-import { separate } from '../util/separate';
-import { timeArray } from '../util/timeArray';
-import { validate } from '../util/validate';
-import { write } from '../util/write';
-import { width } from '../util/width';
-import { obj } from '../types/object';
+import { directories } from '../util/directories.js';
+import { files } from '../util/category.js';
+import { get } from '../util/get.js';
+import { separate } from '../util/separate.js';
+import { timeArray } from '../util/timeArray.js';
+import { validate } from '../util/validate.js';
+import { write } from '../util/write.js';
+import { width } from '../util/width.js';
+import { obj } from '../types/object.js';
 
 // In Animal Crossing, creatures such as fish and bugs are available for certain
 // months throughout the year, which is different for both of the hemispheres.

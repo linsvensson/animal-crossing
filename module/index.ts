@@ -2,16 +2,16 @@
 // TYPES
 // ---
 
-import { Achievement as IAchievement } from './types/Achievement';
-import { Construction as IConstruction } from './types/Construction';
-import { Creature as ICreature } from './types/Creature';
-import { Item as IItem } from './types/Item';
-import { Reaction as IReaction } from './types/Reaction';
-import { Recipe as IRecipe } from './types/Recipe';
-import { SeasonsAndEvents as ISeasonsAndEvents } from './types/SeasonsAndEvents';
-import { Translation as ITranslation } from './types/Translation';
-import { Villager as IVillager } from './types/Villager';
-import { Npc as INPC } from './types/NPC';
+import { Achievement as IAchievement } from './types/Achievement.js';
+import { Construction as IConstruction } from './types/Construction.js';
+import { Creature as ICreature } from './types/Creature.js';
+import { Item as IItem } from './types/Item.js';
+import { Reaction as IReaction } from './types/Reaction.js';
+import { Recipe as IRecipe } from './types/Recipe.js';
+import { SeasonsAndEvents as ISeasonsAndEvents } from './types/SeasonsAndEvents.js';
+import { Translation as ITranslation } from './types/Translation.js';
+import { Villager as IVillager } from './types/Villager.js';
+import { Npc as INPC } from './types/NPC.js';
 
 // ---
 // SOURCE FILES

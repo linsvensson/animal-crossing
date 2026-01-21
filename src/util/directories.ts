@@ -1,11 +1,10 @@
-import { path } from 'app-root-path';
+import appRootPath from 'app-root-path';
 import { join } from 'path';
 
 /**
- * The absolute path for the root directory that will contain the JSON files.
+ * The absolute path for this project's root directory.
  */
-const root: string = join(path, 'json');
-
+const root = appRootPath.path;
 /**
  * The root directory that holds the raw data from the spreadsheets.
  */

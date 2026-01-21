@@ -1,10 +1,11 @@
-import { omit } from 'lodash';
+import lodash from 'lodash';
+const omit = lodash.omit;
 
-import { files, category } from '../util/category';
-import { directories } from '../util/directories';
-import { get } from '../util/get';
-import { write } from '../util/write';
-import { obj } from '../types/object';
+import { files, category } from '../util/category.js';
+import { directories } from '../util/directories.js';
+import { get } from '../util/get.js';
+import { write } from '../util/write.js';
+import { obj } from '../types/object.js';
 
 // Recipes have the property 'craftedItemInternalId', which represents the
 // internal ID of the item that the recipe is for, we'll use this property to

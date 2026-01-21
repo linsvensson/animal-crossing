@@ -1,4 +1,4 @@
-import { categories } from './categories';
+import { categories } from './categories.js';
 
 /**
  * A list of character width for specific categories.

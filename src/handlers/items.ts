@@ -1,8 +1,8 @@
-import { get } from '../util/get';
-import { files } from '../util/category';
-import { write } from '../util/write';
-import { width } from '../util/width';
-import { obj } from '../types/object';
+import { get } from '../util/get.js';
+import { files } from '../util/category.js';
+import { write } from '../util/write.js';
+import { width } from '../util/width.js';
+import { obj } from '../types/object.js';
 
 // This script combines values of items into an array and sets the translations.
 

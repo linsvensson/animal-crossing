@@ -1,44 +1,41 @@
-import { sheets } from '@norviah/sheets';
+import { sheets } from '@lin/sheets';
 import { existsSync, mkdirSync } from 'fs';
-import { join } from 'path';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
 
-import { directories } from './util/directories';
-import { readdir } from './util/readdir';
-import { spreadsheets } from './util/spreadsheets';
+import { directories } from './util/directories.js';
+import { readdir } from './util/readdir.js';
+import { spreadsheets } from './util/spreadsheets.js';
+
+// Create __dirname equivalent for ESM
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 async function main(): Promise<void> {
-  // Make sure that the directories used throughout this project exists.
+  // Make sure that the directories used throughout this project exist.
   for (const directory of Object.values(directories)) {
     if (!existsSync(directory)) mkdirSync(directory, { recursive: true });
   }
 
-  // Convert and download each spreadsheet as a JSON file, which is saved under
-  // the sub-directory 'json' in the project's root directory.
+  // Convert and download each spreadsheet as a JSON file, saved under 'json'.
   await sheets(spreadsheets, { verbose: true });
 
-  // Once the spreadsheets are downloaded, we'll edit and change the data a bit
-  // in order to make it much easier for someone to work with it. First off,
-  // we'll create a new file combining every translation into a single file.
+  // Combine translations into a single file
   await import('./scripts/translations.js');
 
-  // Once all the translations are combined, we'll sanitize each JSON file
-  // downloaded from the various spreadsheets. This script sanitizes each
-  // category in a way that is non-specific, i.e. setting translations and
-  // changing each key into camelCase for simple access.
+  // Sanitize JSON files
   await import('./scripts/sanitize.js');
 
-  // Each script in the 'handlers' sub-directory sanitizes each file in a way
-  // that is specific to that file or category it represents.
+  // Process all handler scripts
   const handlers: string[] = readdir(join(__dirname, 'handlers'));
-
   for (const handler of handlers) {
     await import(handler);
   }
 
-  // Merges items with recipes.
+  // Merge items with recipes
   await import('./scripts/recipes.js');
 
-  // Combines every JSON file via categories.
+  // Combine JSON files by categories
   await import('./scripts/combine.js');
 }
 

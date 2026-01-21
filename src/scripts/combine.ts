@@ -1,12 +1,12 @@
 import { join } from 'path';
 
-import { categories } from '../util/categories';
-import { files } from '../util/category';
-import { directories } from '../util/directories';
-import { get } from '../util/get';
-import { readdir } from '../util/readdir';
-import { width } from '../util/width';
-import { write } from '../util/write';
+import { categories } from '../util/categories.js';
+import { files } from '../util/category.js';
+import { directories } from '../util/directories.js';
+import { get } from '../util/get.js';
+import { readdir } from '../util/readdir.js';
+import { width } from '../util/width.js';
+import { write } from '../util/write.js';
 
 // We'll initialize an array to have a reference to every file within the
 // sanitized directory, we'll use this to determine and ensure that every file

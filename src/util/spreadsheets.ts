@@ -1,5 +1,5 @@
-import { Spreadsheet } from '@norviah/sheets';
-import { directories } from './directories';
+import { Spreadsheet } from '@lin/sheets';
+import { directories } from './directories.js';
 
 /**
  * Represents a list of Google Spreadsheets that we'll convert to JSON, the
