@@ -85,8 +85,34 @@ export function translate(item: obj): void {
 
   // We'll initialize an array containing every translation that shares the same
   // internal ID as the given item.
-  const options: obj[] = translations.filter((translation) => (translation.clothGroup ?? translation.id) == id);
+  let options: obj[] = translations.filter((translation) => (translation.clothGroup ?? translation.id) == id);
   // IDs can be string or number, so we use a non-strict == comparison
+
+  // Special case: 'Seasons and Events' – fallback to displayName if no translation by ID
+  if (item.sourceSheet === 'Seasons and Events' && options.length === 0) {
+    const fallbackTranslation = translations.find(
+      (translation) =>
+        translation.uSen?.toString().toLowerCase() === (item.displayName ?? '').toLowerCase()
+    );
+    if (fallbackTranslation) options = [fallbackTranslation];
+  }
+
+  // Special case: Seasons and Events
+  // 1) try name
+  // 2) fallback to displayName
+  /*if (item.sourceSheet === 'Seasons and Events') {
+    options = [];
+
+    const byName = find(item.name, ['Seasons and Events']);
+    if (byName) {
+      options = [byName];
+    } else {
+      const byDisplayName = find(item.displayName, ['Seasons and Events']);
+      if (byDisplayName) options = [byDisplayName];
+    }
+  }*/
+
+  
 
   // Before we try finding a translation, we'll check to see if every
   // translation in the array relates to the same item, as the internal IDs for

@@ -81,7 +81,7 @@ And thanks to the [acdb-team](https://github.com/acdb-team), as I took inspirati
 
 ## Notes
 ```
-nvm use 18
+nvm use 20
 ```
 ```
 npm run build:src && npm run start

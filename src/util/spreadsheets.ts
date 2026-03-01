@@ -18,4 +18,9 @@ export const spreadsheets: Spreadsheet[] = [
     exclude: ['Readme', 'Changelog'],
     dir: directories.translations,
   },
+  {
+    id: '1x4f8LN_8MtA3-yETG8tYe8aAw8lGPJlQ7oS0aNqtSMM',
+    exclude: ['Readme'],
+    dir: directories.mine,
+  },
 ];
