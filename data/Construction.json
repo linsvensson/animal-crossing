@@ -9,6 +9,7 @@
     "filename": "HouseRoofPA04StandardE",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Qnx2RexRkQSfFnLuB",
+    "url": "=FORMULATEXT(B174)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00149",
@@ -39,6 +40,7 @@
     "filename": "HouseWallPB04LogF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "hzkYgksv2Thc29DPH",
+    "url": "=FORMULATEXT(B207)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00197",
@@ -69,6 +71,7 @@
     "filename": "HouseWallNBLogF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "agcGhdCB4SMtDAhW5",
+    "url": "=FORMULATEXT(B206)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00197",
@@ -99,6 +102,7 @@
     "filename": "HouseDoorCercleWindowAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "HrAsZSpm2pRj2u8ad",
+    "url": "=FORMULATEXT(B10)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00029",
@@ -129,6 +133,7 @@
     "filename": "HouseWallPC04JapaneseE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "kap6r2JcTCR6pk2xB",
+    "url": "=FORMULATEXT(B209)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00217",
@@ -159,6 +164,7 @@
     "filename": "HouseWallNCJapaneseE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "v5hSQEnvqgvnMxNf6",
+    "url": "=FORMULATEXT(B208)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00217",
@@ -189,6 +195,7 @@
     "filename": "HouseWallPD04WoodE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Ytum7hzNR2CoPJuxs",
+    "url": "=FORMULATEXT(B211)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00227",
@@ -219,6 +226,7 @@
     "filename": "HouseWallNDWoodE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "2wGaRW2eSYHCGjQo5",
+    "url": "=FORMULATEXT(B210)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00227",
@@ -249,6 +257,7 @@
     "filename": "HouseDoorCercleWindowGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "uF4YeCTGBx4Tawcp8",
+    "url": "=FORMULATEXT(B11)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00182",
@@ -279,6 +288,7 @@
     "filename": "HouseWallPB04BrickF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "LS7badPhZ8J7y5geJ",
+    "url": "=FORMULATEXT(B212)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00211",
@@ -309,6 +319,7 @@
     "filename": "HouseWallNDSoilC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Nfhad3MKWWEYfgYbd",
+    "url": "=FORMULATEXT(B213)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00122",
@@ -339,6 +350,7 @@
     "filename": "HouseWallNBStoneB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "5cGobyNcFy94sRxr3",
+    "url": "=FORMULATEXT(B214)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00079",
@@ -369,6 +381,7 @@
     "filename": "HouseRoofPA04WesterntileF",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "jX9sAaudmHztd6WoQ",
+    "url": "=FORMULATEXT(B175)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00164",
@@ -399,6 +412,7 @@
     "filename": "HouseDoorSimpleBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "jQFLgioHYBRbRkBYK",
+    "url": "=FORMULATEXT(B12)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00139",
@@ -429,6 +443,7 @@
     "filename": "HouseRoofPA04StoneB",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "rJ4yqFWLmk6ykB5Et",
+    "url": "=FORMULATEXT(B176)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00153",
@@ -459,6 +474,7 @@
     "filename": "HouseWallNAMetalB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "XEGM8kgj83EXZGces",
+    "url": "=FORMULATEXT(B215)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00165",
@@ -489,6 +505,7 @@
     "filename": "HouseWallPD04StuccoB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "7rumCEEPaziHSSRLX",
+    "url": "=FORMULATEXT(B218)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00231",
@@ -519,6 +536,7 @@
     "filename": "HouseWallNDStuccoB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "XXRmNQ6rGhkh5AMAa",
+    "url": "=FORMULATEXT(B217)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00231",
@@ -549,6 +567,7 @@
     "filename": "HouseWallPA04StuccoB",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "qbKmPn2exhSsqLCw5",
+    "url": "=FORMULATEXT(B216)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00231",
@@ -579,6 +598,7 @@
     "filename": "HouseWallPD04SoilC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "iZkEyFJnxZhPFKuQ2",
+    "url": "=FORMULATEXT(B219)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00239",
@@ -609,6 +629,7 @@
     "filename": "HouseDoorWindowGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "oMqf22Pf8fZzeoJdY",
+    "url": "=FORMULATEXT(B13)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00233",
@@ -639,6 +660,7 @@
     "filename": "HouseDoorStandardGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "N5LASg9qjhgexBMe7",
+    "url": "=FORMULATEXT(B14)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00261",
@@ -669,6 +691,7 @@
     "filename": "HouseWallPD04WoodH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "fjh8WedLELC3jPeap",
+    "url": "=FORMULATEXT(B221)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00230",
@@ -699,6 +722,7 @@
     "filename": "HouseWallNDWoodH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "RaWKak29F7NfxGA3A",
+    "url": "=FORMULATEXT(B220)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00230",
@@ -729,6 +753,7 @@
     "filename": "HouseWallPC04OrientalH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Ctd337LzqYesoqjw4",
+    "url": "=FORMULATEXT(B223)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00192",
@@ -759,6 +784,7 @@
     "filename": "HouseWallNCOrientalH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "LQBASL33D4MonSqYw",
+    "url": "=FORMULATEXT(B222)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00192",
@@ -789,6 +815,7 @@
     "filename": "HouseWallNAWoodsidingB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "z2w7oAQd7wfWfzfzN",
+    "url": "=FORMULATEXT(B224)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00065",
@@ -819,6 +846,7 @@
     "filename": "HouseWallNABrickH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "h5FGYpsGfxEYvpwyt",
+    "url": "=FORMULATEXT(B225)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00063",
@@ -849,6 +877,7 @@
     "filename": "HouseWallPC04StoneB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "TZ2mm8TQzyythG5YH",
+    "url": "=FORMULATEXT(B226)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00200",
@@ -879,6 +908,7 @@
     "filename": "HouseWallPA04WoodframeH",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "kYAfpnwSRtZfZs4SG",
+    "url": "=FORMULATEXT(B227)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00144",
@@ -909,6 +939,7 @@
     "filename": "HouseWallNBStoneH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "rPxNkakgwQ5rkg7jq",
+    "url": "=FORMULATEXT(B228)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00085",
@@ -939,6 +970,7 @@
     "filename": "HouseDoorReliefHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "6mmdmWbK5ZRpbCsWc",
+    "url": "=FORMULATEXT(B15)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00089",
@@ -969,6 +1001,7 @@
     "filename": "HouseWallPA04StandardH",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "di7Pmwx9aDN4v4Xfc",
+    "url": "=FORMULATEXT(B229)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00163",
@@ -999,6 +1032,7 @@
     "filename": "HouseRoofPA04WesterntileH",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "BdGehD5vw6WxG8efX",
+    "url": "=FORMULATEXT(B177)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00166",
@@ -1029,6 +1063,7 @@
     "filename": "HouseDoorCarvingBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "3ZahH8gvtHGdkEM68",
+    "url": "=FORMULATEXT(B16)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00054",
@@ -1059,6 +1094,7 @@
     "filename": "HouseDoorChineseHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "qT9ghD7YkZpMDgBDf",
+    "url": "=FORMULATEXT(B17)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00213",
@@ -1089,6 +1125,7 @@
     "filename": "FtrPostLargeBlack",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "MfwnWmtJuJDAvc2Lz",
+    "url": "=FORMULATEXT(B141)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8678,
@@ -1119,6 +1156,7 @@
     "filename": "HouseDoorLatticeHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Kzu4WsZwmSWzLdMC6",
+    "url": "=FORMULATEXT(B18)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00169",
@@ -1149,6 +1187,7 @@
     "filename": "HouseWallPB04LogH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "piKD5D7LQPLkMHiTN",
+    "url": "=FORMULATEXT(B231)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00199",
@@ -1179,6 +1218,7 @@
     "filename": "HouseWallNBLogH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "HBduEun9nEfa43fdJ",
+    "url": "=FORMULATEXT(B230)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00199",
@@ -1209,6 +1249,7 @@
     "filename": "FtrPostStandardBlack",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "mrnKiTGF6ra4B8X2T",
+    "url": "=FORMULATEXT(B142)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8667,
@@ -1239,6 +1280,7 @@
     "filename": "HouseWallNCWoodH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "gFWvG2DuFfXAFqsuo",
+    "url": "=FORMULATEXT(B232)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00120",
@@ -1269,6 +1311,7 @@
     "filename": "HouseDoorSimplicityDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "TKDhdqyJBdrz8yQt6",
+    "url": "=FORMULATEXT(B19)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00195",
@@ -1299,6 +1342,7 @@
     "filename": "FtrPostSquareBlack",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "EePwSJwYCpQZacFqi",
+    "url": "=FORMULATEXT(B143)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8833,
@@ -1329,6 +1373,7 @@
     "filename": "HouseRoofPA04StoneH",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "hyshRxYSTue2YG2zE",
+    "url": "=FORMULATEXT(B178)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00250",
@@ -1359,6 +1404,7 @@
     "filename": "HouseWallNAMetalH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "8ezwCcMzih4cP6S34",
+    "url": "=FORMULATEXT(B233)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00171",
@@ -1389,6 +1435,7 @@
     "filename": "HouseWallNAStuccoH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "FboEwmNMpyRN7zET2",
+    "url": "=FORMULATEXT(B235)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00158",
@@ -1419,6 +1466,7 @@
     "filename": "HouseWallPA04StuccoH",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "gJeYNSQ4cBQuMiJXS",
+    "url": "=FORMULATEXT(B234)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00158",
@@ -1449,6 +1497,7 @@
     "filename": "HouseRoofPA04ThatchedH",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "53msS63AkP5L46Bq7",
+    "url": "=FORMULATEXT(B179)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00169",
@@ -1479,6 +1528,7 @@
     "filename": "HouseRoofPA04StandardH",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "aEXiJy3tnSJWNTBkv",
+    "url": "=FORMULATEXT(B180)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00152",
@@ -1509,6 +1559,7 @@
     "filename": "HouseDoorVerticalWindowHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Z4efmoeAjzYLhTsKJ",
+    "url": "=FORMULATEXT(B20)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00075",
@@ -1539,6 +1590,7 @@
     "filename": "HouseDoorJapaneseER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "AxrkW9SNKqmh9kX4S",
+    "url": "=FORMULATEXT(B21)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00154",
@@ -1569,6 +1621,7 @@
     "filename": "HouseWallPB04WoodsidngC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "cQ5Kat5xj9t3e57an",
+    "url": "=FORMULATEXT(B236)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00180",
@@ -1599,6 +1652,7 @@
     "filename": "HouseWallNDWoodG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "YumxsZgapdBAaDQi6",
+    "url": "=FORMULATEXT(B238)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00229",
@@ -1629,6 +1683,7 @@
     "filename": "HouseWallPD04WoodG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "ZtTX4WXtduwizR5a4",
+    "url": "=FORMULATEXT(B237)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00229",
@@ -1659,6 +1714,7 @@
     "filename": "HouseWallNAWoodsidingE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "xMG6H4mPRsQ45vHqX",
+    "url": "=FORMULATEXT(B239)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00068",
@@ -1689,6 +1745,7 @@
     "filename": "HouseDoorCercleWindowER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "BxqZmtEty82NDo8J3",
+    "url": "=FORMULATEXT(B22)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00180",
@@ -1719,6 +1776,7 @@
     "filename": "HouseWallPB04BrickG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "EPQBZs37HWgd2W2Lf",
+    "url": "=FORMULATEXT(B240)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00212",
@@ -1749,6 +1807,7 @@
     "filename": "HouseWallPC04StoneE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "nYogCLCgq65Mh76me",
+    "url": "=FORMULATEXT(B241)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00203",
@@ -1779,6 +1838,7 @@
     "filename": "HouseWallPA04StoneF",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "eTg7RcPdjkGPBeWL4",
+    "url": "=FORMULATEXT(B242)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00149",
@@ -1809,6 +1869,7 @@
     "filename": "HouseDoorReliefCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "hfWfx4mxev3qjp2zH",
+    "url": "=FORMULATEXT(B23)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00084",
@@ -1839,6 +1900,7 @@
     "filename": "HouseRoofPA04WesterntileE",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "mprPiQG9puuaCguod",
+    "url": "=FORMULATEXT(B181)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00163",
@@ -1869,6 +1931,7 @@
     "filename": "HouseDoorCarvingER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "fm6MupiuPAK6HPNNj",
+    "url": "=FORMULATEXT(B24)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00057",
@@ -1899,6 +1962,7 @@
     "filename": "HouseDoorIronCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "5tgy5p3AE38NBeG9B",
+    "url": "=FORMULATEXT(B25)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00243",
@@ -1929,6 +1993,7 @@
     "filename": "FtrPostLargeBlue",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "PXyHoT3WdZxgZNngW",
+    "url": "=FORMULATEXT(B144)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8676,
@@ -1959,6 +2024,7 @@
     "filename": "HouseDoorLatticeFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "JwdJLi5HHZe24DmkF",
+    "url": "=FORMULATEXT(B26)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00167",
@@ -1989,6 +2055,7 @@
     "filename": "HouseDoorIronpartsCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "YB3NZt9RRYJroWRcn",
+    "url": "=FORMULATEXT(B27)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00098",
@@ -2019,6 +2086,7 @@
     "filename": "FtrPostStandardBlue",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "RzqDEHhw3HSGjpavY",
+    "url": "=FORMULATEXT(B145)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8665,
@@ -2049,6 +2117,7 @@
     "filename": "HouseWallNCWoodD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "T95FhcWw9umLm3Jnp",
+    "url": "=FORMULATEXT(B243)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00116",
@@ -2079,6 +2148,7 @@
     "filename": "HouseDoorSimplicityFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "8k4sCwWWqugmTYuw6",
+    "url": "=FORMULATEXT(B28)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00197",
@@ -2109,6 +2179,7 @@
     "filename": "HouseDoorSimpleDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "cN2eTBiAPt2Bv8GTK",
+    "url": "=FORMULATEXT(B29)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00141",
@@ -2139,6 +2210,7 @@
     "filename": "FtrPostSquareBlue",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "cP7bYmszxmrmW2ygL",
+    "url": "=FORMULATEXT(B146)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8831,
@@ -2169,6 +2241,7 @@
     "filename": "SlopeIronStairBlue",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "wEC52Lc5cf8TcamMB",
+    "url": "=FORMULATEXT(B133)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5869,
@@ -2199,6 +2272,7 @@
     "filename": "HouseRoofPA04StoneE",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "2q8sqokbgGi3mebNb",
+    "url": "=FORMULATEXT(B182)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00156",
@@ -2229,6 +2303,7 @@
     "filename": "HouseWallNAMetalE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "kK26gaagd9nDGWtJo",
+    "url": "=FORMULATEXT(B244)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00168",
@@ -2259,6 +2334,7 @@
     "filename": "HouseWallNAStuccoE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "28mC6z7b8pZfPeTvs",
+    "url": "=FORMULATEXT(B249)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00237",
@@ -2289,6 +2365,7 @@
     "filename": "HouseWallPD04StuccoH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "KakS3oHuNipYfpujt",
+    "url": "=FORMULATEXT(B248)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00237",
@@ -2319,6 +2396,7 @@
     "filename": "HouseWallNDStuccoH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "azyK8onQ9GwkRA6ex",
+    "url": "=FORMULATEXT(B247)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00237",
@@ -2349,6 +2427,7 @@
     "filename": "HouseWallNBStuccoE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "vao77AKRbiSCKLLPH",
+    "url": "=FORMULATEXT(B246)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00237",
@@ -2379,6 +2458,7 @@
     "filename": "HouseWallPA04StuccoE",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "g6d8pc3feddvfd3wm",
+    "url": "=FORMULATEXT(B245)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00237",
@@ -2409,6 +2489,7 @@
     "filename": "HouseRoofPA04StandardF",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "B7gS5WW3ksnrfNeXK",
+    "url": "=FORMULATEXT(B183)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00150",
@@ -2439,6 +2520,7 @@
     "filename": "HouseDoorVerticalWindowDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "AJB8xQLjaJR2WrHBv",
+    "url": "=FORMULATEXT(B30)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00071",
@@ -2469,6 +2551,7 @@
     "filename": "HouseDoorWindowER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "i5JLZk2vdr5jZ9nBC",
+    "url": "=FORMULATEXT(B31)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00231",
@@ -2499,6 +2582,7 @@
     "filename": "HouseDoorStandardER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "okXxYSYZ8o2vceKQG",
+    "url": "=FORMULATEXT(B32)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00259",
@@ -2529,6 +2613,7 @@
     "filename": "FtrPostWoodBlue",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "hc333N34upcNjSabw",
+    "url": "=FORMULATEXT(B147)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8902,
@@ -2559,6 +2644,7 @@
     "filename": "SlopeWoodBlue",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "gHnYrhHS9A7MrPdpr",
+    "url": "=FORMULATEXT(B134)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5868,
@@ -2589,6 +2675,7 @@
     "filename": "HouseWallPA04StandardC",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "9gtBjJE4tYb6wQczz",
+    "url": "=FORMULATEXT(B250)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00006",
@@ -2619,6 +2706,7 @@
     "filename": "BridgeBricks",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Rvkrg9tcubTMakcBS",
+    "url": "=FORMULATEXT(B2)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5915,
@@ -2649,6 +2737,7 @@
     "filename": "SlopeBrickStair",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "A8AfTzxqpvzfcMeC5",
+    "url": "=FORMULATEXT(B135)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5870,
@@ -2679,6 +2768,7 @@
     "filename": "HouseWallPB04BrickB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "8bEGpsoBoFsZr3i4p",
+    "url": "=FORMULATEXT(B251)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00207",
@@ -2709,6 +2799,7 @@
     "filename": "HouseWallPA04WoodframeB",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "xAmRhhZacLmi3ySCm",
+    "url": "=FORMULATEXT(B252)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00020",
@@ -2739,6 +2830,7 @@
     "filename": "HouseWallNDSoilH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "cMuyGzRWprwsFruor",
+    "url": "=FORMULATEXT(B253)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00127",
@@ -2769,6 +2861,7 @@
     "filename": "HouseWallNBStoneF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "n2R7SMBY4CyMMx9mn",
+    "url": "=FORMULATEXT(B255)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00146",
@@ -2799,6 +2892,7 @@
     "filename": "HouseWallPA04StoneC",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "NL3LEQdCu2TtcE9eW",
+    "url": "=FORMULATEXT(B254)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00146",
@@ -2829,6 +2923,7 @@
     "filename": "HouseRoofPA04WesterntileG",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "zKQZJpWoGzgw7orRW",
+    "url": "=FORMULATEXT(B184)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00165",
@@ -2859,6 +2954,7 @@
     "filename": "HouseDoorChineseBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "SN5ik2H7HfGLuG9EN",
+    "url": "=FORMULATEXT(B33)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00207",
@@ -2889,6 +2985,7 @@
     "filename": "HouseDoorLatticeAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "a4Mft9ihDSpo4jusc",
+    "url": "=FORMULATEXT(B34)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00033",
@@ -2919,6 +3016,7 @@
     "filename": "HouseDoorIronpartsFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "8eztTyD69pNsq7Eee",
+    "url": "=FORMULATEXT(B35)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00101",
@@ -2949,6 +3047,7 @@
     "filename": "HouseWallNAWoodsidingD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "xGNS9qrkubzXHyo7X",
+    "url": "=FORMULATEXT(B257)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00114",
@@ -2979,6 +3078,7 @@
     "filename": "HouseWallNCWoodB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "rioZpHGa2GY5sDugy",
+    "url": "=FORMULATEXT(B256)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00114",
@@ -3009,6 +3109,7 @@
     "filename": "HouseRoofPA04StoneG",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "mapwfPNGnhg62uQkt",
+    "url": "=FORMULATEXT(B185)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00248",
@@ -3039,6 +3140,7 @@
     "filename": "HouseWallNDStuccoD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "sGD4DTjq4TcLwpMnu",
+    "url": "=FORMULATEXT(B259)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00233",
@@ -3069,6 +3171,7 @@
     "filename": "HouseWallPD04StuccoD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "jWELhm74YSRfpKTuW",
+    "url": "=FORMULATEXT(B258)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00233",
@@ -3099,6 +3202,7 @@
     "filename": "HouseRoofPA04ThatchedB",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "N9gATxvMvWX5HLEhS",
+    "url": "=FORMULATEXT(B186)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00231",
@@ -3129,6 +3233,7 @@
     "filename": "HouseWallPD04SoilH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "KjCmBEn6DtkwCmNjA",
+    "url": "=FORMULATEXT(B260)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00244",
@@ -3159,6 +3264,7 @@
     "filename": "HouseDoorJapaneseCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "3bWWrFPG7N5NcAKbS",
+    "url": "=FORMULATEXT(B36)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00152",
@@ -3189,6 +3295,7 @@
     "filename": "HouseDoorCercleWindowDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "vuSF9u2vtgf95NREh",
+    "url": "=FORMULATEXT(B37)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00179",
@@ -3219,6 +3326,7 @@
     "filename": "HouseWallPA04WoodframeA",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "RBTZCSQfgD2vQH3Ze",
+    "url": "=FORMULATEXT(B261)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00009",
@@ -3249,6 +3357,7 @@
     "filename": "HouseWallPA04StoneB",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Lms2QszBWsfaCCxGf",
+    "url": "=FORMULATEXT(B262)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00145",
@@ -3279,6 +3388,7 @@
     "filename": "FtrPostWoodDark",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "f2YBipw25G8BAxwSt",
+    "url": "=FORMULATEXT(B148)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8897,
@@ -3309,6 +3419,7 @@
     "filename": "HouseWallPC04JapaneseH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "KMxDjNZDirGaGCqiE",
+    "url": "=FORMULATEXT(B264)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00220",
@@ -3339,6 +3450,7 @@
     "filename": "HouseWallNCJapaneseH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "wDY4RfZ7j2rtyDf5r",
+    "url": "=FORMULATEXT(B263)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00220",
@@ -3369,6 +3481,7 @@
     "filename": "HouseWallNCJapaneseD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "p6P4N76nkGpzgTeYY",
+    "url": "=FORMULATEXT(B266)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00216",
@@ -3399,6 +3512,7 @@
     "filename": "HouseWallPC04JapaneseD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "D4HRimNjSCs3MacMS",
+    "url": "=FORMULATEXT(B265)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00216",
@@ -3429,6 +3543,7 @@
     "filename": "HouseDoorReliefAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "8Gx8LKMb7ipbF9qKa",
+    "url": "=FORMULATEXT(B38)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00010",
@@ -3459,6 +3574,7 @@
     "filename": "HouseWallPA04StandardA",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "tvSkijt9ictdZ5haB",
+    "url": "=FORMULATEXT(B267)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00000",
@@ -3489,6 +3605,7 @@
     "filename": "HouseWallPB04WoodsidngG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "43fZsai5kuZCeRyf2",
+    "url": "=FORMULATEXT(B268)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00184",
@@ -3519,6 +3636,7 @@
     "filename": "HouseWallPA04WoodframeG",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "KAwpDuD4BQAodaghb",
+    "url": "=FORMULATEXT(B269)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00143",
@@ -3549,6 +3667,7 @@
     "filename": "HouseWallNAWoodsidingA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "qSAYK7KRYjZ8ejbCh",
+    "url": "=FORMULATEXT(B270)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00014",
@@ -3579,6 +3698,7 @@
     "filename": "HouseDoorVerticalWindowJR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "CTyPWnQDRGqMcDEyf",
+    "url": "=FORMULATEXT(B39)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00276",
@@ -3609,6 +3729,7 @@
     "filename": "HouseDoorIronGrillGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "CQFAjS99WqxTu4QDJ",
+    "url": "=FORMULATEXT(B40)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00059",
@@ -3639,6 +3760,7 @@
     "filename": "HouseWallPB04LogG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "9Smq3cNo7NBxDemnp",
+    "url": "=FORMULATEXT(B272)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00198",
@@ -3669,6 +3791,7 @@
     "filename": "HouseWallNBLogG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "kvvCDgujneJJ7xeY4",
+    "url": "=FORMULATEXT(B271)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00198",
@@ -3699,6 +3822,7 @@
     "filename": "HouseWallNAWoodsidingH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "P8GtnqAu2gsrcbcK2",
+    "url": "=FORMULATEXT(B273)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00071",
@@ -3729,6 +3853,7 @@
     "filename": "HouseDoorSimpleGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Gyibc6G9u5Zv4fMdJ",
+    "url": "=FORMULATEXT(B41)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00144",
@@ -3759,6 +3884,7 @@
     "filename": "HouseRoofPA04ThatchedG",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "vc6xgYJWGgA9cTkB7",
+    "url": "=FORMULATEXT(B187)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00168",
@@ -3789,6 +3915,7 @@
     "filename": "HouseRoofPA04ThatchedD",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Z5NELbfAsKrPcwy5L",
+    "url": "=FORMULATEXT(B188)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00025",
@@ -3819,6 +3946,7 @@
     "filename": "HouseWallPC04StoneG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "QEoZTPE83uQqaoNGv",
+    "url": "=FORMULATEXT(B274)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00205",
@@ -3849,6 +3977,7 @@
     "filename": "HouseRoofPA04ThatchedA",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "roxKGs7uRQw2pw8to",
+    "url": "=FORMULATEXT(B189)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00214",
@@ -3879,6 +4008,7 @@
     "filename": "HouseWallPB04WoodsidngH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "5rpWDknseFb9uZWbS",
+    "url": "=FORMULATEXT(B275)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00185",
@@ -3909,6 +4039,7 @@
     "filename": "HouseWallPB04BrickC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "pdA7Jb66DBuj4FCTE",
+    "url": "=FORMULATEXT(B276)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00208",
@@ -3939,6 +4070,7 @@
     "filename": "HouseWallNBStoneG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "E6fbKkKbHAAy5LePJ",
+    "url": "=FORMULATEXT(B278)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00151",
@@ -3969,6 +4101,7 @@
     "filename": "HouseWallPA04StoneH",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "8GYy5WLx9jCpap6uY",
+    "url": "=FORMULATEXT(B277)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00151",
@@ -3999,6 +4132,7 @@
     "filename": "HouseDoorReliefFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "mEBW6Y6gLFpBpibwA",
+    "url": "=FORMULATEXT(B42)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00087",
@@ -4029,6 +4163,7 @@
     "filename": "HouseDoorIronGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "27cPAfi2DYBEzzgto",
+    "url": "=FORMULATEXT(B43)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00247",
@@ -4059,6 +4194,7 @@
     "filename": "HouseDoorIronGrillHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "uzLEvMD46GzBZQ3mN",
+    "url": "=FORMULATEXT(B44)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00061",
@@ -4089,6 +4225,7 @@
     "filename": "HouseDoorLatticeER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ZCfMjY9ED5jW87aZY",
+    "url": "=FORMULATEXT(B45)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00166",
@@ -4119,6 +4256,7 @@
     "filename": "HouseWallNAWoodsidingF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "JBns8QjhTJpRe56W4",
+    "url": "=FORMULATEXT(B279)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00069",
@@ -4149,6 +4287,7 @@
     "filename": "HouseDoorSimpleCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "QjS2nzSqHCLCcLGKQ",
+    "url": "=FORMULATEXT(B46)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00140",
@@ -4179,6 +4318,7 @@
     "filename": "HouseRoofPA04StoneA",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ab33Skrb5b7oeha7y",
+    "url": "=FORMULATEXT(B190)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00249",
@@ -4209,6 +4349,7 @@
     "filename": "HouseWallPD04StuccoE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "znu62t8nrf7tYTBkz",
+    "url": "=FORMULATEXT(B284)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00234",
@@ -4239,6 +4380,7 @@
     "filename": "HouseWallNAStuccoG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "ajZsKgrvwxqj8FdCG",
+    "url": "=FORMULATEXT(B283)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00234",
@@ -4269,6 +4411,7 @@
     "filename": "HouseWallNDStuccoE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "QHsrt84KFH5RP4W2J",
+    "url": "=FORMULATEXT(B282)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00234",
@@ -4299,6 +4442,7 @@
     "filename": "HouseWallNBStuccoC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "r2DWjrbR34FwRRNZL",
+    "url": "=FORMULATEXT(B281)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00234",
@@ -4329,6 +4473,7 @@
     "filename": "HouseWallPA04StuccoC",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "niRaBvHzn59TEuTtu",
+    "url": "=FORMULATEXT(B280)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00234",
@@ -4359,6 +4504,7 @@
     "filename": "HouseRoofPA04ThatchedE",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "PpodDcgiEgAJiDiSS",
+    "url": "=FORMULATEXT(B191)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00232",
@@ -4389,6 +4535,7 @@
     "filename": "HouseDoorWindowFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Y7W4HKFy49BLvabBD",
+    "url": "=FORMULATEXT(B47)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00232",
@@ -4419,6 +4566,7 @@
     "filename": "HouseDoorStandardFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "C2LhRZFynjh6x5gQB",
+    "url": "=FORMULATEXT(B48)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00260",
@@ -4449,6 +4597,7 @@
     "filename": "HouseWallPA04StandardD",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "JfXXtqNSk5D2jYMYf",
+    "url": "=FORMULATEXT(B285)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00159",
@@ -4479,6 +4628,7 @@
     "filename": "HouseWallNCOrientalG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "ukYJn8MXADYFSbEK6",
+    "url": "=FORMULATEXT(B287)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00191",
@@ -4509,6 +4659,7 @@
     "filename": "HouseWallPC04OrientalG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Bd9kJXQKcMvGGHg3t",
+    "url": "=FORMULATEXT(B286)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00191",
@@ -4539,6 +4690,7 @@
     "filename": "HouseWallPB04WoodsidngF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "rLyeE59wcGNj63kxc",
+    "url": "=FORMULATEXT(B288)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00183",
@@ -4569,6 +4721,7 @@
     "filename": "HouseWallNDWoodC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "ijSD8ucXhRsvpDkhm",
+    "url": "=FORMULATEXT(B290)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00225",
@@ -4599,6 +4752,7 @@
     "filename": "HouseWallPD04WoodC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "X5J7BiDDeGX8e4ovC",
+    "url": "=FORMULATEXT(B289)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00225",
@@ -4629,6 +4783,7 @@
     "filename": "HouseWallNDWoodF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Mso24dF3RAyQSzihs",
+    "url": "=FORMULATEXT(B292)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00228",
@@ -4659,6 +4814,7 @@
     "filename": "HouseWallPD04WoodF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "HCgSntTapsbjqvP2w",
+    "url": "=FORMULATEXT(B291)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00228",
@@ -4689,6 +4845,7 @@
     "filename": "HouseDoorCercleWindowBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "jDYnxjeL9zxWFsYM3",
+    "url": "=FORMULATEXT(B49)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00177",
@@ -4719,6 +4876,7 @@
     "filename": "HouseWallPB04BrickH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "DWfEiB2GJ9y6JR8s2",
+    "url": "=FORMULATEXT(B293)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00213",
@@ -4749,6 +4907,7 @@
     "filename": "HouseWallNABrickG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "TwzGfbBAjLJ8cq8Qm",
+    "url": "=FORMULATEXT(B294)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00062",
@@ -4779,6 +4938,7 @@
     "filename": "HouseWallPC04StoneF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "zhGtAZB89xtfyrnvm",
+    "url": "=FORMULATEXT(B295)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00204",
@@ -4809,6 +4969,7 @@
     "filename": "HouseWallNDSoilG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "SrRuBietDPv5QarSz",
+    "url": "=FORMULATEXT(B296)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00126",
@@ -4839,6 +5000,7 @@
     "filename": "HouseWallPA04StoneG",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Jiy9DpvuhLX6skBrR",
+    "url": "=FORMULATEXT(B297)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00150",
@@ -4869,6 +5031,7 @@
     "filename": "HouseDoorReliefDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "3xcS4XeYXbi6A4JJc",
+    "url": "=FORMULATEXT(B50)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00085",
@@ -4899,6 +5062,7 @@
     "filename": "HouseRoofPA04WesterntileD",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "zH9xBNwrWkv4JfBH3",
+    "url": "=FORMULATEXT(B192)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00162",
@@ -4929,6 +5093,7 @@
     "filename": "HouseDoorChineseER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "h59gk2epKc9ALPoF9",
+    "url": "=FORMULATEXT(B51)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00210",
@@ -4959,6 +5124,7 @@
     "filename": "HouseDoorIronER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "CH2gZGRicug5TB5nF",
+    "url": "=FORMULATEXT(B52)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00245",
@@ -4989,6 +5155,7 @@
     "filename": "HouseDoorIronGrillCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "fNwKPm8gu5pnoNZ2H",
+    "url": "=FORMULATEXT(B53)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00046",
@@ -5019,6 +5186,7 @@
     "filename": "FtrPostLargeGreen",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "MkQ6G3TQ7YqhQToAi",
+    "url": "=FORMULATEXT(B149)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8675,
@@ -5049,6 +5217,7 @@
     "filename": "HouseDoorIronpartsDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "gveHmLcPh9uNLMFB8",
+    "url": "=FORMULATEXT(B54)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00099",
@@ -5079,6 +5248,7 @@
     "filename": "FtrPostStandardGreen",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ujFMEsLrnERfkwfP9",
+    "url": "=FORMULATEXT(B150)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8664,
@@ -5109,6 +5279,7 @@
     "filename": "HouseWallNCWoodE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "nL6sJ5fRNcg7P8npw",
+    "url": "=FORMULATEXT(B298)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00117",
@@ -5139,6 +5310,7 @@
     "filename": "HouseDoorSimplicityJR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "YyyhicaCZuYCAd4hm",
+    "url": "=FORMULATEXT(B55)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00288",
@@ -5169,6 +5341,7 @@
     "filename": "FtrPostSquareGreen",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "xuTEi6Do6tN46d3q5",
+    "url": "=FORMULATEXT(B151)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8830,
@@ -5199,6 +5372,7 @@
     "filename": "HouseRoofPA04StoneF",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "T85hEMqZDuz32hnS2",
+    "url": "=FORMULATEXT(B193)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00246",
@@ -5229,6 +5403,7 @@
     "filename": "HouseWallNAMetalG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "ngqgTxENDENDu2v7y",
+    "url": "=FORMULATEXT(B299)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00170",
@@ -5259,6 +5434,7 @@
     "filename": "HouseWallNBStuccoG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "KJFFvxnH6cxfPr74G",
+    "url": "=FORMULATEXT(B301)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00077",
@@ -5289,6 +5465,7 @@
     "filename": "HouseWallNAStuccoF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "vChjafXsrdRBkTxbk",
+    "url": "=FORMULATEXT(B300)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00077",
@@ -5319,6 +5496,7 @@
     "filename": "HouseRoofPA04StandardD",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "pEWWGqpXPdLucubvS",
+    "url": "=FORMULATEXT(B194)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00148",
@@ -5349,6 +5527,7 @@
     "filename": "HouseWallPD04SoilG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "mvFPXSD8sac4E6QNh",
+    "url": "=FORMULATEXT(B302)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00243",
@@ -5379,6 +5558,7 @@
     "filename": "HouseDoorVerticalWindowCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "DAwzGNJimCfi6XuPY",
+    "url": "=FORMULATEXT(B56)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00070",
@@ -5409,6 +5589,7 @@
     "filename": "HouseDoorWindowDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "CHTZZvpsuYP2ZvEtm",
+    "url": "=FORMULATEXT(B57)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00230",
@@ -5439,6 +5620,7 @@
     "filename": "HouseDoorStandardDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "qj2PXQwBkjoDPMSDc",
+    "url": "=FORMULATEXT(B58)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00258",
@@ -5469,6 +5651,7 @@
     "filename": "FtrPostWoodGreen",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "6bxdrutijtpzKv39F",
+    "url": "=FORMULATEXT(B152)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8901,
@@ -5499,6 +5682,7 @@
     "filename": "HouseDoorCercleWindowJR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "mH3kwkiNAW9Tgg5XH",
+    "url": "=FORMULATEXT(B59)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00272",
@@ -5529,6 +5713,7 @@
     "filename": "HouseDoorReliefIR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "oe58QsaRvnF9dQ9Eg",
+    "url": "=FORMULATEXT(B60)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00264",
@@ -5559,6 +5744,7 @@
     "filename": "HouseDoorChineseAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "BbeW2wNrRMq4PkQB5",
+    "url": "=FORMULATEXT(B61)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00021",
@@ -5589,6 +5775,7 @@
     "filename": "BridgeIron",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "RmQ6iiKkFf3Sy4iSQ",
+    "url": "=FORMULATEXT(B3)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5919,
@@ -5619,6 +5806,7 @@
     "filename": "HouseDoorIronAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "yE4x5zcn95mcNNf2f",
+    "url": "=FORMULATEXT(B62)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00004",
@@ -5649,6 +5837,7 @@
     "filename": "HouseDoorIronGrillAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Cgd6XZxLfYLbuRqoC",
+    "url": "=FORMULATEXT(B63)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00019",
@@ -5679,6 +5868,7 @@
     "filename": "HouseDoorJapaneseFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "soxZojTeCikxb9q53",
+    "url": "=FORMULATEXT(B64)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00155",
@@ -5709,6 +5899,7 @@
     "filename": "FtrPostLarge",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "9mei7SoYtX9WhJqBx",
+    "url": "=FORMULATEXT(B153)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 5344,
@@ -5739,6 +5930,7 @@
     "filename": "HouseDoorLatticeDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "jexi2bbNCwn2j3JvC",
+    "url": "=FORMULATEXT(B65)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00165",
@@ -5769,6 +5961,7 @@
     "filename": "HouseWallPA04WoodframeD",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "9SCJMuao7JJBS3iry",
+    "url": "=FORMULATEXT(B303)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00022",
@@ -5799,6 +5992,7 @@
     "filename": "HouseWallNBStoneC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "YrGKk3uFZ5GA4Mx5L",
+    "url": "=FORMULATEXT(B304)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00080",
@@ -5829,6 +6023,7 @@
     "filename": "HouseWallNBStoneD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Aa7FWnHaZ6mpCdipJ",
+    "url": "=FORMULATEXT(B305)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00081",
@@ -5859,6 +6054,7 @@
     "filename": "HouseWallNBLogC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "43G7yna6392MAJvqo",
+    "url": "=FORMULATEXT(B307)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00194",
@@ -5889,6 +6085,7 @@
     "filename": "HouseWallPB04LogC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "e75K3EMygFAArxDDX",
+    "url": "=FORMULATEXT(B306)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00194",
@@ -5919,6 +6116,7 @@
     "filename": "HouseWallNAWoodsidingG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "xuGe4uvN7v6tkWH3P",
+    "url": "=FORMULATEXT(B308)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00070",
@@ -5949,6 +6147,7 @@
     "filename": "HouseWallNBStuccoB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "2QegXP8oQWqKN4kSn",
+    "url": "=FORMULATEXT(B309)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00072",
@@ -5979,6 +6178,7 @@
     "filename": "HouseWallNBStoneE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "HFpwxjZokzm92XR5t",
+    "url": "=FORMULATEXT(B311)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00082",
@@ -6009,6 +6209,7 @@
     "filename": "HouseWallPA04StoneA",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ZH4zSM5t8CkRN6WL7",
+    "url": "=FORMULATEXT(B310)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00082",
@@ -6039,6 +6240,7 @@
     "filename": "HouseWallNAStuccoB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "8KaQYBJxWggZzkJGS",
+    "url": "=FORMULATEXT(B312)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00042",
@@ -6069,6 +6271,7 @@
     "filename": "HouseDoorSimplicityGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "n5cEgH77z99n3rT8i",
+    "url": "=FORMULATEXT(B66)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00198",
@@ -6099,6 +6302,7 @@
     "filename": "BridgeLog",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Px55sTfjKSbbMtjAK",
+    "url": "=FORMULATEXT(B4)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5917,
@@ -6129,6 +6333,7 @@
     "filename": "SlopeWoodStair",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "wk6oQREwMmRAmkTWJ",
+    "url": "=FORMULATEXT(B136)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5867,
@@ -6159,6 +6364,7 @@
     "filename": "HouseDoorIronGrillBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "FW8NZXxWLT4hY6Nj3",
+    "url": "=FORMULATEXT(B67)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00045",
@@ -6189,6 +6395,7 @@
     "filename": "HouseDoorSimplicityCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "cuDwoeXKD2jdQEPvQ",
+    "url": "=FORMULATEXT(B68)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00194",
@@ -6219,6 +6426,7 @@
     "filename": "HouseDoorVerticalWindowBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "uKkrQ5yBYWQMmerB7",
+    "url": "=FORMULATEXT(B69)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00069",
@@ -6249,6 +6457,7 @@
     "filename": "HouseDoorWindowBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "bTb3Quno8Hhs7ASK2",
+    "url": "=FORMULATEXT(B70)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00228",
@@ -6279,6 +6488,7 @@
     "filename": "HouseDoorStandardBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "zvWtASTxgTYBunTDz",
+    "url": "=FORMULATEXT(B71)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00256",
@@ -6309,6 +6519,7 @@
     "filename": "HouseDoorIronpartsAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "EivvfJTS98tFNbuno",
+    "url": "=FORMULATEXT(B72)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00006",
@@ -6339,6 +6550,7 @@
     "filename": "HouseWallNDStuccoF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "tuFwLBPyQSqZPcnT8",
+    "url": "=FORMULATEXT(B315)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00235",
@@ -6369,6 +6581,7 @@
     "filename": "HouseWallPD04StuccoF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "n7xsWtKc9caDeRhqH",
+    "url": "=FORMULATEXT(B314)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00235",
@@ -6399,6 +6612,7 @@
     "filename": "HouseWallNBStuccoH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "NWbw4muaEMp7egxST",
+    "url": "=FORMULATEXT(B313)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00235",
@@ -6429,6 +6643,7 @@
     "filename": "HouseWallNBLogA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "oz9vcn3haXFxT7GH8",
+    "url": "=FORMULATEXT(B317)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00175",
@@ -6459,6 +6674,7 @@
     "filename": "HouseWallPB04LogA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "sdeaNfBhNoDMX69pj",
+    "url": "=FORMULATEXT(B316)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00175",
@@ -6489,6 +6705,7 @@
     "filename": "HouseWallPB04WoodsidngA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "KNQHAFN4mQ3EGJRou",
+    "url": "=FORMULATEXT(B318)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00017",
@@ -6519,6 +6736,7 @@
     "filename": "SlopeNatural",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "m7jAPxsGCRgSWo6Ng",
+    "url": "=FORMULATEXT(B137)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5866,
@@ -6549,6 +6767,7 @@
     "filename": "HouseWallNDWoodA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "uR25vwZFbwdFKap9f",
+    "url": "=FORMULATEXT(B320)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00221",
@@ -6579,6 +6798,7 @@
     "filename": "HouseWallPD04WoodA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "tdoxZcRhxYhFMtMD2",
+    "url": "=FORMULATEXT(B319)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00221",
@@ -6609,6 +6829,7 @@
     "filename": "HouseWallPC04JapaneseA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "fhnuLatWR3BawC2bp",
+    "url": "=FORMULATEXT(B322)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00174",
@@ -6639,6 +6860,7 @@
     "filename": "HouseWallNCJapaneseA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "HzZZRy4wfMv4EdbYK",
+    "url": "=FORMULATEXT(B321)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00174",
@@ -6669,6 +6891,7 @@
     "filename": "HouseWallPA04WoodframeF",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ug4QTydifE3YXJqHR",
+    "url": "=FORMULATEXT(B323)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00142",
@@ -6699,6 +6922,7 @@
     "filename": "HouseWallNDSoilD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "xDw86YCeCnBuPBX6v",
+    "url": "=FORMULATEXT(B324)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00123",
@@ -6729,6 +6953,7 @@
     "filename": "HouseWallPA04StoneE",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Xs4kXRbnMnnkzzdGm",
+    "url": "=FORMULATEXT(B325)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00148",
@@ -6759,6 +6984,7 @@
     "filename": "HouseRoofPA04WesterntileA",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "yfLcN39wQrmNt8WHH",
+    "url": "=FORMULATEXT(B195)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00008",
@@ -6789,6 +7015,7 @@
     "filename": "HouseRoofPA04StoneC",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ifhZHe9jHujeiSgAu",
+    "url": "=FORMULATEXT(B196)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00245",
@@ -6819,6 +7046,7 @@
     "filename": "HouseWallNAStuccoA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Ld8FWPkGFByYvHwBa",
+    "url": "=FORMULATEXT(B327)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00076",
@@ -6849,6 +7077,7 @@
     "filename": "HouseWallNBStuccoF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "crt2gKoFQwerNHfuD",
+    "url": "=FORMULATEXT(B326)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00076",
@@ -6879,6 +7108,7 @@
     "filename": "HouseRoofPA04ThatchedC",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "KehTqxnW4g25qgMzj",
+    "url": "=FORMULATEXT(B197)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00229",
@@ -6909,6 +7139,7 @@
     "filename": "HouseWallPD04SoilD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "pxrCfEzS4S8yoqmPe",
+    "url": "=FORMULATEXT(B328)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00240",
@@ -6939,6 +7170,7 @@
     "filename": "FtrPostStandard",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "WiXx9pYfimxQTSAuF",
+    "url": "=FORMULATEXT(B154)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 2571,
@@ -6969,6 +7201,7 @@
     "filename": "HouseDoorCercleWindowFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "LnLiK3nvaaGqMSJbo",
+    "url": "=FORMULATEXT(B73)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00181",
@@ -6999,6 +7232,7 @@
     "filename": "HouseDoorIronGrillDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "LGernbHCg8R4Kcs8f",
+    "url": "=FORMULATEXT(B74)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00047",
@@ -7029,6 +7263,7 @@
     "filename": "HouseWallPB04BrickD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "pmoDuJDLoxqDLmDrM",
+    "url": "=FORMULATEXT(B329)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00209",
@@ -7059,6 +7294,7 @@
     "filename": "HouseDoorSimplicityIR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "HEczAiQ4dHwB5zh5i",
+    "url": "=FORMULATEXT(B75)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00286",
@@ -7089,6 +7325,7 @@
     "filename": "HouseWallPD04WoodD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "tp52iHmLaPZbfZTcE",
+    "url": "=FORMULATEXT(B331)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00226",
@@ -7119,6 +7356,7 @@
     "filename": "HouseWallNDWoodD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "jXCPAqfP4CM8Pazmj",
+    "url": "=FORMULATEXT(B330)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00226",
@@ -7149,6 +7387,7 @@
     "filename": "HouseWallPB04WoodsidngB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "LBzSEticEDLRdyGpE",
+    "url": "=FORMULATEXT(B332)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00179",
@@ -7179,6 +7418,7 @@
     "filename": "HouseWallPB04WoodsidngE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "ZLFPNXCdxM2mCexTQ",
+    "url": "=FORMULATEXT(B333)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00182",
@@ -7209,6 +7449,7 @@
     "filename": "HouseWallNCOrientalF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "X8WwpdPonWE5cn6zi",
+    "url": "=FORMULATEXT(B335)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00190",
@@ -7239,6 +7480,7 @@
     "filename": "HouseWallPC04OrientalF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "PABW6hziCXkqQKWqu",
+    "url": "=FORMULATEXT(B334)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00190",
@@ -7269,6 +7511,7 @@
     "filename": "HouseWallNAWoodsidingJ",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Mirnta8rgXYuBfHNo",
+    "url": "=FORMULATEXT(B336)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00173",
@@ -7299,6 +7542,7 @@
     "filename": "HouseDoorCercleWindowIR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Xby3xZhQd3dMb4Coe",
+    "url": "=FORMULATEXT(B76)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00270",
@@ -7329,6 +7573,7 @@
     "filename": "HouseWallPB04BrickE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "xr7hcs8eiGaeYCG7E",
+    "url": "=FORMULATEXT(B337)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00210",
@@ -7359,6 +7604,7 @@
     "filename": "HouseWallNDSoilE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "baDmBTzvFSMedHSsZ",
+    "url": "=FORMULATEXT(B338)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00124",
@@ -7389,6 +7635,7 @@
     "filename": "HouseWallPA04StandardF",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ceKL4XwfZzkGoYpg9",
+    "url": "=FORMULATEXT(B339)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00161",
@@ -7419,6 +7666,7 @@
     "filename": "HouseRoofPA04WesterntileB",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Pcg6fSeBJ5C92kLPs",
+    "url": "=FORMULATEXT(B198)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00160",
@@ -7449,6 +7697,7 @@
     "filename": "HouseDoorCarvingDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "2jbKjqmXXQddSvH26",
+    "url": "=FORMULATEXT(B77)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00056",
@@ -7479,6 +7728,7 @@
     "filename": "HouseDoorIronFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "BLseEGcXhw9dPreLx",
+    "url": "=FORMULATEXT(B78)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00246",
@@ -7509,6 +7759,7 @@
     "filename": "HouseDoorIronGrillER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "sjAoF3vsRF5J8jLdq",
+    "url": "=FORMULATEXT(B79)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00048",
@@ -7539,6 +7790,7 @@
     "filename": "FtrPostLargePink",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "442cvvb6XZ2ykmMy9",
+    "url": "=FORMULATEXT(B155)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8673,
@@ -7569,6 +7821,7 @@
     "filename": "HouseWallPB04LogD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "F2GxTFDQSC3KXPR5o",
+    "url": "=FORMULATEXT(B341)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00195",
@@ -7599,6 +7852,7 @@
     "filename": "HouseWallNBLogD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "bfWX3tzhwSLhxMAd4",
+    "url": "=FORMULATEXT(B340)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00195",
@@ -7629,6 +7883,7 @@
     "filename": "HouseDoorIronpartsER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "TB89rf3ccaKip4QRz",
+    "url": "=FORMULATEXT(B80)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00100",
@@ -7659,6 +7914,7 @@
     "filename": "FtrPostStandardPink",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "TimXNFMGAu2gEdSHg",
+    "url": "=FORMULATEXT(B156)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8662,
@@ -7689,6 +7945,7 @@
     "filename": "HouseWallNCWoodF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "AzqnNFfYq4bNhnyEf",
+    "url": "=FORMULATEXT(B342)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00118",
@@ -7719,6 +7976,7 @@
     "filename": "HouseDoorSimplicityHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "GANZwLknoRyyegbLM",
+    "url": "=FORMULATEXT(B81)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00199",
@@ -7749,6 +8007,7 @@
     "filename": "HouseDoorSimpleER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "qvNBxg3CEWvEnoNpZ",
+    "url": "=FORMULATEXT(B82)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00142",
@@ -7779,6 +8038,7 @@
     "filename": "FtrPostSquarePink",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "wM9frkMp4Bw3j8siW",
+    "url": "=FORMULATEXT(B157)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8828,
@@ -7809,6 +8069,7 @@
     "filename": "HouseWallNAMetalD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "W9RLxtwXnRCjeXwYC",
+    "url": "=FORMULATEXT(B343)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00167",
@@ -7839,6 +8100,7 @@
     "filename": "HouseWallNAStuccoC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "KDAhNBGwQLcCjXC3r",
+    "url": "=FORMULATEXT(B345)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00157",
@@ -7869,6 +8131,7 @@
     "filename": "HouseWallPA04StuccoG",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "xmPeJk2bKkAWYtF64",
+    "url": "=FORMULATEXT(B344)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00157",
@@ -7899,6 +8162,7 @@
     "filename": "HouseRoofPA04StandardB",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ve7xChDBdMDgb6nTS",
+    "url": "=FORMULATEXT(B199)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00133",
@@ -7929,6 +8193,7 @@
     "filename": "HouseWallPD04SoilE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "eibQLwBJTJQSLN7fY",
+    "url": "=FORMULATEXT(B346)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00241",
@@ -7959,6 +8224,7 @@
     "filename": "HouseDoorWindowIR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "svRR2C9PSLt5ef3Su",
+    "url": "=FORMULATEXT(B83)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00278",
@@ -7989,6 +8255,7 @@
     "filename": "HouseDoorStandardIR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "gPykmDtFtSdxotvrk",
+    "url": "=FORMULATEXT(B84)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00282",
@@ -8019,6 +8286,7 @@
     "filename": "FtrPostWoodPink",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "rFbXYtTBoJmXaHs8o",
+    "url": "=FORMULATEXT(B158)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8899,
@@ -8049,6 +8317,7 @@
     "filename": "HouseWallPC04JapaneseG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "PKFr3hM9cKs3n86s7",
+    "url": "=FORMULATEXT(B348)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00219",
@@ -8079,6 +8348,7 @@
     "filename": "HouseWallNCJapaneseG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "GraQmcPMnRydx7DJ4",
+    "url": "=FORMULATEXT(B347)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00219",
@@ -8109,6 +8379,7 @@
     "filename": "HouseWallPC04JapaneseC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "4n7v3CbSNMmvbaXKm",
+    "url": "=FORMULATEXT(B350)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00215",
@@ -8139,6 +8410,7 @@
     "filename": "HouseWallNCJapaneseC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "55aQmqfJyGJAXKSbW",
+    "url": "=FORMULATEXT(B349)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00215",
@@ -8169,6 +8441,7 @@
     "filename": "HouseWallNAWoodsidingI",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "moRCgCDGDDFEeBrfR",
+    "url": "=FORMULATEXT(B351)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00172",
@@ -8199,6 +8472,7 @@
     "filename": "HouseWallPC04StoneD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "XuYf9HFidxss8w4oy",
+    "url": "=FORMULATEXT(B352)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00202",
@@ -8229,6 +8503,7 @@
     "filename": "HouseDoorReliefJR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "XBquzTWPzAnHcKYBj",
+    "url": "=FORMULATEXT(B85)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00266",
@@ -8259,6 +8534,7 @@
     "filename": "HouseDoorIronGrillJR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Q4GLiP3Kmurrk2WSB",
+    "url": "=FORMULATEXT(B86)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00292",
@@ -8289,6 +8565,7 @@
     "filename": "HouseDoorIronpartsGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "B6NfDDoKJXSTX6nEZ",
+    "url": "=FORMULATEXT(B87)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00102",
@@ -8319,6 +8596,7 @@
     "filename": "HouseDoorSimpleHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "dmTdoj8NzL2jSKZHu",
+    "url": "=FORMULATEXT(B88)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00145",
@@ -8349,6 +8627,7 @@
     "filename": "HouseRoofPA04StandardG",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "3dBXpZsj6tD2dBzwj",
+    "url": "=FORMULATEXT(B200)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00151",
@@ -8379,6 +8658,7 @@
     "filename": "HouseDoorVerticalWindowIR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "JHMuJ2pSXBFsCGThM",
+    "url": "=FORMULATEXT(B89)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00274",
@@ -8409,6 +8689,7 @@
     "filename": "HouseDoorWindowJR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "kiK57D48BgFz2LdAh",
+    "url": "=FORMULATEXT(B90)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00280",
@@ -8439,6 +8720,7 @@
     "filename": "HouseDoorStandardJR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "oNx9giXYQZLfuCYq5",
+    "url": "=FORMULATEXT(B91)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00284",
@@ -8469,6 +8751,7 @@
     "filename": "HouseWallNCOrientalB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "69koFkRDMabasrrEe",
+    "url": "=FORMULATEXT(B354)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00186",
@@ -8499,6 +8782,7 @@
     "filename": "HouseWallPC04OrientalB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "D8fabk22gSJzacdHh",
+    "url": "=FORMULATEXT(B353)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00186",
@@ -8529,6 +8813,7 @@
     "filename": "HouseWallPB04BrickA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "kGXCqHaQbSJ4H8vkx",
+    "url": "=FORMULATEXT(B355)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00176",
@@ -8559,6 +8844,7 @@
     "filename": "HouseWallPC04StoneC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Xp3QhTcH6nGEx84Mx",
+    "url": "=FORMULATEXT(B356)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00201",
@@ -8589,6 +8875,7 @@
     "filename": "HouseWallPA04WoodframeC",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "cA9eF8iCxf8nJhZMy",
+    "url": "=FORMULATEXT(B357)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00021",
@@ -8619,6 +8906,7 @@
     "filename": "HouseWallPA04StoneD",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "xXRQfdAGyLJCXSbY6",
+    "url": "=FORMULATEXT(B358)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00147",
@@ -8649,6 +8937,7 @@
     "filename": "HouseDoorReliefBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "WmuaHC559AALWH2Bb",
+    "url": "=FORMULATEXT(B92)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00083",
@@ -8679,6 +8968,7 @@
     "filename": "HouseWallPA04StandardG",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "cwEx7XyAwefNQJ8Rr",
+    "url": "=FORMULATEXT(B359)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00162",
@@ -8709,6 +8999,7 @@
     "filename": "HouseDoorCarvingCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "us8rFY2TSFXCx72kH",
+    "url": "=FORMULATEXT(B93)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00055",
@@ -8739,6 +9030,7 @@
     "filename": "HouseDoorChineseCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "NtxTaTeTrzghsGS2W",
+    "url": "=FORMULATEXT(B94)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00208",
@@ -8769,6 +9061,7 @@
     "filename": "HouseDoorIronBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Bp9ysH2C4zeiScQXP",
+    "url": "=FORMULATEXT(B95)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00242",
@@ -8799,6 +9092,7 @@
     "filename": "HouseDoorIronGrillIR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "giywRE5qEmQZC6GAN",
+    "url": "=FORMULATEXT(B96)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00290",
@@ -8829,6 +9123,7 @@
     "filename": "FtrPostLargeRed",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "dd7zAjPBuZzeepDg4",
+    "url": "=FORMULATEXT(B159)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8672,
@@ -8859,6 +9154,7 @@
     "filename": "HouseDoorLatticeCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Nnbfndanco3rvQgWf",
+    "url": "=FORMULATEXT(B97)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00164",
@@ -8889,6 +9185,7 @@
     "filename": "HouseDoorIronpartsBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "XvgfNPwfYGffgE24X",
+    "url": "=FORMULATEXT(B98)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00097",
@@ -8919,6 +9216,7 @@
     "filename": "FtrPostStandardRed",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "TBRuBdRZM6YmQPNHp",
+    "url": "=FORMULATEXT(B160)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8661,
@@ -8949,6 +9247,7 @@
     "filename": "HouseDoorSimplicityER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "RddBzpZ8QEcLWD4Gv",
+    "url": "=FORMULATEXT(B99)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00196",
@@ -8979,6 +9278,7 @@
     "filename": "FtrPostSquareRed",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "hnC7jsEoSKbk5RsEy",
+    "url": "=FORMULATEXT(B161)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8827,
@@ -9009,6 +9309,7 @@
     "filename": "SlopeIronStair",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "2nygbmutbmBfuzEXp",
+    "url": "=FORMULATEXT(B138)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5864,
@@ -9039,6 +9340,7 @@
     "filename": "HouseRoofPA04StoneD",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "zPrrQagfzwkhtnAZT",
+    "url": "=FORMULATEXT(B201)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00155",
@@ -9069,6 +9371,7 @@
     "filename": "HouseWallNAMetalC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "cvFqhzYySPfNpGaQ9",
+    "url": "=FORMULATEXT(B360)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00166",
@@ -9099,6 +9402,7 @@
     "filename": "HouseWallPD04StuccoG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "cdqd3rEsWqfHXdYjH",
+    "url": "=FORMULATEXT(B364)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00236",
@@ -9129,6 +9433,7 @@
     "filename": "HouseWallNDStuccoG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "gyxHNDN2Gr3QoQCbG",
+    "url": "=FORMULATEXT(B363)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00236",
@@ -9159,6 +9464,7 @@
     "filename": "HouseWallNBStuccoD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Aim6T9TrmipdQQBas",
+    "url": "=FORMULATEXT(B362)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00236",
@@ -9189,6 +9495,7 @@
     "filename": "HouseWallPA04StuccoD",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "c27kqMPWnha8RjEki",
+    "url": "=FORMULATEXT(B361)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00236",
@@ -9219,6 +9526,7 @@
     "filename": "HouseRoofPA04StandardA",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "uifwByFWdDXnTJ4vp",
+    "url": "=FORMULATEXT(B202)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00047",
@@ -9249,6 +9557,7 @@
     "filename": "HouseDoorVerticalWindowFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "jtHKujXtSxTwgmgiY",
+    "url": "=FORMULATEXT(B100)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00073",
@@ -9279,6 +9588,7 @@
     "filename": "HouseDoorWindowCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Z4oGMDMqpFBdfYXsZ",
+    "url": "=FORMULATEXT(B101)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00229",
@@ -9309,6 +9619,7 @@
     "filename": "HouseDoorStandardCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "h4LK4FrT733y64FZz",
+    "url": "=FORMULATEXT(B102)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00257",
@@ -9339,6 +9650,7 @@
     "filename": "FtrPostWoodRed",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "wuakRPNugQ72t832X",
+    "url": "=FORMULATEXT(B162)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8898,
@@ -9369,6 +9681,7 @@
     "filename": "BridgeRed",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "jTziEHXkeYaugKDQQ",
+    "url": "=FORMULATEXT(B5)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5918,
@@ -9399,6 +9712,7 @@
     "filename": "HouseDoorJapaneseDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "tdPuvQyRrRFiBEv7z",
+    "url": "=FORMULATEXT(B103)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00153",
@@ -9429,6 +9743,7 @@
     "filename": "HouseDoorChineseFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "2mrsS49vJNZdWDQeD",
+    "url": "=FORMULATEXT(B104)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00211",
@@ -9459,6 +9774,7 @@
     "filename": "HouseWallPA04StandardB",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ckT8w7sPNqY2aRMcH",
+    "url": "=FORMULATEXT(B365)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00005",
@@ -9489,6 +9805,7 @@
     "filename": "HouseDoorSimplicityAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "mbsrSkG43TP7tA6e5",
+    "url": "=FORMULATEXT(B105)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00035",
@@ -9519,6 +9836,7 @@
     "filename": "FtrPostSimple",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "vhd8waS64LR47ty8Q",
+    "url": "=FORMULATEXT(B163)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 5802,
@@ -9549,6 +9867,7 @@
     "filename": "HouseWallNDSoilF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "zmRnFRYnYQqiwZbj6",
+    "url": "=FORMULATEXT(B366)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00125",
@@ -9579,6 +9898,7 @@
     "filename": "HouseWallPD04SoilF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "344Xu4durvD6gLYQH",
+    "url": "=FORMULATEXT(B367)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00242",
@@ -9609,6 +9929,7 @@
     "filename": "HouseWallPC04StoneH",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "hZdJZvySwnwFFPgJk",
+    "url": "=FORMULATEXT(B368)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00206",
@@ -9639,6 +9960,7 @@
     "filename": "HouseWallNABrickB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Wu5L8rZytQ8Msw5R2",
+    "url": "=FORMULATEXT(B369)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00057",
@@ -9669,6 +9991,7 @@
     "filename": "HouseWallNABrickF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "vQeA4vyuXmx4yyhpw",
+    "url": "=FORMULATEXT(B370)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00061",
@@ -9699,6 +10022,7 @@
     "filename": "HouseWallNABrickA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "osbinqGeRWD6aT5zg",
+    "url": "=FORMULATEXT(B371)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00015",
@@ -9729,6 +10053,7 @@
     "filename": "HouseWallNABrickD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "GNWYodDYkeFKcvg2m",
+    "url": "=FORMULATEXT(B372)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00059",
@@ -9759,6 +10084,7 @@
     "filename": "HouseWallNABrickC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "3xiDTaNBb5Doq53yy",
+    "url": "=FORMULATEXT(B373)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00058",
@@ -9789,6 +10115,7 @@
     "filename": "HouseWallNABrickE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "s9LDqHL4MCxcH454B",
+    "url": "=FORMULATEXT(B374)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00060",
@@ -9819,6 +10146,7 @@
     "filename": "HouseWallNCJapaneseF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "jJCMZiZSutXLCjEAc",
+    "url": "=FORMULATEXT(B376)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00218",
@@ -9849,6 +10177,7 @@
     "filename": "HouseWallPC04JapaneseF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "aQEwQzPQfqGZkcZ9n",
+    "url": "=FORMULATEXT(B375)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00218",
@@ -9879,6 +10208,7 @@
     "filename": "FtrPostSquare",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "BKJKu7xjhMajA2aFy",
+    "url": "=FORMULATEXT(B164)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 5342,
@@ -9909,6 +10239,7 @@
     "filename": "HouseWallPC04JapaneseB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "5qr2mkABSq3nv4NBD",
+    "url": "=FORMULATEXT(B378)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00214",
@@ -9939,6 +10270,7 @@
     "filename": "HouseWallNCJapaneseB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "HyzzRrfudwfFnxiHT",
+    "url": "=FORMULATEXT(B377)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00214",
@@ -9969,6 +10301,7 @@
     "filename": "BridgeStone",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "JmrwC2tRRCCgbZnrp",
+    "url": "=FORMULATEXT(B6)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5912,
@@ -9999,6 +10332,7 @@
     "filename": "SlopeStoneStair",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "4zszj8KsBNe2XgeGq",
+    "url": "=FORMULATEXT(B139)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5863,
@@ -10029,6 +10363,7 @@
     "filename": "BridgeSuspension",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "q52JebMTHDqHJKBba",
+    "url": "=FORMULATEXT(B7)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5913,
@@ -10059,6 +10394,7 @@
     "filename": "HouseWallNCWoodA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "yQW28dXnqS8KAbMMo",
+    "url": "=FORMULATEXT(B379)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00029",
@@ -10089,6 +10425,7 @@
     "filename": "HouseDoorVerticalWindowAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "aqhHtKKvCQQpb834t",
+    "url": "=FORMULATEXT(B106)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00031",
@@ -10119,6 +10456,7 @@
     "filename": "HouseDoorLatticeBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "xtvqjdafPWY4DF4ww",
+    "url": "=FORMULATEXT(B107)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00163",
@@ -10149,6 +10487,7 @@
     "filename": "HouseWallNCWoodC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "JQHgLTMS6Ca92uxeJ",
+    "url": "=FORMULATEXT(B380)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00115",
@@ -10179,6 +10518,7 @@
     "filename": "HouseWallPC04OrientalD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "b4CM3MSzrJDQSDyDs",
+    "url": "=FORMULATEXT(B382)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00188",
@@ -10209,6 +10549,7 @@
     "filename": "HouseWallNCOrientalD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "kNDBEjxazTjoMnkaj",
+    "url": "=FORMULATEXT(B381)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00188",
@@ -10239,6 +10580,7 @@
     "filename": "HouseWallPC04OrientalE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "iGZTvtqtZdgDTK6Hz",
+    "url": "=FORMULATEXT(B384)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00189",
@@ -10269,6 +10611,7 @@
     "filename": "HouseWallNCOrientalE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "n2ZJ7tZJhapDMW8e7",
+    "url": "=FORMULATEXT(B383)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00189",
@@ -10299,6 +10642,7 @@
     "filename": "HouseWallNCOrientalA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "HvmS5DH5BfMNyPjPP",
+    "url": "=FORMULATEXT(B386)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00177",
@@ -10329,6 +10673,7 @@
     "filename": "HouseWallPC04OrientalA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "d2QmygGP4CqmJ3aRp",
+    "url": "=FORMULATEXT(B385)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00177",
@@ -10359,6 +10704,7 @@
     "filename": "HouseWallNAWoodsidingC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "958t3sG7S6bGsv636",
+    "url": "=FORMULATEXT(B387)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00066",
@@ -10389,6 +10735,7 @@
     "filename": "HouseDoorCercleWindowHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "rrazQ4rMyTqvC3G3Y",
+    "url": "=FORMULATEXT(B108)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00183",
@@ -10419,6 +10766,7 @@
     "filename": "HouseWallPC04StoneA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "8Es45bW3RHZRFLhmz",
+    "url": "=FORMULATEXT(B388)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00178",
@@ -10449,6 +10797,7 @@
     "filename": "HouseWallNDSoilB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "SHXXSozrkbX579ofe",
+    "url": "=FORMULATEXT(B389)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00121",
@@ -10479,6 +10828,7 @@
     "filename": "HouseWallNBStoneA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "mzEQGfjjeo2mJHain",
+    "url": "=FORMULATEXT(B390)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00026",
@@ -10509,6 +10859,7 @@
     "filename": "HouseDoorReliefGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "cFZFak2hPc3jBrpv8",
+    "url": "=FORMULATEXT(B109)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00088",
@@ -10539,6 +10890,7 @@
     "filename": "HouseDoorCarvingAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "r6k9ATzzAKaWMNJnQ",
+    "url": "=FORMULATEXT(B110)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00027",
@@ -10569,6 +10921,7 @@
     "filename": "HouseDoorChineseGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "bthYBfAjTxo7F5dNi",
+    "url": "=FORMULATEXT(B111)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00212",
@@ -10599,6 +10952,7 @@
     "filename": "HouseDoorIronHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Zi4ndrFTFsEqhQPw9",
+    "url": "=FORMULATEXT(B112)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00248",
@@ -10629,6 +10983,7 @@
     "filename": "HouseDoorIronGrillFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "bz47mYutYXduChB3P",
+    "url": "=FORMULATEXT(B113)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00049",
@@ -10659,6 +11014,7 @@
     "filename": "FtrPostLargeWhite",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "uEXJbNeCvpXGjCokH",
+    "url": "=FORMULATEXT(B165)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8677,
@@ -10689,6 +11045,7 @@
     "filename": "HouseDoorLatticeGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ndjhLSHZXG4TrmXNS",
+    "url": "=FORMULATEXT(B114)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00168",
@@ -10719,6 +11076,7 @@
     "filename": "HouseWallPB04LogB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "ApQ35h6mnmdi25iW4",
+    "url": "=FORMULATEXT(B392)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00193",
@@ -10749,6 +11107,7 @@
     "filename": "HouseWallNBLogB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "nMQa7rPp2Ft866nMa",
+    "url": "=FORMULATEXT(B391)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00193",
@@ -10779,6 +11138,7 @@
     "filename": "HouseDoorIronpartsHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "yDBA2qT5sGQAzt7eB",
+    "url": "=FORMULATEXT(B115)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00103",
@@ -10809,6 +11169,7 @@
     "filename": "FtrPostStandardWhite",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "QYJ4Xh4GSSi4iYzMb",
+    "url": "=FORMULATEXT(B166)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8666,
@@ -10839,6 +11200,7 @@
     "filename": "HouseWallNCWoodG",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "gWaWehTzbBqz5tS7T",
+    "url": "=FORMULATEXT(B393)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00119",
@@ -10869,6 +11231,7 @@
     "filename": "HouseDoorSimplicityBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Mu7FQYgoRajRuL5BD",
+    "url": "=FORMULATEXT(B116)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00193",
@@ -10899,6 +11262,7 @@
     "filename": "HouseDoorSimpleAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "q4CQF3zCDhorZ7fAc",
+    "url": "=FORMULATEXT(B117)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00023",
@@ -10929,6 +11293,7 @@
     "filename": "FtrPostSquareWhite",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "62DZnrMMYjrk5jbS5",
+    "url": "=FORMULATEXT(B167)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8832,
@@ -10959,6 +11324,7 @@
     "filename": "HouseWallNAMetalA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "j3zWLuerp3mcWhr4a",
+    "url": "=FORMULATEXT(B394)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00164",
@@ -10989,6 +11355,7 @@
     "filename": "HouseWallNDStuccoA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "bz4gXLXyCwCT8H7Sk",
+    "url": "=FORMULATEXT(B398)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00222",
@@ -11019,6 +11386,7 @@
     "filename": "HouseWallPD04StuccoA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "cfWMYhEY5RaRDLcuN",
+    "url": "=FORMULATEXT(B397)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00222",
@@ -11049,6 +11417,7 @@
     "filename": "HouseWallNBStuccoA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "ENGNAgCSrnAz8ecq6",
+    "url": "=FORMULATEXT(B396)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00222",
@@ -11079,6 +11448,7 @@
     "filename": "HouseWallPA04StuccoA",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "QkWc3tQAiWrNhewAw",
+    "url": "=FORMULATEXT(B395)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00222",
@@ -11109,6 +11479,7 @@
     "filename": "HouseRoofPA04ThatchedF",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "CGCfToQFCeeeMkRWc",
+    "url": "=FORMULATEXT(B203)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00230",
@@ -11139,6 +11510,7 @@
     "filename": "HouseWallPD04SoilB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "6dwacA4gLfamai6jk",
+    "url": "=FORMULATEXT(B399)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00238",
@@ -11169,6 +11541,7 @@
     "filename": "HouseDoorVerticalWindowGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "CxFPdgKzKg2ifRx62",
+    "url": "=FORMULATEXT(B118)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00074",
@@ -11199,6 +11572,7 @@
     "filename": "HouseDoorWindowHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ZovDjWHe8YSZZKinn",
+    "url": "=FORMULATEXT(B119)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00234",
@@ -11229,6 +11603,7 @@
     "filename": "HouseDoorStandardHR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "h2ja68uKd7TxdEwQE",
+    "url": "=FORMULATEXT(B120)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00262",
@@ -11259,6 +11634,7 @@
     "filename": "FtrPostWoodWhite",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "hs8QMbn7caa6z85ha",
+    "url": "=FORMULATEXT(B168)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8903,
@@ -11289,6 +11665,7 @@
     "filename": "HouseDoorJapaneseGR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "wY7gy8YD2Y8ojnDnm",
+    "url": "=FORMULATEXT(B121)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00185",
@@ -11319,6 +11696,7 @@
     "filename": "SlopeWood",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "aR8pTDNtanxDQt7MY",
+    "url": "=FORMULATEXT(B140)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5865,
@@ -11349,6 +11727,7 @@
     "filename": "HouseDoorWindowAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "28wnpfEyGZCvdDsmc",
+    "url": "=FORMULATEXT(B122)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00017",
@@ -11379,6 +11758,7 @@
     "filename": "BridgeWood",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "7oZ7FMrJEpBLZzsmw",
+    "url": "=FORMULATEXT(B8)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5914,
@@ -11409,6 +11789,7 @@
     "filename": "HouseDoorStandardAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "4ovKGY9ZoiujvqkS8",
+    "url": "=FORMULATEXT(B123)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00002",
@@ -11439,6 +11820,7 @@
     "filename": "FtrPostWood",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "iqx2M7qtMQjSr73dq",
+    "url": "=FORMULATEXT(B169)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 5343,
@@ -11469,6 +11851,7 @@
     "filename": "HouseWallPD04WoodB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "A3ZJ7JzrrjsXZZF9m",
+    "url": "=FORMULATEXT(B401)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00224",
@@ -11499,6 +11882,7 @@
     "filename": "HouseWallNDWoodB",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "xQ5Q5RKZ5DMufgfjm",
+    "url": "=FORMULATEXT(B400)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00224",
@@ -11529,6 +11913,7 @@
     "filename": "HouseWallPB04WoodsidngD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "yCa5Tur8a2669hopn",
+    "url": "=FORMULATEXT(B402)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00181",
@@ -11559,6 +11944,7 @@
     "filename": "HouseWallPC04OrientalC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "Fi2WahXNxBjJwadcy",
+    "url": "=FORMULATEXT(B404)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00187",
@@ -11589,6 +11975,7 @@
     "filename": "HouseWallNCOrientalC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "E9ReAMTNmxtSr8SpE",
+    "url": "=FORMULATEXT(B403)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00187",
@@ -11619,6 +12006,7 @@
     "filename": "HouseDoorCercleWindowCR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "yoMGH8LhL7mFWZiPD",
+    "url": "=FORMULATEXT(B124)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00178",
@@ -11649,6 +12037,7 @@
     "filename": "HouseWallPA04WoodframeE",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "t7eP9mfhqemhFXnBh",
+    "url": "=FORMULATEXT(B405)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00023",
@@ -11679,6 +12068,7 @@
     "filename": "HouseWallNDSoilA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "sGghant9wMantXqw7",
+    "url": "=FORMULATEXT(B406)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00033",
@@ -11709,6 +12099,7 @@
     "filename": "HouseDoorReliefER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "5ZKFC4ePpoYDqqJSu",
+    "url": "=FORMULATEXT(B125)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00086",
@@ -11739,6 +12130,7 @@
     "filename": "HouseWallPA04StandardE",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "BGfRq5YPPAt93qsms",
+    "url": "=FORMULATEXT(B407)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00160",
@@ -11769,6 +12161,7 @@
     "filename": "HouseRoofPA04WesterntileC",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "n5Gc39GsgiLg4ofb2",
+    "url": "=FORMULATEXT(B204)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00161",
@@ -11799,6 +12192,7 @@
     "filename": "HouseDoorCarvingFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "iNTxu4FaB6TC9pjni",
+    "url": "=FORMULATEXT(B126)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00268",
@@ -11829,6 +12223,7 @@
     "filename": "HouseDoorChineseDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "dBGXJ8LnHwDZciTRS",
+    "url": "=FORMULATEXT(B127)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00209",
@@ -11859,6 +12254,7 @@
     "filename": "HouseDoorIronDR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "wELe85t5gE9e5fZ7H",
+    "url": "=FORMULATEXT(B128)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00244",
@@ -11889,6 +12285,7 @@
     "filename": "FtrPostLargeYellow",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Ed6P9B4Y7y6TA99YS",
+    "url": "=FORMULATEXT(B170)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8674,
@@ -11919,6 +12316,7 @@
     "filename": "HouseWallNBLogE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "qWFo5ESr4YiSRwjLk",
+    "url": "=FORMULATEXT(B409)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00196",
@@ -11949,6 +12347,7 @@
     "filename": "HouseWallPB04LogE",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "QotP3o6f54HD8fujT",
+    "url": "=FORMULATEXT(B408)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00196",
@@ -11979,6 +12378,7 @@
     "filename": "FtrPostStandardYellow",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "egLw54yP3orauEyFd",
+    "url": "=FORMULATEXT(B171)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8663,
@@ -12009,6 +12409,7 @@
     "filename": "HouseDoorSimpleFR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "t8gHx6QjK9tFMmMna",
+    "url": "=FORMULATEXT(B129)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00143",
@@ -12039,6 +12440,7 @@
     "filename": "FtrPostSquareYellow",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Me97eMZ28yf3j8S8v",
+    "url": "=FORMULATEXT(B172)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8829,
@@ -12069,6 +12471,7 @@
     "filename": "HouseWallNAMetalF",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "5gsDfPeZdQ6HaXLEJ",
+    "url": "=FORMULATEXT(B410)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00169",
@@ -12099,6 +12502,7 @@
     "filename": "HouseWallNDStuccoC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "ThkLS9YC4NaJrzkgv",
+    "url": "=FORMULATEXT(B414)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00232",
@@ -12129,6 +12533,7 @@
     "filename": "HouseWallPD04StuccoC",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "dgeqhkzf9RFR3MHqP",
+    "url": "=FORMULATEXT(B413)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00232",
@@ -12159,6 +12564,7 @@
     "filename": "HouseWallNAStuccoD",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "BuyDh6eoYjsKAv9QQ",
+    "url": "=FORMULATEXT(B412)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00232",
@@ -12189,6 +12595,7 @@
     "filename": "HouseWallPA04StuccoF",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "78XQwM8DMwK8YsJig",
+    "url": "=FORMULATEXT(B411)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00232",
@@ -12219,6 +12626,7 @@
     "filename": "HouseRoofPA04StandardC",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "2aQvQYwCsSQyRGyvF",
+    "url": "=FORMULATEXT(B205)",
     "translations": {
       "sourceSheet": "House Roofs",
       "id": "00147",
@@ -12249,6 +12657,7 @@
     "filename": "HouseWallPD04SoilA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "dXR67qxGi2AmwNHcD",
+    "url": "=FORMULATEXT(B415)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00223",
@@ -12279,6 +12688,7 @@
     "filename": "HouseDoorVerticalWindowER",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "Aszgp3pAbCC75LNHd",
+    "url": "=FORMULATEXT(B130)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00072",
@@ -12309,6 +12719,7 @@
     "filename": "FtrPostWoodYellow",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "ZDcPaCBz24tNYiGe4",
+    "url": "=FORMULATEXT(B173)",
     "translations": {
       "sourceSheet": "House Mailboxes",
       "id": 8900,
@@ -12339,6 +12750,7 @@
     "filename": "HouseDoorJapaneseBR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "yHJcPMRBWKZofvC4H",
+    "url": "=FORMULATEXT(B131)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00151",
@@ -12369,6 +12781,7 @@
     "filename": "BridgeJapanese",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "TbKbHzJM8j8ezmAEF",
+    "url": "=FORMULATEXT(B9)",
     "translations": {
       "sourceSheet": "Construction",
       "id": 5916,
@@ -12399,6 +12812,7 @@
     "filename": "HouseDoorJapaneseAR",
     "versionAdded": "1.0.0",
     "uniqueEntryId": "jGJNCRi6kcXXTD67g",
+    "url": "=FORMULATEXT(B132)",
     "translations": {
       "sourceSheet": "House Doors",
       "id": "00015",
@@ -12429,6 +12843,7 @@
     "filename": "HouseWallPA01StandardA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "KzhwPpG4X5fLN9Tfx",
+    "url": "=FORMULATEXT(B419)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00064",
@@ -12459,6 +12874,7 @@
     "filename": "HouseWallPA00StandardA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "mjqvXbH7cr3A6TDF5",
+    "url": "=FORMULATEXT(B418)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00064",
@@ -12489,6 +12905,7 @@
     "filename": "HouseWallPA03StandardA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "xQsbC7idyLeaaLDfC",
+    "url": "=FORMULATEXT(B417)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00064",
@@ -12519,6 +12936,7 @@
     "filename": "HouseWallPA02StandardA",
     "versionAdded": "2.0.0",
     "uniqueEntryId": "DH8rXHLs2pDdLijtp",
+    "url": "=FORMULATEXT(B416)",
     "translations": {
       "sourceSheet": "House Walls",
       "id": "00064",

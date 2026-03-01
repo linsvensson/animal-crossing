@@ -33,7 +33,8 @@
     "Filename": "ShoesSandalZelda0",
     "ClothGroup ID": 1531,
     "Internal ID": 1052,
-    "Unique Entry ID": "7BwuqBwtCdhxQPHjm"
+    "Unique Entry ID": "7BwuqBwtCdhxQPHjm",
+    "Url": "=FORMULATEXT(B2)"
   },
   {
     "SourceSheet": "Shoes",
@@ -69,7 +70,8 @@
     "Filename": "ShoesKneeAntique1",
     "ClothGroup ID": 776,
     "Internal ID": 11689,
-    "Unique Entry ID": "hpTunJzb4CJPueMW7"
+    "Unique Entry ID": "hpTunJzb4CJPueMW7",
+    "Url": "=FORMULATEXT(B3)"
   },
   {
     "SourceSheet": "Shoes",
@@ -105,7 +107,8 @@
     "Filename": "ShoesKneeAntique0",
     "ClothGroup ID": 776,
     "Internal ID": 5523,
-    "Unique Entry ID": "jQ9MMJXSCde9q8NPP"
+    "Unique Entry ID": "jQ9MMJXSCde9q8NPP",
+    "Url": "=FORMULATEXT(B4)"
   },
   {
     "SourceSheet": "Shoes",
@@ -141,7 +144,8 @@
     "Filename": "ShoesKneeAntique2",
     "ClothGroup ID": 776,
     "Internal ID": 11690,
-    "Unique Entry ID": "ngk8sGuhSHQoBmwqv"
+    "Unique Entry ID": "ngk8sGuhSHQoBmwqv",
+    "Url": "=FORMULATEXT(B5)"
   },
   {
     "SourceSheet": "Shoes",
@@ -177,7 +181,8 @@
     "Filename": "ShoesKneeKnightIron",
     "ClothGroup ID": 763,
     "Internal ID": 5472,
-    "Unique Entry ID": "osBLFxSiCDnRf8eXR"
+    "Unique Entry ID": "osBLFxSiCDnRf8eXR",
+    "Url": "=FORMULATEXT(B6)"
   },
   {
     "SourceSheet": "Shoes",
@@ -213,7 +218,8 @@
     "Filename": "ShoesSandalBaboush4",
     "ClothGroup ID": 925,
     "Internal ID": 10112,
-    "Unique Entry ID": "N9jHqLCE8WsfZxJHo"
+    "Unique Entry ID": "N9jHqLCE8WsfZxJHo",
+    "Url": "=FORMULATEXT(B7)"
   },
   {
     "SourceSheet": "Shoes",
@@ -249,7 +255,8 @@
     "Filename": "ShoesSandalBaboush7",
     "ClothGroup ID": 925,
     "Internal ID": 10115,
-    "Unique Entry ID": "EZKKTpCAN4CEvJJwC"
+    "Unique Entry ID": "EZKKTpCAN4CEvJJwC",
+    "Url": "=FORMULATEXT(B8)"
   },
   {
     "SourceSheet": "Shoes",
@@ -285,7 +292,8 @@
     "Filename": "ShoesSandalBaboush2",
     "ClothGroup ID": 925,
     "Internal ID": 10110,
-    "Unique Entry ID": "KrfcX2z6gFKZziGwx"
+    "Unique Entry ID": "KrfcX2z6gFKZziGwx",
+    "Url": "=FORMULATEXT(B9)"
   },
   {
     "SourceSheet": "Shoes",
@@ -321,7 +329,8 @@
     "Filename": "ShoesSandalBaboush1",
     "ClothGroup ID": 925,
     "Internal ID": 10109,
-    "Unique Entry ID": "hzHj4PYSRpa8fkQey"
+    "Unique Entry ID": "hzHj4PYSRpa8fkQey",
+    "Url": "=FORMULATEXT(B10)"
   },
   {
     "SourceSheet": "Shoes",
@@ -357,7 +366,8 @@
     "Filename": "ShoesSandalBaboush3",
     "ClothGroup ID": 925,
     "Internal ID": 10111,
-    "Unique Entry ID": "BRTZYzjci4T3qodP8"
+    "Unique Entry ID": "BRTZYzjci4T3qodP8",
+    "Url": "=FORMULATEXT(B11)"
   },
   {
     "SourceSheet": "Shoes",
@@ -393,7 +403,8 @@
     "Filename": "ShoesSandalBaboush6",
     "ClothGroup ID": 925,
     "Internal ID": 10114,
-    "Unique Entry ID": "okW9rusWLMPm4bcDz"
+    "Unique Entry ID": "okW9rusWLMPm4bcDz",
+    "Url": "=FORMULATEXT(B12)"
   },
   {
     "SourceSheet": "Shoes",
@@ -429,7 +440,8 @@
     "Filename": "ShoesSandalBaboush0",
     "ClothGroup ID": 925,
     "Internal ID": 6043,
-    "Unique Entry ID": "AvkHgWmEW5vTs4Ckc"
+    "Unique Entry ID": "AvkHgWmEW5vTs4Ckc",
+    "Url": "=FORMULATEXT(B13)"
   },
   {
     "SourceSheet": "Shoes",
@@ -465,7 +477,8 @@
     "Filename": "ShoesSandalBaboush5",
     "ClothGroup ID": 925,
     "Internal ID": 10113,
-    "Unique Entry ID": "sth7EXmjdbwzk439A"
+    "Unique Entry ID": "sth7EXmjdbwzk439A",
+    "Url": "=FORMULATEXT(B14)"
   },
   {
     "SourceSheet": "Shoes",
@@ -501,7 +514,8 @@
     "Filename": "ShoesLowcutBallet4",
     "ClothGroup ID": 791,
     "Internal ID": 10158,
-    "Unique Entry ID": "oQNLiop5Do6CH5eTu"
+    "Unique Entry ID": "oQNLiop5Do6CH5eTu",
+    "Url": "=FORMULATEXT(B15)"
   },
   {
     "SourceSheet": "Shoes",
@@ -537,7 +551,8 @@
     "Filename": "ShoesLowcutBallet0",
     "ClothGroup ID": 791,
     "Internal ID": 5608,
-    "Unique Entry ID": "uABG45ozFPCwrBXuS"
+    "Unique Entry ID": "uABG45ozFPCwrBXuS",
+    "Url": "=FORMULATEXT(B16)"
   },
   {
     "SourceSheet": "Shoes",
@@ -573,7 +588,8 @@
     "Filename": "ShoesLowcutBallet7",
     "ClothGroup ID": 791,
     "Internal ID": 10161,
-    "Unique Entry ID": "CpLSLkvz3Jo982p6e"
+    "Unique Entry ID": "CpLSLkvz3Jo982p6e",
+    "Url": "=FORMULATEXT(B17)"
   },
   {
     "SourceSheet": "Shoes",
@@ -609,7 +625,8 @@
     "Filename": "ShoesLowcutBallet6",
     "ClothGroup ID": 791,
     "Internal ID": 10160,
-    "Unique Entry ID": "Qv7eADgLwdsNuSBZZ"
+    "Unique Entry ID": "Qv7eADgLwdsNuSBZZ",
+    "Url": "=FORMULATEXT(B18)"
   },
   {
     "SourceSheet": "Shoes",
@@ -645,7 +662,8 @@
     "Filename": "ShoesLowcutBallet1",
     "ClothGroup ID": 791,
     "Internal ID": 10155,
-    "Unique Entry ID": "bE4c36LYqcRmkajHL"
+    "Unique Entry ID": "bE4c36LYqcRmkajHL",
+    "Url": "=FORMULATEXT(B19)"
   },
   {
     "SourceSheet": "Shoes",
@@ -681,7 +699,8 @@
     "Filename": "ShoesLowcutBallet2",
     "ClothGroup ID": 791,
     "Internal ID": 10156,
-    "Unique Entry ID": "jJ565rnrzozyhRNYP"
+    "Unique Entry ID": "jJ565rnrzozyhRNYP",
+    "Url": "=FORMULATEXT(B20)"
   },
   {
     "SourceSheet": "Shoes",
@@ -717,7 +736,8 @@
     "Filename": "ShoesLowcutBallet3",
     "ClothGroup ID": 791,
     "Internal ID": 10157,
-    "Unique Entry ID": "kuEQdTi7ZXLw5AZgR"
+    "Unique Entry ID": "kuEQdTi7ZXLw5AZgR",
+    "Url": "=FORMULATEXT(B21)"
   },
   {
     "SourceSheet": "Shoes",
@@ -753,7 +773,8 @@
     "Filename": "ShoesLowcutBallet5",
     "ClothGroup ID": 791,
     "Internal ID": 10159,
-    "Unique Entry ID": "cQt3ftJejYwuPrqWS"
+    "Unique Entry ID": "cQt3ftJejYwuPrqWS",
+    "Url": "=FORMULATEXT(B22)"
   },
   {
     "SourceSheet": "Shoes",
@@ -789,7 +810,8 @@
     "Filename": "ShoesLowcutNomalpumps0",
     "ClothGroup ID": 1453,
     "Internal ID": 14765,
-    "Unique Entry ID": "ud4W2GgrLhDcxMJxh"
+    "Unique Entry ID": "ud4W2GgrLhDcxMJxh",
+    "Url": "=FORMULATEXT(B23)"
   },
   {
     "SourceSheet": "Shoes",
@@ -825,7 +847,8 @@
     "Filename": "ShoesLowcutNomalpumps3",
     "ClothGroup ID": 1453,
     "Internal ID": 14967,
-    "Unique Entry ID": "7tqazGDTt7DX2eEm8"
+    "Unique Entry ID": "7tqazGDTt7DX2eEm8",
+    "Url": "=FORMULATEXT(B24)"
   },
   {
     "SourceSheet": "Shoes",
@@ -861,7 +884,8 @@
     "Filename": "ShoesLowcutNomalpumps4",
     "ClothGroup ID": 1453,
     "Internal ID": 14968,
-    "Unique Entry ID": "NQ5R4oQ8fgv4QwWfx"
+    "Unique Entry ID": "NQ5R4oQ8fgv4QwWfx",
+    "Url": "=FORMULATEXT(B25)"
   },
   {
     "SourceSheet": "Shoes",
@@ -897,7 +921,8 @@
     "Filename": "ShoesLowcutNomalpumps5",
     "ClothGroup ID": 1453,
     "Internal ID": 14969,
-    "Unique Entry ID": "ifvfGaxgZdv2MukQJ"
+    "Unique Entry ID": "ifvfGaxgZdv2MukQJ",
+    "Url": "=FORMULATEXT(B26)"
   },
   {
     "SourceSheet": "Shoes",
@@ -933,7 +958,8 @@
     "Filename": "ShoesLowcutNomalpumps7",
     "ClothGroup ID": 1453,
     "Internal ID": 14971,
-    "Unique Entry ID": "vNM2ChHEGX4iECHfC"
+    "Unique Entry ID": "vNM2ChHEGX4iECHfC",
+    "Url": "=FORMULATEXT(B27)"
   },
   {
     "SourceSheet": "Shoes",
@@ -969,7 +995,8 @@
     "Filename": "ShoesLowcutNomalpumps6",
     "ClothGroup ID": 1453,
     "Internal ID": 14970,
-    "Unique Entry ID": "iNNbHFxvxCHF2QYbg"
+    "Unique Entry ID": "iNNbHFxvxCHF2QYbg",
+    "Url": "=FORMULATEXT(B28)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1005,7 +1032,8 @@
     "Filename": "ShoesLowcutNomalpumps1",
     "ClothGroup ID": 1453,
     "Internal ID": 14965,
-    "Unique Entry ID": "eSpgFqjbQu58i8LCh"
+    "Unique Entry ID": "eSpgFqjbQu58i8LCh",
+    "Url": "=FORMULATEXT(B29)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1041,7 +1069,8 @@
     "Filename": "ShoesLowcutNomalpumps2",
     "ClothGroup ID": 1453,
     "Internal ID": 14966,
-    "Unique Entry ID": "tZMJisfNkoWiXXzXZ"
+    "Unique Entry ID": "tZMJisfNkoWiXXzXZ",
+    "Url": "=FORMULATEXT(B30)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1077,7 +1106,8 @@
     "Filename": "ShoesHighcutBasket0",
     "ClothGroup ID": 800,
     "Internal ID": 5638,
-    "Unique Entry ID": "7xRWZmoxAaCxRYMuJ"
+    "Unique Entry ID": "7xRWZmoxAaCxRYMuJ",
+    "Url": "=FORMULATEXT(B31)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1113,7 +1143,8 @@
     "Filename": "ShoesHighcutBasket7",
     "ClothGroup ID": 800,
     "Internal ID": 10066,
-    "Unique Entry ID": "a7uqKcknGcWHoD43C"
+    "Unique Entry ID": "a7uqKcknGcWHoD43C",
+    "Url": "=FORMULATEXT(B32)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1149,7 +1180,8 @@
     "Filename": "ShoesHighcutBasket3",
     "ClothGroup ID": 800,
     "Internal ID": 10062,
-    "Unique Entry ID": "McTum2E4XpJfhavsX"
+    "Unique Entry ID": "McTum2E4XpJfhavsX",
+    "Url": "=FORMULATEXT(B33)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1185,7 +1217,8 @@
     "Filename": "ShoesHighcutBasket1",
     "ClothGroup ID": 800,
     "Internal ID": 10060,
-    "Unique Entry ID": "uRRCWDgRkrABjPdyg"
+    "Unique Entry ID": "uRRCWDgRkrABjPdyg",
+    "Url": "=FORMULATEXT(B34)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1221,7 +1254,8 @@
     "Filename": "ShoesHighcutBasket6",
     "ClothGroup ID": 800,
     "Internal ID": 10065,
-    "Unique Entry ID": "JhY975aRNditFYyhm"
+    "Unique Entry ID": "JhY975aRNditFYyhm",
+    "Url": "=FORMULATEXT(B35)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1257,7 +1291,8 @@
     "Filename": "ShoesHighcutBasket4",
     "ClothGroup ID": 800,
     "Internal ID": 10063,
-    "Unique Entry ID": "rixr4TkNPxrXrRRcw"
+    "Unique Entry ID": "rixr4TkNPxrXrRRcw",
+    "Url": "=FORMULATEXT(B36)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1293,7 +1328,8 @@
     "Filename": "ShoesHighcutBasket5",
     "ClothGroup ID": 800,
     "Internal ID": 10064,
-    "Unique Entry ID": "ryZhP2vjw4vQNiPMx"
+    "Unique Entry ID": "ryZhP2vjw4vQNiPMx",
+    "Url": "=FORMULATEXT(B37)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1329,7 +1365,8 @@
     "Filename": "ShoesHighcutBasket2",
     "ClothGroup ID": 800,
     "Internal ID": 10061,
-    "Unique Entry ID": "9qivZWfCZucqweqBJ"
+    "Unique Entry ID": "9qivZWfCZucqweqBJ",
+    "Url": "=FORMULATEXT(B38)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1365,7 +1402,8 @@
     "Filename": "ShoesSandalBeads3",
     "ClothGroup ID": 769,
     "Internal ID": 10139,
-    "Unique Entry ID": "ukMZbdaNwYXQgdzEJ"
+    "Unique Entry ID": "ukMZbdaNwYXQgdzEJ",
+    "Url": "=FORMULATEXT(B39)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1401,7 +1439,8 @@
     "Filename": "ShoesSandalBeads0",
     "ClothGroup ID": 769,
     "Internal ID": 5478,
-    "Unique Entry ID": "otoeZ6wQmT38HECcy"
+    "Unique Entry ID": "otoeZ6wQmT38HECcy",
+    "Url": "=FORMULATEXT(B40)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1437,7 +1476,8 @@
     "Filename": "ShoesSandalBeads2",
     "ClothGroup ID": 769,
     "Internal ID": 10138,
-    "Unique Entry ID": "pwpLSaDGk58SSvJYe"
+    "Unique Entry ID": "pwpLSaDGk58SSvJYe",
+    "Url": "=FORMULATEXT(B41)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1473,7 +1513,8 @@
     "Filename": "ShoesSandalBeads4",
     "ClothGroup ID": 769,
     "Internal ID": 10140,
-    "Unique Entry ID": "Bjzm2LFHF6cwXKbfu"
+    "Unique Entry ID": "Bjzm2LFHF6cwXKbfu",
+    "Url": "=FORMULATEXT(B42)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1509,7 +1550,8 @@
     "Filename": "ShoesSandalBeads1",
     "ClothGroup ID": 769,
     "Internal ID": 10137,
-    "Unique Entry ID": "kCEzmje6LKzAuHemd"
+    "Unique Entry ID": "kCEzmje6LKzAuHemd",
+    "Url": "=FORMULATEXT(B43)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1545,7 +1587,8 @@
     "Filename": "ShoesSandalBeads5",
     "ClothGroup ID": 769,
     "Internal ID": 10141,
-    "Unique Entry ID": "veLWy2EQQ49fq6F7p"
+    "Unique Entry ID": "veLWy2EQQ49fq6F7p",
+    "Url": "=FORMULATEXT(B44)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1581,7 +1624,8 @@
     "Filename": "ShoesKneeRubberboots1",
     "ClothGroup ID": 772,
     "Internal ID": 11685,
-    "Unique Entry ID": "ffPXk8bFosbBzhxRo"
+    "Unique Entry ID": "ffPXk8bFosbBzhxRo",
+    "Url": "=FORMULATEXT(B45)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1617,7 +1661,8 @@
     "Filename": "ShoesKneeRubberboots3",
     "ClothGroup ID": 772,
     "Internal ID": 11687,
-    "Unique Entry ID": "MkX86RRKQ9GkwfGaL"
+    "Unique Entry ID": "MkX86RRKQ9GkwfGaL",
+    "Url": "=FORMULATEXT(B46)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1653,7 +1698,8 @@
     "Filename": "ShoesKneeRubberboots4",
     "ClothGroup ID": 772,
     "Internal ID": 11688,
-    "Unique Entry ID": "NGSrsWRHfAtBKqPYz"
+    "Unique Entry ID": "NGSrsWRHfAtBKqPYz",
+    "Url": "=FORMULATEXT(B47)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1689,7 +1735,8 @@
     "Filename": "ShoesKneeRubberboots0",
     "ClothGroup ID": 772,
     "Internal ID": 5479,
-    "Unique Entry ID": "nvyQe4J4JosazJ46S"
+    "Unique Entry ID": "nvyQe4J4JosazJ46S",
+    "Url": "=FORMULATEXT(B48)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1725,7 +1772,8 @@
     "Filename": "ShoesKneeRubberboots2",
     "ClothGroup ID": 772,
     "Internal ID": 11686,
-    "Unique Entry ID": "Hvinu73hgLPsmDkcM"
+    "Unique Entry ID": "Hvinu73hgLPsmDkcM",
+    "Url": "=FORMULATEXT(B49)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1761,7 +1809,8 @@
     "Filename": "ShoesLowcutBusiness0",
     "ClothGroup ID": 526,
     "Internal ID": 4730,
-    "Unique Entry ID": "JxbjRNkGXgodBD8P7"
+    "Unique Entry ID": "JxbjRNkGXgodBD8P7",
+    "Url": "=FORMULATEXT(B50)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1797,7 +1846,8 @@
     "Filename": "ShoesLowcutBusiness1",
     "ClothGroup ID": 526,
     "Internal ID": 11455,
-    "Unique Entry ID": "sja7tXF4cPCa5hsrH"
+    "Unique Entry ID": "sja7tXF4cPCa5hsrH",
+    "Url": "=FORMULATEXT(B51)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1833,7 +1883,8 @@
     "Filename": "ShoesKneeCast0",
     "ClothGroup ID": 1247,
     "Internal ID": 12960,
-    "Unique Entry ID": "fK8M9vXoyknhbbuYf"
+    "Unique Entry ID": "fK8M9vXoyknhbbuYf",
+    "Url": "=FORMULATEXT(B52)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1869,7 +1920,8 @@
     "Filename": "ShoesKneeCast4",
     "ClothGroup ID": 1247,
     "Internal ID": 14672,
-    "Unique Entry ID": "HvSQCm6oN3eqqCpDp"
+    "Unique Entry ID": "HvSQCm6oN3eqqCpDp",
+    "Url": "=FORMULATEXT(B53)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1905,7 +1957,8 @@
     "Filename": "ShoesKneeCast1",
     "ClothGroup ID": 1247,
     "Internal ID": 14669,
-    "Unique Entry ID": "cxQ8jca4r2Q8Q6Ht9"
+    "Unique Entry ID": "cxQ8jca4r2Q8Q6Ht9",
+    "Url": "=FORMULATEXT(B54)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1941,7 +1994,8 @@
     "Filename": "ShoesKneeCast3",
     "ClothGroup ID": 1247,
     "Internal ID": 14671,
-    "Unique Entry ID": "FuoXZ8tWnFCZq8PqC"
+    "Unique Entry ID": "FuoXZ8tWnFCZq8PqC",
+    "Url": "=FORMULATEXT(B55)"
   },
   {
     "SourceSheet": "Shoes",
@@ -1977,7 +2031,8 @@
     "Filename": "ShoesKneeCast2",
     "ClothGroup ID": 1247,
     "Internal ID": 14670,
-    "Unique Entry ID": "G5qZZwuCMm9vr7hLm"
+    "Unique Entry ID": "G5qZZwuCMm9vr7hLm",
+    "Url": "=FORMULATEXT(B56)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2013,7 +2068,8 @@
     "Filename": "ShoesLowcutCinnamoroll0",
     "ClothGroup ID": 1292,
     "Internal ID": 13179,
-    "Unique Entry ID": "R6hpyxZQNaCQ9kg5K"
+    "Unique Entry ID": "R6hpyxZQNaCQ9kg5K",
+    "Url": "=FORMULATEXT(B57)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2049,7 +2105,8 @@
     "Filename": "ShoesLowcutSpike4",
     "ClothGroup ID": 811,
     "Internal ID": 10248,
-    "Unique Entry ID": "Pr3hHw8YguTL57DwF"
+    "Unique Entry ID": "Pr3hHw8YguTL57DwF",
+    "Url": "=FORMULATEXT(B58)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2085,7 +2142,8 @@
     "Filename": "ShoesLowcutSpike2",
     "ClothGroup ID": 811,
     "Internal ID": 10246,
-    "Unique Entry ID": "NGWNC246yBWm3snJE"
+    "Unique Entry ID": "NGWNC246yBWm3snJE",
+    "Url": "=FORMULATEXT(B59)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2121,7 +2179,8 @@
     "Filename": "ShoesLowcutSpike5",
     "ClothGroup ID": 811,
     "Internal ID": 10249,
-    "Unique Entry ID": "iiKeEbNN6S9tRZ3st"
+    "Unique Entry ID": "iiKeEbNN6S9tRZ3st",
+    "Url": "=FORMULATEXT(B60)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2157,7 +2216,8 @@
     "Filename": "ShoesLowcutSpike3",
     "ClothGroup ID": 811,
     "Internal ID": 10247,
-    "Unique Entry ID": "WkkwqXv9oS59HJzzT"
+    "Unique Entry ID": "WkkwqXv9oS59HJzzT",
+    "Url": "=FORMULATEXT(B61)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2193,7 +2253,8 @@
     "Filename": "ShoesLowcutSpike6",
     "ClothGroup ID": 811,
     "Internal ID": 10250,
-    "Unique Entry ID": "k2KmPiG39zPaP5aKE"
+    "Unique Entry ID": "k2KmPiG39zPaP5aKE",
+    "Url": "=FORMULATEXT(B62)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2229,7 +2290,8 @@
     "Filename": "ShoesLowcutSpike1",
     "ClothGroup ID": 811,
     "Internal ID": 10245,
-    "Unique Entry ID": "6kQs9rKWn47gLLs2M"
+    "Unique Entry ID": "6kQs9rKWn47gLLs2M",
+    "Url": "=FORMULATEXT(B63)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2265,7 +2327,8 @@
     "Filename": "ShoesLowcutSpike0",
     "ClothGroup ID": 811,
     "Internal ID": 5654,
-    "Unique Entry ID": "ozSLcS5AH7EbyuvKf"
+    "Unique Entry ID": "ozSLcS5AH7EbyuvKf",
+    "Url": "=FORMULATEXT(B64)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2301,7 +2364,8 @@
     "Filename": "ShoesLowcutSpike7",
     "ClothGroup ID": 811,
     "Internal ID": 10251,
-    "Unique Entry ID": "QZLqNeTSRQishPzZX"
+    "Unique Entry ID": "QZLqNeTSRQishPzZX",
+    "Url": "=FORMULATEXT(B65)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2337,7 +2401,8 @@
     "Filename": "ShoesSandalComfort1",
     "ClothGroup ID": 796,
     "Internal ID": 10700,
-    "Unique Entry ID": "7qmEHHQRDzoZwjzqi"
+    "Unique Entry ID": "7qmEHHQRDzoZwjzqi",
+    "Url": "=FORMULATEXT(B66)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2373,7 +2438,8 @@
     "Filename": "ShoesSandalComfort4",
     "ClothGroup ID": 796,
     "Internal ID": 10703,
-    "Unique Entry ID": "MQ7rNNpQR9ExjjDeW"
+    "Unique Entry ID": "MQ7rNNpQR9ExjjDeW",
+    "Url": "=FORMULATEXT(B67)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2409,7 +2475,8 @@
     "Filename": "ShoesSandalComfort5",
     "ClothGroup ID": 796,
     "Internal ID": 10704,
-    "Unique Entry ID": "s4PZf4H5PuJR9XNbk"
+    "Unique Entry ID": "s4PZf4H5PuJR9XNbk",
+    "Url": "=FORMULATEXT(B68)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2445,7 +2512,8 @@
     "Filename": "ShoesSandalComfort6",
     "ClothGroup ID": 796,
     "Internal ID": 10705,
-    "Unique Entry ID": "t4MnDYkWR9uExZncz"
+    "Unique Entry ID": "t4MnDYkWR9uExZncz",
+    "Url": "=FORMULATEXT(B69)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2481,7 +2549,8 @@
     "Filename": "ShoesSandalComfort2",
     "ClothGroup ID": 796,
     "Internal ID": 10701,
-    "Unique Entry ID": "XaesMFTS6T3GBL97H"
+    "Unique Entry ID": "XaesMFTS6T3GBL97H",
+    "Url": "=FORMULATEXT(B70)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2517,7 +2586,8 @@
     "Filename": "ShoesSandalComfort3",
     "ClothGroup ID": 796,
     "Internal ID": 10702,
-    "Unique Entry ID": "BPWe3svCXCzdrtMEr"
+    "Unique Entry ID": "BPWe3svCXCzdrtMEr",
+    "Url": "=FORMULATEXT(B71)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2553,7 +2623,8 @@
     "Filename": "ShoesSandalComfort7",
     "ClothGroup ID": 796,
     "Internal ID": 10706,
-    "Unique Entry ID": "zwbeCzpknc63Fptcv"
+    "Unique Entry ID": "zwbeCzpknc63Fptcv",
+    "Url": "=FORMULATEXT(B72)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2589,7 +2660,8 @@
     "Filename": "ShoesSandalComfort0",
     "ClothGroup ID": 796,
     "Internal ID": 5619,
-    "Unique Entry ID": "bH8H3cpWoFegDZKg3"
+    "Unique Entry ID": "bH8H3cpWoFegDZKg3",
+    "Url": "=FORMULATEXT(B73)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2625,7 +2697,8 @@
     "Filename": "ShoesKneeWestern2",
     "ClothGroup ID": 804,
     "Internal ID": 11254,
-    "Unique Entry ID": "xv62ZghErnQR8Q73m"
+    "Unique Entry ID": "xv62ZghErnQR8Q73m",
+    "Url": "=FORMULATEXT(B74)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2661,7 +2734,8 @@
     "Filename": "ShoesKneeWestern1",
     "ClothGroup ID": 804,
     "Internal ID": 11253,
-    "Unique Entry ID": "qzEjaaYJH93BC2Hh9"
+    "Unique Entry ID": "qzEjaaYJH93BC2Hh9",
+    "Url": "=FORMULATEXT(B75)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2697,7 +2771,8 @@
     "Filename": "ShoesKneeWestern3",
     "ClothGroup ID": 804,
     "Internal ID": 11255,
-    "Unique Entry ID": "KgdfPqZxZYhrp4C2x"
+    "Unique Entry ID": "KgdfPqZxZYhrp4C2x",
+    "Url": "=FORMULATEXT(B76)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2733,7 +2808,8 @@
     "Filename": "ShoesKneeWestern4",
     "ClothGroup ID": 804,
     "Internal ID": 11256,
-    "Unique Entry ID": "KDAEKS4qY5fpDgQuu"
+    "Unique Entry ID": "KDAEKS4qY5fpDgQuu",
+    "Url": "=FORMULATEXT(B77)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2769,7 +2845,8 @@
     "Filename": "ShoesKneeWestern0",
     "ClothGroup ID": 804,
     "Internal ID": 5643,
-    "Unique Entry ID": "T59MhhiGhjcnsGnFu"
+    "Unique Entry ID": "T59MhhiGhjcnsGnFu",
+    "Url": "=FORMULATEXT(B78)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2805,7 +2882,8 @@
     "Filename": "ShoesSandalCrossbelt2",
     "ClothGroup ID": 523,
     "Internal ID": 10122,
-    "Unique Entry ID": "qAwap9h6YjWohE39n"
+    "Unique Entry ID": "qAwap9h6YjWohE39n",
+    "Url": "=FORMULATEXT(B79)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2841,7 +2919,8 @@
     "Filename": "ShoesSandalCrossbelt4",
     "ClothGroup ID": 523,
     "Internal ID": 10124,
-    "Unique Entry ID": "H8DTJawEDSPC8jf99"
+    "Unique Entry ID": "H8DTJawEDSPC8jf99",
+    "Url": "=FORMULATEXT(B80)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2877,7 +2956,8 @@
     "Filename": "ShoesSandalCrossbelt1",
     "ClothGroup ID": 523,
     "Internal ID": 10121,
-    "Unique Entry ID": "wmAKDzzYnjbLzxhJ3"
+    "Unique Entry ID": "wmAKDzzYnjbLzxhJ3",
+    "Url": "=FORMULATEXT(B81)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2913,7 +2993,8 @@
     "Filename": "ShoesSandalCrossbelt0",
     "ClothGroup ID": 523,
     "Internal ID": 4725,
-    "Unique Entry ID": "S8PsLoFCGMqX3F6fZ"
+    "Unique Entry ID": "S8PsLoFCGMqX3F6fZ",
+    "Url": "=FORMULATEXT(B82)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2949,7 +3030,8 @@
     "Filename": "ShoesSandalCrossbelt5",
     "ClothGroup ID": 523,
     "Internal ID": 10125,
-    "Unique Entry ID": "PCPv5Mv6SGFnjg8ux"
+    "Unique Entry ID": "PCPv5Mv6SGFnjg8ux",
+    "Url": "=FORMULATEXT(B83)"
   },
   {
     "SourceSheet": "Shoes",
@@ -2985,7 +3067,8 @@
     "Filename": "ShoesSandalCrossbelt3",
     "ClothGroup ID": 523,
     "Internal ID": 10123,
-    "Unique Entry ID": "eNkiMc8xbma2Ymdzx"
+    "Unique Entry ID": "eNkiMc8xbma2Ymdzx",
+    "Url": "=FORMULATEXT(B84)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3021,7 +3104,8 @@
     "Filename": "ShoesHighcutCute2",
     "ClothGroup ID": 878,
     "Internal ID": 10267,
-    "Unique Entry ID": "9tQTbbf9bPTKu7qWz"
+    "Unique Entry ID": "9tQTbbf9bPTKu7qWz",
+    "Url": "=FORMULATEXT(B85)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3057,7 +3141,8 @@
     "Filename": "ShoesHighcutCute3",
     "ClothGroup ID": 878,
     "Internal ID": 10268,
-    "Unique Entry ID": "Egxvg95EdXYikxzfF"
+    "Unique Entry ID": "Egxvg95EdXYikxzfF",
+    "Url": "=FORMULATEXT(B86)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3093,7 +3178,8 @@
     "Filename": "ShoesHighcutCute1",
     "ClothGroup ID": 878,
     "Internal ID": 10266,
-    "Unique Entry ID": "QyYoExD4R6xgzhzw3"
+    "Unique Entry ID": "QyYoExD4R6xgzhzw3",
+    "Url": "=FORMULATEXT(B87)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3129,7 +3215,8 @@
     "Filename": "ShoesHighcutCute0",
     "ClothGroup ID": 878,
     "Internal ID": 5803,
-    "Unique Entry ID": "WdawbJs9jXzQsuFhx"
+    "Unique Entry ID": "WdawbJs9jXzQsuFhx",
+    "Url": "=FORMULATEXT(B88)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3165,7 +3252,8 @@
     "Filename": "ShoesHighcutCute5",
     "ClothGroup ID": 878,
     "Internal ID": 10270,
-    "Unique Entry ID": "f2oLT3HRXWPPEmpTu"
+    "Unique Entry ID": "f2oLT3HRXWPPEmpTu",
+    "Url": "=FORMULATEXT(B89)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3201,7 +3289,8 @@
     "Filename": "ShoesHighcutCute4",
     "ClothGroup ID": 878,
     "Internal ID": 10269,
-    "Unique Entry ID": "w8pFobgTR68viQLPy"
+    "Unique Entry ID": "w8pFobgTR68viQLPy",
+    "Url": "=FORMULATEXT(B90)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3237,7 +3326,8 @@
     "Filename": "ShoesLowcutBeansCyan0",
     "ClothGroup ID": 1526,
     "Internal ID": 1132,
-    "Unique Entry ID": "CWowWK6HRjaW7fEY2"
+    "Unique Entry ID": "CWowWK6HRjaW7fEY2",
+    "Url": "=FORMULATEXT(B91)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3273,7 +3363,8 @@
     "Filename": "AccessoryGlassSlippers0",
     "ClothGroup ID": 1184,
     "Internal ID": 12130,
-    "Unique Entry ID": "gg8YSYsr2xNKYS9rd"
+    "Unique Entry ID": "gg8YSYsr2xNKYS9rd",
+    "Url": "=FORMULATEXT(B92)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3309,7 +3400,8 @@
     "Filename": "ShoesLowcutDanceshoes3",
     "ClothGroup ID": 1363,
     "Internal ID": 14383,
-    "Unique Entry ID": "eELynoy6tYEYi8sTg"
+    "Unique Entry ID": "eELynoy6tYEYi8sTg",
+    "Url": "=FORMULATEXT(B93)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3345,7 +3437,8 @@
     "Filename": "ShoesLowcutDanceshoes0",
     "ClothGroup ID": 1363,
     "Internal ID": 14263,
-    "Unique Entry ID": "y85WnXhnnxE26WDhx"
+    "Unique Entry ID": "y85WnXhnnxE26WDhx",
+    "Url": "=FORMULATEXT(B94)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3381,7 +3474,8 @@
     "Filename": "ShoesLowcutDanceshoes5",
     "ClothGroup ID": 1363,
     "Internal ID": 14385,
-    "Unique Entry ID": "Qe7dcXoBkPeB4Aays"
+    "Unique Entry ID": "Qe7dcXoBkPeB4Aays",
+    "Url": "=FORMULATEXT(B95)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3417,7 +3511,8 @@
     "Filename": "ShoesLowcutDanceshoes2",
     "ClothGroup ID": 1363,
     "Internal ID": 14382,
-    "Unique Entry ID": "wrBxZwZSHCv3gcK3R"
+    "Unique Entry ID": "wrBxZwZSHCv3gcK3R",
+    "Url": "=FORMULATEXT(B96)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3453,7 +3548,8 @@
     "Filename": "ShoesLowcutDanceshoes1",
     "ClothGroup ID": 1363,
     "Internal ID": 14381,
-    "Unique Entry ID": "rccPBBZPp5LKQXaqF"
+    "Unique Entry ID": "rccPBBZPp5LKQXaqF",
+    "Url": "=FORMULATEXT(B97)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3489,7 +3585,8 @@
     "Filename": "ShoesLowcutDanceshoes6",
     "ClothGroup ID": 1363,
     "Internal ID": 14386,
-    "Unique Entry ID": "GaTkYpycnMPNpkEkz"
+    "Unique Entry ID": "GaTkYpycnMPNpkEkz",
+    "Url": "=FORMULATEXT(B98)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3525,7 +3622,8 @@
     "Filename": "ShoesLowcutDanceshoes4",
     "ClothGroup ID": 1363,
     "Internal ID": 14384,
-    "Unique Entry ID": "JRswHFLPGkqfshFbZ"
+    "Unique Entry ID": "JRswHFLPGkqfshFbZ",
+    "Url": "=FORMULATEXT(B99)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3561,7 +3659,8 @@
     "Filename": "ShoesLowcutDanceshoes7",
     "ClothGroup ID": 1363,
     "Internal ID": 14387,
-    "Unique Entry ID": "dQzSTe9dzJYFBg9ne"
+    "Unique Entry ID": "dQzSTe9dzJYFBg9ne",
+    "Url": "=FORMULATEXT(B100)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3597,7 +3696,8 @@
     "Filename": "ShoesLowcutEggground0",
     "ClothGroup ID": 1211,
     "Internal ID": 12455,
-    "Unique Entry ID": "PXnPHB4ZkaMwv3Y7s"
+    "Unique Entry ID": "PXnPHB4ZkaMwv3Y7s",
+    "Url": "=FORMULATEXT(B101)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3633,7 +3733,8 @@
     "Filename": "ShoesLowcutEmbroidery1",
     "ClothGroup ID": 1098,
     "Internal ID": 11987,
-    "Unique Entry ID": "rzZXksuyaHbm4SMM9"
+    "Unique Entry ID": "rzZXksuyaHbm4SMM9",
+    "Url": "=FORMULATEXT(B102)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3669,7 +3770,8 @@
     "Filename": "ShoesLowcutEmbroidery2",
     "ClothGroup ID": 1098,
     "Internal ID": 11988,
-    "Unique Entry ID": "2JD3QbctqaQhPpBAb"
+    "Unique Entry ID": "2JD3QbctqaQhPpBAb",
+    "Url": "=FORMULATEXT(B103)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3705,7 +3807,8 @@
     "Filename": "ShoesLowcutEmbroidery0",
     "ClothGroup ID": 1098,
     "Internal ID": 9847,
-    "Unique Entry ID": "GpHkK4Gy7yLYxbtcL"
+    "Unique Entry ID": "GpHkK4Gy7yLYxbtcL",
+    "Url": "=FORMULATEXT(B104)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3741,7 +3844,8 @@
     "Filename": "ShoesLowcutEmbroidery3",
     "ClothGroup ID": 1098,
     "Internal ID": 11989,
-    "Unique Entry ID": "SuLAcSivQvdYEXHJB"
+    "Unique Entry ID": "SuLAcSivQvdYEXHJB",
+    "Url": "=FORMULATEXT(B105)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3777,7 +3881,8 @@
     "Filename": "ShoesHighcutFurboots2",
     "ClothGroup ID": 767,
     "Internal ID": 11683,
-    "Unique Entry ID": "jdCjhSTkbKzX85LN2"
+    "Unique Entry ID": "jdCjhSTkbKzX85LN2",
+    "Url": "=FORMULATEXT(B106)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3813,7 +3918,8 @@
     "Filename": "ShoesHighcutFurboots0",
     "ClothGroup ID": 767,
     "Internal ID": 5476,
-    "Unique Entry ID": "5FBywrCNgwAiqhXa7"
+    "Unique Entry ID": "5FBywrCNgwAiqhXa7",
+    "Url": "=FORMULATEXT(B107)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3849,7 +3955,8 @@
     "Filename": "ShoesHighcutFurboots3",
     "ClothGroup ID": 767,
     "Internal ID": 11684,
-    "Unique Entry ID": "Dzxt6pdX2LJWacn3H"
+    "Unique Entry ID": "Dzxt6pdX2LJWacn3H",
+    "Url": "=FORMULATEXT(B108)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3885,7 +3992,8 @@
     "Filename": "ShoesHighcutFurboots1",
     "ClothGroup ID": 767,
     "Internal ID": 11682,
-    "Unique Entry ID": "KAt8hHZ3mDftYYiYt"
+    "Unique Entry ID": "KAt8hHZ3mDftYYiYt",
+    "Url": "=FORMULATEXT(B109)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3921,7 +4029,8 @@
     "Filename": "ShoesHighcutMouton4",
     "ClothGroup ID": 520,
     "Internal ID": 11550,
-    "Unique Entry ID": "GG7HfiPFNJvLwh5XC"
+    "Unique Entry ID": "GG7HfiPFNJvLwh5XC",
+    "Url": "=FORMULATEXT(B110)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3957,7 +4066,8 @@
     "Filename": "ShoesHighcutMouton3",
     "ClothGroup ID": 520,
     "Internal ID": 11549,
-    "Unique Entry ID": "YksdBvaJ3k6ouj243"
+    "Unique Entry ID": "YksdBvaJ3k6ouj243",
+    "Url": "=FORMULATEXT(B111)"
   },
   {
     "SourceSheet": "Shoes",
@@ -3993,7 +4103,8 @@
     "Filename": "ShoesHighcutMouton1",
     "ClothGroup ID": 520,
     "Internal ID": 11547,
-    "Unique Entry ID": "pbeHtooPfjRSuwhmY"
+    "Unique Entry ID": "pbeHtooPfjRSuwhmY",
+    "Url": "=FORMULATEXT(B112)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4029,7 +4140,8 @@
     "Filename": "ShoesHighcutMouton2",
     "ClothGroup ID": 520,
     "Internal ID": 11548,
-    "Unique Entry ID": "gyP9Azdy4b7iaCGoH"
+    "Unique Entry ID": "gyP9Azdy4b7iaCGoH",
+    "Url": "=FORMULATEXT(B113)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4065,7 +4177,8 @@
     "Filename": "ShoesHighcutMouton0",
     "ClothGroup ID": 520,
     "Internal ID": 4721,
-    "Unique Entry ID": "z8A8CEX4Zoxos8ECz"
+    "Unique Entry ID": "z8A8CEX4Zoxos8ECz",
+    "Url": "=FORMULATEXT(B114)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4101,7 +4214,8 @@
     "Filename": "ShoesLowcutSuede7",
     "ClothGroup ID": 1003,
     "Internal ID": 10080,
-    "Unique Entry ID": "PcsAkqLHgZo2yhwSH"
+    "Unique Entry ID": "PcsAkqLHgZo2yhwSH",
+    "Url": "=FORMULATEXT(B115)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4137,7 +4251,8 @@
     "Filename": "ShoesLowcutSuede4",
     "ClothGroup ID": 1003,
     "Internal ID": 10077,
-    "Unique Entry ID": "oqSaR83bRDZiLnibc"
+    "Unique Entry ID": "oqSaR83bRDZiLnibc",
+    "Url": "=FORMULATEXT(B116)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4173,7 +4288,8 @@
     "Filename": "ShoesLowcutSuede3",
     "ClothGroup ID": 1003,
     "Internal ID": 10076,
-    "Unique Entry ID": "442jYo3kkgtjrfNJw"
+    "Unique Entry ID": "442jYo3kkgtjrfNJw",
+    "Url": "=FORMULATEXT(B117)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4209,7 +4325,8 @@
     "Filename": "ShoesLowcutSuede0",
     "ClothGroup ID": 1003,
     "Internal ID": 6893,
-    "Unique Entry ID": "8ci7eigwwimo5zHrm"
+    "Unique Entry ID": "8ci7eigwwimo5zHrm",
+    "Url": "=FORMULATEXT(B118)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4245,7 +4362,8 @@
     "Filename": "ShoesLowcutSuede5",
     "ClothGroup ID": 1003,
     "Internal ID": 10078,
-    "Unique Entry ID": "2h5vwhQBfHf6Qmbzc"
+    "Unique Entry ID": "2h5vwhQBfHf6Qmbzc",
+    "Url": "=FORMULATEXT(B119)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4281,7 +4399,8 @@
     "Filename": "ShoesLowcutSuede1",
     "ClothGroup ID": 1003,
     "Internal ID": 10074,
-    "Unique Entry ID": "gCcxqWq9CrrDemMzu"
+    "Unique Entry ID": "gCcxqWq9CrrDemMzu",
+    "Url": "=FORMULATEXT(B120)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4317,7 +4436,8 @@
     "Filename": "ShoesLowcutSuede6",
     "ClothGroup ID": 1003,
     "Internal ID": 10079,
-    "Unique Entry ID": "3gXbkXjifTka79wk5"
+    "Unique Entry ID": "3gXbkXjifTka79wk5",
+    "Url": "=FORMULATEXT(B121)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4353,7 +4473,8 @@
     "Filename": "ShoesLowcutSuede2",
     "ClothGroup ID": 1003,
     "Internal ID": 10075,
-    "Unique Entry ID": "h7v8F5izpTkwhCo9X"
+    "Unique Entry ID": "h7v8F5izpTkwhCo9X",
+    "Url": "=FORMULATEXT(B122)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4389,7 +4510,8 @@
     "Filename": "ShoesLowcutHalloween2",
     "ClothGroup ID": 1269,
     "Internal ID": 13414,
-    "Unique Entry ID": "drgjAsFgNKMfycSKd"
+    "Unique Entry ID": "drgjAsFgNKMfycSKd",
+    "Url": "=FORMULATEXT(B123)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4425,7 +4547,8 @@
     "Filename": "ShoesLowcutHalloween5",
     "ClothGroup ID": 1269,
     "Internal ID": 13417,
-    "Unique Entry ID": "qWrmeNEbgMoSt3o4A"
+    "Unique Entry ID": "qWrmeNEbgMoSt3o4A",
+    "Url": "=FORMULATEXT(B124)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4461,7 +4584,8 @@
     "Filename": "ShoesLowcutHalloween4",
     "ClothGroup ID": 1269,
     "Internal ID": 13416,
-    "Unique Entry ID": "Ap3sgz4qxppwGEXYa"
+    "Unique Entry ID": "Ap3sgz4qxppwGEXYa",
+    "Url": "=FORMULATEXT(B125)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4497,7 +4621,8 @@
     "Filename": "ShoesLowcutHalloween0",
     "ClothGroup ID": 1269,
     "Internal ID": 13016,
-    "Unique Entry ID": "Nzi7JG2GRqQwRPQw9"
+    "Unique Entry ID": "Nzi7JG2GRqQwRPQw9",
+    "Url": "=FORMULATEXT(B126)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4533,7 +4658,8 @@
     "Filename": "ShoesLowcutHalloween3",
     "ClothGroup ID": 1269,
     "Internal ID": 13415,
-    "Unique Entry ID": "GiWy6GAokx9oe3qXJ"
+    "Unique Entry ID": "GiWy6GAokx9oe3qXJ",
+    "Url": "=FORMULATEXT(B127)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4569,7 +4695,8 @@
     "Filename": "ShoesLowcutHalloween1",
     "ClothGroup ID": 1269,
     "Internal ID": 13413,
-    "Unique Entry ID": "QgD6tkxkLgroF9eXu"
+    "Unique Entry ID": "QgD6tkxkLgroF9eXu",
+    "Url": "=FORMULATEXT(B128)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4605,7 +4732,8 @@
     "Filename": "ShoesSandalBeachborder3",
     "ClothGroup ID": 761,
     "Internal ID": 10735,
-    "Unique Entry ID": "43ihwwTdqsQFFdDra"
+    "Unique Entry ID": "43ihwwTdqsQFFdDra",
+    "Url": "=FORMULATEXT(B129)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4641,7 +4769,8 @@
     "Filename": "ShoesSandalBeachborder7",
     "ClothGroup ID": 761,
     "Internal ID": 10739,
-    "Unique Entry ID": "e49sttYMp9iQhn5JA"
+    "Unique Entry ID": "e49sttYMp9iQhn5JA",
+    "Url": "=FORMULATEXT(B130)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4677,7 +4806,8 @@
     "Filename": "ShoesSandalBeachborder6",
     "ClothGroup ID": 761,
     "Internal ID": 10738,
-    "Unique Entry ID": "KzSKyqg45TYFdmmq5"
+    "Unique Entry ID": "KzSKyqg45TYFdmmq5",
+    "Url": "=FORMULATEXT(B131)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4713,7 +4843,8 @@
     "Filename": "ShoesSandalBeachborder4",
     "ClothGroup ID": 761,
     "Internal ID": 10736,
-    "Unique Entry ID": "A4KkCM8MYzSzgiLxm"
+    "Unique Entry ID": "A4KkCM8MYzSzgiLxm",
+    "Url": "=FORMULATEXT(B132)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4749,7 +4880,8 @@
     "Filename": "ShoesSandalBeachborder2",
     "ClothGroup ID": 761,
     "Internal ID": 10169,
-    "Unique Entry ID": "SKNg35jGs9MaLTD77"
+    "Unique Entry ID": "SKNg35jGs9MaLTD77",
+    "Url": "=FORMULATEXT(B133)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4785,7 +4917,8 @@
     "Filename": "ShoesSandalBeachborder1",
     "ClothGroup ID": 761,
     "Internal ID": 6922,
-    "Unique Entry ID": "wjnPzGx8aWE7G6gce"
+    "Unique Entry ID": "wjnPzGx8aWE7G6gce",
+    "Url": "=FORMULATEXT(B134)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4821,7 +4954,8 @@
     "Filename": "ShoesSandalBeachborder5",
     "ClothGroup ID": 761,
     "Internal ID": 10737,
-    "Unique Entry ID": "YyhMNsS7x3fugPLzk"
+    "Unique Entry ID": "YyhMNsS7x3fugPLzk",
+    "Url": "=FORMULATEXT(B135)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4857,7 +4991,8 @@
     "Filename": "ShoesSandalBeachborder0",
     "ClothGroup ID": 761,
     "Internal ID": 5470,
-    "Unique Entry ID": "b2pTnAJLeY3nCC85w"
+    "Unique Entry ID": "b2pTnAJLeY3nCC85w",
+    "Url": "=FORMULATEXT(B136)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4893,7 +5028,8 @@
     "Filename": "ShoesSandalFlower6",
     "ClothGroup ID": 766,
     "Internal ID": 10131,
-    "Unique Entry ID": "zEAdQCRGCGkGXo3zH"
+    "Unique Entry ID": "zEAdQCRGCGkGXo3zH",
+    "Url": "=FORMULATEXT(B137)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4929,7 +5065,8 @@
     "Filename": "ShoesSandalFlower5",
     "ClothGroup ID": 766,
     "Internal ID": 10130,
-    "Unique Entry ID": "sZKDexuZQqMHvKNha"
+    "Unique Entry ID": "sZKDexuZQqMHvKNha",
+    "Url": "=FORMULATEXT(B138)"
   },
   {
     "SourceSheet": "Shoes",
@@ -4965,7 +5102,8 @@
     "Filename": "ShoesSandalFlower1",
     "ClothGroup ID": 766,
     "Internal ID": 10126,
-    "Unique Entry ID": "CuM8H6yjAxM9hvKbB"
+    "Unique Entry ID": "CuM8H6yjAxM9hvKbB",
+    "Url": "=FORMULATEXT(B139)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5001,7 +5139,8 @@
     "Filename": "ShoesSandalFlower0",
     "ClothGroup ID": 766,
     "Internal ID": 5475,
-    "Unique Entry ID": "iKjt4fpKTzWFNoWqv"
+    "Unique Entry ID": "iKjt4fpKTzWFNoWqv",
+    "Url": "=FORMULATEXT(B140)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5037,7 +5176,8 @@
     "Filename": "ShoesSandalFlower2",
     "ClothGroup ID": 766,
     "Internal ID": 10127,
-    "Unique Entry ID": "MvQdXTd5fpze9DrcN"
+    "Unique Entry ID": "MvQdXTd5fpze9DrcN",
+    "Url": "=FORMULATEXT(B141)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5073,7 +5213,8 @@
     "Filename": "ShoesSandalFlower4",
     "ClothGroup ID": 766,
     "Internal ID": 10129,
-    "Unique Entry ID": "iBZH8z7aReKctqLyG"
+    "Unique Entry ID": "iBZH8z7aReKctqLyG",
+    "Url": "=FORMULATEXT(B142)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5109,7 +5250,8 @@
     "Filename": "ShoesSandalFlower3",
     "ClothGroup ID": 766,
     "Internal ID": 10128,
-    "Unique Entry ID": "vMQexjCj2Egq6S9Tm"
+    "Unique Entry ID": "vMQexjCj2Egq6S9Tm",
+    "Url": "=FORMULATEXT(B143)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5145,7 +5287,8 @@
     "Filename": "ShoesKneeForcereBoots0",
     "ClothGroup ID": 1548,
     "Internal ID": 1134,
-    "Unique Entry ID": "rcg3wAnii5aNApfwz"
+    "Unique Entry ID": "rcg3wAnii5aNApfwz",
+    "Url": "=FORMULATEXT(B144)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5181,7 +5324,8 @@
     "Filename": "ShoesLowcutBrogues2",
     "ClothGroup ID": 924,
     "Internal ID": 11478,
-    "Unique Entry ID": "2mGMrrGvMowcBDYh7"
+    "Unique Entry ID": "2mGMrrGvMowcBDYh7",
+    "Url": "=FORMULATEXT(B145)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5217,7 +5361,8 @@
     "Filename": "ShoesLowcutBrogues1",
     "ClothGroup ID": 924,
     "Internal ID": 11477,
-    "Unique Entry ID": "eFrTYfFkrBdwoSecE"
+    "Unique Entry ID": "eFrTYfFkrBdwoSecE",
+    "Url": "=FORMULATEXT(B146)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5253,7 +5398,8 @@
     "Filename": "ShoesLowcutBrogues0",
     "ClothGroup ID": 924,
     "Internal ID": 6042,
-    "Unique Entry ID": "85Ro38Bbgo5G7rSLw"
+    "Unique Entry ID": "85Ro38Bbgo5G7rSLw",
+    "Url": "=FORMULATEXT(B147)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5289,7 +5435,8 @@
     "Filename": "ShoesSandalGladiator1",
     "ClothGroup ID": 797,
     "Internal ID": 11251,
-    "Unique Entry ID": "sKQvzqzGvs2ykcSbz"
+    "Unique Entry ID": "sKQvzqzGvs2ykcSbz",
+    "Url": "=FORMULATEXT(B148)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5325,7 +5472,8 @@
     "Filename": "ShoesSandalGladiator2",
     "ClothGroup ID": 797,
     "Internal ID": 11252,
-    "Unique Entry ID": "S5PcJMFPpTfkdsrBv"
+    "Unique Entry ID": "S5PcJMFPpTfkdsrBv",
+    "Url": "=FORMULATEXT(B149)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5361,7 +5509,8 @@
     "Filename": "ShoesSandalGladiator0",
     "ClothGroup ID": 797,
     "Internal ID": 5620,
-    "Unique Entry ID": "b4X3xaeXEp9ChQQr5"
+    "Unique Entry ID": "b4X3xaeXEp9ChQQr5",
+    "Url": "=FORMULATEXT(B150)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5397,7 +5546,8 @@
     "Filename": "ShoesKneeKnightGold",
     "ClothGroup ID": 777,
     "Internal ID": 5524,
-    "Unique Entry ID": "HE5wbwjxnuqXWwuTq"
+    "Unique Entry ID": "HE5wbwjxnuqXWwuTq",
+    "Url": "=FORMULATEXT(B151)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5433,7 +5583,8 @@
     "Filename": "ShoesLowcutKitty0",
     "ClothGroup ID": 1281,
     "Internal ID": 13167,
-    "Unique Entry ID": "9WTfqv6BzsXtevGoa"
+    "Unique Entry ID": "9WTfqv6BzsXtevGoa",
+    "Url": "=FORMULATEXT(B152)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5469,7 +5620,8 @@
     "Filename": "ShoesKneeReplica0",
     "ClothGroup ID": 1544,
     "Internal ID": 1109,
-    "Unique Entry ID": "qx2S8pZpCcRANKj4v"
+    "Unique Entry ID": "qx2S8pZpCcRANKj4v",
+    "Url": "=FORMULATEXT(B153)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5505,7 +5657,8 @@
     "Filename": "ShoesHighcutHightech1",
     "ClothGroup ID": 814,
     "Internal ID": 10252,
-    "Unique Entry ID": "PtSjcthWToYvF8son"
+    "Unique Entry ID": "PtSjcthWToYvF8son",
+    "Url": "=FORMULATEXT(B154)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5541,7 +5694,8 @@
     "Filename": "ShoesHighcutHightech0",
     "ClothGroup ID": 814,
     "Internal ID": 5659,
-    "Unique Entry ID": "vjJoBSPAnnmMtGJui"
+    "Unique Entry ID": "vjJoBSPAnnmMtGJui",
+    "Url": "=FORMULATEXT(B155)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5577,7 +5731,8 @@
     "Filename": "ShoesHighcutHightech2",
     "ClothGroup ID": 814,
     "Internal ID": 10253,
-    "Unique Entry ID": "ZuFY68yoJCdmrLuWr"
+    "Unique Entry ID": "ZuFY68yoJCdmrLuWr",
+    "Url": "=FORMULATEXT(B156)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5613,7 +5768,8 @@
     "Filename": "ShoesHighcutHightech3",
     "ClothGroup ID": 814,
     "Internal ID": 10254,
-    "Unique Entry ID": "xasZPBabpo9zFAYMR"
+    "Unique Entry ID": "xasZPBabpo9zFAYMR",
+    "Url": "=FORMULATEXT(B157)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5649,7 +5805,8 @@
     "Filename": "ShoesHighcutHightech4",
     "ClothGroup ID": 814,
     "Internal ID": 10255,
-    "Unique Entry ID": "QdudohpJ9dc3hANJF"
+    "Unique Entry ID": "QdudohpJ9dc3hANJF",
+    "Url": "=FORMULATEXT(B158)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5685,7 +5842,8 @@
     "Filename": "ShoesHighcutSneaker7",
     "ClothGroup ID": 938,
     "Internal ID": 10045,
-    "Unique Entry ID": "49789htHCpZsBFEYb"
+    "Unique Entry ID": "49789htHCpZsBFEYb",
+    "Url": "=FORMULATEXT(B159)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5721,7 +5879,8 @@
     "Filename": "ShoesHighcutSneaker0",
     "ClothGroup ID": 938,
     "Internal ID": 2572,
-    "Unique Entry ID": "A6PJmQQbeWQc4ks8Q"
+    "Unique Entry ID": "A6PJmQQbeWQc4ks8Q",
+    "Url": "=FORMULATEXT(B160)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5757,7 +5916,8 @@
     "Filename": "ShoesHighcutSneaker5",
     "ClothGroup ID": 938,
     "Internal ID": 10043,
-    "Unique Entry ID": "vQJchxGQbFYwCtRtG"
+    "Unique Entry ID": "vQJchxGQbFYwCtRtG",
+    "Url": "=FORMULATEXT(B161)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5793,7 +5953,8 @@
     "Filename": "ShoesHighcutSneaker6",
     "ClothGroup ID": 938,
     "Internal ID": 10044,
-    "Unique Entry ID": "oJLevZfue26fB7qbq"
+    "Unique Entry ID": "oJLevZfue26fB7qbq",
+    "Url": "=FORMULATEXT(B162)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5829,7 +5990,8 @@
     "Filename": "ShoesHighcutSneaker2",
     "ClothGroup ID": 938,
     "Internal ID": 10040,
-    "Unique Entry ID": "HsMaJWumxL4uY8voa"
+    "Unique Entry ID": "HsMaJWumxL4uY8voa",
+    "Url": "=FORMULATEXT(B163)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5865,7 +6027,8 @@
     "Filename": "ShoesHighcutSneaker3",
     "ClothGroup ID": 938,
     "Internal ID": 10041,
-    "Unique Entry ID": "R26LoWHFtNPCiaQnT"
+    "Unique Entry ID": "R26LoWHFtNPCiaQnT",
+    "Url": "=FORMULATEXT(B164)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5901,7 +6064,8 @@
     "Filename": "ShoesHighcutSneaker4",
     "ClothGroup ID": 938,
     "Internal ID": 10042,
-    "Unique Entry ID": "ddCRfjPN2Xq2KENQF"
+    "Unique Entry ID": "ddCRfjPN2Xq2KENQF",
+    "Url": "=FORMULATEXT(B165)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5937,7 +6101,8 @@
     "Filename": "ShoesHighcutSneaker1",
     "ClothGroup ID": 938,
     "Internal ID": 10039,
-    "Unique Entry ID": "6bXv8wbDiCDaRHXLb"
+    "Unique Entry ID": "6bXv8wbDiCDaRHXLb",
+    "Url": "=FORMULATEXT(B166)"
   },
   {
     "SourceSheet": "Shoes",
@@ -5973,7 +6138,8 @@
     "Filename": "ShoesSandalRoomborder0",
     "ClothGroup ID": 785,
     "Internal ID": 5564,
-    "Unique Entry ID": "tZ2mLMoSBry5tTdA6"
+    "Unique Entry ID": "tZ2mLMoSBry5tTdA6",
+    "Url": "=FORMULATEXT(B167)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6009,7 +6175,8 @@
     "Filename": "ShoesSandalRoomborder6",
     "ClothGroup ID": 785,
     "Internal ID": 10096,
-    "Unique Entry ID": "Hr7KzEdakoD9LEXNL"
+    "Unique Entry ID": "Hr7KzEdakoD9LEXNL",
+    "Url": "=FORMULATEXT(B168)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6045,7 +6212,8 @@
     "Filename": "ShoesSandalRoomborder2",
     "ClothGroup ID": 785,
     "Internal ID": 10092,
-    "Unique Entry ID": "BdzMBFw9xgcZPh2cQ"
+    "Unique Entry ID": "BdzMBFw9xgcZPh2cQ",
+    "Url": "=FORMULATEXT(B169)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6081,7 +6249,8 @@
     "Filename": "ShoesSandalRoomborder3",
     "ClothGroup ID": 785,
     "Internal ID": 10093,
-    "Unique Entry ID": "TBB5qAmPTjZHgLRgo"
+    "Unique Entry ID": "TBB5qAmPTjZHgLRgo",
+    "Url": "=FORMULATEXT(B170)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6117,7 +6286,8 @@
     "Filename": "ShoesSandalRoomborder4",
     "ClothGroup ID": 785,
     "Internal ID": 10094,
-    "Unique Entry ID": "6tfgHMCwmTrRZwiQQ"
+    "Unique Entry ID": "6tfgHMCwmTrRZwiQQ",
+    "Url": "=FORMULATEXT(B171)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6153,7 +6323,8 @@
     "Filename": "ShoesSandalRoomborder5",
     "ClothGroup ID": 785,
     "Internal ID": 10095,
-    "Unique Entry ID": "3ACsSJTCB2bWPwZqm"
+    "Unique Entry ID": "3ACsSJTCB2bWPwZqm",
+    "Url": "=FORMULATEXT(B172)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6189,7 +6360,8 @@
     "Filename": "ShoesSandalRoomborder1",
     "ClothGroup ID": 785,
     "Internal ID": 10091,
-    "Unique Entry ID": "TMeDiovzy92KvCgNT"
+    "Unique Entry ID": "TMeDiovzy92KvCgNT",
+    "Url": "=FORMULATEXT(B173)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6225,7 +6397,8 @@
     "Filename": "ShoesSandalRoomborder7",
     "ClothGroup ID": 785,
     "Internal ID": 10097,
-    "Unique Entry ID": "B7W2EXnB3QmMEgjbM"
+    "Unique Entry ID": "B7W2EXnB3QmMEgjbM",
+    "Url": "=FORMULATEXT(B174)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6261,7 +6434,8 @@
     "Filename": "ShoesKneeHylia0",
     "ClothGroup ID": 1535,
     "Internal ID": 1049,
-    "Unique Entry ID": "cJdpAgTjEZr4tTxM8"
+    "Unique Entry ID": "cJdpAgTjEZr4tTxM8",
+    "Url": "=FORMULATEXT(B175)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6297,7 +6471,8 @@
     "Filename": "ShoesKneeClown1",
     "ClothGroup ID": 801,
     "Internal ID": 11558,
-    "Unique Entry ID": "niQbfxs5g6937bDmP"
+    "Unique Entry ID": "niQbfxs5g6937bDmP",
+    "Url": "=FORMULATEXT(B176)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6333,7 +6508,8 @@
     "Filename": "ShoesKneeClown2",
     "ClothGroup ID": 801,
     "Internal ID": 11559,
-    "Unique Entry ID": "uBt8KnMps2wigFd7x"
+    "Unique Entry ID": "uBt8KnMps2wigFd7x",
+    "Url": "=FORMULATEXT(B177)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6369,7 +6545,8 @@
     "Filename": "ShoesKneeClown3",
     "ClothGroup ID": 801,
     "Internal ID": 11560,
-    "Unique Entry ID": "4i7swMp5oRyQE9rTH"
+    "Unique Entry ID": "4i7swMp5oRyQE9rTH",
+    "Url": "=FORMULATEXT(B178)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6405,7 +6582,8 @@
     "Filename": "ShoesKneeClown0",
     "ClothGroup ID": 801,
     "Internal ID": 5639,
-    "Unique Entry ID": "kFDPkeYy4wcHmPdbQ"
+    "Unique Entry ID": "kFDPkeYy4wcHmPdbQ",
+    "Url": "=FORMULATEXT(B179)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6441,7 +6619,8 @@
     "Filename": "ShoesLowcutKeroppi0",
     "ClothGroup ID": 1297,
     "Internal ID": 13184,
-    "Unique Entry ID": "JEChKAgk4TwEtkX6w"
+    "Unique Entry ID": "JEChKAgk4TwEtkX6w",
+    "Url": "=FORMULATEXT(B180)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6477,7 +6656,8 @@
     "Filename": "ShoesHighcutSports4",
     "ClothGroup ID": 864,
     "Internal ID": 10264,
-    "Unique Entry ID": "oxQ6Zq7k9LLPhxMyj"
+    "Unique Entry ID": "oxQ6Zq7k9LLPhxMyj",
+    "Url": "=FORMULATEXT(B181)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6513,7 +6693,8 @@
     "Filename": "ShoesHighcutSports5",
     "ClothGroup ID": 864,
     "Internal ID": 10265,
-    "Unique Entry ID": "xvrKLHrw4cuouBZ4P"
+    "Unique Entry ID": "xvrKLHrw4cuouBZ4P",
+    "Url": "=FORMULATEXT(B182)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6549,7 +6730,8 @@
     "Filename": "ShoesHighcutSports0",
     "ClothGroup ID": 864,
     "Internal ID": 5761,
-    "Unique Entry ID": "DiPuWBTmBh88DRn5r"
+    "Unique Entry ID": "DiPuWBTmBh88DRn5r",
+    "Url": "=FORMULATEXT(B183)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6585,7 +6767,8 @@
     "Filename": "ShoesHighcutSports2",
     "ClothGroup ID": 864,
     "Internal ID": 10262,
-    "Unique Entry ID": "JsrscqqMSNsh3igS7"
+    "Unique Entry ID": "JsrscqqMSNsh3igS7",
+    "Url": "=FORMULATEXT(B184)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6621,7 +6804,8 @@
     "Filename": "ShoesHighcutSports1",
     "ClothGroup ID": 864,
     "Internal ID": 10261,
-    "Unique Entry ID": "kAr6gcCKT8HoCuSRE"
+    "Unique Entry ID": "kAr6gcCKT8HoCuSRE",
+    "Url": "=FORMULATEXT(B185)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6657,7 +6841,8 @@
     "Filename": "ShoesHighcutSports3",
     "ClothGroup ID": 864,
     "Internal ID": 10263,
-    "Unique Entry ID": "YtsQtuSuRpNJ9K8nJ"
+    "Unique Entry ID": "YtsQtuSuRpNJ9K8nJ",
+    "Url": "=FORMULATEXT(B186)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6693,7 +6878,8 @@
     "Filename": "ShoesLowcutKikilala0",
     "ClothGroup ID": 1287,
     "Internal ID": 13174,
-    "Unique Entry ID": "i38R3totjZCdunwej"
+    "Unique Entry ID": "i38R3totjZCdunwej",
+    "Url": "=FORMULATEXT(B187)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6729,7 +6915,8 @@
     "Filename": "ShoesSandalGeta4",
     "ClothGroup ID": 236,
     "Internal ID": 10965,
-    "Unique Entry ID": "EgT778SJG3yj69j9X"
+    "Unique Entry ID": "EgT778SJG3yj69j9X",
+    "Url": "=FORMULATEXT(B188)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6765,7 +6952,8 @@
     "Filename": "ShoesSandalGeta0",
     "ClothGroup ID": 236,
     "Internal ID": 3704,
-    "Unique Entry ID": "GLnAezFtAC88MkqHv"
+    "Unique Entry ID": "GLnAezFtAC88MkqHv",
+    "Url": "=FORMULATEXT(B189)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6801,7 +6989,8 @@
     "Filename": "ShoesSandalGeta1",
     "ClothGroup ID": 236,
     "Internal ID": 10962,
-    "Unique Entry ID": "9BqtfBqkG7e2XvC5E"
+    "Unique Entry ID": "9BqtfBqkG7e2XvC5E",
+    "Url": "=FORMULATEXT(B190)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6837,7 +7026,8 @@
     "Filename": "ShoesSandalGeta2",
     "ClothGroup ID": 236,
     "Internal ID": 10963,
-    "Unique Entry ID": "euyfneg4wKNBxaRAb"
+    "Unique Entry ID": "euyfneg4wKNBxaRAb",
+    "Url": "=FORMULATEXT(B191)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6873,7 +7063,8 @@
     "Filename": "ShoesSandalGeta6",
     "ClothGroup ID": 236,
     "Internal ID": 10967,
-    "Unique Entry ID": "SvCuc7AwtmzkHtGBu"
+    "Unique Entry ID": "SvCuc7AwtmzkHtGBu",
+    "Url": "=FORMULATEXT(B192)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6909,7 +7100,8 @@
     "Filename": "ShoesSandalGeta7",
     "ClothGroup ID": 236,
     "Internal ID": 10968,
-    "Unique Entry ID": "rzpWkSsb7z9Er4TRC"
+    "Unique Entry ID": "rzpWkSsb7z9Er4TRC",
+    "Url": "=FORMULATEXT(B193)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6945,7 +7137,8 @@
     "Filename": "ShoesSandalGeta3",
     "ClothGroup ID": 236,
     "Internal ID": 10964,
-    "Unique Entry ID": "GsGxnse3sG9cSK5Qp"
+    "Unique Entry ID": "GsGxnse3sG9cSK5Qp",
+    "Url": "=FORMULATEXT(B194)"
   },
   {
     "SourceSheet": "Shoes",
@@ -6981,7 +7174,8 @@
     "Filename": "ShoesSandalGeta5",
     "ClothGroup ID": 236,
     "Internal ID": 10966,
-    "Unique Entry ID": "jxJh2qEEPq43eW8rE"
+    "Unique Entry ID": "jxJh2qEEPq43eW8rE",
+    "Url": "=FORMULATEXT(B195)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7017,7 +7211,8 @@
     "Filename": "ShoesLowcutKungfu0",
     "ClothGroup ID": 1097,
     "Internal ID": 9846,
-    "Unique Entry ID": "uNAzFWaTbC7Qsp2cD"
+    "Unique Entry ID": "uNAzFWaTbC7Qsp2cD",
+    "Url": "=FORMULATEXT(B196)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7053,7 +7248,8 @@
     "Filename": "ShoesLowcutKateheel1",
     "ClothGroup ID": 1135,
     "Internal ID": 11766,
-    "Unique Entry ID": "WHsTLAXaLK3xxLsGE"
+    "Unique Entry ID": "WHsTLAXaLK3xxLsGE",
+    "Url": "=FORMULATEXT(B197)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7089,7 +7285,8 @@
     "Filename": "ShoesLowcutKateheel2",
     "ClothGroup ID": 1135,
     "Internal ID": 11767,
-    "Unique Entry ID": "a3C3YgvQsLy9jrCNu"
+    "Unique Entry ID": "a3C3YgvQsLy9jrCNu",
+    "Url": "=FORMULATEXT(B198)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7125,7 +7322,8 @@
     "Filename": "ShoesLowcutKateheel5",
     "ClothGroup ID": 1135,
     "Internal ID": 11770,
-    "Unique Entry ID": "dtKmyfWf7S2nyer8g"
+    "Unique Entry ID": "dtKmyfWf7S2nyer8g",
+    "Url": "=FORMULATEXT(B199)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7161,7 +7359,8 @@
     "Filename": "ShoesLowcutKateheel4",
     "ClothGroup ID": 1135,
     "Internal ID": 11769,
-    "Unique Entry ID": "tyTvXLX3dX8qtecHz"
+    "Unique Entry ID": "tyTvXLX3dX8qtecHz",
+    "Url": "=FORMULATEXT(B200)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7197,7 +7396,8 @@
     "Filename": "ShoesLowcutKateheel3",
     "ClothGroup ID": 1135,
     "Internal ID": 11768,
-    "Unique Entry ID": "mSbTfdnHdwzyjQ3E8"
+    "Unique Entry ID": "mSbTfdnHdwzyjQ3E8",
+    "Url": "=FORMULATEXT(B201)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7233,7 +7433,8 @@
     "Filename": "ShoesLowcutKateheel0",
     "ClothGroup ID": 1135,
     "Internal ID": 9884,
-    "Unique Entry ID": "sEJGhBBxTL7qWJE4M"
+    "Unique Entry ID": "sEJGhBBxTL7qWJE4M",
+    "Url": "=FORMULATEXT(B202)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7269,7 +7470,8 @@
     "Filename": "ShoesHighcutKatesneaker1",
     "ClothGroup ID": 1136,
     "Internal ID": 11771,
-    "Unique Entry ID": "5hkTnYdABuHSECmDm"
+    "Unique Entry ID": "5hkTnYdABuHSECmDm",
+    "Url": "=FORMULATEXT(B203)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7305,7 +7507,8 @@
     "Filename": "ShoesHighcutKatesneaker2",
     "ClothGroup ID": 1136,
     "Internal ID": 11772,
-    "Unique Entry ID": "Ed6wWhidegCLG2DAM"
+    "Unique Entry ID": "Ed6wWhidegCLG2DAM",
+    "Url": "=FORMULATEXT(B204)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7341,7 +7544,8 @@
     "Filename": "ShoesHighcutKatesneaker5",
     "ClothGroup ID": 1136,
     "Internal ID": 11775,
-    "Unique Entry ID": "sb4a63H75Cd2SbNFA"
+    "Unique Entry ID": "sb4a63H75Cd2SbNFA",
+    "Url": "=FORMULATEXT(B205)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7377,7 +7581,8 @@
     "Filename": "ShoesHighcutKatesneaker4",
     "ClothGroup ID": 1136,
     "Internal ID": 11774,
-    "Unique Entry ID": "GvsavAFMFoXuPMDbR"
+    "Unique Entry ID": "GvsavAFMFoXuPMDbR",
+    "Url": "=FORMULATEXT(B206)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7413,7 +7618,8 @@
     "Filename": "ShoesHighcutKatesneaker3",
     "ClothGroup ID": 1136,
     "Internal ID": 11773,
-    "Unique Entry ID": "unwHxhSKXYSngG4Qj"
+    "Unique Entry ID": "unwHxhSKXYSngG4Qj",
+    "Url": "=FORMULATEXT(B207)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7449,7 +7655,8 @@
     "Filename": "ShoesHighcutKatesneaker0",
     "ClothGroup ID": 1136,
     "Internal ID": 9885,
-    "Unique Entry ID": "YRtQpMnJxg9nNHL5A"
+    "Unique Entry ID": "YRtQpMnJxg9nNHL5A",
+    "Url": "=FORMULATEXT(B208)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7485,7 +7692,8 @@
     "Filename": "ShoesKneeLaceup1",
     "ClothGroup ID": 820,
     "Internal ID": 11257,
-    "Unique Entry ID": "vMF7xDM6WkNnoSn5g"
+    "Unique Entry ID": "vMF7xDM6WkNnoSn5g",
+    "Url": "=FORMULATEXT(B209)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7521,7 +7729,8 @@
     "Filename": "ShoesKneeLaceup0",
     "ClothGroup ID": 820,
     "Internal ID": 5667,
-    "Unique Entry ID": "sNmoLH8tnpNCC5X4z"
+    "Unique Entry ID": "sNmoLH8tnpNCC5X4z",
+    "Url": "=FORMULATEXT(B210)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7557,7 +7766,8 @@
     "Filename": "ShoesKneeLaceup3",
     "ClothGroup ID": 820,
     "Internal ID": 11259,
-    "Unique Entry ID": "fP7ujb2fhYNT3RWZ7"
+    "Unique Entry ID": "fP7ujb2fhYNT3RWZ7",
+    "Url": "=FORMULATEXT(B211)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7593,7 +7803,8 @@
     "Filename": "ShoesKneeLaceup2",
     "ClothGroup ID": 820,
     "Internal ID": 11258,
-    "Unique Entry ID": "7ztxnCQz2E5TFXv57"
+    "Unique Entry ID": "7ztxnCQz2E5TFXv57",
+    "Url": "=FORMULATEXT(B212)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7629,7 +7840,8 @@
     "Filename": "ShoesLowcutEggleaf0",
     "ClothGroup ID": 1213,
     "Internal ID": 12457,
-    "Unique Entry ID": "LE3RpADLBDaJ7hHNP"
+    "Unique Entry ID": "LE3RpADLBDaJ7hHNP",
+    "Url": "=FORMULATEXT(B213)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7665,7 +7877,8 @@
     "Filename": "ShoesLowcutLeopard1",
     "ClothGroup ID": 768,
     "Internal ID": 10132,
-    "Unique Entry ID": "4dWXRYLHywa22CiDJ"
+    "Unique Entry ID": "4dWXRYLHywa22CiDJ",
+    "Url": "=FORMULATEXT(B214)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7701,7 +7914,8 @@
     "Filename": "ShoesLowcutLeopard5",
     "ClothGroup ID": 768,
     "Internal ID": 10136,
-    "Unique Entry ID": "F9dwiM2YcJy8C8kBZ"
+    "Unique Entry ID": "F9dwiM2YcJy8C8kBZ",
+    "Url": "=FORMULATEXT(B215)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7737,7 +7951,8 @@
     "Filename": "ShoesLowcutLeopard3",
     "ClothGroup ID": 768,
     "Internal ID": 10134,
-    "Unique Entry ID": "TcbC2LDWxS5iHeSqm"
+    "Unique Entry ID": "TcbC2LDWxS5iHeSqm",
+    "Url": "=FORMULATEXT(B216)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7773,7 +7988,8 @@
     "Filename": "ShoesLowcutLeopard2",
     "ClothGroup ID": 768,
     "Internal ID": 10133,
-    "Unique Entry ID": "AnEBDgrZ4523Ndji9"
+    "Unique Entry ID": "AnEBDgrZ4523Ndji9",
+    "Url": "=FORMULATEXT(B217)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7809,7 +8025,8 @@
     "Filename": "ShoesLowcutLeopard4",
     "ClothGroup ID": 768,
     "Internal ID": 10135,
-    "Unique Entry ID": "2nK5kvg7qiEdpxFCN"
+    "Unique Entry ID": "2nK5kvg7qiEdpxFCN",
+    "Url": "=FORMULATEXT(B218)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7845,7 +8062,8 @@
     "Filename": "ShoesLowcutLeopard0",
     "ClothGroup ID": 768,
     "Internal ID": 5477,
-    "Unique Entry ID": "Ey7Y3uBu6WKm8y8ct"
+    "Unique Entry ID": "Ey7Y3uBu6WKm8y8ct",
+    "Url": "=FORMULATEXT(B219)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7881,7 +8099,8 @@
     "Filename": "ShoesLowcutLoafers2",
     "ClothGroup ID": 522,
     "Internal ID": 11450,
-    "Unique Entry ID": "pKntHcedJhPRZKHmf"
+    "Unique Entry ID": "pKntHcedJhPRZKHmf",
+    "Url": "=FORMULATEXT(B220)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7917,7 +8136,8 @@
     "Filename": "ShoesLowcutLoafers1",
     "ClothGroup ID": 522,
     "Internal ID": 11449,
-    "Unique Entry ID": "nKNWYa5dKmARM7SvT"
+    "Unique Entry ID": "nKNWYa5dKmARM7SvT",
+    "Url": "=FORMULATEXT(B221)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7953,7 +8173,8 @@
     "Filename": "ShoesLowcutLoafers6",
     "ClothGroup ID": 522,
     "Internal ID": 11454,
-    "Unique Entry ID": "PukSQjXvyYzFeZqcD"
+    "Unique Entry ID": "PukSQjXvyYzFeZqcD",
+    "Url": "=FORMULATEXT(B222)"
   },
   {
     "SourceSheet": "Shoes",
@@ -7989,7 +8210,8 @@
     "Filename": "ShoesLowcutLoafers3",
     "ClothGroup ID": 522,
     "Internal ID": 11451,
-    "Unique Entry ID": "fPPRtqopYqbAny4As"
+    "Unique Entry ID": "fPPRtqopYqbAny4As",
+    "Url": "=FORMULATEXT(B223)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8025,7 +8247,8 @@
     "Filename": "ShoesLowcutLoafers5",
     "ClothGroup ID": 522,
     "Internal ID": 11453,
-    "Unique Entry ID": "yQbPEnufsfMi3W3bX"
+    "Unique Entry ID": "yQbPEnufsfMi3W3bX",
+    "Url": "=FORMULATEXT(B224)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8061,7 +8284,8 @@
     "Filename": "ShoesLowcutLoafers4",
     "ClothGroup ID": 522,
     "Internal ID": 11452,
-    "Unique Entry ID": "KZbcJ6Y2azsNN5CQp"
+    "Unique Entry ID": "KZbcJ6Y2azsNN5CQp",
+    "Url": "=FORMULATEXT(B225)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8097,7 +8321,8 @@
     "Filename": "ShoesLowcutLoafers0",
     "ClothGroup ID": 522,
     "Internal ID": 4724,
-    "Unique Entry ID": "XyqDFz4BRSEzksRqq"
+    "Unique Entry ID": "XyqDFz4BRSEzksRqq",
+    "Url": "=FORMULATEXT(B226)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8133,7 +8358,8 @@
     "Filename": "ShoesLowcutLuigi0",
     "ClothGroup ID": 1355,
     "Internal ID": 14243,
-    "Unique Entry ID": "wmbcgSCQvb7o7Rrfq"
+    "Unique Entry ID": "wmbcgSCQvb7o7Rrfq",
+    "Url": "=FORMULATEXT(B227)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8169,7 +8395,8 @@
     "Filename": "ShoesKneeWitch2",
     "ClothGroup ID": 947,
     "Internal ID": 11562,
-    "Unique Entry ID": "ncnoEonPFECoYQJdP"
+    "Unique Entry ID": "ncnoEonPFECoYQJdP",
+    "Url": "=FORMULATEXT(B228)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8205,7 +8432,8 @@
     "Filename": "ShoesKneeWitch0",
     "ClothGroup ID": 947,
     "Internal ID": 6894,
-    "Unique Entry ID": "tKv2qT7NoEHtYiP4n"
+    "Unique Entry ID": "tKv2qT7NoEHtYiP4n",
+    "Url": "=FORMULATEXT(B229)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8241,7 +8469,8 @@
     "Filename": "ShoesKneeWitch3",
     "ClothGroup ID": 947,
     "Internal ID": 11563,
-    "Unique Entry ID": "XczPtA2SGxvdSmuwH"
+    "Unique Entry ID": "XczPtA2SGxvdSmuwH",
+    "Url": "=FORMULATEXT(B230)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8277,7 +8506,8 @@
     "Filename": "ShoesKneeWitch1",
     "ClothGroup ID": 947,
     "Internal ID": 11561,
-    "Unique Entry ID": "mbi2SGaxxTc9DCKqb"
+    "Unique Entry ID": "mbi2SGaxxTc9DCKqb",
+    "Url": "=FORMULATEXT(B231)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8313,7 +8543,8 @@
     "Filename": "ShoesHighcutHalloween2",
     "ClothGroup ID": 1270,
     "Internal ID": 13429,
-    "Unique Entry ID": "SAWt75Q3tmy3FkGxK"
+    "Unique Entry ID": "SAWt75Q3tmy3FkGxK",
+    "Url": "=FORMULATEXT(B232)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8349,7 +8580,8 @@
     "Filename": "ShoesHighcutHalloween5",
     "ClothGroup ID": 1270,
     "Internal ID": 13432,
-    "Unique Entry ID": "2XpnxfZiEcYTMpnMe"
+    "Unique Entry ID": "2XpnxfZiEcYTMpnMe",
+    "Url": "=FORMULATEXT(B233)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8385,7 +8617,8 @@
     "Filename": "ShoesHighcutHalloween4",
     "ClothGroup ID": 1270,
     "Internal ID": 13431,
-    "Unique Entry ID": "mbvd8qjgLcbYqbdrp"
+    "Unique Entry ID": "mbvd8qjgLcbYqbdrp",
+    "Url": "=FORMULATEXT(B234)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8421,7 +8654,8 @@
     "Filename": "ShoesHighcutHalloween0",
     "ClothGroup ID": 1270,
     "Internal ID": 13017,
-    "Unique Entry ID": "n8voGjcfJRKCyMufq"
+    "Unique Entry ID": "n8voGjcfJRKCyMufq",
+    "Url": "=FORMULATEXT(B235)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8457,7 +8691,8 @@
     "Filename": "ShoesHighcutHalloween3",
     "ClothGroup ID": 1270,
     "Internal ID": 13430,
-    "Unique Entry ID": "bSfHxxko9arfbYxzp"
+    "Unique Entry ID": "bSfHxxko9arfbYxzp",
+    "Url": "=FORMULATEXT(B236)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8493,7 +8728,8 @@
     "Filename": "ShoesHighcutHalloween1",
     "ClothGroup ID": 1270,
     "Internal ID": 13428,
-    "Unique Entry ID": "nup9WHEL4uR7MKHKL"
+    "Unique Entry ID": "nup9WHEL4uR7MKHKL",
+    "Url": "=FORMULATEXT(B237)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8529,7 +8765,8 @@
     "Filename": "ShoesLowcutMario0",
     "ClothGroup ID": 1328,
     "Internal ID": 13561,
-    "Unique Entry ID": "HbYx7STTR4DrGH2ST"
+    "Unique Entry ID": "HbYx7STTR4DrGH2ST",
+    "Url": "=FORMULATEXT(B238)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8565,7 +8802,8 @@
     "Filename": "ShoesLowcutStrap2",
     "ClothGroup ID": 762,
     "Internal ID": 10163,
-    "Unique Entry ID": "fs9C7jNtLwxKADExm"
+    "Unique Entry ID": "fs9C7jNtLwxKADExm",
+    "Url": "=FORMULATEXT(B239)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8601,7 +8839,8 @@
     "Filename": "ShoesLowcutStrap0",
     "ClothGroup ID": 762,
     "Internal ID": 5471,
-    "Unique Entry ID": "tcPAf8PdxWMPJ56TC"
+    "Unique Entry ID": "tcPAf8PdxWMPJ56TC",
+    "Url": "=FORMULATEXT(B240)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8637,7 +8876,8 @@
     "Filename": "ShoesLowcutStrap1",
     "ClothGroup ID": 762,
     "Internal ID": 10162,
-    "Unique Entry ID": "fhovDJCbyJ4ECSeEr"
+    "Unique Entry ID": "fhovDJCbyJ4ECSeEr",
+    "Url": "=FORMULATEXT(B241)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8673,7 +8913,8 @@
     "Filename": "ShoesLowcutStrap7",
     "ClothGroup ID": 762,
     "Internal ID": 10168,
-    "Unique Entry ID": "HyyFEEoddMkfGhZKN"
+    "Unique Entry ID": "HyyFEEoddMkfGhZKN",
+    "Url": "=FORMULATEXT(B242)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8709,7 +8950,8 @@
     "Filename": "ShoesLowcutStrap4",
     "ClothGroup ID": 762,
     "Internal ID": 10165,
-    "Unique Entry ID": "STYMB3qiDR7pocoAt"
+    "Unique Entry ID": "STYMB3qiDR7pocoAt",
+    "Url": "=FORMULATEXT(B243)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8745,7 +8987,8 @@
     "Filename": "ShoesLowcutStrap6",
     "ClothGroup ID": 762,
     "Internal ID": 10167,
-    "Unique Entry ID": "XgJAZ7yWs43DKkfjm"
+    "Unique Entry ID": "XgJAZ7yWs43DKkfjm",
+    "Url": "=FORMULATEXT(B244)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8781,7 +9024,8 @@
     "Filename": "ShoesLowcutStrap3",
     "ClothGroup ID": 762,
     "Internal ID": 10164,
-    "Unique Entry ID": "3vTqRmCZpmeQWANB9"
+    "Unique Entry ID": "3vTqRmCZpmeQWANB9",
+    "Url": "=FORMULATEXT(B245)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8817,7 +9061,8 @@
     "Filename": "ShoesLowcutStrap5",
     "ClothGroup ID": 762,
     "Internal ID": 10166,
-    "Unique Entry ID": "P2y3oTkbFmXHwSSDx"
+    "Unique Entry ID": "P2y3oTkbFmXHwSSDx",
+    "Url": "=FORMULATEXT(B246)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8853,7 +9098,8 @@
     "Filename": "ShoesLowcutMermaid0",
     "ClothGroup ID": 1223,
     "Internal ID": 12660,
-    "Unique Entry ID": "8iHuRzCYLdvJauWuf"
+    "Unique Entry ID": "8iHuRzCYLdvJauWuf",
+    "Url": "=FORMULATEXT(B247)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8889,7 +9135,8 @@
     "Filename": "ShoesLowcutMermaid1",
     "ClothGroup ID": 1223,
     "Internal ID": 13087,
-    "Unique Entry ID": "gYHhF8dKtAEM8aQwe"
+    "Unique Entry ID": "gYHhF8dKtAEM8aQwe",
+    "Url": "=FORMULATEXT(B248)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8925,7 +9172,8 @@
     "Filename": "ShoesHighcutMoccasin4",
     "ClothGroup ID": 780,
     "Internal ID": 11459,
-    "Unique Entry ID": "8oSWwD9gw84jXsvEm"
+    "Unique Entry ID": "8oSWwD9gw84jXsvEm",
+    "Url": "=FORMULATEXT(B249)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8961,7 +9209,8 @@
     "Filename": "ShoesHighcutMoccasin3",
     "ClothGroup ID": 780,
     "Internal ID": 11458,
-    "Unique Entry ID": "EizwkphgKRHNZjqdS"
+    "Unique Entry ID": "EizwkphgKRHNZjqdS",
+    "Url": "=FORMULATEXT(B250)"
   },
   {
     "SourceSheet": "Shoes",
@@ -8997,7 +9246,8 @@
     "Filename": "ShoesHighcutMoccasin0",
     "ClothGroup ID": 780,
     "Internal ID": 5542,
-    "Unique Entry ID": "6a8aJ5Ca4uJXRn5cF"
+    "Unique Entry ID": "6a8aJ5Ca4uJXRn5cF",
+    "Url": "=FORMULATEXT(B251)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9033,7 +9283,8 @@
     "Filename": "ShoesHighcutMoccasin1",
     "ClothGroup ID": 780,
     "Internal ID": 11456,
-    "Unique Entry ID": "6ufhuatgmDBKgNCZL"
+    "Unique Entry ID": "6ufhuatgmDBKgNCZL",
+    "Url": "=FORMULATEXT(B252)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9069,7 +9320,8 @@
     "Filename": "ShoesHighcutMoccasin5",
     "ClothGroup ID": 780,
     "Internal ID": 11460,
-    "Unique Entry ID": "AzNm6SnygdC6nD69M"
+    "Unique Entry ID": "AzNm6SnygdC6nD69M",
+    "Url": "=FORMULATEXT(B253)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9105,7 +9357,8 @@
     "Filename": "ShoesHighcutMoccasin6",
     "ClothGroup ID": 780,
     "Internal ID": 11461,
-    "Unique Entry ID": "S75a7Lg4LsrZWdE7u"
+    "Unique Entry ID": "S75a7Lg4LsrZWdE7u",
+    "Url": "=FORMULATEXT(B254)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9141,7 +9394,8 @@
     "Filename": "ShoesHighcutMoccasin2",
     "ClothGroup ID": 780,
     "Internal ID": 11457,
-    "Unique Entry ID": "L4cyTp779xTQr4dem"
+    "Unique Entry ID": "L4cyTp779xTQr4dem",
+    "Url": "=FORMULATEXT(B255)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9177,7 +9431,8 @@
     "Filename": "ShoesLowcutMoccasin3",
     "ClothGroup ID": 881,
     "Internal ID": 11467,
-    "Unique Entry ID": "EEsaJmPjGLnXNxFKm"
+    "Unique Entry ID": "EEsaJmPjGLnXNxFKm",
+    "Url": "=FORMULATEXT(B256)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9213,7 +9468,8 @@
     "Filename": "ShoesLowcutMoccasin5",
     "ClothGroup ID": 881,
     "Internal ID": 11469,
-    "Unique Entry ID": "4unvwzJxsS3XjpfuB"
+    "Unique Entry ID": "4unvwzJxsS3XjpfuB",
+    "Url": "=FORMULATEXT(B257)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9249,7 +9505,8 @@
     "Filename": "ShoesLowcutMoccasin6",
     "ClothGroup ID": 881,
     "Internal ID": 11470,
-    "Unique Entry ID": "qzZAMBDZCAjRFFD8v"
+    "Unique Entry ID": "qzZAMBDZCAjRFFD8v",
+    "Url": "=FORMULATEXT(B258)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9285,7 +9542,8 @@
     "Filename": "ShoesLowcutMoccasin1",
     "ClothGroup ID": 881,
     "Internal ID": 11465,
-    "Unique Entry ID": "tHHXagqyKFSz4f8w8"
+    "Unique Entry ID": "tHHXagqyKFSz4f8w8",
+    "Url": "=FORMULATEXT(B259)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9321,7 +9579,8 @@
     "Filename": "ShoesLowcutMoccasin4",
     "ClothGroup ID": 881,
     "Internal ID": 11468,
-    "Unique Entry ID": "pBBdogRTWvdxBems7"
+    "Unique Entry ID": "pBBdogRTWvdxBems7",
+    "Url": "=FORMULATEXT(B260)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9357,7 +9616,8 @@
     "Filename": "ShoesLowcutMoccasin0",
     "ClothGroup ID": 881,
     "Internal ID": 5807,
-    "Unique Entry ID": "SpvHngyJ9AuiKwYzm"
+    "Unique Entry ID": "SpvHngyJ9AuiKwYzm",
+    "Url": "=FORMULATEXT(B261)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9393,7 +9653,8 @@
     "Filename": "ShoesLowcutMoccasin2",
     "ClothGroup ID": 881,
     "Internal ID": 11466,
-    "Unique Entry ID": "DjFwDzv5JsXzbBh7n"
+    "Unique Entry ID": "DjFwDzv5JsXzbBh7n",
+    "Url": "=FORMULATEXT(B262)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9429,7 +9690,8 @@
     "Filename": "ShoesKneeMymelody0",
     "ClothGroup ID": 1283,
     "Internal ID": 13169,
-    "Unique Entry ID": "Je6ZNwKpFnNBGkp92"
+    "Unique Entry ID": "Je6ZNwKpFnNBGkp92",
+    "Url": "=FORMULATEXT(B263)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9465,7 +9727,8 @@
     "Filename": "ShoesSandalRco",
     "ClothGroup ID": 1145,
     "Internal ID": 5630,
-    "Unique Entry ID": "Aba2jKEYFb3ZSzoWv"
+    "Unique Entry ID": "Aba2jKEYFb3ZSzoWv",
+    "Url": "=FORMULATEXT(B264)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9501,7 +9764,8 @@
     "Filename": "ShoesSandalOutdoor6",
     "ClothGroup ID": 802,
     "Internal ID": 10712,
-    "Unique Entry ID": "iZnEdXRHGkB8upzKY"
+    "Unique Entry ID": "iZnEdXRHGkB8upzKY",
+    "Url": "=FORMULATEXT(B265)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9537,7 +9801,8 @@
     "Filename": "ShoesSandalOutdoor7",
     "ClothGroup ID": 802,
     "Internal ID": 10713,
-    "Unique Entry ID": "TxWPbv6SR2kkQ5qW6"
+    "Unique Entry ID": "TxWPbv6SR2kkQ5qW6",
+    "Url": "=FORMULATEXT(B266)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9573,7 +9838,8 @@
     "Filename": "ShoesSandalOutdoor1",
     "ClothGroup ID": 802,
     "Internal ID": 10707,
-    "Unique Entry ID": "mfmnkmNpSzWgKcRsT"
+    "Unique Entry ID": "mfmnkmNpSzWgKcRsT",
+    "Url": "=FORMULATEXT(B267)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9609,7 +9875,8 @@
     "Filename": "ShoesSandalOutdoor5",
     "ClothGroup ID": 802,
     "Internal ID": 10711,
-    "Unique Entry ID": "4PqGRqeQ7CzcnXt2P"
+    "Unique Entry ID": "4PqGRqeQ7CzcnXt2P",
+    "Url": "=FORMULATEXT(B268)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9645,7 +9912,8 @@
     "Filename": "ShoesSandalOutdoor4",
     "ClothGroup ID": 802,
     "Internal ID": 10710,
-    "Unique Entry ID": "CvPPDbRnzFKKBSFSC"
+    "Unique Entry ID": "CvPPDbRnzFKKBSFSC",
+    "Url": "=FORMULATEXT(B269)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9681,7 +9949,8 @@
     "Filename": "ShoesSandalOutdoor0",
     "ClothGroup ID": 802,
     "Internal ID": 5640,
-    "Unique Entry ID": "BnWQmdRpMLoHthF3j"
+    "Unique Entry ID": "BnWQmdRpMLoHthF3j",
+    "Url": "=FORMULATEXT(B270)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9717,7 +9986,8 @@
     "Filename": "ShoesSandalOutdoor2",
     "ClothGroup ID": 802,
     "Internal ID": 10708,
-    "Unique Entry ID": "QaPK5tMTrBohRYkzh"
+    "Unique Entry ID": "QaPK5tMTrBohRYkzh",
+    "Url": "=FORMULATEXT(B271)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9753,7 +10023,8 @@
     "Filename": "ShoesSandalOutdoor3",
     "ClothGroup ID": 802,
     "Internal ID": 10709,
-    "Unique Entry ID": "6xpDCB24AbaE99KCF"
+    "Unique Entry ID": "6xpDCB24AbaE99KCF",
+    "Url": "=FORMULATEXT(B272)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9789,7 +10060,8 @@
     "Filename": "ShoesSandalTakumi0",
     "ClothGroup ID": 1419,
     "Internal ID": 14461,
-    "Unique Entry ID": "iMFeAuKcn5mao3Gnc"
+    "Unique Entry ID": "iMFeAuKcn5mao3Gnc",
+    "Url": "=FORMULATEXT(B273)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9825,7 +10097,8 @@
     "Filename": "ShoesLowcutTakumislipper0",
     "ClothGroup ID": 1420,
     "Internal ID": 14462,
-    "Unique Entry ID": "eEJQD4gBa9Rxpa4v4"
+    "Unique Entry ID": "eEJQD4gBa9Rxpa4v4",
+    "Url": "=FORMULATEXT(B274)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9861,7 +10134,8 @@
     "Filename": "ShoesLowcutAnimal2",
     "ClothGroup ID": 760,
     "Internal ID": 10977,
-    "Unique Entry ID": "yrXceyd3fyhzg4PDD"
+    "Unique Entry ID": "yrXceyd3fyhzg4PDD",
+    "Url": "=FORMULATEXT(B275)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9897,7 +10171,8 @@
     "Filename": "ShoesLowcutAnimal4",
     "ClothGroup ID": 760,
     "Internal ID": 10979,
-    "Unique Entry ID": "7uDbKzSsn9M4YjKD8"
+    "Unique Entry ID": "7uDbKzSsn9M4YjKD8",
+    "Url": "=FORMULATEXT(B276)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9933,7 +10208,8 @@
     "Filename": "ShoesLowcutAnimal0",
     "ClothGroup ID": 760,
     "Internal ID": 5469,
-    "Unique Entry ID": "zPA3tiBnSWjb49scP"
+    "Unique Entry ID": "zPA3tiBnSWjb49scP",
+    "Url": "=FORMULATEXT(B277)"
   },
   {
     "SourceSheet": "Shoes",
@@ -9969,7 +10245,8 @@
     "Filename": "ShoesLowcutAnimal3",
     "ClothGroup ID": 760,
     "Internal ID": 10978,
-    "Unique Entry ID": "moK7LvPta9MKL6WKP"
+    "Unique Entry ID": "moK7LvPta9MKL6WKP",
+    "Url": "=FORMULATEXT(B278)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10005,7 +10282,8 @@
     "Filename": "ShoesLowcutAnimal1",
     "ClothGroup ID": 760,
     "Internal ID": 10976,
-    "Unique Entry ID": "QuqDNpdRXWXzHKY9h"
+    "Unique Entry ID": "QuqDNpdRXWXzHKY9h",
+    "Url": "=FORMULATEXT(B279)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10041,7 +10319,8 @@
     "Filename": "ShoesLowcutBeans0",
     "ClothGroup ID": 1524,
     "Internal ID": 1122,
-    "Unique Entry ID": "jctiRN63ddkGmHEXE"
+    "Unique Entry ID": "jctiRN63ddkGmHEXE",
+    "Url": "=FORMULATEXT(B280)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10077,7 +10356,8 @@
     "Filename": "ShoesKneePirates0",
     "ClothGroup ID": 1228,
     "Internal ID": 12665,
-    "Unique Entry ID": "zAZBCXyxcZiXQJeGt"
+    "Unique Entry ID": "zAZBCXyxcZiXQJeGt",
+    "Url": "=FORMULATEXT(B281)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10113,7 +10393,8 @@
     "Filename": "ShoesHighcutShortboots1",
     "ClothGroup ID": 765,
     "Internal ID": 11679,
-    "Unique Entry ID": "ckPxzgw73nbjWg6Bq"
+    "Unique Entry ID": "ckPxzgw73nbjWg6Bq",
+    "Url": "=FORMULATEXT(B282)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10149,7 +10430,8 @@
     "Filename": "ShoesHighcutShortboots3",
     "ClothGroup ID": 765,
     "Internal ID": 11681,
-    "Unique Entry ID": "ubApDpnHA6xBoteSP"
+    "Unique Entry ID": "ubApDpnHA6xBoteSP",
+    "Url": "=FORMULATEXT(B283)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10185,7 +10467,8 @@
     "Filename": "ShoesHighcutShortboots2",
     "ClothGroup ID": 765,
     "Internal ID": 11680,
-    "Unique Entry ID": "zvnxRiA7p4LpjtsD9"
+    "Unique Entry ID": "zvnxRiA7p4LpjtsD9",
+    "Url": "=FORMULATEXT(B284)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10221,7 +10504,8 @@
     "Filename": "ShoesHighcutShortboots0",
     "ClothGroup ID": 765,
     "Internal ID": 5474,
-    "Unique Entry ID": "QSxtJ4L7qnMs3AmhT"
+    "Unique Entry ID": "QSxtJ4L7qnMs3AmhT",
+    "Url": "=FORMULATEXT(B285)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10257,7 +10541,8 @@
     "Filename": "ShoesLowcutLeathersneker0",
     "ClothGroup ID": 517,
     "Internal ID": 4716,
-    "Unique Entry ID": "MvyqYcx2cPGoDnG2F"
+    "Unique Entry ID": "MvyqYcx2cPGoDnG2F",
+    "Url": "=FORMULATEXT(B286)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10293,7 +10578,8 @@
     "Filename": "ShoesLowcutLeathersneker1",
     "ClothGroup ID": 517,
     "Internal ID": 10046,
-    "Unique Entry ID": "meSAwpgrLaXYTZ6PM"
+    "Unique Entry ID": "meSAwpgrLaXYTZ6PM",
+    "Url": "=FORMULATEXT(B287)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10329,7 +10615,8 @@
     "Filename": "ShoesLowcutLeathersneker2",
     "ClothGroup ID": 517,
     "Internal ID": 10047,
-    "Unique Entry ID": "6MRPf3xicDyzPnwTT"
+    "Unique Entry ID": "6MRPf3xicDyzPnwTT",
+    "Url": "=FORMULATEXT(B288)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10365,7 +10652,8 @@
     "Filename": "ShoesLowcutLeathersneker7",
     "ClothGroup ID": 517,
     "Internal ID": 10052,
-    "Unique Entry ID": "hnwirvwCRgHHG9oSM"
+    "Unique Entry ID": "hnwirvwCRgHHG9oSM",
+    "Url": "=FORMULATEXT(B289)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10401,7 +10689,8 @@
     "Filename": "ShoesLowcutLeathersneker5",
     "ClothGroup ID": 517,
     "Internal ID": 10050,
-    "Unique Entry ID": "XkKrKvtQ7WtaoPAFR"
+    "Unique Entry ID": "XkKrKvtQ7WtaoPAFR",
+    "Url": "=FORMULATEXT(B290)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10437,7 +10726,8 @@
     "Filename": "ShoesLowcutLeathersneker3",
     "ClothGroup ID": 517,
     "Internal ID": 10048,
-    "Unique Entry ID": "wZN8iiWBhegci4vH8"
+    "Unique Entry ID": "wZN8iiWBhegci4vH8",
+    "Url": "=FORMULATEXT(B291)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10473,7 +10763,8 @@
     "Filename": "ShoesLowcutLeathersneker6",
     "ClothGroup ID": 517,
     "Internal ID": 10051,
-    "Unique Entry ID": "YyTT7rtusTv5i2kf7"
+    "Unique Entry ID": "YyTT7rtusTv5i2kf7",
+    "Url": "=FORMULATEXT(B292)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10509,7 +10800,8 @@
     "Filename": "ShoesLowcutLeathersneker4",
     "ClothGroup ID": 517,
     "Internal ID": 10049,
-    "Unique Entry ID": "TJn6f2GivkPh3wNCW"
+    "Unique Entry ID": "TJn6f2GivkPh3wNCW",
+    "Url": "=FORMULATEXT(B293)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10545,7 +10837,8 @@
     "Filename": "ShoesHighcutBobbles6",
     "ClothGroup ID": 782,
     "Internal ID": 11694,
-    "Unique Entry ID": "PyrYHQEgWYw5A5xxe"
+    "Unique Entry ID": "PyrYHQEgWYw5A5xxe",
+    "Url": "=FORMULATEXT(B294)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10581,7 +10874,8 @@
     "Filename": "ShoesHighcutBobbles1",
     "ClothGroup ID": 782,
     "Internal ID": 6860,
-    "Unique Entry ID": "jwWqyc6DdM7qBStcR"
+    "Unique Entry ID": "jwWqyc6DdM7qBStcR",
+    "Url": "=FORMULATEXT(B295)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10617,7 +10911,8 @@
     "Filename": "ShoesHighcutBobbles0",
     "ClothGroup ID": 782,
     "Internal ID": 5545,
-    "Unique Entry ID": "ikoDt2wBKC4tMdMTd"
+    "Unique Entry ID": "ikoDt2wBKC4tMdMTd",
+    "Url": "=FORMULATEXT(B296)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10653,7 +10948,8 @@
     "Filename": "ShoesHighcutBobbles2",
     "ClothGroup ID": 782,
     "Internal ID": 6867,
-    "Unique Entry ID": "rSXv7GNTw2kzXvDMh"
+    "Unique Entry ID": "rSXv7GNTw2kzXvDMh",
+    "Url": "=FORMULATEXT(B297)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10689,7 +10985,8 @@
     "Filename": "ShoesHighcutBobbles4",
     "ClothGroup ID": 782,
     "Internal ID": 11692,
-    "Unique Entry ID": "6SYe4Ap54nWGsCEFY"
+    "Unique Entry ID": "6SYe4Ap54nWGsCEFY",
+    "Url": "=FORMULATEXT(B298)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10725,7 +11022,8 @@
     "Filename": "ShoesHighcutBobbles5",
     "ClothGroup ID": 782,
     "Internal ID": 11693,
-    "Unique Entry ID": "ZbvBuyaGsoBguhSP7"
+    "Unique Entry ID": "ZbvBuyaGsoBguhSP7",
+    "Url": "=FORMULATEXT(B299)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10761,7 +11059,8 @@
     "Filename": "ShoesHighcutBobbles3",
     "ClothGroup ID": 782,
     "Internal ID": 11691,
-    "Unique Entry ID": "gNQ8dYScE5ZRJ4F6z"
+    "Unique Entry ID": "gNQ8dYScE5ZRJ4F6z",
+    "Url": "=FORMULATEXT(B300)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10797,7 +11096,8 @@
     "Filename": "ShoesKneePurin0",
     "ClothGroup ID": 1290,
     "Internal ID": 13177,
-    "Unique Entry ID": "tHqMdAonCqYCs6Ywc"
+    "Unique Entry ID": "tHqMdAonCqYCs6Ywc",
+    "Url": "=FORMULATEXT(B301)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10833,7 +11133,8 @@
     "Filename": "ShoesKneePowered3",
     "ClothGroup ID": 839,
     "Internal ID": 11799,
-    "Unique Entry ID": "7hsm7pbTKWbeaqHQc"
+    "Unique Entry ID": "7hsm7pbTKWbeaqHQc",
+    "Url": "=FORMULATEXT(B302)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10869,7 +11170,8 @@
     "Filename": "ShoesKneePowered0",
     "ClothGroup ID": 839,
     "Internal ID": 5698,
-    "Unique Entry ID": "EdeJCph8C4rwyyeDF"
+    "Unique Entry ID": "EdeJCph8C4rwyyeDF",
+    "Url": "=FORMULATEXT(B303)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10905,7 +11207,8 @@
     "Filename": "ShoesKneePowered2",
     "ClothGroup ID": 839,
     "Internal ID": 11798,
-    "Unique Entry ID": "hMfdaCgqqdYB5SxcT"
+    "Unique Entry ID": "hMfdaCgqqdYB5SxcT",
+    "Url": "=FORMULATEXT(B304)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10941,7 +11244,8 @@
     "Filename": "ShoesKneePowered1",
     "ClothGroup ID": 839,
     "Internal ID": 11797,
-    "Unique Entry ID": "7Ps3tA9FuZdMPHFhN"
+    "Unique Entry ID": "7Ps3tA9FuZdMPHFhN",
+    "Url": "=FORMULATEXT(B305)"
   },
   {
     "SourceSheet": "Shoes",
@@ -10977,7 +11281,8 @@
     "Filename": "ShoesLowcutPeach0",
     "ClothGroup ID": 1331,
     "Internal ID": 13602,
-    "Unique Entry ID": "fw57xy8hY4oPPFkLd"
+    "Unique Entry ID": "fw57xy8hY4oPPFkLd",
+    "Url": "=FORMULATEXT(B306)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11013,7 +11318,8 @@
     "Filename": "ShoesKneeRainboots7",
     "ClothGroup ID": 529,
     "Internal ID": 11557,
-    "Unique Entry ID": "dBLH9boiqRY25CAkE"
+    "Unique Entry ID": "dBLH9boiqRY25CAkE",
+    "Url": "=FORMULATEXT(B307)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11049,7 +11355,8 @@
     "Filename": "ShoesKneeRainboots5",
     "ClothGroup ID": 529,
     "Internal ID": 11555,
-    "Unique Entry ID": "TBaCCXwZQrPpXfyRc"
+    "Unique Entry ID": "TBaCCXwZQrPpXfyRc",
+    "Url": "=FORMULATEXT(B308)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11085,7 +11392,8 @@
     "Filename": "ShoesKneeRainboots4",
     "ClothGroup ID": 529,
     "Internal ID": 11554,
-    "Unique Entry ID": "FHjX8EryuvqR8Lriq"
+    "Unique Entry ID": "FHjX8EryuvqR8Lriq",
+    "Url": "=FORMULATEXT(B309)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11121,7 +11429,8 @@
     "Filename": "ShoesKneeRainboots0",
     "ClothGroup ID": 529,
     "Internal ID": 4733,
-    "Unique Entry ID": "QWCYpFbf4JEobjwav"
+    "Unique Entry ID": "QWCYpFbf4JEobjwav",
+    "Url": "=FORMULATEXT(B310)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11157,7 +11466,8 @@
     "Filename": "ShoesKneeRainboots1",
     "ClothGroup ID": 529,
     "Internal ID": 11551,
-    "Unique Entry ID": "R3vuRBSPQ8kMsx4cn"
+    "Unique Entry ID": "R3vuRBSPQ8kMsx4cn",
+    "Url": "=FORMULATEXT(B311)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11193,7 +11503,8 @@
     "Filename": "ShoesKneeRainboots2",
     "ClothGroup ID": 529,
     "Internal ID": 11552,
-    "Unique Entry ID": "bC58G7zF8S62ueYyS"
+    "Unique Entry ID": "bC58G7zF8S62ueYyS",
+    "Url": "=FORMULATEXT(B312)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11229,7 +11540,8 @@
     "Filename": "ShoesKneeRainboots3",
     "ClothGroup ID": 529,
     "Internal ID": 11553,
-    "Unique Entry ID": "yb8Xzzv8eeCS4TJq7"
+    "Unique Entry ID": "yb8Xzzv8eeCS4TJq7",
+    "Url": "=FORMULATEXT(B313)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11265,7 +11577,8 @@
     "Filename": "ShoesKneeRainboots6",
     "ClothGroup ID": 529,
     "Internal ID": 11556,
-    "Unique Entry ID": "GThEGgGR9schjrSLL"
+    "Unique Entry ID": "GThEGgGR9schjrSLL",
+    "Url": "=FORMULATEXT(B314)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11301,7 +11614,8 @@
     "Filename": "ShoesKneeRecyclingboots0",
     "ClothGroup ID": 1191,
     "Internal ID": 12326,
-    "Unique Entry ID": "pymFdvNQcZoDF2EQg"
+    "Unique Entry ID": "pymFdvNQcZoDF2EQg",
+    "Url": "=FORMULATEXT(B315)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11337,7 +11651,8 @@
     "Filename": "ShoesLowcutToilet1",
     "ClothGroup ID": 876,
     "Internal ID": 10105,
-    "Unique Entry ID": "YgbKhnaDc53vupcpX"
+    "Unique Entry ID": "YgbKhnaDc53vupcpX",
+    "Url": "=FORMULATEXT(B316)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11373,7 +11688,8 @@
     "Filename": "ShoesLowcutToilet4",
     "ClothGroup ID": 876,
     "Internal ID": 10108,
-    "Unique Entry ID": "eLhP3LBZSerB3Rz2E"
+    "Unique Entry ID": "eLhP3LBZSerB3Rz2E",
+    "Url": "=FORMULATEXT(B317)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11409,7 +11725,8 @@
     "Filename": "ShoesLowcutToilet2",
     "ClothGroup ID": 876,
     "Internal ID": 10106,
-    "Unique Entry ID": "XF7u6KhqeRd99bJ7q"
+    "Unique Entry ID": "XF7u6KhqeRd99bJ7q",
+    "Url": "=FORMULATEXT(B318)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11445,7 +11762,8 @@
     "Filename": "ShoesLowcutToilet3",
     "ClothGroup ID": 876,
     "Internal ID": 10107,
-    "Unique Entry ID": "ofPJY5TFLBryNjWwW"
+    "Unique Entry ID": "ofPJY5TFLBryNjWwW",
+    "Url": "=FORMULATEXT(B319)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11481,7 +11799,8 @@
     "Filename": "ShoesLowcutToilet0",
     "ClothGroup ID": 876,
     "Internal ID": 5800,
-    "Unique Entry ID": "BJToZwde8mPrayZHC"
+    "Unique Entry ID": "BJToZwde8mPrayZHC",
+    "Url": "=FORMULATEXT(B320)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11517,7 +11836,8 @@
     "Filename": "ShoesSandalRibbon1",
     "ClothGroup ID": 888,
     "Internal ID": 10721,
-    "Unique Entry ID": "Wq5syMKeGKA2qbD2s"
+    "Unique Entry ID": "Wq5syMKeGKA2qbD2s",
+    "Url": "=FORMULATEXT(B321)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11553,7 +11873,8 @@
     "Filename": "ShoesSandalRibbon7",
     "ClothGroup ID": 888,
     "Internal ID": 10727,
-    "Unique Entry ID": "7yuxPjGQx5kfkhtnd"
+    "Unique Entry ID": "7yuxPjGQx5kfkhtnd",
+    "Url": "=FORMULATEXT(B322)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11589,7 +11910,8 @@
     "Filename": "ShoesSandalRibbon6",
     "ClothGroup ID": 888,
     "Internal ID": 10726,
-    "Unique Entry ID": "cb2sKjFjwFDFgsgSb"
+    "Unique Entry ID": "cb2sKjFjwFDFgsgSb",
+    "Url": "=FORMULATEXT(B323)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11625,7 +11947,8 @@
     "Filename": "ShoesSandalRibbon5",
     "ClothGroup ID": 888,
     "Internal ID": 10725,
-    "Unique Entry ID": "NJEv8nHDPBobY8uF4"
+    "Unique Entry ID": "NJEv8nHDPBobY8uF4",
+    "Url": "=FORMULATEXT(B324)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11661,7 +11984,8 @@
     "Filename": "ShoesSandalRibbon2",
     "ClothGroup ID": 888,
     "Internal ID": 10722,
-    "Unique Entry ID": "QkAtu7Q6CJon4XNoa"
+    "Unique Entry ID": "QkAtu7Q6CJon4XNoa",
+    "Url": "=FORMULATEXT(B325)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11697,7 +12021,8 @@
     "Filename": "ShoesSandalRibbon3",
     "ClothGroup ID": 888,
     "Internal ID": 10723,
-    "Unique Entry ID": "Fk8yQ59e8fJdYiprE"
+    "Unique Entry ID": "Fk8yQ59e8fJdYiprE",
+    "Url": "=FORMULATEXT(B326)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11733,7 +12058,8 @@
     "Filename": "ShoesSandalRibbon4",
     "ClothGroup ID": 888,
     "Internal ID": 10724,
-    "Unique Entry ID": "RjfiqFkqYxszRspu3"
+    "Unique Entry ID": "RjfiqFkqYxszRspu3",
+    "Url": "=FORMULATEXT(B327)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11769,7 +12095,8 @@
     "Filename": "ShoesSandalRibbon0",
     "ClothGroup ID": 888,
     "Internal ID": 5814,
-    "Unique Entry ID": "KeqaR8Ze6LyYW9RqA"
+    "Unique Entry ID": "KeqaR8Ze6LyYW9RqA",
+    "Url": "=FORMULATEXT(B328)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11805,7 +12132,8 @@
     "Filename": "ShoesHighcutRubbertoe6",
     "ClothGroup ID": 794,
     "Internal ID": 10058,
-    "Unique Entry ID": "atTwSXfw9x52DbZRj"
+    "Unique Entry ID": "atTwSXfw9x52DbZRj",
+    "Url": "=FORMULATEXT(B329)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11841,7 +12169,8 @@
     "Filename": "ShoesHighcutRubbertoe7",
     "ClothGroup ID": 794,
     "Internal ID": 10059,
-    "Unique Entry ID": "LhiGsXbeLR3BfwEnT"
+    "Unique Entry ID": "LhiGsXbeLR3BfwEnT",
+    "Url": "=FORMULATEXT(B330)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11877,7 +12206,8 @@
     "Filename": "ShoesHighcutRubbertoe4",
     "ClothGroup ID": 794,
     "Internal ID": 10056,
-    "Unique Entry ID": "qKtTEY7u2itPu6kPf"
+    "Unique Entry ID": "qKtTEY7u2itPu6kPf",
+    "Url": "=FORMULATEXT(B331)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11913,7 +12243,8 @@
     "Filename": "ShoesHighcutRubbertoe3",
     "ClothGroup ID": 794,
     "Internal ID": 10055,
-    "Unique Entry ID": "vdcE6F47jbNvpFHSS"
+    "Unique Entry ID": "vdcE6F47jbNvpFHSS",
+    "Url": "=FORMULATEXT(B332)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11949,7 +12280,8 @@
     "Filename": "ShoesHighcutRubbertoe5",
     "ClothGroup ID": 794,
     "Internal ID": 10057,
-    "Unique Entry ID": "HBFY9CWNhtx57khyM"
+    "Unique Entry ID": "HBFY9CWNhtx57khyM",
+    "Url": "=FORMULATEXT(B333)"
   },
   {
     "SourceSheet": "Shoes",
@@ -11985,7 +12317,8 @@
     "Filename": "ShoesHighcutRubbertoe1",
     "ClothGroup ID": 794,
     "Internal ID": 10053,
-    "Unique Entry ID": "tfMMQyk3kTFo8Grj3"
+    "Unique Entry ID": "tfMMQyk3kTFo8Grj3",
+    "Url": "=FORMULATEXT(B334)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12021,7 +12354,8 @@
     "Filename": "ShoesHighcutRubbertoe0",
     "ClothGroup ID": 794,
     "Internal ID": 5617,
-    "Unique Entry ID": "r495YqHHQjC5tS9tc"
+    "Unique Entry ID": "r495YqHHQjC5tS9tc",
+    "Url": "=FORMULATEXT(B335)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12057,7 +12391,8 @@
     "Filename": "ShoesHighcutRubbertoe2",
     "ClothGroup ID": 794,
     "Internal ID": 10054,
-    "Unique Entry ID": "kxNYJ6ecrni3FYsQC"
+    "Unique Entry ID": "kxNYJ6ecrni3FYsQC",
+    "Url": "=FORMULATEXT(B336)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12093,7 +12428,8 @@
     "Filename": "ShoesLowcutRubbertoe7",
     "ClothGroup ID": 946,
     "Internal ID": 10073,
-    "Unique Entry ID": "n9ef92fAk5TDu29EN"
+    "Unique Entry ID": "n9ef92fAk5TDu29EN",
+    "Url": "=FORMULATEXT(B337)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12129,7 +12465,8 @@
     "Filename": "ShoesLowcutRubbertoe4",
     "ClothGroup ID": 946,
     "Internal ID": 10070,
-    "Unique Entry ID": "3uw8c5QGwBv954cDs"
+    "Unique Entry ID": "3uw8c5QGwBv954cDs",
+    "Url": "=FORMULATEXT(B338)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12165,7 +12502,8 @@
     "Filename": "ShoesLowcutRubbertoe5",
     "ClothGroup ID": 946,
     "Internal ID": 10071,
-    "Unique Entry ID": "WX8FE3WFJf588yRJq"
+    "Unique Entry ID": "WX8FE3WFJf588yRJq",
+    "Url": "=FORMULATEXT(B339)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12201,7 +12539,8 @@
     "Filename": "ShoesLowcutRubbertoe2",
     "ClothGroup ID": 946,
     "Internal ID": 10068,
-    "Unique Entry ID": "zd3N7wBnQEYNczJiS"
+    "Unique Entry ID": "zd3N7wBnQEYNczJiS",
+    "Url": "=FORMULATEXT(B340)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12237,7 +12576,8 @@
     "Filename": "ShoesLowcutRubbertoe1",
     "ClothGroup ID": 946,
     "Internal ID": 10067,
-    "Unique Entry ID": "JCn5sFjYokpJtNyqZ"
+    "Unique Entry ID": "JCn5sFjYokpJtNyqZ",
+    "Url": "=FORMULATEXT(B341)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12273,7 +12613,8 @@
     "Filename": "ShoesLowcutRubbertoe3",
     "ClothGroup ID": 946,
     "Internal ID": 10069,
-    "Unique Entry ID": "gFYvSYE6RhYPYfGRC"
+    "Unique Entry ID": "gFYvSYE6RhYPYfGRC",
+    "Url": "=FORMULATEXT(B342)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12309,7 +12650,8 @@
     "Filename": "ShoesLowcutRubbertoe6",
     "ClothGroup ID": 946,
     "Internal ID": 10072,
-    "Unique Entry ID": "tiNSYwmShxfo2mTiP"
+    "Unique Entry ID": "tiNSYwmShxfo2mTiP",
+    "Url": "=FORMULATEXT(B343)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12345,7 +12687,8 @@
     "Filename": "ShoesLowcutRubbertoe0",
     "ClothGroup ID": 946,
     "Internal ID": 6892,
-    "Unique Entry ID": "eq7PSgXfLfTbmKGKY"
+    "Unique Entry ID": "eq7PSgXfLfTbmKGKY",
+    "Url": "=FORMULATEXT(B344)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12381,7 +12724,8 @@
     "Filename": "ShoesKneeLegguard3",
     "ClothGroup ID": 783,
     "Internal ID": 11569,
-    "Unique Entry ID": "MB4ES9NjTNx2DE5Ps"
+    "Unique Entry ID": "MB4ES9NjTNx2DE5Ps",
+    "Url": "=FORMULATEXT(B345)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12417,7 +12761,8 @@
     "Filename": "ShoesKneeLegguard1",
     "ClothGroup ID": 783,
     "Internal ID": 11567,
-    "Unique Entry ID": "GpcGFYoMWDXKKvTuT"
+    "Unique Entry ID": "GpcGFYoMWDXKKvTuT",
+    "Url": "=FORMULATEXT(B346)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12453,7 +12798,8 @@
     "Filename": "ShoesKneeLegguard0",
     "ClothGroup ID": 783,
     "Internal ID": 5546,
-    "Unique Entry ID": "su835EMzZKpv2Whv2"
+    "Unique Entry ID": "su835EMzZKpv2Whv2",
+    "Url": "=FORMULATEXT(B347)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12489,7 +12835,8 @@
     "Filename": "ShoesKneeLegguard4",
     "ClothGroup ID": 783,
     "Internal ID": 11570,
-    "Unique Entry ID": "vKNjjoQ6LLoQN6z2a"
+    "Unique Entry ID": "vKNjjoQ6LLoQN6z2a",
+    "Url": "=FORMULATEXT(B348)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12525,7 +12872,8 @@
     "Filename": "ShoesKneeLegguard2",
     "ClothGroup ID": 783,
     "Internal ID": 11568,
-    "Unique Entry ID": "uxQmHGifmnCb3Boyw"
+    "Unique Entry ID": "uxQmHGifmnCb3Boyw",
+    "Url": "=FORMULATEXT(B349)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12561,7 +12909,8 @@
     "Filename": "ShoesLowcutShamrock0",
     "ClothGroup ID": 1353,
     "Internal ID": 14237,
-    "Unique Entry ID": "y6RyjtYWKcFbYnb82"
+    "Unique Entry ID": "y6RyjtYWKcFbYnb82",
+    "Url": "=FORMULATEXT(B350)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12597,7 +12946,8 @@
     "Filename": "ShoesLowcutLolita5",
     "ClothGroup ID": 789,
     "Internal ID": 10153,
-    "Unique Entry ID": "vm3ugd64szb933prn"
+    "Unique Entry ID": "vm3ugd64szb933prn",
+    "Url": "=FORMULATEXT(B351)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12633,7 +12983,8 @@
     "Filename": "ShoesLowcutLolita1",
     "ClothGroup ID": 789,
     "Internal ID": 10149,
-    "Unique Entry ID": "xs3WYWx8mSTYQwq9n"
+    "Unique Entry ID": "xs3WYWx8mSTYQwq9n",
+    "Url": "=FORMULATEXT(B352)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12669,7 +13020,8 @@
     "Filename": "ShoesLowcutLolita2",
     "ClothGroup ID": 789,
     "Internal ID": 10150,
-    "Unique Entry ID": "p3p8ifj6sWkrx5uuC"
+    "Unique Entry ID": "p3p8ifj6sWkrx5uuC",
+    "Url": "=FORMULATEXT(B353)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12705,7 +13057,8 @@
     "Filename": "ShoesLowcutLolita0",
     "ClothGroup ID": 789,
     "Internal ID": 5606,
-    "Unique Entry ID": "JCHkpNJKK4q3f7G3R"
+    "Unique Entry ID": "JCHkpNJKK4q3f7G3R",
+    "Url": "=FORMULATEXT(B354)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12741,7 +13094,8 @@
     "Filename": "ShoesLowcutLolita4",
     "ClothGroup ID": 789,
     "Internal ID": 10152,
-    "Unique Entry ID": "wwGACYDtygfqRdp5N"
+    "Unique Entry ID": "wwGACYDtygfqRdp5N",
+    "Url": "=FORMULATEXT(B355)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12777,7 +13131,8 @@
     "Filename": "ShoesLowcutLolita3",
     "ClothGroup ID": 789,
     "Internal ID": 10151,
-    "Unique Entry ID": "947juCMoGceMJSytH"
+    "Unique Entry ID": "947juCMoGceMJSytH",
+    "Url": "=FORMULATEXT(B356)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12813,7 +13168,8 @@
     "Filename": "ShoesLowcutLolita6",
     "ClothGroup ID": 789,
     "Internal ID": 10154,
-    "Unique Entry ID": "tTGe9YJzagEXzFZjj"
+    "Unique Entry ID": "tTGe9YJzagEXzFZjj",
+    "Url": "=FORMULATEXT(B357)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12849,7 +13205,8 @@
     "Filename": "ShoesSandalShower1",
     "ClothGroup ID": 515,
     "Internal ID": 10696,
-    "Unique Entry ID": "TeepAoZAHJGpJXXv7"
+    "Unique Entry ID": "TeepAoZAHJGpJXXv7",
+    "Url": "=FORMULATEXT(B358)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12885,7 +13242,8 @@
     "Filename": "ShoesSandalShower0",
     "ClothGroup ID": 515,
     "Internal ID": 4714,
-    "Unique Entry ID": "Zf4HuKDJSaXy5Qzwg"
+    "Unique Entry ID": "Zf4HuKDJSaXy5Qzwg",
+    "Url": "=FORMULATEXT(B359)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12921,7 +13279,8 @@
     "Filename": "ShoesSandalShower3",
     "ClothGroup ID": 515,
     "Internal ID": 10698,
-    "Unique Entry ID": "iH6Z7x6rcaxHCdHnW"
+    "Unique Entry ID": "iH6Z7x6rcaxHCdHnW",
+    "Url": "=FORMULATEXT(B360)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12957,7 +13316,8 @@
     "Filename": "ShoesSandalShower2",
     "ClothGroup ID": 515,
     "Internal ID": 10697,
-    "Unique Entry ID": "ubXSMjNnaXDaobiAX"
+    "Unique Entry ID": "ubXSMjNnaXDaobiAX",
+    "Url": "=FORMULATEXT(B361)"
   },
   {
     "SourceSheet": "Shoes",
@@ -12993,7 +13353,8 @@
     "Filename": "ShoesSandalShower4",
     "ClothGroup ID": 515,
     "Internal ID": 10699,
-    "Unique Entry ID": "F8maThw5HTMMWxrEY"
+    "Unique Entry ID": "F8maThw5HTMMWxrEY",
+    "Url": "=FORMULATEXT(B362)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13029,7 +13390,8 @@
     "Filename": "ShoesKneeSki0",
     "ClothGroup ID": 815,
     "Internal ID": 5660,
-    "Unique Entry ID": "n2QGDJbTEi3ttYi7o"
+    "Unique Entry ID": "n2QGDJbTEi3ttYi7o",
+    "Url": "=FORMULATEXT(B363)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13065,7 +13427,8 @@
     "Filename": "ShoesKneeSki2",
     "ClothGroup ID": 815,
     "Internal ID": 10993,
-    "Unique Entry ID": "FGXQs3vPFSaPSR6tr"
+    "Unique Entry ID": "FGXQs3vPFSaPSR6tr",
+    "Url": "=FORMULATEXT(B364)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13101,7 +13464,8 @@
     "Filename": "ShoesKneeSki1",
     "ClothGroup ID": 815,
     "Internal ID": 10992,
-    "Unique Entry ID": "2sC56DmBS9zFAY8fh"
+    "Unique Entry ID": "2sC56DmBS9zFAY8fh",
+    "Url": "=FORMULATEXT(B365)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13137,7 +13501,8 @@
     "Filename": "ShoesKneeSki3",
     "ClothGroup ID": 815,
     "Internal ID": 10994,
-    "Unique Entry ID": "ovpA5W2y9AL5XC5Hv"
+    "Unique Entry ID": "ovpA5W2y9AL5XC5Hv",
+    "Url": "=FORMULATEXT(B366)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13173,7 +13538,8 @@
     "Filename": "ShoesKneeSki4",
     "ClothGroup ID": 815,
     "Internal ID": 10995,
-    "Unique Entry ID": "9b8sNnAJRpZNaQZ3Y"
+    "Unique Entry ID": "9b8sNnAJRpZNaQZ3Y",
+    "Url": "=FORMULATEXT(B367)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13209,7 +13575,8 @@
     "Filename": "ShoesKneeSki5",
     "ClothGroup ID": 815,
     "Internal ID": 10996,
-    "Unique Entry ID": "kXThwqjtFGyQ98HwE"
+    "Unique Entry ID": "kXThwqjtFGyQ98HwE",
+    "Url": "=FORMULATEXT(B368)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13245,7 +13612,8 @@
     "Filename": "ShoesLowcutEggsky0",
     "ClothGroup ID": 1215,
     "Internal ID": 12459,
-    "Unique Entry ID": "cfFHEY8TX3qfsWXc5"
+    "Unique Entry ID": "cfFHEY8TX3qfsWXc5",
+    "Url": "=FORMULATEXT(B369)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13281,7 +13649,8 @@
     "Filename": "ShoesLowcutSlipon6",
     "ClothGroup ID": 787,
     "Internal ID": 10082,
-    "Unique Entry ID": "evdWzeC43jXRiwusj"
+    "Unique Entry ID": "evdWzeC43jXRiwusj",
+    "Url": "=FORMULATEXT(B370)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13317,7 +13686,8 @@
     "Filename": "ShoesLowcutSlipon4",
     "ClothGroup ID": 787,
     "Internal ID": 6890,
-    "Unique Entry ID": "jyAseCiyNq9Zd9jKY"
+    "Unique Entry ID": "jyAseCiyNq9Zd9jKY",
+    "Url": "=FORMULATEXT(B371)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13353,7 +13723,8 @@
     "Filename": "ShoesLowcutSlipon1",
     "ClothGroup ID": 787,
     "Internal ID": 6884,
-    "Unique Entry ID": "ZTxijqo9K5Kh4D888"
+    "Unique Entry ID": "ZTxijqo9K5Kh4D888",
+    "Url": "=FORMULATEXT(B372)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13389,7 +13760,8 @@
     "Filename": "ShoesLowcutSlipon0",
     "ClothGroup ID": 787,
     "Internal ID": 5566,
-    "Unique Entry ID": "72obQqFyftJiNYhSP"
+    "Unique Entry ID": "72obQqFyftJiNYhSP",
+    "Url": "=FORMULATEXT(B373)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13425,7 +13797,8 @@
     "Filename": "ShoesLowcutSlipon3",
     "ClothGroup ID": 787,
     "Internal ID": 6889,
-    "Unique Entry ID": "CwnHY2c3C6oXDufr7"
+    "Unique Entry ID": "CwnHY2c3C6oXDufr7",
+    "Url": "=FORMULATEXT(B374)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13461,7 +13834,8 @@
     "Filename": "ShoesLowcutSlipon5",
     "ClothGroup ID": 787,
     "Internal ID": 10081,
-    "Unique Entry ID": "kS2gPazmLfKkpTp7L"
+    "Unique Entry ID": "kS2gPazmLfKkpTp7L",
+    "Url": "=FORMULATEXT(B375)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13497,7 +13871,8 @@
     "Filename": "ShoesLowcutSlipon2",
     "ClothGroup ID": 787,
     "Internal ID": 6885,
-    "Unique Entry ID": "HWaWPHrpsfMRPw9GS"
+    "Unique Entry ID": "HWaWPHrpsfMRPw9GS",
+    "Url": "=FORMULATEXT(B376)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13533,7 +13908,8 @@
     "Filename": "ShoesLowcutSlipon7",
     "ClothGroup ID": 787,
     "Internal ID": 10083,
-    "Unique Entry ID": "SAuKXG665PM22Mw7A"
+    "Unique Entry ID": "SAuKXG665PM22Mw7A",
+    "Url": "=FORMULATEXT(B377)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13569,7 +13945,8 @@
     "Filename": "ShoesSandalResin2",
     "ClothGroup ID": 786,
     "Internal ID": 10099,
-    "Unique Entry ID": "2DKQL5YxfRBYfyoSJ"
+    "Unique Entry ID": "2DKQL5YxfRBYfyoSJ",
+    "Url": "=FORMULATEXT(B378)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13605,7 +13982,8 @@
     "Filename": "ShoesSandalResin5",
     "ClothGroup ID": 786,
     "Internal ID": 10102,
-    "Unique Entry ID": "K4wdSdsbzS4hWayuW"
+    "Unique Entry ID": "K4wdSdsbzS4hWayuW",
+    "Url": "=FORMULATEXT(B379)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13641,7 +14019,8 @@
     "Filename": "ShoesSandalResin3",
     "ClothGroup ID": 786,
     "Internal ID": 10100,
-    "Unique Entry ID": "Fo7b3LxcBP9xWEKhv"
+    "Unique Entry ID": "Fo7b3LxcBP9xWEKhv",
+    "Url": "=FORMULATEXT(B380)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13677,7 +14056,8 @@
     "Filename": "ShoesSandalResin6",
     "ClothGroup ID": 786,
     "Internal ID": 10103,
-    "Unique Entry ID": "5r2nWqrT9v5rAQWRA"
+    "Unique Entry ID": "5r2nWqrT9v5rAQWRA",
+    "Url": "=FORMULATEXT(B381)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13713,7 +14093,8 @@
     "Filename": "ShoesSandalResin1",
     "ClothGroup ID": 786,
     "Internal ID": 10098,
-    "Unique Entry ID": "pxonyKAtPKaYnhH49"
+    "Unique Entry ID": "pxonyKAtPKaYnhH49",
+    "Url": "=FORMULATEXT(B382)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13749,7 +14130,8 @@
     "Filename": "ShoesSandalResin0",
     "ClothGroup ID": 786,
     "Internal ID": 5565,
-    "Unique Entry ID": "bek7zCaZSfGbYQhnk"
+    "Unique Entry ID": "bek7zCaZSfGbYQhnk",
+    "Url": "=FORMULATEXT(B383)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13785,7 +14167,8 @@
     "Filename": "ShoesSandalResin4",
     "ClothGroup ID": 786,
     "Internal ID": 10101,
-    "Unique Entry ID": "CaWkjvoY5Cw4gcESj"
+    "Unique Entry ID": "CaWkjvoY5Cw4gcESj",
+    "Url": "=FORMULATEXT(B384)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13821,7 +14204,8 @@
     "Filename": "ShoesSandalResin7",
     "ClothGroup ID": 786,
     "Internal ID": 10104,
-    "Unique Entry ID": "Dbu4WoRkqf82e3HhD"
+    "Unique Entry ID": "Dbu4WoRkqf82e3HhD",
+    "Url": "=FORMULATEXT(B385)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13857,7 +14241,8 @@
     "Filename": "ShoesLowcutSchool0",
     "ClothGroup ID": 764,
     "Internal ID": 5473,
-    "Unique Entry ID": "AGAqPgkMwAgR4rP3d"
+    "Unique Entry ID": "AGAqPgkMwAgR4rP3d",
+    "Url": "=FORMULATEXT(B386)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13893,7 +14278,8 @@
     "Filename": "ShoesLowcutSchool4",
     "ClothGroup ID": 764,
     "Internal ID": 10983,
-    "Unique Entry ID": "TByGGPr6Kj48zSXzT"
+    "Unique Entry ID": "TByGGPr6Kj48zSXzT",
+    "Url": "=FORMULATEXT(B387)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13929,7 +14315,8 @@
     "Filename": "ShoesLowcutSchool3",
     "ClothGroup ID": 764,
     "Internal ID": 10982,
-    "Unique Entry ID": "REPBefCd7N79fexSs"
+    "Unique Entry ID": "REPBefCd7N79fexSs",
+    "Url": "=FORMULATEXT(B388)"
   },
   {
     "SourceSheet": "Shoes",
@@ -13965,7 +14352,8 @@
     "Filename": "ShoesLowcutSchool2",
     "ClothGroup ID": 764,
     "Internal ID": 10981,
-    "Unique Entry ID": "BDCciYtBdfLFZsTKK"
+    "Unique Entry ID": "BDCciYtBdfLFZsTKK",
+    "Url": "=FORMULATEXT(B389)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14001,7 +14389,8 @@
     "Filename": "ShoesLowcutSchool1",
     "ClothGroup ID": 764,
     "Internal ID": 10980,
-    "Unique Entry ID": "u8BD7oMwRB7suh4f4"
+    "Unique Entry ID": "u8BD7oMwRB7suh4f4",
+    "Url": "=FORMULATEXT(B390)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14037,7 +14426,8 @@
     "Filename": "ShoesLowcutSlipper2",
     "ClothGroup ID": 778,
     "Internal ID": 10085,
-    "Unique Entry ID": "bpzqd39eBwbJssiHz"
+    "Unique Entry ID": "bpzqd39eBwbJssiHz",
+    "Url": "=FORMULATEXT(B391)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14073,7 +14463,8 @@
     "Filename": "ShoesLowcutSlipper0",
     "ClothGroup ID": 778,
     "Internal ID": 5525,
-    "Unique Entry ID": "3w8MXDtDn4e56iX54"
+    "Unique Entry ID": "3w8MXDtDn4e56iX54",
+    "Url": "=FORMULATEXT(B392)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14109,7 +14500,8 @@
     "Filename": "ShoesLowcutSlipper1",
     "ClothGroup ID": 778,
     "Internal ID": 10084,
-    "Unique Entry ID": "ahkFhsQDxdmbmEae4"
+    "Unique Entry ID": "ahkFhsQDxdmbmEae4",
+    "Url": "=FORMULATEXT(B393)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14145,7 +14537,8 @@
     "Filename": "ShoesLowcutSlipper6",
     "ClothGroup ID": 778,
     "Internal ID": 10089,
-    "Unique Entry ID": "XmM5wAFrFkbtD9D2m"
+    "Unique Entry ID": "XmM5wAFrFkbtD9D2m",
+    "Url": "=FORMULATEXT(B394)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14181,7 +14574,8 @@
     "Filename": "ShoesLowcutSlipper3",
     "ClothGroup ID": 778,
     "Internal ID": 10086,
-    "Unique Entry ID": "7XL3FwRuMpX8pPSXM"
+    "Unique Entry ID": "7XL3FwRuMpX8pPSXM",
+    "Url": "=FORMULATEXT(B395)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14217,7 +14611,8 @@
     "Filename": "ShoesLowcutSlipper7",
     "ClothGroup ID": 778,
     "Internal ID": 10090,
-    "Unique Entry ID": "ohaR7XgRkjjK7WrAj"
+    "Unique Entry ID": "ohaR7XgRkjjK7WrAj",
+    "Url": "=FORMULATEXT(B396)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14253,7 +14648,8 @@
     "Filename": "ShoesLowcutSlipper4",
     "ClothGroup ID": 778,
     "Internal ID": 10087,
-    "Unique Entry ID": "YWYrqAtzzDkkBDF8c"
+    "Unique Entry ID": "YWYrqAtzzDkkBDF8c",
+    "Url": "=FORMULATEXT(B397)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14289,7 +14685,8 @@
     "Filename": "ShoesLowcutSlipper5",
     "ClothGroup ID": 778,
     "Internal ID": 10088,
-    "Unique Entry ID": "HqAwM9tDz8fPfjaZr"
+    "Unique Entry ID": "HqAwM9tDz8fPfjaZr",
+    "Url": "=FORMULATEXT(B398)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14325,7 +14722,8 @@
     "Filename": "ShoesKneeSpaceWhite",
     "ClothGroup ID": 863,
     "Internal ID": 5760,
-    "Unique Entry ID": "wJ5GGhiCqRiGiyADm"
+    "Unique Entry ID": "wJ5GGhiCqRiGiyADm",
+    "Url": "=FORMULATEXT(B399)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14361,7 +14759,8 @@
     "Filename": "ShoesSandalSports0",
     "ClothGroup ID": 894,
     "Internal ID": 5824,
-    "Unique Entry ID": "dB9Zh49MxmTnhe2sT"
+    "Unique Entry ID": "dB9Zh49MxmTnhe2sT",
+    "Url": "=FORMULATEXT(B400)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14397,7 +14796,8 @@
     "Filename": "ShoesSandalSports5",
     "ClothGroup ID": 894,
     "Internal ID": 10732,
-    "Unique Entry ID": "cFDQtHvQLzvDxXBmF"
+    "Unique Entry ID": "cFDQtHvQLzvDxXBmF",
+    "Url": "=FORMULATEXT(B401)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14433,7 +14833,8 @@
     "Filename": "ShoesSandalSports1",
     "ClothGroup ID": 894,
     "Internal ID": 10728,
-    "Unique Entry ID": "vvY85zikpeYg4Y2bh"
+    "Unique Entry ID": "vvY85zikpeYg4Y2bh",
+    "Url": "=FORMULATEXT(B402)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14469,7 +14870,8 @@
     "Filename": "ShoesSandalSports4",
     "ClothGroup ID": 894,
     "Internal ID": 10731,
-    "Unique Entry ID": "DAkrAkhrWzoLCghmY"
+    "Unique Entry ID": "DAkrAkhrWzoLCghmY",
+    "Url": "=FORMULATEXT(B403)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14505,7 +14907,8 @@
     "Filename": "ShoesSandalSports7",
     "ClothGroup ID": 894,
     "Internal ID": 10734,
-    "Unique Entry ID": "FtBvM9FNfSW2YkvR4"
+    "Unique Entry ID": "FtBvM9FNfSW2YkvR4",
+    "Url": "=FORMULATEXT(B404)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14541,7 +14944,8 @@
     "Filename": "ShoesSandalSports2",
     "ClothGroup ID": 894,
     "Internal ID": 10729,
-    "Unique Entry ID": "fjn8jpqyKCATL5Zrj"
+    "Unique Entry ID": "fjn8jpqyKCATL5Zrj",
+    "Url": "=FORMULATEXT(B405)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14577,7 +14981,8 @@
     "Filename": "ShoesSandalSports3",
     "ClothGroup ID": 894,
     "Internal ID": 10730,
-    "Unique Entry ID": "NPRvY4itdRnthXiXb"
+    "Unique Entry ID": "NPRvY4itdRnthXiXb",
+    "Url": "=FORMULATEXT(B406)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14613,7 +15018,8 @@
     "Filename": "ShoesSandalSports6",
     "ClothGroup ID": 894,
     "Internal ID": 10733,
-    "Unique Entry ID": "gHXQ5sakxYkDn3fAP"
+    "Unique Entry ID": "gHXQ5sakxYkDn3fAP",
+    "Url": "=FORMULATEXT(B407)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14649,7 +15055,8 @@
     "Filename": "ShoesKneeEngineerboots5",
     "ClothGroup ID": 941,
     "Internal ID": 11236,
-    "Unique Entry ID": "QsKyMZv4z788odcXQ"
+    "Unique Entry ID": "QsKyMZv4z788odcXQ",
+    "Url": "=FORMULATEXT(B408)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14685,7 +15092,8 @@
     "Filename": "ShoesKneeEngineerboots3",
     "ClothGroup ID": 941,
     "Internal ID": 11234,
-    "Unique Entry ID": "JLqpaYbMxsMNeattz"
+    "Unique Entry ID": "JLqpaYbMxsMNeattz",
+    "Url": "=FORMULATEXT(B409)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14721,7 +15129,8 @@
     "Filename": "ShoesKneeEngineerboots4",
     "ClothGroup ID": 941,
     "Internal ID": 11235,
-    "Unique Entry ID": "AFT7LK6ZemaX5DpGb"
+    "Unique Entry ID": "AFT7LK6ZemaX5DpGb",
+    "Url": "=FORMULATEXT(B410)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14757,7 +15166,8 @@
     "Filename": "ShoesKneeEngineerboots2",
     "ClothGroup ID": 941,
     "Internal ID": 11233,
-    "Unique Entry ID": "8bdJLyFwFaLiPyBgM"
+    "Unique Entry ID": "8bdJLyFwFaLiPyBgM",
+    "Url": "=FORMULATEXT(B411)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14793,7 +15203,8 @@
     "Filename": "ShoesKneeEngineerboots0",
     "ClothGroup ID": 941,
     "Internal ID": 2593,
-    "Unique Entry ID": "hjin67297NyjQEihM"
+    "Unique Entry ID": "hjin67297NyjQEihM",
+    "Url": "=FORMULATEXT(B412)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14829,7 +15240,8 @@
     "Filename": "ShoesKneeEngineerboots1",
     "ClothGroup ID": 941,
     "Internal ID": 11232,
-    "Unique Entry ID": "Nc8FzgrGXu7C7yw5c"
+    "Unique Entry ID": "Nc8FzgrGXu7C7yw5c",
+    "Url": "=FORMULATEXT(B413)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14865,7 +15277,8 @@
     "Filename": "ShoesLowcutEggrock0",
     "ClothGroup ID": 1212,
     "Internal ID": 12456,
-    "Unique Entry ID": "iNjeDCdctCeLqyxjv"
+    "Unique Entry ID": "iNjeDCdctCeLqyxjv",
+    "Url": "=FORMULATEXT(B414)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14901,7 +15314,8 @@
     "Filename": "ShoesLowcutGlitter3",
     "ClothGroup ID": 784,
     "Internal ID": 10144,
-    "Unique Entry ID": "chbFMWwZyPPaqbkjg"
+    "Unique Entry ID": "chbFMWwZyPPaqbkjg",
+    "Url": "=FORMULATEXT(B415)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14937,7 +15351,8 @@
     "Filename": "ShoesLowcutGlitter4",
     "ClothGroup ID": 784,
     "Internal ID": 10145,
-    "Unique Entry ID": "g2CG68ZjmWHrGRKjk"
+    "Unique Entry ID": "g2CG68ZjmWHrGRKjk",
+    "Url": "=FORMULATEXT(B416)"
   },
   {
     "SourceSheet": "Shoes",
@@ -14973,7 +15388,8 @@
     "Filename": "ShoesLowcutGlitter0",
     "ClothGroup ID": 784,
     "Internal ID": 5561,
-    "Unique Entry ID": "bmvzeeTGHXiwdZJcg"
+    "Unique Entry ID": "bmvzeeTGHXiwdZJcg",
+    "Url": "=FORMULATEXT(B417)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15009,7 +15425,8 @@
     "Filename": "ShoesLowcutGlitter5",
     "ClothGroup ID": 784,
     "Internal ID": 10146,
-    "Unique Entry ID": "vqMwAq9ky8WxLKPG8"
+    "Unique Entry ID": "vqMwAq9ky8WxLKPG8",
+    "Url": "=FORMULATEXT(B418)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15045,7 +15462,8 @@
     "Filename": "ShoesLowcutGlitter2",
     "ClothGroup ID": 784,
     "Internal ID": 10143,
-    "Unique Entry ID": "KsqvFoouvtYt6KAYE"
+    "Unique Entry ID": "KsqvFoouvtYt6KAYE",
+    "Url": "=FORMULATEXT(B419)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15081,7 +15499,8 @@
     "Filename": "ShoesLowcutGlitter6",
     "ClothGroup ID": 784,
     "Internal ID": 10147,
-    "Unique Entry ID": "BR6iENsuxdaGLEZam"
+    "Unique Entry ID": "BR6iENsuxdaGLEZam",
+    "Url": "=FORMULATEXT(B420)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15117,7 +15536,8 @@
     "Filename": "ShoesLowcutGlitter1",
     "ClothGroup ID": 784,
     "Internal ID": 10142,
-    "Unique Entry ID": "A3oghyX4PgSMkZJef"
+    "Unique Entry ID": "A3oghyX4PgSMkZJef",
+    "Url": "=FORMULATEXT(B421)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15153,7 +15573,8 @@
     "Filename": "ShoesLowcutGlitter7",
     "ClothGroup ID": 784,
     "Internal ID": 10148,
-    "Unique Entry ID": "E75eKo2LiRpEdp8bT"
+    "Unique Entry ID": "E75eKo2LiRpEdp8bT",
+    "Url": "=FORMULATEXT(B422)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15189,7 +15610,8 @@
     "Filename": "ShoesLowcutGgotshin0",
     "ClothGroup ID": 808,
     "Internal ID": 5622,
-    "Unique Entry ID": "p8rmo5DkHoGjSK5SA"
+    "Unique Entry ID": "p8rmo5DkHoGjSK5SA",
+    "Url": "=FORMULATEXT(B423)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15225,7 +15647,8 @@
     "Filename": "ShoesLowcutGgotshin1",
     "ClothGroup ID": 808,
     "Internal ID": 10988,
-    "Unique Entry ID": "u3MShjWuHsM8H4jkv"
+    "Unique Entry ID": "u3MShjWuHsM8H4jkv",
+    "Url": "=FORMULATEXT(B424)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15261,7 +15684,8 @@
     "Filename": "ShoesLowcutGgotshin4",
     "ClothGroup ID": 808,
     "Internal ID": 10991,
-    "Unique Entry ID": "cN9q9x2LaZYY8qv6F"
+    "Unique Entry ID": "cN9q9x2LaZYY8qv6F",
+    "Url": "=FORMULATEXT(B425)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15297,7 +15721,8 @@
     "Filename": "ShoesLowcutGgotshin3",
     "ClothGroup ID": 808,
     "Internal ID": 10990,
-    "Unique Entry ID": "8jieRWyNTggC4jMrr"
+    "Unique Entry ID": "8jieRWyNTggC4jMrr",
+    "Url": "=FORMULATEXT(B426)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15333,7 +15758,8 @@
     "Filename": "ShoesLowcutGgotshin2",
     "ClothGroup ID": 808,
     "Internal ID": 10989,
-    "Unique Entry ID": "gP6Pc7r6PG9hrQHNK"
+    "Unique Entry ID": "gP6Pc7r6PG9hrQHNK",
+    "Url": "=FORMULATEXT(B427)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15369,7 +15795,8 @@
     "Filename": "ShoesHighcutTrekking6",
     "ClothGroup ID": 705,
     "Internal ID": 11242,
-    "Unique Entry ID": "Ywpc2D7NoK2qBxf6F"
+    "Unique Entry ID": "Ywpc2D7NoK2qBxf6F",
+    "Url": "=FORMULATEXT(B428)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15405,7 +15832,8 @@
     "Filename": "ShoesHighcutTrekking1",
     "ClothGroup ID": 705,
     "Internal ID": 11237,
-    "Unique Entry ID": "TkjSkJFhub7FjDuMC"
+    "Unique Entry ID": "TkjSkJFhub7FjDuMC",
+    "Url": "=FORMULATEXT(B429)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15441,7 +15869,8 @@
     "Filename": "ShoesHighcutTrekking2",
     "ClothGroup ID": 705,
     "Internal ID": 11238,
-    "Unique Entry ID": "sfQZCGCu4tTHfMpNt"
+    "Unique Entry ID": "sfQZCGCu4tTHfMpNt",
+    "Url": "=FORMULATEXT(B430)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15477,7 +15906,8 @@
     "Filename": "ShoesHighcutTrekking4",
     "ClothGroup ID": 705,
     "Internal ID": 11240,
-    "Unique Entry ID": "FmbcmRRcN58qYyLXu"
+    "Unique Entry ID": "FmbcmRRcN58qYyLXu",
+    "Url": "=FORMULATEXT(B431)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15513,7 +15943,8 @@
     "Filename": "ShoesHighcutTrekking3",
     "ClothGroup ID": 705,
     "Internal ID": 11239,
-    "Unique Entry ID": "embSAwtn69LDNFbAD"
+    "Unique Entry ID": "embSAwtn69LDNFbAD",
+    "Url": "=FORMULATEXT(B432)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15549,7 +15980,8 @@
     "Filename": "ShoesHighcutTrekking5",
     "ClothGroup ID": 705,
     "Internal ID": 11241,
-    "Unique Entry ID": "aexteKPGADNrE9xfs"
+    "Unique Entry ID": "aexteKPGADNrE9xfs",
+    "Url": "=FORMULATEXT(B433)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15585,7 +16017,8 @@
     "Filename": "ShoesHighcutTrekking0",
     "ClothGroup ID": 705,
     "Internal ID": 5388,
-    "Unique Entry ID": "Qbk8zzBxRCSM2J5zJ"
+    "Unique Entry ID": "Qbk8zzBxRCSM2J5zJ",
+    "Url": "=FORMULATEXT(B434)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15621,7 +16054,8 @@
     "Filename": "ShoesHighcutTrekking7",
     "ClothGroup ID": 705,
     "Internal ID": 11243,
-    "Unique Entry ID": "T3ZqLcjzTfxQdKYMw"
+    "Unique Entry ID": "T3ZqLcjzTfxQdKYMw",
+    "Url": "=FORMULATEXT(B435)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15657,7 +16091,8 @@
     "Filename": "ShoesKneeVelour1",
     "ClothGroup ID": 528,
     "Internal ID": 11675,
-    "Unique Entry ID": "tAmnjnqTjNDGCWarN"
+    "Unique Entry ID": "tAmnjnqTjNDGCWarN",
+    "Url": "=FORMULATEXT(B436)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15693,7 +16128,8 @@
     "Filename": "ShoesKneeVelour0",
     "ClothGroup ID": 528,
     "Internal ID": 4732,
-    "Unique Entry ID": "bb8zrf3uymyQcZ95R"
+    "Unique Entry ID": "bb8zrf3uymyQcZ95R",
+    "Url": "=FORMULATEXT(B437)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15729,7 +16165,8 @@
     "Filename": "ShoesKneeVelour4",
     "ClothGroup ID": 528,
     "Internal ID": 11678,
-    "Unique Entry ID": "FgLL99NEEz5piTwSu"
+    "Unique Entry ID": "FgLL99NEEz5piTwSu",
+    "Url": "=FORMULATEXT(B438)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15765,7 +16202,8 @@
     "Filename": "ShoesKneeVelour3",
     "ClothGroup ID": 528,
     "Internal ID": 11677,
-    "Unique Entry ID": "Zvqbb4TRJvGTvRRKa"
+    "Unique Entry ID": "Zvqbb4TRJvGTvRRKa",
+    "Url": "=FORMULATEXT(B439)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15801,7 +16239,8 @@
     "Filename": "ShoesKneeVelour2",
     "ClothGroup ID": 528,
     "Internal ID": 11676,
-    "Unique Entry ID": "zhxznAbZgApqG5tsS"
+    "Unique Entry ID": "zhxznAbZgApqG5tsS",
+    "Url": "=FORMULATEXT(B440)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15837,7 +16276,8 @@
     "Filename": "ShoesLowcutEnamelpumps4",
     "ClothGroup ID": 521,
     "Internal ID": 10119,
-    "Unique Entry ID": "nTzMdQGrukqyBP8tk"
+    "Unique Entry ID": "nTzMdQGrukqyBP8tk",
+    "Url": "=FORMULATEXT(B441)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15873,7 +16313,8 @@
     "Filename": "ShoesLowcutEnamelpumps5",
     "ClothGroup ID": 521,
     "Internal ID": 10120,
-    "Unique Entry ID": "HG234xKCQ8jRhttM6"
+    "Unique Entry ID": "HG234xKCQ8jRhttM6",
+    "Url": "=FORMULATEXT(B442)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15909,7 +16350,8 @@
     "Filename": "ShoesLowcutEnamelpumps3",
     "ClothGroup ID": 521,
     "Internal ID": 10118,
-    "Unique Entry ID": "dhcs3Lwx3oeiy4ngb"
+    "Unique Entry ID": "dhcs3Lwx3oeiy4ngb",
+    "Url": "=FORMULATEXT(B443)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15945,7 +16387,8 @@
     "Filename": "ShoesLowcutEnamelpumps1",
     "ClothGroup ID": 521,
     "Internal ID": 10116,
-    "Unique Entry ID": "St4Gybmqd2uS7cvwF"
+    "Unique Entry ID": "St4Gybmqd2uS7cvwF",
+    "Url": "=FORMULATEXT(B444)"
   },
   {
     "SourceSheet": "Shoes",
@@ -15981,7 +16424,8 @@
     "Filename": "ShoesLowcutEnamelpumps2",
     "ClothGroup ID": 521,
     "Internal ID": 10117,
-    "Unique Entry ID": "NZymvJ5oCBcmgXJ5t"
+    "Unique Entry ID": "NZymvJ5oCBcmgXJ5t",
+    "Url": "=FORMULATEXT(B445)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16017,7 +16461,8 @@
     "Filename": "ShoesLowcutEnamelpumps0",
     "ClothGroup ID": 521,
     "Internal ID": 4723,
-    "Unique Entry ID": "RecSgePXKnagDi74R"
+    "Unique Entry ID": "RecSgePXKnagDi74R",
+    "Url": "=FORMULATEXT(B446)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16053,7 +16498,8 @@
     "Filename": "ShoesKneeVisualBlack",
     "ClothGroup ID": 792,
     "Internal ID": 5609,
-    "Unique Entry ID": "hP4STomyv7jb7tKnT"
+    "Unique Entry ID": "hP4STomyv7jb7tKnT",
+    "Url": "=FORMULATEXT(B447)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16089,7 +16535,8 @@
     "Filename": "ShoesLowcutHealth2",
     "ClothGroup ID": 868,
     "Internal ID": 10998,
-    "Unique Entry ID": "KWAceiwcGzkfNab4o"
+    "Unique Entry ID": "KWAceiwcGzkfNab4o",
+    "Url": "=FORMULATEXT(B448)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16125,7 +16572,8 @@
     "Filename": "ShoesLowcutHealth0",
     "ClothGroup ID": 868,
     "Internal ID": 5775,
-    "Unique Entry ID": "sJbiGPfjohy3MRz9g"
+    "Unique Entry ID": "sJbiGPfjohy3MRz9g",
+    "Url": "=FORMULATEXT(B449)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16161,7 +16609,8 @@
     "Filename": "ShoesLowcutHealth1",
     "ClothGroup ID": 868,
     "Internal ID": 10997,
-    "Unique Entry ID": "ZTWABEzco2pisNq3q"
+    "Unique Entry ID": "ZTWABEzco2pisNq3q",
+    "Url": "=FORMULATEXT(B450)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16197,7 +16646,8 @@
     "Filename": "ShoesLowcutWario0",
     "ClothGroup ID": 1327,
     "Internal ID": 13562,
-    "Unique Entry ID": "eWm8RhLKaEJPXYu2C"
+    "Unique Entry ID": "eWm8RhLKaEJPXYu2C",
+    "Url": "=FORMULATEXT(B451)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16233,7 +16683,8 @@
     "Filename": "ShoesSandalAqua2",
     "ClothGroup ID": 809,
     "Internal ID": 10715,
-    "Unique Entry ID": "zE2ydSF3h8ZEQDoN6"
+    "Unique Entry ID": "zE2ydSF3h8ZEQDoN6",
+    "Url": "=FORMULATEXT(B452)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16269,7 +16720,8 @@
     "Filename": "ShoesSandalAqua0",
     "ClothGroup ID": 809,
     "Internal ID": 5652,
-    "Unique Entry ID": "G7gjqcTKEpcbbNKJS"
+    "Unique Entry ID": "G7gjqcTKEpcbbNKJS",
+    "Url": "=FORMULATEXT(B453)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16305,7 +16757,8 @@
     "Filename": "ShoesSandalAqua4",
     "ClothGroup ID": 809,
     "Internal ID": 10717,
-    "Unique Entry ID": "SKnxks78Mbearkot6"
+    "Unique Entry ID": "SKnxks78Mbearkot6",
+    "Url": "=FORMULATEXT(B454)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16341,7 +16794,8 @@
     "Filename": "ShoesSandalAqua7",
     "ClothGroup ID": 809,
     "Internal ID": 10720,
-    "Unique Entry ID": "vkYy5oFc353orgyxa"
+    "Unique Entry ID": "vkYy5oFc353orgyxa",
+    "Url": "=FORMULATEXT(B455)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16377,7 +16831,8 @@
     "Filename": "ShoesSandalAqua6",
     "ClothGroup ID": 809,
     "Internal ID": 10719,
-    "Unique Entry ID": "2pc8Ywv9ZgxzpfcCN"
+    "Unique Entry ID": "2pc8Ywv9ZgxzpfcCN",
+    "Url": "=FORMULATEXT(B456)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16413,7 +16868,8 @@
     "Filename": "ShoesSandalAqua3",
     "ClothGroup ID": 809,
     "Internal ID": 10716,
-    "Unique Entry ID": "ThthTKiHz8qWwHmAc"
+    "Unique Entry ID": "ThthTKiHz8qWwHmAc",
+    "Url": "=FORMULATEXT(B457)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16449,7 +16905,8 @@
     "Filename": "ShoesSandalAqua1",
     "ClothGroup ID": 809,
     "Internal ID": 10714,
-    "Unique Entry ID": "xZGwaMKKzuwBZifue"
+    "Unique Entry ID": "xZGwaMKKzuwBZifue",
+    "Url": "=FORMULATEXT(B458)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16485,7 +16942,8 @@
     "Filename": "ShoesSandalAqua5",
     "ClothGroup ID": 809,
     "Internal ID": 10718,
-    "Unique Entry ID": "eCfe52j6KebvShSxF"
+    "Unique Entry ID": "eCfe52j6KebvShSxF",
+    "Url": "=FORMULATEXT(B459)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16521,7 +16979,8 @@
     "Filename": "ShoesLowcutMarine7",
     "ClothGroup ID": 882,
     "Internal ID": 10276,
-    "Unique Entry ID": "TZMXjppMESwhT2hZt"
+    "Unique Entry ID": "TZMXjppMESwhT2hZt",
+    "Url": "=FORMULATEXT(B460)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16557,7 +17016,8 @@
     "Filename": "ShoesLowcutMarine6",
     "ClothGroup ID": 882,
     "Internal ID": 10275,
-    "Unique Entry ID": "5Mt6LsY5NwhrwC8Ro"
+    "Unique Entry ID": "5Mt6LsY5NwhrwC8Ro",
+    "Url": "=FORMULATEXT(B461)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16593,7 +17053,8 @@
     "Filename": "ShoesLowcutMarine0",
     "ClothGroup ID": 882,
     "Internal ID": 5808,
-    "Unique Entry ID": "b3hXNNAFjYXNfYDNq"
+    "Unique Entry ID": "b3hXNNAFjYXNfYDNq",
+    "Url": "=FORMULATEXT(B462)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16629,7 +17090,8 @@
     "Filename": "ShoesLowcutMarine2",
     "ClothGroup ID": 882,
     "Internal ID": 10271,
-    "Unique Entry ID": "vwQp84gqxvqxSGHpB"
+    "Unique Entry ID": "vwQp84gqxvqxSGHpB",
+    "Url": "=FORMULATEXT(B463)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16665,7 +17127,8 @@
     "Filename": "ShoesLowcutMarine5",
     "ClothGroup ID": 882,
     "Internal ID": 10274,
-    "Unique Entry ID": "r9y8YdqpCCSFymCJx"
+    "Unique Entry ID": "r9y8YdqpCCSFymCJx",
+    "Url": "=FORMULATEXT(B464)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16701,7 +17164,8 @@
     "Filename": "ShoesLowcutMarine3",
     "ClothGroup ID": 882,
     "Internal ID": 10272,
-    "Unique Entry ID": "k5X6gHQcJWkWB8ZAi"
+    "Unique Entry ID": "k5X6gHQcJWkWB8ZAi",
+    "Url": "=FORMULATEXT(B465)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16737,7 +17201,8 @@
     "Filename": "ShoesLowcutMarine1",
     "ClothGroup ID": 882,
     "Internal ID": 10177,
-    "Unique Entry ID": "ur4D7j8TfzytpkBRr"
+    "Unique Entry ID": "ur4D7j8TfzytpkBRr",
+    "Url": "=FORMULATEXT(B466)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16773,7 +17238,8 @@
     "Filename": "ShoesLowcutMarine4",
     "ClothGroup ID": 882,
     "Internal ID": 10273,
-    "Unique Entry ID": "JXymcRAWNMbDogEPA"
+    "Unique Entry ID": "JXymcRAWNMbDogEPA",
+    "Url": "=FORMULATEXT(B467)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16809,7 +17275,8 @@
     "Filename": "ShoesLowcutEggfish0",
     "ClothGroup ID": 1216,
     "Internal ID": 12460,
-    "Unique Entry ID": "CT5SYnidy4tF7xneW"
+    "Unique Entry ID": "CT5SYnidy4tF7xneW",
+    "Url": "=FORMULATEXT(B468)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16845,7 +17312,8 @@
     "Filename": "ShoesLowcutJunepumps0",
     "ClothGroup ID": 1217,
     "Internal ID": 12495,
-    "Unique Entry ID": "ZXMfkX6hWrb3Bf4cJ"
+    "Unique Entry ID": "ZXMfkX6hWrb3Bf4cJ",
+    "Url": "=FORMULATEXT(B469)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16881,7 +17349,8 @@
     "Filename": "ShoesLowcutJuneshoes0",
     "ClothGroup ID": 1218,
     "Internal ID": 12496,
-    "Unique Entry ID": "j2RAxuwc7BvaMTicF"
+    "Unique Entry ID": "j2RAxuwc7BvaMTicF",
+    "Url": "=FORMULATEXT(B470)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16917,7 +17386,8 @@
     "Filename": "ShoesLowcutWing2",
     "ClothGroup ID": 883,
     "Internal ID": 11472,
-    "Unique Entry ID": "P69MLRkggjw9LcDbY"
+    "Unique Entry ID": "P69MLRkggjw9LcDbY",
+    "Url": "=FORMULATEXT(B471)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16953,7 +17423,8 @@
     "Filename": "ShoesLowcutWing4",
     "ClothGroup ID": 883,
     "Internal ID": 11474,
-    "Unique Entry ID": "7iADtoNeh8krcW6YN"
+    "Unique Entry ID": "7iADtoNeh8krcW6YN",
+    "Url": "=FORMULATEXT(B472)"
   },
   {
     "SourceSheet": "Shoes",
@@ -16989,7 +17460,8 @@
     "Filename": "ShoesLowcutWing0",
     "ClothGroup ID": 883,
     "Internal ID": 5809,
-    "Unique Entry ID": "DjWLRAQtGePadCqZu"
+    "Unique Entry ID": "DjWLRAQtGePadCqZu",
+    "Url": "=FORMULATEXT(B473)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17025,7 +17497,8 @@
     "Filename": "ShoesLowcutWing6",
     "ClothGroup ID": 883,
     "Internal ID": 11476,
-    "Unique Entry ID": "9jhqxdBvQusYccJdf"
+    "Unique Entry ID": "9jhqxdBvQusYccJdf",
+    "Url": "=FORMULATEXT(B474)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17061,7 +17534,8 @@
     "Filename": "ShoesLowcutWing5",
     "ClothGroup ID": 883,
     "Internal ID": 11475,
-    "Unique Entry ID": "zcGqNXjwrSPCmaadF"
+    "Unique Entry ID": "zcGqNXjwrSPCmaadF",
+    "Url": "=FORMULATEXT(B475)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17097,7 +17571,8 @@
     "Filename": "ShoesLowcutWing3",
     "ClothGroup ID": 883,
     "Internal ID": 11473,
-    "Unique Entry ID": "875an6cBm4fer5mt9"
+    "Unique Entry ID": "875an6cBm4fer5mt9",
+    "Url": "=FORMULATEXT(B476)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17133,7 +17608,8 @@
     "Filename": "ShoesLowcutWing1",
     "ClothGroup ID": 883,
     "Internal ID": 11471,
-    "Unique Entry ID": "eXgKY3DCBPmo7eJ5y"
+    "Unique Entry ID": "eXgKY3DCBPmo7eJ5y",
+    "Url": "=FORMULATEXT(B477)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17169,7 +17645,8 @@
     "Filename": "ShoesLowcutPointedtoe1",
     "ClothGroup ID": 812,
     "Internal ID": 11462,
-    "Unique Entry ID": "xTXhymN8bhf3HnQJE"
+    "Unique Entry ID": "xTXhymN8bhf3HnQJE",
+    "Url": "=FORMULATEXT(B478)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17205,7 +17682,8 @@
     "Filename": "ShoesLowcutPointedtoe2",
     "ClothGroup ID": 812,
     "Internal ID": 11463,
-    "Unique Entry ID": "QPCwCrLDkHPGKeDLY"
+    "Unique Entry ID": "QPCwCrLDkHPGKeDLY",
+    "Url": "=FORMULATEXT(B479)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17241,7 +17719,8 @@
     "Filename": "ShoesLowcutPointedtoe0",
     "ClothGroup ID": 812,
     "Internal ID": 5655,
-    "Unique Entry ID": "HSHgP2d5LZSoGynWh"
+    "Unique Entry ID": "HSHgP2d5LZSoGynWh",
+    "Url": "=FORMULATEXT(B480)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17277,7 +17756,8 @@
     "Filename": "ShoesLowcutPointedtoe3",
     "ClothGroup ID": 812,
     "Internal ID": 11464,
-    "Unique Entry ID": "ag3yY4kAomB56hxtW"
+    "Unique Entry ID": "ag3yY4kAomB56hxtW",
+    "Url": "=FORMULATEXT(B481)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17313,7 +17793,8 @@
     "Filename": "ShoesLowcutEggforest0",
     "ClothGroup ID": 1214,
     "Internal ID": 12458,
-    "Unique Entry ID": "8ZgL3dbCk7dXrNite"
+    "Unique Entry ID": "8ZgL3dbCk7dXrNite",
+    "Url": "=FORMULATEXT(B482)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17349,7 +17830,8 @@
     "Filename": "ShoesLowcutClog2",
     "ClothGroup ID": 795,
     "Internal ID": 10985,
-    "Unique Entry ID": "brPp9ECXpN3EfhFPY"
+    "Unique Entry ID": "brPp9ECXpN3EfhFPY",
+    "Url": "=FORMULATEXT(B483)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17385,7 +17867,8 @@
     "Filename": "ShoesLowcutClog0",
     "ClothGroup ID": 795,
     "Internal ID": 5618,
-    "Unique Entry ID": "eupdqegxsCMDRLsAv"
+    "Unique Entry ID": "eupdqegxsCMDRLsAv",
+    "Url": "=FORMULATEXT(B484)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17421,7 +17904,8 @@
     "Filename": "ShoesLowcutClog3",
     "ClothGroup ID": 795,
     "Internal ID": 10986,
-    "Unique Entry ID": "96LeQLuLdHgEXyhSh"
+    "Unique Entry ID": "96LeQLuLdHgEXyhSh",
+    "Url": "=FORMULATEXT(B485)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17457,7 +17941,8 @@
     "Filename": "ShoesLowcutClog1",
     "ClothGroup ID": 795,
     "Internal ID": 10984,
-    "Unique Entry ID": "LmNCSiQxwsPrRqNc2"
+    "Unique Entry ID": "LmNCSiQxwsPrRqNc2",
+    "Url": "=FORMULATEXT(B486)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17493,7 +17978,8 @@
     "Filename": "ShoesLowcutClog4",
     "ClothGroup ID": 795,
     "Internal ID": 10987,
-    "Unique Entry ID": "TjifkBrTMro68JHrf"
+    "Unique Entry ID": "TjifkBrTMro68JHrf",
+    "Url": "=FORMULATEXT(B487)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17529,7 +18015,8 @@
     "Filename": "ShoesHighcutWorkboots4",
     "ClothGroup ID": 779,
     "Internal ID": 11247,
-    "Unique Entry ID": "5m2NP7dcLbtght3Zq"
+    "Unique Entry ID": "5m2NP7dcLbtght3Zq",
+    "Url": "=FORMULATEXT(B488)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17565,7 +18052,8 @@
     "Filename": "ShoesHighcutWorkboots7",
     "ClothGroup ID": 779,
     "Internal ID": 11250,
-    "Unique Entry ID": "7CcCC33Hs28yeZsE4"
+    "Unique Entry ID": "7CcCC33Hs28yeZsE4",
+    "Url": "=FORMULATEXT(B489)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17601,7 +18089,8 @@
     "Filename": "ShoesHighcutWorkboots0",
     "ClothGroup ID": 779,
     "Internal ID": 5541,
-    "Unique Entry ID": "JC86Q4fvPqrg6xzTT"
+    "Unique Entry ID": "JC86Q4fvPqrg6xzTT",
+    "Url": "=FORMULATEXT(B490)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17637,7 +18126,8 @@
     "Filename": "ShoesHighcutWorkboots2",
     "ClothGroup ID": 779,
     "Internal ID": 11245,
-    "Unique Entry ID": "jk3ExmQodg8c84doE"
+    "Unique Entry ID": "jk3ExmQodg8c84doE",
+    "Url": "=FORMULATEXT(B491)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17673,7 +18163,8 @@
     "Filename": "ShoesHighcutWorkboots3",
     "ClothGroup ID": 779,
     "Internal ID": 11246,
-    "Unique Entry ID": "amC72rwkxxLrYy5vv"
+    "Unique Entry ID": "amC72rwkxxLrYy5vv",
+    "Url": "=FORMULATEXT(B492)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17709,7 +18200,8 @@
     "Filename": "ShoesHighcutWorkboots6",
     "ClothGroup ID": 779,
     "Internal ID": 11249,
-    "Unique Entry ID": "CxP7jSJTTyeYwyBQs"
+    "Unique Entry ID": "CxP7jSJTTyeYwyBQs",
+    "Url": "=FORMULATEXT(B493)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17745,7 +18237,8 @@
     "Filename": "ShoesHighcutWorkboots5",
     "ClothGroup ID": 779,
     "Internal ID": 11248,
-    "Unique Entry ID": "HWEKSWZAjZJdbfxvr"
+    "Unique Entry ID": "HWEKSWZAjZJdbfxvr",
+    "Url": "=FORMULATEXT(B494)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17781,7 +18274,8 @@
     "Filename": "ShoesHighcutWorkboots1",
     "ClothGroup ID": 779,
     "Internal ID": 11244,
-    "Unique Entry ID": "t74L3o98zyuxzwB4d"
+    "Unique Entry ID": "t74L3o98zyuxzwB4d",
+    "Url": "=FORMULATEXT(B495)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17817,7 +18311,8 @@
     "Filename": "ShoesKneeRing4",
     "ClothGroup ID": 821,
     "Internal ID": 10259,
-    "Unique Entry ID": "AH4NE2FJGLZC8gMtg"
+    "Unique Entry ID": "AH4NE2FJGLZC8gMtg",
+    "Url": "=FORMULATEXT(B496)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17853,7 +18348,8 @@
     "Filename": "ShoesKneeRing0",
     "ClothGroup ID": 821,
     "Internal ID": 5668,
-    "Unique Entry ID": "yAfdmgXZ2jHaPGwdC"
+    "Unique Entry ID": "yAfdmgXZ2jHaPGwdC",
+    "Url": "=FORMULATEXT(B497)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17889,7 +18385,8 @@
     "Filename": "ShoesKneeRing3",
     "ClothGroup ID": 821,
     "Internal ID": 10258,
-    "Unique Entry ID": "DibQyHP3eMLwvLuoj"
+    "Unique Entry ID": "DibQyHP3eMLwvLuoj",
+    "Url": "=FORMULATEXT(B498)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17925,7 +18422,8 @@
     "Filename": "ShoesKneeRing5",
     "ClothGroup ID": 821,
     "Internal ID": 10260,
-    "Unique Entry ID": "FfBwW5d5L8tzyW6Dj"
+    "Unique Entry ID": "FfBwW5d5L8tzyW6Dj",
+    "Url": "=FORMULATEXT(B499)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17961,7 +18459,8 @@
     "Filename": "ShoesKneeRing2",
     "ClothGroup ID": 821,
     "Internal ID": 10257,
-    "Unique Entry ID": "5aADX4xErrreMqNLc"
+    "Unique Entry ID": "5aADX4xErrreMqNLc",
+    "Url": "=FORMULATEXT(B500)"
   },
   {
     "SourceSheet": "Shoes",
@@ -17997,7 +18496,8 @@
     "Filename": "ShoesKneeRing1",
     "ClothGroup ID": 821,
     "Internal ID": 10256,
-    "Unique Entry ID": "soxSEJioRf2gpa3Sz"
+    "Unique Entry ID": "soxSEJioRf2gpa3Sz",
+    "Url": "=FORMULATEXT(B501)"
   },
   {
     "SourceSheet": "Shoes",
@@ -18033,7 +18533,8 @@
     "Filename": "ShoesKneeHeroWhite",
     "ClothGroup ID": 799,
     "Internal ID": 5624,
-    "Unique Entry ID": "8rjzx96Avdzbq7hFv"
+    "Unique Entry ID": "8rjzx96Avdzbq7hFv",
+    "Url": "=FORMULATEXT(B502)"
   },
   {
     "SourceSheet": "Shoes",
@@ -18069,7 +18570,8 @@
     "Filename": "ShoesSandalZori6",
     "ClothGroup ID": 530,
     "Internal ID": 10974,
-    "Unique Entry ID": "zTMWqRabE8s4dFwn4"
+    "Unique Entry ID": "zTMWqRabE8s4dFwn4",
+    "Url": "=FORMULATEXT(B503)"
   },
   {
     "SourceSheet": "Shoes",
@@ -18105,7 +18607,8 @@
     "Filename": "ShoesSandalZori5",
     "ClothGroup ID": 530,
     "Internal ID": 10973,
-    "Unique Entry ID": "6w73ZozNHuWqmAfKj"
+    "Unique Entry ID": "6w73ZozNHuWqmAfKj",
+    "Url": "=FORMULATEXT(B504)"
   },
   {
     "SourceSheet": "Shoes",
@@ -18141,7 +18644,8 @@
     "Filename": "ShoesSandalZori0",
     "ClothGroup ID": 530,
     "Internal ID": 4734,
-    "Unique Entry ID": "3R4cnGLLNWRcKDekf"
+    "Unique Entry ID": "3R4cnGLLNWRcKDekf",
+    "Url": "=FORMULATEXT(B505)"
   },
   {
     "SourceSheet": "Shoes",
@@ -18177,7 +18681,8 @@
     "Filename": "ShoesSandalZori2",
     "ClothGroup ID": 530,
     "Internal ID": 10970,
-    "Unique Entry ID": "3bC5rzWARy28xor2p"
+    "Unique Entry ID": "3bC5rzWARy28xor2p",
+    "Url": "=FORMULATEXT(B506)"
   },
   {
     "SourceSheet": "Shoes",
@@ -18213,7 +18718,8 @@
     "Filename": "ShoesSandalZori3",
     "ClothGroup ID": 530,
     "Internal ID": 10971,
-    "Unique Entry ID": "svEPR34GPmYRCe5kz"
+    "Unique Entry ID": "svEPR34GPmYRCe5kz",
+    "Url": "=FORMULATEXT(B507)"
   },
   {
     "SourceSheet": "Shoes",
@@ -18249,7 +18755,8 @@
     "Filename": "ShoesSandalZori7",
     "ClothGroup ID": 530,
     "Internal ID": 10975,
-    "Unique Entry ID": "yYoSq8oCcAp8wFLTz"
+    "Unique Entry ID": "yYoSq8oCcAp8wFLTz",
+    "Url": "=FORMULATEXT(B508)"
   },
   {
     "SourceSheet": "Shoes",
@@ -18285,7 +18792,8 @@
     "Filename": "ShoesSandalZori1",
     "ClothGroup ID": 530,
     "Internal ID": 10969,
-    "Unique Entry ID": "FQetz9ANMJo6q6YMd"
+    "Unique Entry ID": "FQetz9ANMJo6q6YMd",
+    "Url": "=FORMULATEXT(B509)"
   },
   {
     "SourceSheet": "Shoes",
@@ -18321,6 +18829,7 @@
     "Filename": "ShoesSandalZori4",
     "ClothGroup ID": 530,
     "Internal ID": 10972,
-    "Unique Entry ID": "8ZYLPLudoxHWSBzEh"
+    "Unique Entry ID": "8ZYLPLudoxHWSBzEh",
+    "Url": "=FORMULATEXT(B510)"
   }
 ]

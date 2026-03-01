@@ -57,6 +57,7 @@
         "variantId": "0_0",
         "internalId": 14596,
         "uniqueEntryId": "vKhroLoma4RWAqc38",
+        "url": "=FORMULATEXT(B2)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14596,
@@ -95,6 +96,7 @@
         "variantId": "1_0",
         "internalId": 14596,
         "uniqueEntryId": "6ntCK44tpEZ76T77a",
+        "url": "=FORMULATEXT(B3)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14596,
@@ -133,6 +135,7 @@
         "variantId": "2_0",
         "internalId": 14596,
         "uniqueEntryId": "8MCJkAqEindE3FP2C",
+        "url": "=FORMULATEXT(B4)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14596,
@@ -243,6 +246,7 @@
     "variantId": null,
     "internalId": 14602,
     "uniqueEntryId": "Scz7WHrn8zJqdESLF",
+    "url": "=FORMULATEXT(B5)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 14602,
@@ -370,6 +374,7 @@
     "variantId": null,
     "internalId": 14600,
     "uniqueEntryId": "97Zm9hRj3BQDLQM3H",
+    "url": "=FORMULATEXT(B6)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 14600,
@@ -499,6 +504,7 @@
         "variantId": "0_0",
         "internalId": 13901,
         "uniqueEntryId": "ZAA4zjnJGQDpPnNpe",
+        "url": "=FORMULATEXT(B7)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13901,
@@ -537,6 +543,7 @@
         "variantId": "1_0",
         "internalId": 13901,
         "uniqueEntryId": "uaziCiTaLxWgvx3p3",
+        "url": "=FORMULATEXT(B8)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13901,
@@ -575,6 +582,7 @@
         "variantId": "2_0",
         "internalId": 13901,
         "uniqueEntryId": "ek3qyESiioFjp8Tv9",
+        "url": "=FORMULATEXT(B9)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13901,
@@ -685,6 +693,7 @@
     "variantId": null,
     "internalId": 13898,
     "uniqueEntryId": "xt8pEhjXJrR4gKWeY",
+    "url": "=FORMULATEXT(B10)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 13898,
@@ -812,6 +821,7 @@
     "variantId": null,
     "internalId": 14333,
     "uniqueEntryId": "6sKWwLgkQRj23WFP7",
+    "url": "=FORMULATEXT(B11)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 14333,
@@ -941,6 +951,7 @@
         "variantId": "0_0",
         "internalId": 14337,
         "uniqueEntryId": "6Z5cNgANBAyaLuRWe",
+        "url": "=FORMULATEXT(B12)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14337,
@@ -979,6 +990,7 @@
         "variantId": "1_0",
         "internalId": 14337,
         "uniqueEntryId": "rLYobhs2h4PpW4KjE",
+        "url": "=FORMULATEXT(B13)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14337,
@@ -1017,6 +1029,7 @@
         "variantId": "2_0",
         "internalId": 14337,
         "uniqueEntryId": "nF2aG9ZmfoTAE9Nkh",
+        "url": "=FORMULATEXT(B14)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14337,
@@ -1148,6 +1161,7 @@
         "variantId": "0_0",
         "internalId": 14308,
         "uniqueEntryId": "hNyMCjtHztETRswEJ",
+        "url": "=FORMULATEXT(B15)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14308,
@@ -1186,6 +1200,7 @@
         "variantId": "1_0",
         "internalId": 14308,
         "uniqueEntryId": "bFFmaC4vxcv8u8hBT",
+        "url": "=FORMULATEXT(B16)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14308,
@@ -1224,6 +1239,7 @@
         "variantId": "2_0",
         "internalId": 14308,
         "uniqueEntryId": "6GYofpcAybQqX5GYk",
+        "url": "=FORMULATEXT(B17)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14308,
@@ -1262,6 +1278,7 @@
         "variantId": "3_0",
         "internalId": 14308,
         "uniqueEntryId": "zJDcAcDvRPpzA3u6d",
+        "url": "=FORMULATEXT(B18)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14308,
@@ -1300,6 +1317,7 @@
         "variantId": "4_0",
         "internalId": 14308,
         "uniqueEntryId": "QpK8Ldtypv39FSt5n",
+        "url": "=FORMULATEXT(B19)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14308,
@@ -1338,6 +1356,7 @@
         "variantId": "5_0",
         "internalId": 14308,
         "uniqueEntryId": "ygs4EEZTgiAK9sebf",
+        "url": "=FORMULATEXT(B20)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14308,
@@ -1376,6 +1395,7 @@
         "variantId": "6_0",
         "internalId": 14308,
         "uniqueEntryId": "u8ZFHXm7nibw9fLep",
+        "url": "=FORMULATEXT(B21)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14308,
@@ -1414,6 +1434,7 @@
         "variantId": "7_0",
         "internalId": 14308,
         "uniqueEntryId": "t99LsrwAnof4S5CFF",
+        "url": "=FORMULATEXT(B22)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14308,
@@ -1543,6 +1564,7 @@
     "variantId": null,
     "internalId": 14324,
     "uniqueEntryId": "7SvgP9iF4TrC5MDM3",
+    "url": "=FORMULATEXT(B23)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 14324,
@@ -1672,6 +1694,7 @@
         "variantId": "0_0",
         "internalId": 14313,
         "uniqueEntryId": "LeojYosm74z657iQk",
+        "url": "=FORMULATEXT(B24)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14313,
@@ -1710,6 +1733,7 @@
         "variantId": "1_0",
         "internalId": 14313,
         "uniqueEntryId": "Mgd77C38sXbnXf3KZ",
+        "url": "=FORMULATEXT(B25)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14313,
@@ -1748,6 +1772,7 @@
         "variantId": "2_0",
         "internalId": 14313,
         "uniqueEntryId": "8bmi5MPDGuFDfDq7m",
+        "url": "=FORMULATEXT(B26)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14313,
@@ -1917,6 +1942,7 @@
         "variantId": "0_0",
         "internalId": 14597,
         "uniqueEntryId": "9xipwZfxnt9jghSir",
+        "url": "=FORMULATEXT(B27)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14597,
@@ -1955,6 +1981,7 @@
         "variantId": "1_0",
         "internalId": 14597,
         "uniqueEntryId": "FKtvy427TMATJo5vA",
+        "url": "=FORMULATEXT(B28)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14597,
@@ -1993,6 +2020,7 @@
         "variantId": "2_0",
         "internalId": 14597,
         "uniqueEntryId": "JnS5Yg8fZvTsyinBo",
+        "url": "=FORMULATEXT(B29)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14597,
@@ -2103,6 +2131,7 @@
     "variantId": null,
     "internalId": 12681,
     "uniqueEntryId": "oAqAWgHP2N4JxnQBD",
+    "url": "=FORMULATEXT(B30)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 12681,
@@ -2251,6 +2280,7 @@
         "variantId": "0_0",
         "internalId": 14598,
         "uniqueEntryId": "efC2g88hachgzMvEg",
+        "url": "=FORMULATEXT(B31)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14598,
@@ -2289,6 +2319,7 @@
         "variantId": "1_0",
         "internalId": 14598,
         "uniqueEntryId": "CZ99SyCfpEC5cj64t",
+        "url": "=FORMULATEXT(B32)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14598,
@@ -2327,6 +2358,7 @@
         "variantId": "2_0",
         "internalId": 14598,
         "uniqueEntryId": "YzFBvw2BmNoBr9JsL",
+        "url": "=FORMULATEXT(B33)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14598,
@@ -2365,6 +2397,7 @@
         "variantId": "3_0",
         "internalId": 14598,
         "uniqueEntryId": "mGFsAYtbmKuk3DzNy",
+        "url": "=FORMULATEXT(B34)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14598,
@@ -2403,6 +2436,7 @@
         "variantId": "4_0",
         "internalId": 14598,
         "uniqueEntryId": "qXSNr2CQNFEXNgCgM",
+        "url": "=FORMULATEXT(B35)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14598,
@@ -2441,6 +2475,7 @@
         "variantId": "5_0",
         "internalId": 14598,
         "uniqueEntryId": "7bxm6rRnGq37XDufB",
+        "url": "=FORMULATEXT(B36)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14598,
@@ -2479,6 +2514,7 @@
         "variantId": "6_0",
         "internalId": 14598,
         "uniqueEntryId": "7ehsrvc5treD3Zb7M",
+        "url": "=FORMULATEXT(B37)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14598,
@@ -2517,6 +2553,7 @@
         "variantId": "7_0",
         "internalId": 14598,
         "uniqueEntryId": "9NYt4Mi63LFN4zboi",
+        "url": "=FORMULATEXT(B38)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14598,
@@ -2646,6 +2683,7 @@
     "variantId": null,
     "internalId": 14599,
     "uniqueEntryId": "X5AEGKWHvCRawqyPT",
+    "url": "=FORMULATEXT(B39)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 14599,
@@ -2775,6 +2813,7 @@
         "variantId": "0_0",
         "internalId": 13897,
         "uniqueEntryId": "G8Tv7m2q2qKXqrJQ3",
+        "url": "=FORMULATEXT(B40)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13897,
@@ -2813,6 +2852,7 @@
         "variantId": "1_0",
         "internalId": 13897,
         "uniqueEntryId": "fYLrAfCbu3gPMKmKH",
+        "url": "=FORMULATEXT(B41)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13897,
@@ -2851,6 +2891,7 @@
         "variantId": "2_0",
         "internalId": 13897,
         "uniqueEntryId": "qB6QiivqojvPKeF8t",
+        "url": "=FORMULATEXT(B42)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13897,
@@ -2961,6 +3002,7 @@
     "variantId": null,
     "internalId": 13895,
     "uniqueEntryId": "tsXLsF5rGnBi84KJT",
+    "url": "=FORMULATEXT(B43)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 13895,
@@ -3088,6 +3130,7 @@
     "variantId": null,
     "internalId": 14330,
     "uniqueEntryId": "PQTHpRrQbqQjircX9",
+    "url": "=FORMULATEXT(B44)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 14330,
@@ -3217,6 +3260,7 @@
         "variantId": "0_0",
         "internalId": 14332,
         "uniqueEntryId": "TNHgdZwptefHrSoFz",
+        "url": "=FORMULATEXT(B45)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14332,
@@ -3255,6 +3299,7 @@
         "variantId": "1_0",
         "internalId": 14332,
         "uniqueEntryId": "m2qrGT2gSmeFsTJ2D",
+        "url": "=FORMULATEXT(B46)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14332,
@@ -3293,6 +3338,7 @@
         "variantId": "2_0",
         "internalId": 14332,
         "uniqueEntryId": "akFYhQtm5G3Mtco3f",
+        "url": "=FORMULATEXT(B47)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14332,
@@ -3424,6 +3470,7 @@
         "variantId": "0_0",
         "internalId": 14310,
         "uniqueEntryId": "YDXWEARLfC6dggDdh",
+        "url": "=FORMULATEXT(B48)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14310,
@@ -3462,6 +3509,7 @@
         "variantId": "1_0",
         "internalId": 14310,
         "uniqueEntryId": "ZJC2fFDiDyKuJSzqo",
+        "url": "=FORMULATEXT(B49)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14310,
@@ -3500,6 +3548,7 @@
         "variantId": "2_0",
         "internalId": 14310,
         "uniqueEntryId": "mW9RDLfD8SQYSrYjr",
+        "url": "=FORMULATEXT(B50)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14310,
@@ -3538,6 +3587,7 @@
         "variantId": "3_0",
         "internalId": 14310,
         "uniqueEntryId": "vAfZHhSK7FEZSuXzr",
+        "url": "=FORMULATEXT(B51)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14310,
@@ -3576,6 +3626,7 @@
         "variantId": "4_0",
         "internalId": 14310,
         "uniqueEntryId": "n4cgd3nsLSh5kPwvX",
+        "url": "=FORMULATEXT(B52)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14310,
@@ -3614,6 +3665,7 @@
         "variantId": "5_0",
         "internalId": 14310,
         "uniqueEntryId": "tSe8tBh7Qf6tCmuki",
+        "url": "=FORMULATEXT(B53)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14310,
@@ -3652,6 +3704,7 @@
         "variantId": "6_0",
         "internalId": 14310,
         "uniqueEntryId": "YjvyNXtHKyKbzjkTT",
+        "url": "=FORMULATEXT(B54)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14310,
@@ -3690,6 +3743,7 @@
         "variantId": "7_0",
         "internalId": 14310,
         "uniqueEntryId": "gDypT85e4AwzkrDEA",
+        "url": "=FORMULATEXT(B55)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14310,
@@ -3819,6 +3873,7 @@
     "variantId": null,
     "internalId": 14322,
     "uniqueEntryId": "vXiZBk6roeYruNHCz",
+    "url": "=FORMULATEXT(B56)",
     "translations": {
       "sourceSheet": "Furniture",
       "id": 14322,
@@ -3948,6 +4003,7 @@
         "variantId": "0_0",
         "internalId": 13902,
         "uniqueEntryId": "WAdLfg4KmbbaL3TeJ",
+        "url": "=FORMULATEXT(B57)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13902,
@@ -3986,6 +4042,7 @@
         "variantId": "1_0",
         "internalId": 13902,
         "uniqueEntryId": "YG7qtvLFZjGa2K69s",
+        "url": "=FORMULATEXT(B58)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13902,
@@ -4024,6 +4081,7 @@
         "variantId": "2_0",
         "internalId": 13902,
         "uniqueEntryId": "PQtaRN7NdkujLGQoQ",
+        "url": "=FORMULATEXT(B59)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13902,
@@ -4193,6 +4251,7 @@
         "variantId": "0_0",
         "internalId": 14601,
         "uniqueEntryId": "mGsw5XZqLRze4Qsmc",
+        "url": "=FORMULATEXT(B60)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14601,
@@ -4231,6 +4290,7 @@
         "variantId": "1_0",
         "internalId": 14601,
         "uniqueEntryId": "JjbCWR6eEsXNdr9Ny",
+        "url": "=FORMULATEXT(B61)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14601,
@@ -4269,6 +4329,7 @@
         "variantId": "2_0",
         "internalId": 14601,
         "uniqueEntryId": "A4gzXM9sb8BcyCrnM",
+        "url": "=FORMULATEXT(B62)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14601,

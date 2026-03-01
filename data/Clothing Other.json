@@ -30,6 +30,7 @@
     "clothGroupId": 1258,
     "internalId": 12970,
     "uniqueEntryId": "jjwdLhmb3X42fvtHa",
+    "url": "=FORMULATEXT(B10)",
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -243,6 +244,7 @@
         "clothGroupId": 1260,
         "internalId": 13103,
         "uniqueEntryId": "6L2xDvYdeFstLHY86",
+        "url": "=FORMULATEXT(B2)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -275,6 +277,7 @@
         "clothGroupId": 1260,
         "internalId": 12986,
         "uniqueEntryId": "3TDPbxuAzdDjSSHyA",
+        "url": "=FORMULATEXT(B3)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -307,6 +310,7 @@
         "clothGroupId": 1260,
         "internalId": 13102,
         "uniqueEntryId": "ngqeKA7GqE55ezKww",
+        "url": "=FORMULATEXT(B4)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -339,6 +343,7 @@
         "clothGroupId": 1260,
         "internalId": 13101,
         "uniqueEntryId": "hSJxcwRHv7qnKp93f",
+        "url": "=FORMULATEXT(B5)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -473,6 +478,7 @@
         "clothGroupId": 1259,
         "internalId": 13099,
         "uniqueEntryId": "dzprxbw5CzvxNWHt7",
+        "url": "=FORMULATEXT(B6)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -505,6 +511,7 @@
         "clothGroupId": 1259,
         "internalId": 13100,
         "uniqueEntryId": "3qhdPQngftbrtWgHM",
+        "url": "=FORMULATEXT(B7)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -537,6 +544,7 @@
         "clothGroupId": 1259,
         "internalId": 12981,
         "uniqueEntryId": "mCuc5u3XpnyQqcR8G",
+        "url": "=FORMULATEXT(B8)",
         "variantTranslations": {
           "eUde": "Hellblau",
           "eUen": "Light blue",
@@ -569,6 +577,7 @@
         "clothGroupId": 1259,
         "internalId": 13098,
         "uniqueEntryId": "GZwvXzEMwCfhuNTHe",
+        "url": "=FORMULATEXT(B9)",
         "variantTranslations": {
           "eUde": "Lila",
           "eUen": "Purple",

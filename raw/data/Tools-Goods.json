@@ -36,7 +36,8 @@
     "Filename": "ToolAxe",
     "Variant ID": "NA",
     "Internal ID": 2100,
-    "Unique Entry ID": "iR9zzEhzpbXTGdkR4"
+    "Unique Entry ID": "iR9zzEhzpbXTGdkR4",
+    "Url": "=FORMULATEXT(B2)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -75,7 +76,8 @@
     "Filename": "ToolStickBamboo",
     "Variant ID": "NA",
     "Internal ID": 7590,
-    "Unique Entry ID": "YLjDYt9NhwTgoXhLD"
+    "Unique Entry ID": "YLjDYt9NhwTgoXhLD",
+    "Url": "=FORMULATEXT(B3)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -114,7 +116,8 @@
     "Filename": "ToolSoy0",
     "Variant ID": "NA",
     "Internal ID": 13914,
-    "Unique Entry ID": "Nn7qqRaw3SrP3Fd5H"
+    "Unique Entry ID": "Nn7qqRaw3SrP3Fd5H",
+    "Url": "=FORMULATEXT(B4)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -153,7 +156,8 @@
     "Filename": "ToolIcesoft3",
     "Variant ID": "NA",
     "Internal ID": 325,
-    "Unique Entry ID": "cPjiuP5KFRtkjWQqe"
+    "Unique Entry ID": "cPjiuP5KFRtkjWQqe",
+    "Url": "=FORMULATEXT(B5)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -192,7 +196,8 @@
     "Filename": "ToolSensu2",
     "Variant ID": "NA",
     "Internal ID": 322,
-    "Unique Entry ID": "MqK2fS94eHu36fnFL"
+    "Unique Entry ID": "MqK2fS94eHu36fnFL",
+    "Url": "=FORMULATEXT(B6)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -231,7 +236,8 @@
     "Filename": "ToolBalloonNormal",
     "Variant ID": "NA",
     "Internal ID": 7869,
-    "Unique Entry ID": "wZi9GW6MbpePQpvKY"
+    "Unique Entry ID": "wZi9GW6MbpePQpvKY",
+    "Url": "=FORMULATEXT(B7)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -270,7 +276,8 @@
     "Filename": "ToolFireworks1",
     "Variant ID": "NA",
     "Internal ID": 12974,
-    "Unique Entry ID": "nX6tAkPNA4xgzbhon"
+    "Unique Entry ID": "nX6tAkPNA4xgzbhon",
+    "Url": "=FORMULATEXT(B8)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -309,7 +316,8 @@
     "Filename": "ToolTapioca4",
     "Variant ID": "NA",
     "Internal ID": 14742,
-    "Unique Entry ID": "jvf8uw5Mm44Q86cE2"
+    "Unique Entry ID": "jvf8uw5Mm44Q86cE2",
+    "Url": "=FORMULATEXT(B9)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -348,7 +356,8 @@
     "Filename": "ToolTapioca2",
     "Variant ID": "NA",
     "Internal ID": 14747,
-    "Unique Entry ID": "c3bvzqk8C5iuuEbpo"
+    "Unique Entry ID": "c3bvzqk8C5iuuEbpo",
+    "Url": "=FORMULATEXT(B10)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -387,7 +396,8 @@
     "Filename": "ToolTapioca3",
     "Variant ID": "NA",
     "Internal ID": 14746,
-    "Unique Entry ID": "m7BfnhqvLKr8Ybb6Z"
+    "Unique Entry ID": "m7BfnhqvLKr8Ybb6Z",
+    "Url": "=FORMULATEXT(B11)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -426,7 +436,8 @@
     "Filename": "ToolTapioca0",
     "Variant ID": "NA",
     "Internal ID": 14628,
-    "Unique Entry ID": "PbsfbtksDomE4a3Tp"
+    "Unique Entry ID": "PbsfbtksDomE4a3Tp",
+    "Url": "=FORMULATEXT(B12)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -465,7 +476,8 @@
     "Filename": "ToolTapioca1",
     "Variant ID": "NA",
     "Internal ID": 14745,
-    "Unique Entry ID": "WNeTxBFbMvah9kNyX"
+    "Unique Entry ID": "WNeTxBFbMvah9kNyX",
+    "Url": "=FORMULATEXT(B13)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -504,7 +516,8 @@
     "Filename": "ToolBubblesNormal",
     "Variant ID": "NA",
     "Internal ID": 4386,
-    "Unique Entry ID": "CQmL5dEmhYEGkCJCF"
+    "Unique Entry ID": "CQmL5dEmhYEGkCJCF",
+    "Url": "=FORMULATEXT(B14)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -543,7 +556,8 @@
     "Filename": "ToolStcikInsect",
     "Variant ID": "NA",
     "Internal ID": 8769,
-    "Unique Entry ID": "vqp4KBeWgZjYbFj7Z"
+    "Unique Entry ID": "vqp4KBeWgZjYbFj7Z",
+    "Url": "=FORMULATEXT(B15)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -582,7 +596,8 @@
     "Filename": "ToolStickEgg",
     "Variant ID": "NA",
     "Internal ID": 12578,
-    "Unique Entry ID": "26wk773sY75rKY2P4"
+    "Unique Entry ID": "26wk773sY75rKY2P4",
+    "Url": "=FORMULATEXT(B16)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -621,7 +636,8 @@
     "Filename": "ToolCanPlayer2",
     "Variant ID": "NA",
     "Internal ID": 14776,
-    "Unique Entry ID": "5RAGMWT54pZrdvXei"
+    "Unique Entry ID": "5RAGMWT54pZrdvXei",
+    "Url": "=FORMULATEXT(B17)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -660,7 +676,8 @@
     "Filename": "ToolCanPlayer5",
     "Variant ID": "NA",
     "Internal ID": 14779,
-    "Unique Entry ID": "Kpi895thJ6Bfr4syt"
+    "Unique Entry ID": "Kpi895thJ6Bfr4syt",
+    "Url": "=FORMULATEXT(B18)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -699,7 +716,8 @@
     "Filename": "ToolCanPlayer1",
     "Variant ID": "NA",
     "Internal ID": 14775,
-    "Unique Entry ID": "giyxqEHWEGh4xDekh"
+    "Unique Entry ID": "giyxqEHWEGh4xDekh",
+    "Url": "=FORMULATEXT(B19)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -738,7 +756,8 @@
     "Filename": "ToolCanPlayer3",
     "Variant ID": "NA",
     "Internal ID": 14777,
-    "Unique Entry ID": "FFQfhzfqxvaobcXRR"
+    "Unique Entry ID": "FFQfhzfqxvaobcXRR",
+    "Url": "=FORMULATEXT(B20)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -777,7 +796,8 @@
     "Filename": "ToolCanPlayer0",
     "Variant ID": "NA",
     "Internal ID": 14638,
-    "Unique Entry ID": "PM5ED38yRZQXdPZtP"
+    "Unique Entry ID": "PM5ED38yRZQXdPZtP",
+    "Url": "=FORMULATEXT(B21)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -816,7 +836,8 @@
     "Filename": "ToolCanPlayer7",
     "Variant ID": "NA",
     "Internal ID": 14781,
-    "Unique Entry ID": "yMkHtMPf5gyX2ee2f"
+    "Unique Entry ID": "yMkHtMPf5gyX2ee2f",
+    "Url": "=FORMULATEXT(B22)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -855,7 +876,8 @@
     "Filename": "ToolCanPlayer6",
     "Variant ID": "NA",
     "Internal ID": 14780,
-    "Unique Entry ID": "3MjBbTJtBegKirMmi"
+    "Unique Entry ID": "3MjBbTJtBegKirMmi",
+    "Url": "=FORMULATEXT(B23)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -894,7 +916,8 @@
     "Filename": "ToolCanPlayer4",
     "Variant ID": "NA",
     "Internal ID": 14778,
-    "Unique Entry ID": "oimu26EsBYzL7gw3o"
+    "Unique Entry ID": "oimu26EsBYzL7gw3o",
+    "Url": "=FORMULATEXT(B24)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -933,7 +956,8 @@
     "Filename": "ToolStickCherryblossom",
     "Variant ID": "NA",
     "Internal ID": 7589,
-    "Unique Entry ID": "WHHbg5ZqTMu4J2wm5"
+    "Unique Entry ID": "WHHbg5ZqTMu4J2wm5",
+    "Url": "=FORMULATEXT(B25)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -972,7 +996,8 @@
     "Filename": "ToolChitoseame",
     "Variant ID": "NA",
     "Internal ID": 14285,
-    "Unique Entry ID": "xySaM5pikyagoJnPP"
+    "Unique Entry ID": "xySaM5pikyagoJnPP",
+    "Url": "=FORMULATEXT(B26)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1011,7 +1036,8 @@
     "Filename": "ToolIcecream1",
     "Variant ID": "NA",
     "Internal ID": 14836,
-    "Unique Entry ID": "EMCmQBq4xFau27fyD"
+    "Unique Entry ID": "EMCmQBq4xFau27fyD",
+    "Url": "=FORMULATEXT(B27)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1050,7 +1076,8 @@
     "Filename": "ToolDonutPlayer",
     "Variant ID": "NA",
     "Internal ID": 14641,
-    "Unique Entry ID": "XBfgMco2Q3hWf4Sou"
+    "Unique Entry ID": "XBfgMco2Q3hWf4Sou",
+    "Url": "=FORMULATEXT(B28)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1089,7 +1116,8 @@
     "Filename": "ToolIcecandyPlayer2",
     "Variant ID": "NA",
     "Internal ID": 14631,
-    "Unique Entry ID": "bXeMhj9hB8mbcZe2p"
+    "Unique Entry ID": "bXeMhj9hB8mbcZe2p",
+    "Url": "=FORMULATEXT(B29)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1128,7 +1156,8 @@
     "Filename": "ToolIcesoft1",
     "Variant ID": "NA",
     "Internal ID": 327,
-    "Unique Entry ID": "gC8SEg2vRxFS5JNS7"
+    "Unique Entry ID": "gC8SEg2vRxFS5JNS7",
+    "Url": "=FORMULATEXT(B30)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1167,7 +1196,8 @@
     "Filename": "ToolFishingrodDuck_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8472,
-    "Unique Entry ID": "ZTf6fzMoETiRSgYyv"
+    "Unique Entry ID": "ZTf6fzMoETiRSgYyv",
+    "Url": "=FORMULATEXT(B31)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1206,7 +1236,8 @@
     "Filename": "ToolFishingrodDuck_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8472,
-    "Unique Entry ID": "9RuY2ZBRztSNDRrfy"
+    "Unique Entry ID": "9RuY2ZBRztSNDRrfy",
+    "Url": "=FORMULATEXT(B32)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1245,7 +1276,8 @@
     "Filename": "ToolFishingrodDuck_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8472,
-    "Unique Entry ID": "8PASMoPi9YgSBQ2LK"
+    "Unique Entry ID": "8PASMoPi9YgSBQ2LK",
+    "Url": "=FORMULATEXT(B33)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1284,7 +1316,8 @@
     "Filename": "ToolFishingrodDuck_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8472,
-    "Unique Entry ID": "sfSivSgSps27Jaz5M"
+    "Unique Entry ID": "sfSivSgSps27Jaz5M",
+    "Url": "=FORMULATEXT(B34)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1323,7 +1356,8 @@
     "Filename": "ToolFishingrodDuck_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8472,
-    "Unique Entry ID": "vnSiERDKYDcddtuv6"
+    "Unique Entry ID": "vnSiERDKYDcddtuv6",
+    "Url": "=FORMULATEXT(B35)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1362,7 +1396,8 @@
     "Filename": "ToolFishingrodDuck_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8472,
-    "Unique Entry ID": "avewXgm4JtCerDcd6"
+    "Unique Entry ID": "avewXgm4JtCerDcd6",
+    "Url": "=FORMULATEXT(B36)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1401,7 +1436,8 @@
     "Filename": "ToolFishingrodDuck_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8472,
-    "Unique Entry ID": "wmcSp5RZAczawLnJf"
+    "Unique Entry ID": "wmcSp5RZAczawLnJf",
+    "Url": "=FORMULATEXT(B37)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1440,7 +1476,8 @@
     "Filename": "ToolFishingrodDuck_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8472,
-    "Unique Entry ID": "v76QddpoKv2M4XspK"
+    "Unique Entry ID": "v76QddpoKv2M4XspK",
+    "Url": "=FORMULATEXT(B38)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1479,7 +1516,8 @@
     "Filename": "ToolSticklightColorful",
     "Variant ID": "NA",
     "Internal ID": 14504,
-    "Unique Entry ID": "QWaoWAyy9S8DA7dPM"
+    "Unique Entry ID": "QWaoWAyy9S8DA7dPM",
+    "Url": "=FORMULATEXT(B39)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1518,7 +1556,8 @@
     "Filename": "ToolNetPattern_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8177,
-    "Unique Entry ID": "5wGjS9fxCaGhWK5Cv"
+    "Unique Entry ID": "5wGjS9fxCaGhWK5Cv",
+    "Url": "=FORMULATEXT(B40)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1557,7 +1596,8 @@
     "Filename": "ToolNetPattern_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8177,
-    "Unique Entry ID": "k4Ssqq2DesuGTy6hy"
+    "Unique Entry ID": "k4Ssqq2DesuGTy6hy",
+    "Url": "=FORMULATEXT(B41)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1596,7 +1636,8 @@
     "Filename": "ToolNetPattern_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8177,
-    "Unique Entry ID": "6pJhWYNiuyZKuKvYz"
+    "Unique Entry ID": "6pJhWYNiuyZKuKvYz",
+    "Url": "=FORMULATEXT(B42)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1635,7 +1676,8 @@
     "Filename": "ToolNetPattern_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8177,
-    "Unique Entry ID": "AmK8KNTDWxdrJH6h7"
+    "Unique Entry ID": "AmK8KNTDWxdrJH6h7",
+    "Url": "=FORMULATEXT(B43)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1674,7 +1716,8 @@
     "Filename": "ToolNetPattern_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8177,
-    "Unique Entry ID": "zcdZjuNZWrHas5efC"
+    "Unique Entry ID": "zcdZjuNZWrHas5efC",
+    "Url": "=FORMULATEXT(B44)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1713,7 +1756,8 @@
     "Filename": "ToolNetPattern_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8177,
-    "Unique Entry ID": "cTrR3cREJBqWZyfN6"
+    "Unique Entry ID": "cTrR3cREJBqWZyfN6",
+    "Url": "=FORMULATEXT(B45)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1752,7 +1796,8 @@
     "Filename": "ToolNetPattern_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8177,
-    "Unique Entry ID": "wFcTeKJ9gM4yLgfTQ"
+    "Unique Entry ID": "wFcTeKJ9gM4yLgfTQ",
+    "Url": "=FORMULATEXT(B46)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1791,7 +1836,8 @@
     "Filename": "ToolNetPattern_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8177,
-    "Unique Entry ID": "kgBcZghywrT4j47vx"
+    "Unique Entry ID": "kgBcZghywrT4j47vx",
+    "Url": "=FORMULATEXT(B47)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1830,7 +1876,8 @@
     "Filename": "ToolScoopColorful_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8577,
-    "Unique Entry ID": "ojvEkqxvFKKrrB6GR"
+    "Unique Entry ID": "ojvEkqxvFKKrrB6GR",
+    "Url": "=FORMULATEXT(B48)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1869,7 +1916,8 @@
     "Filename": "ToolScoopColorful_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8577,
-    "Unique Entry ID": "pnM6ygwcMS5KmSP6c"
+    "Unique Entry ID": "pnM6ygwcMS5KmSP6c",
+    "Url": "=FORMULATEXT(B49)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1908,7 +1956,8 @@
     "Filename": "ToolScoopColorful_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8577,
-    "Unique Entry ID": "MYmh4oANQabcGNjJ6"
+    "Unique Entry ID": "MYmh4oANQabcGNjJ6",
+    "Url": "=FORMULATEXT(B50)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1947,7 +1996,8 @@
     "Filename": "ToolScoopColorful_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8577,
-    "Unique Entry ID": "c3Frxwsyo8PSKZNya"
+    "Unique Entry ID": "c3Frxwsyo8PSKZNya",
+    "Url": "=FORMULATEXT(B51)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -1986,7 +2036,8 @@
     "Filename": "ToolScoopColorful_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8577,
-    "Unique Entry ID": "RbQtnSAf4HNLKuao2"
+    "Unique Entry ID": "RbQtnSAf4HNLKuao2",
+    "Url": "=FORMULATEXT(B52)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2025,7 +2076,8 @@
     "Filename": "ToolScoopColorful_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8577,
-    "Unique Entry ID": "MiJwRTGjbkK5Jx3Zw"
+    "Unique Entry ID": "MiJwRTGjbkK5Jx3Zw",
+    "Url": "=FORMULATEXT(B53)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2064,7 +2116,8 @@
     "Filename": "ToolScoopColorful_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8577,
-    "Unique Entry ID": "XCrHq3vFnD83kY2Sg"
+    "Unique Entry ID": "XCrHq3vFnD83kY2Sg",
+    "Url": "=FORMULATEXT(B54)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2103,7 +2156,8 @@
     "Filename": "ToolScoopColorful_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8577,
-    "Unique Entry ID": "zo7TsB8NzfnFDA7yS"
+    "Unique Entry ID": "zo7TsB8NzfnFDA7yS",
+    "Url": "=FORMULATEXT(B55)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2142,7 +2196,8 @@
     "Filename": "ToolSlingshotColorful_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8580,
-    "Unique Entry ID": "dSvd9K7sRTbx6k5cd"
+    "Unique Entry ID": "dSvd9K7sRTbx6k5cd",
+    "Url": "=FORMULATEXT(B56)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2181,7 +2236,8 @@
     "Filename": "ToolSlingshotColorful_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8580,
-    "Unique Entry ID": "WAcZwYerSQtwujaPZ"
+    "Unique Entry ID": "WAcZwYerSQtwujaPZ",
+    "Url": "=FORMULATEXT(B57)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2220,7 +2276,8 @@
     "Filename": "ToolSlingshotColorful_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8580,
-    "Unique Entry ID": "k7afhFcA5Pqd8qu5F"
+    "Unique Entry ID": "k7afhFcA5Pqd8qu5F",
+    "Url": "=FORMULATEXT(B58)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2259,7 +2316,8 @@
     "Filename": "ToolSlingshotColorful_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8580,
-    "Unique Entry ID": "GBqsH5XYgDHk8wGAz"
+    "Unique Entry ID": "GBqsH5XYgDHk8wGAz",
+    "Url": "=FORMULATEXT(B59)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2298,7 +2356,8 @@
     "Filename": "ToolSlingshotColorful_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8580,
-    "Unique Entry ID": "qq67sn4aq9w7w9Ga2"
+    "Unique Entry ID": "qq67sn4aq9w7w9Ga2",
+    "Url": "=FORMULATEXT(B60)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2337,7 +2396,8 @@
     "Filename": "ToolSlingshotColorful_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8580,
-    "Unique Entry ID": "2JHaGhkbpoa4qbhge"
+    "Unique Entry ID": "2JHaGhkbpoa4qbhge",
+    "Url": "=FORMULATEXT(B61)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2376,7 +2436,8 @@
     "Filename": "ToolSlingshotColorful_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8580,
-    "Unique Entry ID": "cQYdSQ4MzKcnYAyc8"
+    "Unique Entry ID": "cQYdSQ4MzKcnYAyc8",
+    "Url": "=FORMULATEXT(B62)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2415,7 +2476,8 @@
     "Filename": "ToolSlingshotColorful_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8580,
-    "Unique Entry ID": "KiTQgsCkJSTq6ssm6"
+    "Unique Entry ID": "KiTQgsCkJSTq6ssm6",
+    "Url": "=FORMULATEXT(B63)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2454,7 +2516,8 @@
     "Filename": "ToolWateringColorful_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8534,
-    "Unique Entry ID": "35yzBzko3wrMwHjST"
+    "Unique Entry ID": "35yzBzko3wrMwHjST",
+    "Url": "=FORMULATEXT(B64)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2493,7 +2556,8 @@
     "Filename": "ToolWateringColorful_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8534,
-    "Unique Entry ID": "ngYPKLyn5xXawzas3"
+    "Unique Entry ID": "ngYPKLyn5xXawzas3",
+    "Url": "=FORMULATEXT(B65)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2532,7 +2596,8 @@
     "Filename": "ToolWateringColorful_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8534,
-    "Unique Entry ID": "QxhyiwvJWyAShwyhJ"
+    "Unique Entry ID": "QxhyiwvJWyAShwyhJ",
+    "Url": "=FORMULATEXT(B66)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2571,7 +2636,8 @@
     "Filename": "ToolWateringColorful_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8534,
-    "Unique Entry ID": "yuB5QpzCg94HN6u4g"
+    "Unique Entry ID": "yuB5QpzCg94HN6u4g",
+    "Url": "=FORMULATEXT(B67)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2610,7 +2676,8 @@
     "Filename": "ToolWateringColorful_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8534,
-    "Unique Entry ID": "q3p2jaJBt5gD2HRkZ"
+    "Unique Entry ID": "q3p2jaJBt5gD2HRkZ",
+    "Url": "=FORMULATEXT(B68)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2649,7 +2716,8 @@
     "Filename": "ToolWateringColorful_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8534,
-    "Unique Entry ID": "fAm9eEkidwn5LSjSd"
+    "Unique Entry ID": "fAm9eEkidwn5LSjSd",
+    "Url": "=FORMULATEXT(B69)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2688,7 +2756,8 @@
     "Filename": "ToolWateringColorful_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8534,
-    "Unique Entry ID": "4ySFWfB9G3KCq8sKf"
+    "Unique Entry ID": "4ySFWfB9G3KCq8sKf",
+    "Url": "=FORMULATEXT(B70)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2727,7 +2796,8 @@
     "Filename": "ToolWateringColorful_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8534,
-    "Unique Entry ID": "yLHsKfxS39qTMyZ67"
+    "Unique Entry ID": "yLHsKfxS39qTMyZ67",
+    "Url": "=FORMULATEXT(B71)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2766,7 +2836,8 @@
     "Filename": "ToolStickCosmos",
     "Variant ID": "NA",
     "Internal ID": 5092,
-    "Unique Entry ID": "vNqGM6xMEtteYKoza"
+    "Unique Entry ID": "vNqGM6xMEtteYKoza",
+    "Url": "=FORMULATEXT(B72)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2805,7 +2876,8 @@
     "Filename": "ToolAxeDream",
     "Variant ID": "NA",
     "Internal ID": 775,
-    "Unique Entry ID": "o9ckcsWX752zh6czX"
+    "Unique Entry ID": "o9ckcsWX752zh6czX",
+    "Url": "=FORMULATEXT(B73)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2844,7 +2916,8 @@
     "Filename": "ToolAnglingDream_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 776,
-    "Unique Entry ID": "c5fdEiSChpJLaEhpJ"
+    "Unique Entry ID": "c5fdEiSChpJLaEhpJ",
+    "Url": "=FORMULATEXT(B74)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2883,7 +2956,8 @@
     "Filename": "ToolLadderDream",
     "Variant ID": "NA",
     "Internal ID": 777,
-    "Unique Entry ID": "8cnHxg78MKhr8SLfo"
+    "Unique Entry ID": "8cnHxg78MKhr8SLfo",
+    "Url": "=FORMULATEXT(B75)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2922,7 +2996,8 @@
     "Filename": "ToolNetDream_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 779,
-    "Unique Entry ID": "kAkPxKsZv5KBadhKv"
+    "Unique Entry ID": "kAkPxKsZv5KBadhKv",
+    "Url": "=FORMULATEXT(B76)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -2961,7 +3036,8 @@
     "Filename": "ToolScoopDream_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 773,
-    "Unique Entry ID": "wPN6HhZgWymu3ZMcB"
+    "Unique Entry ID": "wPN6HhZgWymu3ZMcB",
+    "Url": "=FORMULATEXT(B77)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3000,7 +3076,8 @@
     "Filename": "ToolTimerDream",
     "Variant ID": "NA",
     "Internal ID": 1315,
-    "Unique Entry ID": "fyjHhmhXbiALE4Sb3"
+    "Unique Entry ID": "fyjHhmhXbiALE4Sb3",
+    "Url": "=FORMULATEXT(B78)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3039,7 +3116,8 @@
     "Filename": "LongWoodenStickDream",
     "Variant ID": "NA",
     "Internal ID": 778,
-    "Unique Entry ID": "goKqdJfPHkisXfKaK"
+    "Unique Entry ID": "goKqdJfPHkisXfKaK",
+    "Url": "=FORMULATEXT(B79)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3078,7 +3156,8 @@
     "Filename": "ToolDumbbellPlayer_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 14539,
-    "Unique Entry ID": "4YAs6yXya4GqF6sga"
+    "Unique Entry ID": "4YAs6yXya4GqF6sga",
+    "Url": "=FORMULATEXT(B80)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3117,7 +3196,8 @@
     "Filename": "ToolDumbbellPlayer_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 14539,
-    "Unique Entry ID": "Znj3RwmqymBRHWHHs"
+    "Unique Entry ID": "Znj3RwmqymBRHWHHs",
+    "Url": "=FORMULATEXT(B81)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3156,7 +3236,8 @@
     "Filename": "ToolDumbbellPlayer_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 14539,
-    "Unique Entry ID": "hgCZhGJYpxQidbv9y"
+    "Unique Entry ID": "hgCZhGJYpxQidbv9y",
+    "Url": "=FORMULATEXT(B82)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3195,7 +3276,8 @@
     "Filename": "ToolDumbbellPlayer_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 14539,
-    "Unique Entry ID": "PvWzAAN9jZDaEud6G"
+    "Unique Entry ID": "PvWzAAN9jZDaEud6G",
+    "Url": "=FORMULATEXT(B83)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3234,7 +3316,8 @@
     "Filename": "ToolDumbbellPlayer_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 14539,
-    "Unique Entry ID": "pehfi3pEXGMzyKLMj"
+    "Unique Entry ID": "pehfi3pEXGMzyKLMj",
+    "Url": "=FORMULATEXT(B84)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3273,7 +3356,8 @@
     "Filename": "ToolDumbbellPlayer_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 14539,
-    "Unique Entry ID": "ydC7jwrwffn5zaLKi"
+    "Unique Entry ID": "ydC7jwrwffn5zaLKi",
+    "Url": "=FORMULATEXT(B85)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3312,7 +3396,8 @@
     "Filename": "ToolDusterPlayer",
     "Variant ID": "NA",
     "Internal ID": 14643,
-    "Unique Entry ID": "w4PXxKfjWWyJ5hQmt"
+    "Unique Entry ID": "w4PXxKfjWWyJ5hQmt",
+    "Url": "=FORMULATEXT(B86)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3351,7 +3436,8 @@
     "Filename": "ToolWateringElephant_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8535,
-    "Unique Entry ID": "AjAhCPjQAreLmqKCB"
+    "Unique Entry ID": "AjAhCPjQAreLmqKCB",
+    "Url": "=FORMULATEXT(B87)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3390,7 +3476,8 @@
     "Filename": "ToolWateringElephant_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8535,
-    "Unique Entry ID": "JBApgvSrYbJcSmsd2"
+    "Unique Entry ID": "JBApgvSrYbJcSmsd2",
+    "Url": "=FORMULATEXT(B88)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3429,7 +3516,8 @@
     "Filename": "ToolWateringElephant_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8535,
-    "Unique Entry ID": "HcqA5ggg9XBLsfYNK"
+    "Unique Entry ID": "HcqA5ggg9XBLsfYNK",
+    "Url": "=FORMULATEXT(B89)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3468,7 +3556,8 @@
     "Filename": "ToolWateringElephant_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8535,
-    "Unique Entry ID": "mvF2W6yf4hcXLu3eM"
+    "Unique Entry ID": "mvF2W6yf4hcXLu3eM",
+    "Url": "=FORMULATEXT(B90)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3507,7 +3596,8 @@
     "Filename": "ToolWateringElephant_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8535,
-    "Unique Entry ID": "B6oWDPizvZRRBDbop"
+    "Unique Entry ID": "B6oWDPizvZRRBDbop",
+    "Url": "=FORMULATEXT(B91)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3546,7 +3636,8 @@
     "Filename": "ToolWateringElephant_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8535,
-    "Unique Entry ID": "AoZCaqfJYb6TSNctg"
+    "Unique Entry ID": "AoZCaqfJYb6TSNctg",
+    "Url": "=FORMULATEXT(B92)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3585,7 +3676,8 @@
     "Filename": "ToolWateringElephant_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8535,
-    "Unique Entry ID": "cBG6avJmvncbTX56k"
+    "Unique Entry ID": "cBG6avJmvncbTX56k",
+    "Url": "=FORMULATEXT(B93)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3624,7 +3716,8 @@
     "Filename": "ToolWateringElephant_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8535,
-    "Unique Entry ID": "XphbdnArYGwJp8kmj"
+    "Unique Entry ID": "XphbdnArYGwJp8kmj",
+    "Url": "=FORMULATEXT(B94)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3663,7 +3756,8 @@
     "Filename": "ToolMegaphone1",
     "Variant ID": "NA",
     "Internal ID": 14013,
-    "Unique Entry ID": "rxtP9gBPZoKuEbQQs"
+    "Unique Entry ID": "rxtP9gBPZoKuEbQQs",
+    "Url": "=FORMULATEXT(B95)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3702,7 +3796,8 @@
     "Filename": "ToolFishingrodColorful_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8471,
-    "Unique Entry ID": "dBNahAnSJkF5q7Wta"
+    "Unique Entry ID": "dBNahAnSJkF5q7Wta",
+    "Url": "=FORMULATEXT(B96)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3741,7 +3836,8 @@
     "Filename": "ToolFishingrodColorful_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8471,
-    "Unique Entry ID": "ziRQL2REqF652sgkc"
+    "Unique Entry ID": "ziRQL2REqF652sgkc",
+    "Url": "=FORMULATEXT(B97)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3780,7 +3876,8 @@
     "Filename": "ToolFishingrodColorful_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8471,
-    "Unique Entry ID": "7id3sXPC6a2qTsM9S"
+    "Unique Entry ID": "7id3sXPC6a2qTsM9S",
+    "Url": "=FORMULATEXT(B98)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3819,7 +3916,8 @@
     "Filename": "ToolFishingrodColorful_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8471,
-    "Unique Entry ID": "txjiE4Yoi66P59Rpi"
+    "Unique Entry ID": "txjiE4Yoi66P59Rpi",
+    "Url": "=FORMULATEXT(B99)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3858,7 +3956,8 @@
     "Filename": "ToolFishingrodColorful_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8471,
-    "Unique Entry ID": "mQQKH3hfMyn2P4SAT"
+    "Unique Entry ID": "mQQKH3hfMyn2P4SAT",
+    "Url": "=FORMULATEXT(B100)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3897,7 +3996,8 @@
     "Filename": "ToolFishingrodColorful_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8471,
-    "Unique Entry ID": "oPumzrhQMfYrdrhfC"
+    "Unique Entry ID": "oPumzrhQMfYrdrhfC",
+    "Url": "=FORMULATEXT(B101)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3936,7 +4036,8 @@
     "Filename": "ToolFishingrodColorful_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8471,
-    "Unique Entry ID": "A44B9ELrDxsrY6HaR"
+    "Unique Entry ID": "A44B9ELrDxsrY6HaR",
+    "Url": "=FORMULATEXT(B102)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -3975,7 +4076,8 @@
     "Filename": "ToolFishingrodColorful_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8471,
-    "Unique Entry ID": "k6AepGHtwTJhBzxXZ"
+    "Unique Entry ID": "k6AepGHtwTJhBzxXZ",
+    "Url": "=FORMULATEXT(B103)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4014,7 +4116,8 @@
     "Filename": "ToolStickFish",
     "Variant ID": "NA",
     "Internal ID": 8770,
-    "Unique Entry ID": "HrGFzby54HCv326PJ"
+    "Unique Entry ID": "HrGFzby54HCv326PJ",
+    "Url": "=FORMULATEXT(B104)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4053,7 +4156,8 @@
     "Filename": "ToolAngling_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 2377,
-    "Unique Entry ID": "Y62px4Jy5vaMtN46u"
+    "Unique Entry ID": "Y62px4Jy5vaMtN46u",
+    "Url": "=FORMULATEXT(B105)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4092,7 +4196,8 @@
     "Filename": "ToolAngling_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 2377,
-    "Unique Entry ID": "JLMypnErvJc6n9wS8"
+    "Unique Entry ID": "JLMypnErvJc6n9wS8",
+    "Url": "=FORMULATEXT(B106)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4131,7 +4236,8 @@
     "Filename": "ToolAngling_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 2377,
-    "Unique Entry ID": "WTqWoAYMKuJsXjWWv"
+    "Unique Entry ID": "WTqWoAYMKuJsXjWWv",
+    "Url": "=FORMULATEXT(B107)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4170,7 +4276,8 @@
     "Filename": "ToolAngling_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 2377,
-    "Unique Entry ID": "SWX3JZeySqWz8PKQi"
+    "Unique Entry ID": "SWX3JZeySqWz8PKQi",
+    "Url": "=FORMULATEXT(B108)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4209,7 +4316,8 @@
     "Filename": "ToolAngling_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 2377,
-    "Unique Entry ID": "PBLScat4po99B5h4k"
+    "Unique Entry ID": "PBLScat4po99B5h4k",
+    "Url": "=FORMULATEXT(B109)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4248,7 +4356,8 @@
     "Filename": "ToolAngling_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 2377,
-    "Unique Entry ID": "9bT9ZRhRG3e3WA8Bn"
+    "Unique Entry ID": "9bT9ZRhRG3e3WA8Bn",
+    "Url": "=FORMULATEXT(B110)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4287,7 +4396,8 @@
     "Filename": "ToolAngling_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 2377,
-    "Unique Entry ID": "G58mfRs22f48nF9QA"
+    "Unique Entry ID": "G58mfRs22f48nF9QA",
+    "Url": "=FORMULATEXT(B111)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4326,7 +4436,8 @@
     "Filename": "ToolAngling_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 2377,
-    "Unique Entry ID": "bgrXEg4NvgPjudWar"
+    "Unique Entry ID": "bgrXEg4NvgPjudWar",
+    "Url": "=FORMULATEXT(B112)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4365,7 +4476,8 @@
     "Filename": "ToolAxeStone",
     "Variant ID": "NA",
     "Internal ID": 3068,
-    "Unique Entry ID": "L79jandXPjEAoQScd"
+    "Unique Entry ID": "L79jandXPjEAoQScd",
+    "Url": "=FORMULATEXT(B113)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4404,7 +4516,8 @@
     "Filename": "ToolFishingrodWood",
     "Variant ID": "NA",
     "Internal ID": 3084,
-    "Unique Entry ID": "qtA9zfSRuaCkmmQXr"
+    "Unique Entry ID": "qtA9zfSRuaCkmmQXr",
+    "Url": "=FORMULATEXT(B114)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4443,7 +4556,8 @@
     "Filename": "ToolNet",
     "Variant ID": "NA",
     "Internal ID": 2376,
-    "Unique Entry ID": "PHe3aaN2nsXFcQXxN"
+    "Unique Entry ID": "PHe3aaN2nsXFcQXxN",
+    "Url": "=FORMULATEXT(B115)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4482,7 +4596,8 @@
     "Filename": "ToolShovelWood",
     "Variant ID": "NA",
     "Internal ID": 3082,
-    "Unique Entry ID": "PnLgMCQ34R3HxWqcT"
+    "Unique Entry ID": "PnLgMCQ34R3HxWqcT",
+    "Url": "=FORMULATEXT(B116)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4521,7 +4636,8 @@
     "Filename": "ToolWateringWood",
     "Variant ID": "NA",
     "Internal ID": 3083,
-    "Unique Entry ID": "BdRyC6atcvz3KJnnM"
+    "Unique Entry ID": "BdRyC6atcvz3KJnnM",
+    "Url": "=FORMULATEXT(B117)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4560,7 +4676,8 @@
     "Filename": "ToolFlowershower",
     "Variant ID": "NA",
     "Internal ID": 14284,
-    "Unique Entry ID": "metLc5Y6NSKEzRGM6"
+    "Unique Entry ID": "metLc5Y6NSKEzRGM6",
+    "Url": "=FORMULATEXT(B118)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4599,7 +4716,8 @@
     "Filename": "ToolMegaphone0",
     "Variant ID": "NA",
     "Internal ID": 13913,
-    "Unique Entry ID": "jbrtgKzaXEnFXJSng"
+    "Unique Entry ID": "jbrtgKzaXEnFXJSng",
+    "Url": "=FORMULATEXT(B119)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4638,7 +4756,8 @@
     "Filename": "ToolFoxtailPlayer",
     "Variant ID": "NA",
     "Internal ID": 14645,
-    "Unique Entry ID": "4xTJQeqZ9Q5us2Csw"
+    "Unique Entry ID": "4xTJQeqZ9Q5us2Csw",
+    "Url": "=FORMULATEXT(B120)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4677,7 +4796,8 @@
     "Filename": "ToolMegaphone3",
     "Variant ID": "NA",
     "Internal ID": 14015,
-    "Unique Entry ID": "gcTsMrJgt8QHcXidt"
+    "Unique Entry ID": "gcTsMrJgt8QHcXidt",
+    "Url": "=FORMULATEXT(B121)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4716,7 +4836,8 @@
     "Filename": "ToolAxeGold",
     "Variant ID": "NA",
     "Internal ID": 9617,
-    "Unique Entry ID": "eX9RXzQHaaZX89zoN"
+    "Unique Entry ID": "eX9RXzQHaaZX89zoN",
+    "Url": "=FORMULATEXT(B122)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4755,7 +4876,8 @@
     "Filename": "LadderKitD",
     "Variant ID": "NA",
     "Internal ID": 14470,
-    "Unique Entry ID": "F3MKfewdJAqBFaaLr"
+    "Unique Entry ID": "F3MKfewdJAqBFaaLr",
+    "Url": "=FORMULATEXT(B123)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4794,7 +4916,8 @@
     "Filename": "ToolNetGold",
     "Variant ID": "NA",
     "Internal ID": 8179,
-    "Unique Entry ID": "aKMTWuywGTuorriEg"
+    "Unique Entry ID": "aKMTWuywGTuorriEg",
+    "Url": "=FORMULATEXT(B124)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4833,7 +4956,8 @@
     "Filename": "ToolFishingrodGold",
     "Variant ID": "NA",
     "Internal ID": 8660,
-    "Unique Entry ID": "Tt5YeqejtuW3T7Cbq"
+    "Unique Entry ID": "Tt5YeqejtuW3T7Cbq",
+    "Url": "=FORMULATEXT(B125)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4872,7 +4996,8 @@
     "Filename": "ToolScoopGold",
     "Variant ID": "NA",
     "Internal ID": 8574,
-    "Unique Entry ID": "EMzMphvPgdhguM4Ku"
+    "Unique Entry ID": "EMzMphvPgdhguM4Ku",
+    "Url": "=FORMULATEXT(B126)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4911,7 +5036,8 @@
     "Filename": "ToolSlingshotGold",
     "Variant ID": "NA",
     "Internal ID": 8578,
-    "Unique Entry ID": "tx3MMcGrZPHeyoLeY"
+    "Unique Entry ID": "tx3MMcGrZPHeyoLeY",
+    "Url": "=FORMULATEXT(B127)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4950,7 +5076,8 @@
     "Filename": "ToolStickGolden",
     "Variant ID": "NA",
     "Internal ID": 7591,
-    "Unique Entry ID": "fdDGHvQBc5AhtExnt"
+    "Unique Entry ID": "fdDGHvQBc5AhtExnt",
+    "Url": "=FORMULATEXT(B128)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -4989,7 +5116,8 @@
     "Filename": "ToolWateringGold",
     "Variant ID": "NA",
     "Internal ID": 8533,
-    "Unique Entry ID": "bzEwTDjTeK4gKSsZa"
+    "Unique Entry ID": "bzEwTDjTeK4gKSsZa",
+    "Url": "=FORMULATEXT(B129)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5028,7 +5156,8 @@
     "Filename": "ToolSensu3",
     "Variant ID": "NA",
     "Internal ID": 321,
-    "Unique Entry ID": "69kSyeax8CshTQas3"
+    "Unique Entry ID": "69kSyeax8CshTQas3",
+    "Url": "=FORMULATEXT(B130)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5067,7 +5196,8 @@
     "Filename": "ToolBalloonNormal3",
     "Variant ID": "NA",
     "Internal ID": 13125,
-    "Unique Entry ID": "6xF5xbt7WxTdqMYaH"
+    "Unique Entry ID": "6xF5xbt7WxTdqMYaH",
+    "Url": "=FORMULATEXT(B131)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5106,7 +5236,8 @@
     "Filename": "ToolLantern_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 14414,
-    "Unique Entry ID": "JRc5QE43YQj97Nut9"
+    "Unique Entry ID": "JRc5QE43YQj97Nut9",
+    "Url": "=FORMULATEXT(B132)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5145,7 +5276,8 @@
     "Filename": "ToolLantern_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 14414,
-    "Unique Entry ID": "fqt573z5JFpZHaxJA"
+    "Unique Entry ID": "fqt573z5JFpZHaxJA",
+    "Url": "=FORMULATEXT(B133)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5184,7 +5316,8 @@
     "Filename": "ToolLantern_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 14414,
-    "Unique Entry ID": "C6WCovahHE2WbnvtZ"
+    "Unique Entry ID": "C6WCovahHE2WbnvtZ",
+    "Url": "=FORMULATEXT(B134)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5223,7 +5356,8 @@
     "Filename": "ToolLantern_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 14414,
-    "Unique Entry ID": "9Z9aw5RNmStuhsqN3"
+    "Unique Entry ID": "9Z9aw5RNmStuhsqN3",
+    "Url": "=FORMULATEXT(B135)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5262,7 +5396,8 @@
     "Filename": "ToolLantern_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 14414,
-    "Unique Entry ID": "zYPuWTZ6SNmPNSspa"
+    "Unique Entry ID": "zYPuWTZ6SNmPNSspa",
+    "Url": "=FORMULATEXT(B136)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5301,7 +5436,8 @@
     "Filename": "ToolLantern_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 14414,
-    "Unique Entry ID": "EFnR68jRfzXG5ppas"
+    "Unique Entry ID": "EFnR68jRfzXG5ppas",
+    "Url": "=FORMULATEXT(B137)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5340,7 +5476,8 @@
     "Filename": "ToolStickHyacinth",
     "Variant ID": "NA",
     "Internal ID": 5083,
-    "Unique Entry ID": "aBPEFn5NehSoQ428E"
+    "Unique Entry ID": "aBPEFn5NehSoQ428E",
+    "Url": "=FORMULATEXT(B138)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5379,7 +5516,8 @@
     "Filename": "ToolStickSnow",
     "Variant ID": "NA",
     "Internal ID": 7585,
-    "Unique Entry ID": "pQCDsY6gvHXL2SAff"
+    "Unique Entry ID": "pQCDsY6gvHXL2SAff",
+    "Url": "=FORMULATEXT(B139)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5418,7 +5556,8 @@
     "Filename": "LadderKitC0_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 13534,
-    "Unique Entry ID": "gm4eDayQQoRZqnv7R"
+    "Unique Entry ID": "gm4eDayQQoRZqnv7R",
+    "Url": "=FORMULATEXT(B140)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5457,7 +5596,8 @@
     "Filename": "LadderKitC0_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 13534,
-    "Unique Entry ID": "qX3dAu6coTmw7eNdh"
+    "Unique Entry ID": "qX3dAu6coTmw7eNdh",
+    "Url": "=FORMULATEXT(B141)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5496,7 +5636,8 @@
     "Filename": "LadderKitC0_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 13534,
-    "Unique Entry ID": "pcmR5JmFBFrw39NjH"
+    "Unique Entry ID": "pcmR5JmFBFrw39NjH",
+    "Url": "=FORMULATEXT(B142)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5535,7 +5676,8 @@
     "Filename": "ToolStickIron",
     "Variant ID": "NA",
     "Internal ID": 7592,
-    "Unique Entry ID": "5JC2q7xYFFCBhX2mS"
+    "Unique Entry ID": "5JC2q7xYFFCBhX2mS",
+    "Url": "=FORMULATEXT(B143)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5574,7 +5716,8 @@
     "Filename": "ToolStickKikilala0",
     "Variant ID": "NA",
     "Internal ID": 13173,
-    "Unique Entry ID": "xjBnFqY5WRJ7isLET"
+    "Unique Entry ID": "xjBnFqY5WRJ7isLET",
+    "Url": "=FORMULATEXT(B144)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5613,7 +5756,8 @@
     "Filename": "ToolLadder",
     "Variant ID": "NA",
     "Internal ID": 2615,
-    "Unique Entry ID": "TxFCim9KyNE7edcXH"
+    "Unique Entry ID": "TxFCim9KyNE7edcXH",
+    "Url": "=FORMULATEXT(B145)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5652,7 +5796,8 @@
     "Filename": "ToolSticklight",
     "Variant ID": "NA",
     "Internal ID": 5741,
-    "Unique Entry ID": "9HpdmfZcEfuXtR8ey"
+    "Unique Entry ID": "9HpdmfZcEfuXtR8ey",
+    "Url": "=FORMULATEXT(B146)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5691,7 +5836,8 @@
     "Filename": "ToolStickYuri",
     "Variant ID": "NA",
     "Internal ID": 5094,
-    "Unique Entry ID": "rX7Dget4dZzprkSY4"
+    "Unique Entry ID": "rX7Dget4dZzprkSY4",
+    "Url": "=FORMULATEXT(B147)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5730,7 +5876,8 @@
     "Filename": "SantaSack",
     "Variant ID": "NA",
     "Internal ID": 13836,
-    "Unique Entry ID": "DANhu4XN2fNyNnCTz"
+    "Unique Entry ID": "DANhu4XN2fNyNnCTz",
+    "Url": "=FORMULATEXT(B148)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5769,7 +5916,8 @@
     "Filename": "ToolMaracasCarnival",
     "Variant ID": "NA",
     "Internal ID": 13958,
-    "Unique Entry ID": "Gm8hxoCwEuTRvPZTq"
+    "Unique Entry ID": "Gm8hxoCwEuTRvPZTq",
+    "Url": "=FORMULATEXT(B149)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5808,7 +5956,8 @@
     "Filename": "ToolDonutPlayer3",
     "Variant ID": "NA",
     "Internal ID": 332,
-    "Unique Entry ID": "xMbjcMkJpjkj4s28J"
+    "Unique Entry ID": "xMbjcMkJpjkj4s28J",
+    "Url": "=FORMULATEXT(B150)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5847,7 +5996,8 @@
     "Filename": "ToolIcesoft2",
     "Variant ID": "NA",
     "Internal ID": 326,
-    "Unique Entry ID": "2nTb3YZQri3CsvRzX"
+    "Unique Entry ID": "2nTb3YZQri3CsvRzX",
+    "Url": "=FORMULATEXT(B151)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5886,7 +6036,8 @@
     "Filename": "ToolMegaphoneMike",
     "Variant ID": "NA",
     "Internal ID": 1130,
-    "Unique Entry ID": "JmCJytuA6txzhf2cz"
+    "Unique Entry ID": "JmCJytuA6txzhf2cz",
+    "Url": "=FORMULATEXT(B152)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5925,7 +6076,8 @@
     "Filename": "ToolCandyfloss2",
     "Variant ID": "NA",
     "Internal ID": 14743,
-    "Unique Entry ID": "BtJiWNjd29ewLT7Ye"
+    "Unique Entry ID": "BtJiWNjd29ewLT7Ye",
+    "Url": "=FORMULATEXT(B153)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -5964,7 +6116,8 @@
     "Filename": "ToolIcecreamDouble1",
     "Variant ID": "NA",
     "Internal ID": 14852,
-    "Unique Entry ID": "AsGnTfhrNt33vuZN9"
+    "Unique Entry ID": "AsGnTfhrNt33vuZN9",
+    "Url": "=FORMULATEXT(B154)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6003,7 +6156,8 @@
     "Filename": "ToolStickChrysanthemum",
     "Variant ID": "NA",
     "Internal ID": 5095,
-    "Unique Entry ID": "9sd3YGxf9jmuGBrGw"
+    "Unique Entry ID": "9sd3YGxf9jmuGBrGw",
+    "Url": "=FORMULATEXT(B155)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6042,7 +6196,8 @@
     "Filename": "ToolStickMushroom_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 7588,
-    "Unique Entry ID": "6PLR84qz4JifgtLmh"
+    "Unique Entry ID": "6PLR84qz4JifgtLmh",
+    "Url": "=FORMULATEXT(B156)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6081,7 +6236,8 @@
     "Filename": "ToolStickMushroom_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 7588,
-    "Unique Entry ID": "T898uqxxT6AXuXyBt"
+    "Unique Entry ID": "T898uqxxT6AXuXyBt",
+    "Url": "=FORMULATEXT(B157)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6120,7 +6276,8 @@
     "Filename": "ToolStickMushroom_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 7588,
-    "Unique Entry ID": "rcjxuvmyCPyTjbbwm"
+    "Unique Entry ID": "rcjxuvmyCPyTjbbwm",
+    "Url": "=FORMULATEXT(B158)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6159,7 +6316,8 @@
     "Filename": "ToolStickMushroom_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 7588,
-    "Unique Entry ID": "nN6uiNEshKx8sYwKE"
+    "Unique Entry ID": "nN6uiNEshKx8sYwKE",
+    "Url": "=FORMULATEXT(B159)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6198,7 +6356,8 @@
     "Filename": "ToolStickMushroom_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 7588,
-    "Unique Entry ID": "Dtm7dJLAERgpCpGXv"
+    "Unique Entry ID": "Dtm7dJLAERgpCpGXv",
+    "Url": "=FORMULATEXT(B160)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6237,7 +6396,8 @@
     "Filename": "ToolNetNormal_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 5784,
-    "Unique Entry ID": "HH8tKPMbt8DQpSrMS"
+    "Unique Entry ID": "HH8tKPMbt8DQpSrMS",
+    "Url": "=FORMULATEXT(B161)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6276,7 +6436,8 @@
     "Filename": "ToolNetNormal_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 5784,
-    "Unique Entry ID": "YiRCkQXgKaLKf8D6p"
+    "Unique Entry ID": "YiRCkQXgKaLKf8D6p",
+    "Url": "=FORMULATEXT(B162)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6315,7 +6476,8 @@
     "Filename": "ToolNetNormal_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 5784,
-    "Unique Entry ID": "X3x4tGwZiYnM5SRZv"
+    "Unique Entry ID": "X3x4tGwZiYnM5SRZv",
+    "Url": "=FORMULATEXT(B163)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6354,7 +6516,8 @@
     "Filename": "ToolNetNormal_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 5784,
-    "Unique Entry ID": "WtArd6h6MFQ8sjwEt"
+    "Unique Entry ID": "WtArd6h6MFQ8sjwEt",
+    "Url": "=FORMULATEXT(B164)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6393,7 +6556,8 @@
     "Filename": "ToolNetNormal_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 5784,
-    "Unique Entry ID": "b8L8wbutCQEQjAzwD"
+    "Unique Entry ID": "b8L8wbutCQEQjAzwD",
+    "Url": "=FORMULATEXT(B165)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6432,7 +6596,8 @@
     "Filename": "ToolNetNormal_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 5784,
-    "Unique Entry ID": "8Khqvy2vpnJkpKLET"
+    "Unique Entry ID": "8Khqvy2vpnJkpKLET",
+    "Url": "=FORMULATEXT(B166)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6471,7 +6636,8 @@
     "Filename": "ToolNetNormal_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 5784,
-    "Unique Entry ID": "yNCid2KGDGFSz2W7L"
+    "Unique Entry ID": "yNCid2KGDGFSz2W7L",
+    "Url": "=FORMULATEXT(B167)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6510,7 +6676,8 @@
     "Filename": "ToolNetNormal_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 5784,
-    "Unique Entry ID": "pFaH2eF4JpK3roNtQ"
+    "Unique Entry ID": "pFaH2eF4JpK3roNtQ",
+    "Url": "=FORMULATEXT(B168)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6549,7 +6716,8 @@
     "Filename": "ToolBranchPlayer",
     "Variant ID": "NA",
     "Internal ID": 14644,
-    "Unique Entry ID": "da35nZC6werTpcAdp"
+    "Unique Entry ID": "da35nZC6werTpcAdp",
+    "Url": "=FORMULATEXT(B169)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6588,7 +6756,8 @@
     "Filename": "ToolBalloonNook",
     "Variant ID": "NA",
     "Internal ID": 14540,
-    "Unique Entry ID": "A7k4d6CpAJr2kmkCb"
+    "Unique Entry ID": "A7k4d6CpAJr2kmkCb",
+    "Url": "=FORMULATEXT(B170)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6627,7 +6796,8 @@
     "Filename": "ToolPennantRcm",
     "Variant ID": "NA",
     "Internal ID": 13128,
-    "Unique Entry ID": "C5sMrB792zhZekeqW"
+    "Unique Entry ID": "C5sMrB792zhZekeqW",
+    "Url": "=FORMULATEXT(B171)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6666,7 +6836,8 @@
     "Filename": "ToolFanNook0",
     "Variant ID": "NA",
     "Internal ID": 9762,
-    "Unique Entry ID": "Qwfx3obKdwCDKr4WG"
+    "Unique Entry ID": "Qwfx3obKdwCDKr4WG",
+    "Url": "=FORMULATEXT(B172)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6705,7 +6876,8 @@
     "Filename": "ToolOcarina",
     "Variant ID": "NA",
     "Internal ID": 5320,
-    "Unique Entry ID": "xN5tB3m4aXnm94RLL"
+    "Unique Entry ID": "xN5tB3m4aXnm94RLL",
+    "Url": "=FORMULATEXT(B173)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6744,7 +6916,8 @@
     "Filename": "ToolOcarinaTime",
     "Variant ID": "NA",
     "Internal ID": 1073,
-    "Unique Entry ID": "pKfKRnzcQpTs24WNv"
+    "Unique Entry ID": "pKfKRnzcQpTs24WNv",
+    "Url": "=FORMULATEXT(B174)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6783,7 +6956,8 @@
     "Filename": "ToolIcecandyPlayer0",
     "Variant ID": "NA",
     "Internal ID": 14633,
-    "Unique Entry ID": "Bxfse8ejEoGCfxqC7"
+    "Unique Entry ID": "Bxfse8ejEoGCfxqC7",
+    "Url": "=FORMULATEXT(B175)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6822,7 +6996,8 @@
     "Filename": "ToolIcecreamDouble2",
     "Variant ID": "NA",
     "Internal ID": 14853,
-    "Unique Entry ID": "cK694KbhDpsFd5YYs"
+    "Unique Entry ID": "cK694KbhDpsFd5YYs",
+    "Url": "=FORMULATEXT(B176)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6861,7 +7036,8 @@
     "Filename": "ToolFishingrodOutdoor_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8473,
-    "Unique Entry ID": "bvYTHd7dbDC9ZijAd"
+    "Unique Entry ID": "bvYTHd7dbDC9ZijAd",
+    "Url": "=FORMULATEXT(B177)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6900,7 +7076,8 @@
     "Filename": "ToolFishingrodOutdoor_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8473,
-    "Unique Entry ID": "bMdHGfZQu6846Somm"
+    "Unique Entry ID": "bMdHGfZQu6846Somm",
+    "Url": "=FORMULATEXT(B178)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6939,7 +7116,8 @@
     "Filename": "ToolFishingrodOutdoor_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8473,
-    "Unique Entry ID": "3Ne39o36LkhGc9rGk"
+    "Unique Entry ID": "3Ne39o36LkhGc9rGk",
+    "Url": "=FORMULATEXT(B179)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -6978,7 +7156,8 @@
     "Filename": "ToolFishingrodOutdoor_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8473,
-    "Unique Entry ID": "BJAg7c5HmD6LncCCj"
+    "Unique Entry ID": "BJAg7c5HmD6LncCCj",
+    "Url": "=FORMULATEXT(B180)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7017,7 +7196,8 @@
     "Filename": "ToolFishingrodOutdoor_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8473,
-    "Unique Entry ID": "DZwxGwf6DY8ucEKwP"
+    "Unique Entry ID": "DZwxGwf6DY8ucEKwP",
+    "Url": "=FORMULATEXT(B181)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7056,7 +7236,8 @@
     "Filename": "ToolFishingrodOutdoor_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8473,
-    "Unique Entry ID": "sGPYWwozfBgoi62fk"
+    "Unique Entry ID": "sGPYWwozfBgoi62fk",
+    "Url": "=FORMULATEXT(B182)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7095,7 +7276,8 @@
     "Filename": "ToolFishingrodOutdoor_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8473,
-    "Unique Entry ID": "3M7FJL2qfL5iAZvxn"
+    "Unique Entry ID": "3M7FJL2qfL5iAZvxn",
+    "Url": "=FORMULATEXT(B183)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7134,7 +7316,8 @@
     "Filename": "ToolFishingrodOutdoor_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8473,
-    "Unique Entry ID": "JdGkE9Mf9mXN3jXj5"
+    "Unique Entry ID": "JdGkE9Mf9mXN3jXj5",
+    "Url": "=FORMULATEXT(B184)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7173,7 +7356,8 @@
     "Filename": "ToolNetOutdoor_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8178,
-    "Unique Entry ID": "v8G8jriZ3R47Y5CTA"
+    "Unique Entry ID": "v8G8jriZ3R47Y5CTA",
+    "Url": "=FORMULATEXT(B185)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7212,7 +7396,8 @@
     "Filename": "ToolNetOutdoor_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8178,
-    "Unique Entry ID": "SeeobMqj2fMCHFRR5"
+    "Unique Entry ID": "SeeobMqj2fMCHFRR5",
+    "Url": "=FORMULATEXT(B186)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7251,7 +7436,8 @@
     "Filename": "ToolNetOutdoor_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8178,
-    "Unique Entry ID": "dDuDFS3Q87rSEvYGA"
+    "Unique Entry ID": "dDuDFS3Q87rSEvYGA",
+    "Url": "=FORMULATEXT(B187)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7290,7 +7476,8 @@
     "Filename": "ToolNetOutdoor_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8178,
-    "Unique Entry ID": "bhFAvdtCDNFuaL7tp"
+    "Unique Entry ID": "bhFAvdtCDNFuaL7tp",
+    "Url": "=FORMULATEXT(B188)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7329,7 +7516,8 @@
     "Filename": "ToolNetOutdoor_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8178,
-    "Unique Entry ID": "cdXFG76YRzMhcBKvE"
+    "Unique Entry ID": "cdXFG76YRzMhcBKvE",
+    "Url": "=FORMULATEXT(B189)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7368,7 +7556,8 @@
     "Filename": "ToolNetOutdoor_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8178,
-    "Unique Entry ID": "mRjtY48TEQkJaiYqv"
+    "Unique Entry ID": "mRjtY48TEQkJaiYqv",
+    "Url": "=FORMULATEXT(B190)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7407,7 +7596,8 @@
     "Filename": "ToolNetOutdoor_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8178,
-    "Unique Entry ID": "qJWCYusFziCAZowwo"
+    "Unique Entry ID": "qJWCYusFziCAZowwo",
+    "Url": "=FORMULATEXT(B191)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7446,7 +7636,8 @@
     "Filename": "ToolNetOutdoor_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8178,
-    "Unique Entry ID": "v4vzaPQkSf4PHpjnC"
+    "Unique Entry ID": "v4vzaPQkSf4PHpjnC",
+    "Url": "=FORMULATEXT(B192)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7485,7 +7676,8 @@
     "Filename": "ToolScoopOutdoor_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8575,
-    "Unique Entry ID": "Je4oQvJHrridANtwW"
+    "Unique Entry ID": "Je4oQvJHrridANtwW",
+    "Url": "=FORMULATEXT(B193)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7524,7 +7716,8 @@
     "Filename": "ToolScoopOutdoor_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8575,
-    "Unique Entry ID": "Qkuxh7aBzEEcgXX3g"
+    "Unique Entry ID": "Qkuxh7aBzEEcgXX3g",
+    "Url": "=FORMULATEXT(B194)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7563,7 +7756,8 @@
     "Filename": "ToolScoopOutdoor_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8575,
-    "Unique Entry ID": "PhHgvEkW3oiFvhWuk"
+    "Unique Entry ID": "PhHgvEkW3oiFvhWuk",
+    "Url": "=FORMULATEXT(B195)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7602,7 +7796,8 @@
     "Filename": "ToolScoopOutdoor_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8575,
-    "Unique Entry ID": "6cvhBz44Z4BAxt8AX"
+    "Unique Entry ID": "6cvhBz44Z4BAxt8AX",
+    "Url": "=FORMULATEXT(B196)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7641,7 +7836,8 @@
     "Filename": "ToolScoopOutdoor_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8575,
-    "Unique Entry ID": "R2WDYoFbBG2hWfFtf"
+    "Unique Entry ID": "R2WDYoFbBG2hWfFtf",
+    "Url": "=FORMULATEXT(B197)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7680,7 +7876,8 @@
     "Filename": "ToolScoopOutdoor_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8575,
-    "Unique Entry ID": "RKjgnpJYtFKZgKDRk"
+    "Unique Entry ID": "RKjgnpJYtFKZgKDRk",
+    "Url": "=FORMULATEXT(B198)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7719,7 +7916,8 @@
     "Filename": "ToolScoopOutdoor_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8575,
-    "Unique Entry ID": "ccQGhqapinP7FiXPJ"
+    "Unique Entry ID": "ccQGhqapinP7FiXPJ",
+    "Url": "=FORMULATEXT(B199)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7758,7 +7956,8 @@
     "Filename": "ToolScoopOutdoor_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8575,
-    "Unique Entry ID": "e8xYribiE3L9zbeNz"
+    "Unique Entry ID": "e8xYribiE3L9zbeNz",
+    "Url": "=FORMULATEXT(B200)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7797,7 +7996,8 @@
     "Filename": "ToolSlingshotOutdoor_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8579,
-    "Unique Entry ID": "qJkGDgJtD9cQye8oD"
+    "Unique Entry ID": "qJkGDgJtD9cQye8oD",
+    "Url": "=FORMULATEXT(B201)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7836,7 +8036,8 @@
     "Filename": "ToolSlingshotOutdoor_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8579,
-    "Unique Entry ID": "AGkd53Dzoh7p5R5ef"
+    "Unique Entry ID": "AGkd53Dzoh7p5R5ef",
+    "Url": "=FORMULATEXT(B202)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7875,7 +8076,8 @@
     "Filename": "ToolSlingshotOutdoor_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8579,
-    "Unique Entry ID": "coBFkGLRCML7SdfZb"
+    "Unique Entry ID": "coBFkGLRCML7SdfZb",
+    "Url": "=FORMULATEXT(B203)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7914,7 +8116,8 @@
     "Filename": "ToolSlingshotOutdoor_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8579,
-    "Unique Entry ID": "ekLvFR39DuH4SdSgB"
+    "Unique Entry ID": "ekLvFR39DuH4SdSgB",
+    "Url": "=FORMULATEXT(B204)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7953,7 +8156,8 @@
     "Filename": "ToolSlingshotOutdoor_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8579,
-    "Unique Entry ID": "mLqZThcPR7oSdGETt"
+    "Unique Entry ID": "mLqZThcPR7oSdGETt",
+    "Url": "=FORMULATEXT(B205)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -7992,7 +8196,8 @@
     "Filename": "ToolSlingshotOutdoor_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8579,
-    "Unique Entry ID": "4QBCHA5pzb8Hapo7g"
+    "Unique Entry ID": "4QBCHA5pzb8Hapo7g",
+    "Url": "=FORMULATEXT(B206)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8031,7 +8236,8 @@
     "Filename": "ToolSlingshotOutdoor_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8579,
-    "Unique Entry ID": "FDEpHpn9wAoHmzq6S"
+    "Unique Entry ID": "FDEpHpn9wAoHmzq6S",
+    "Url": "=FORMULATEXT(B207)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8070,7 +8276,8 @@
     "Filename": "ToolSlingshotOutdoor_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8579,
-    "Unique Entry ID": "d2BxLmN5fFdSTsXvP"
+    "Unique Entry ID": "d2BxLmN5fFdSTsXvP",
+    "Url": "=FORMULATEXT(B208)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8109,7 +8316,8 @@
     "Filename": "ToolWateringOutdoor_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8536,
-    "Unique Entry ID": "QSmseNnk3WqSmSFH8"
+    "Unique Entry ID": "QSmseNnk3WqSmSFH8",
+    "Url": "=FORMULATEXT(B209)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8148,7 +8356,8 @@
     "Filename": "ToolWateringOutdoor_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8536,
-    "Unique Entry ID": "SrmzprzDgkRoPoGcN"
+    "Unique Entry ID": "SrmzprzDgkRoPoGcN",
+    "Url": "=FORMULATEXT(B210)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8187,7 +8396,8 @@
     "Filename": "ToolWateringOutdoor_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8536,
-    "Unique Entry ID": "PRfaCyGvx3hieqpKh"
+    "Unique Entry ID": "PRfaCyGvx3hieqpKh",
+    "Url": "=FORMULATEXT(B211)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8226,7 +8436,8 @@
     "Filename": "ToolWateringOutdoor_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8536,
-    "Unique Entry ID": "AvLJNwY9w5fSpT47f"
+    "Unique Entry ID": "AvLJNwY9w5fSpT47f",
+    "Url": "=FORMULATEXT(B212)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8265,7 +8476,8 @@
     "Filename": "ToolWateringOutdoor_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8536,
-    "Unique Entry ID": "o2Zd58pLWuNfHSRoz"
+    "Unique Entry ID": "o2Zd58pLWuNfHSRoz",
+    "Url": "=FORMULATEXT(B213)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8304,7 +8516,8 @@
     "Filename": "ToolWateringOutdoor_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8536,
-    "Unique Entry ID": "6GRguzWiwsicHTun6"
+    "Unique Entry ID": "6GRguzWiwsicHTun6",
+    "Url": "=FORMULATEXT(B214)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8343,7 +8556,8 @@
     "Filename": "ToolWateringOutdoor_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8536,
-    "Unique Entry ID": "iyppHKcwic4M3Mb9N"
+    "Unique Entry ID": "iyppHKcwic4M3Mb9N",
+    "Url": "=FORMULATEXT(B215)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8382,7 +8596,8 @@
     "Filename": "ToolWateringOutdoor_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8536,
-    "Unique Entry ID": "vWuJ6J7YaPtB7vE88"
+    "Unique Entry ID": "vWuJ6J7YaPtB7vE88",
+    "Url": "=FORMULATEXT(B216)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8421,7 +8636,8 @@
     "Filename": "ToolPanpipe",
     "Variant ID": "NA",
     "Internal ID": 5517,
-    "Unique Entry ID": "7LjdexM2bmrbxDaCG"
+    "Unique Entry ID": "7LjdexM2bmrbxDaCG",
+    "Url": "=FORMULATEXT(B217)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8460,7 +8676,8 @@
     "Filename": "ToolStickPansy",
     "Variant ID": "NA",
     "Internal ID": 5091,
-    "Unique Entry ID": "kPAMdHZaM8oHFjjyg"
+    "Unique Entry ID": "kPAMdHZaM8oHFjjyg",
+    "Url": "=FORMULATEXT(B218)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8499,7 +8716,8 @@
     "Filename": "ToolCracker",
     "Variant ID": "NA",
     "Internal ID": 2753,
-    "Unique Entry ID": "Wo8iqf7JZZ7egzmLf"
+    "Unique Entry ID": "Wo8iqf7JZZ7egzmLf",
+    "Url": "=FORMULATEXT(B219)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8538,7 +8756,8 @@
     "Filename": "ToolSensu0",
     "Variant ID": "NA",
     "Internal ID": 14627,
-    "Unique Entry ID": "E4YnWi43HCLRM7NDp"
+    "Unique Entry ID": "E4YnWi43HCLRM7NDp",
+    "Url": "=FORMULATEXT(B220)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8577,7 +8796,8 @@
     "Filename": "ToolBalloonNormal4",
     "Variant ID": "NA",
     "Internal ID": 13126,
-    "Unique Entry ID": "jJkSMbhxX3ekBkWZK"
+    "Unique Entry ID": "jJkSMbhxX3ekBkWZK",
+    "Url": "=FORMULATEXT(B221)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8616,7 +8836,8 @@
     "Filename": "ToolWindmill",
     "Variant ID": "NA",
     "Internal ID": 5744,
-    "Unique Entry ID": "ixfo3W4miuTh5zvSP"
+    "Unique Entry ID": "ixfo3W4miuTh5zvSP",
+    "Url": "=FORMULATEXT(B222)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8655,7 +8876,8 @@
     "Filename": "ToolCandyfloss0",
     "Variant ID": "NA",
     "Internal ID": 14629,
-    "Unique Entry ID": "t2RZQ8t2N95TqLqbs"
+    "Unique Entry ID": "t2RZQ8t2N95TqLqbs",
+    "Url": "=FORMULATEXT(B223)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8694,7 +8916,8 @@
     "Filename": "ToolMagazine_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 14640,
-    "Unique Entry ID": "FCg3CM7KxxFnKoSxi"
+    "Unique Entry ID": "FCg3CM7KxxFnKoSxi",
+    "Url": "=FORMULATEXT(B224)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8733,7 +8956,8 @@
     "Filename": "ToolMagazine_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 14640,
-    "Unique Entry ID": "mT5aehKJR72MLssHJ"
+    "Unique Entry ID": "mT5aehKJR72MLssHJ",
+    "Url": "=FORMULATEXT(B225)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8772,7 +8996,8 @@
     "Filename": "ToolMagazine_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 14640,
-    "Unique Entry ID": "WMLmjpqs5ERpB5pHY"
+    "Unique Entry ID": "WMLmjpqs5ERpB5pHY",
+    "Url": "=FORMULATEXT(B226)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8811,7 +9036,8 @@
     "Filename": "ToolMagazine_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 14640,
-    "Unique Entry ID": "3bGynWESHA7F77TuQ"
+    "Unique Entry ID": "3bGynWESHA7F77TuQ",
+    "Url": "=FORMULATEXT(B227)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8850,7 +9076,8 @@
     "Filename": "ToolBookPlayer_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 14639,
-    "Unique Entry ID": "9Y9zD3Eazk4qruBpL"
+    "Unique Entry ID": "9Y9zD3Eazk4qruBpL",
+    "Url": "=FORMULATEXT(B228)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8889,7 +9116,8 @@
     "Filename": "ToolBookPlayer_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 14639,
-    "Unique Entry ID": "HNFstehZ7EJisyuEB"
+    "Unique Entry ID": "HNFstehZ7EJisyuEB",
+    "Url": "=FORMULATEXT(B229)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8928,7 +9156,8 @@
     "Filename": "ToolBookPlayer_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 14639,
-    "Unique Entry ID": "L9AnDQ87xo8mPiwZt"
+    "Unique Entry ID": "L9AnDQ87xo8mPiwZt",
+    "Url": "=FORMULATEXT(B230)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -8967,7 +9196,8 @@
     "Filename": "ToolBookPlayer_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 14639,
-    "Unique Entry ID": "zWSy9jMt7PaBe8T5c"
+    "Unique Entry ID": "zWSy9jMt7PaBe8T5c",
+    "Url": "=FORMULATEXT(B231)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9006,7 +9236,8 @@
     "Filename": "ToolBookPlayer_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 14639,
-    "Unique Entry ID": "A8bEpmeD6yHK6Sf2y"
+    "Unique Entry ID": "A8bEpmeD6yHK6Sf2y",
+    "Url": "=FORMULATEXT(B232)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9045,7 +9276,8 @@
     "Filename": "ToolScoopPattern_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8576,
-    "Unique Entry ID": "nQuRoWnfXx8BPFTmA"
+    "Unique Entry ID": "nQuRoWnfXx8BPFTmA",
+    "Url": "=FORMULATEXT(B233)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9084,7 +9316,8 @@
     "Filename": "ToolScoopPattern_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8576,
-    "Unique Entry ID": "uayKLmvAsj6EHGnJW"
+    "Unique Entry ID": "uayKLmvAsj6EHGnJW",
+    "Url": "=FORMULATEXT(B234)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9123,7 +9356,8 @@
     "Filename": "ToolScoopPattern_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8576,
-    "Unique Entry ID": "Aa39b233u5kL2BZ5M"
+    "Unique Entry ID": "Aa39b233u5kL2BZ5M",
+    "Url": "=FORMULATEXT(B235)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9162,7 +9396,8 @@
     "Filename": "ToolScoopPattern_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8576,
-    "Unique Entry ID": "jBDbWkxf2bC4Q7FXw"
+    "Unique Entry ID": "jBDbWkxf2bC4Q7FXw",
+    "Url": "=FORMULATEXT(B236)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9201,7 +9436,8 @@
     "Filename": "ToolScoopPattern_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8576,
-    "Unique Entry ID": "8p4An2z69STF7vEXo"
+    "Unique Entry ID": "8p4An2z69STF7vEXo",
+    "Url": "=FORMULATEXT(B237)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9240,7 +9476,8 @@
     "Filename": "ToolScoopPattern_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8576,
-    "Unique Entry ID": "6T8xrvDKPvnmAgoAm"
+    "Unique Entry ID": "6T8xrvDKPvnmAgoAm",
+    "Url": "=FORMULATEXT(B238)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9279,7 +9516,8 @@
     "Filename": "ToolScoopPattern_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8576,
-    "Unique Entry ID": "uYrRaXdBb23RrpGNc"
+    "Unique Entry ID": "uYrRaXdBb23RrpGNc",
+    "Url": "=FORMULATEXT(B239)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9318,7 +9556,8 @@
     "Filename": "ToolScoopPattern_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8576,
-    "Unique Entry ID": "mwWibomJ7C9h9diZ3"
+    "Unique Entry ID": "mwWibomJ7C9h9diZ3",
+    "Url": "=FORMULATEXT(B240)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9357,7 +9596,8 @@
     "Filename": "ToolProtein_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 14538,
-    "Unique Entry ID": "r6JPD8YnnAJXH2KPJ"
+    "Unique Entry ID": "r6JPD8YnnAJXH2KPJ",
+    "Url": "=FORMULATEXT(B241)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9396,7 +9636,8 @@
     "Filename": "ToolProtein_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 14538,
-    "Unique Entry ID": "q73xinSyYuQjJjiMh"
+    "Unique Entry ID": "q73xinSyYuQjJjiMh",
+    "Url": "=FORMULATEXT(B242)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9435,7 +9676,8 @@
     "Filename": "ToolProtein_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 14538,
-    "Unique Entry ID": "dcuwDXs22ovjjCAnR"
+    "Unique Entry ID": "dcuwDXs22ovjjCAnR",
+    "Url": "=FORMULATEXT(B243)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9474,7 +9716,8 @@
     "Filename": "ToolProtein_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 14538,
-    "Unique Entry ID": "RoZzTh2AhgNWMgf54"
+    "Unique Entry ID": "RoZzTh2AhgNWMgf54",
+    "Url": "=FORMULATEXT(B244)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9513,7 +9756,8 @@
     "Filename": "ToolIcesoft4",
     "Variant ID": "NA",
     "Internal ID": 324,
-    "Unique Entry ID": "6gqmwTQiD6eSwrPCb"
+    "Unique Entry ID": "6gqmwTQiD6eSwrPCb",
+    "Url": "=FORMULATEXT(B245)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9552,7 +9796,8 @@
     "Filename": "ToolCandyfloss3",
     "Variant ID": "NA",
     "Internal ID": 14744,
-    "Unique Entry ID": "XZ3KvjcLZCWX38vAe"
+    "Unique Entry ID": "XZ3KvjcLZCWX38vAe",
+    "Url": "=FORMULATEXT(B246)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9591,7 +9836,8 @@
     "Filename": "ToolIcecandyPlayer1",
     "Variant ID": "NA",
     "Internal ID": 14632,
-    "Unique Entry ID": "5i9FTKgXZ5wANJrLq"
+    "Unique Entry ID": "5i9FTKgXZ5wANJrLq",
+    "Url": "=FORMULATEXT(B247)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9630,7 +9876,8 @@
     "Filename": "ToolIcecreamDouble0",
     "Variant ID": "NA",
     "Internal ID": 14734,
-    "Unique Entry ID": "4ymrzaFBSv7hLTfbA"
+    "Unique Entry ID": "4ymrzaFBSv7hLTfbA",
+    "Url": "=FORMULATEXT(B248)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9669,7 +9916,8 @@
     "Filename": "ToolBalloonNormal1",
     "Variant ID": "NA",
     "Internal ID": 13123,
-    "Unique Entry ID": "93qC6sGCBMeknRuJ7"
+    "Unique Entry ID": "93qC6sGCBMeknRuJ7",
+    "Url": "=FORMULATEXT(B249)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9708,7 +9956,8 @@
     "Filename": "ToolFireworks",
     "Variant ID": "NA",
     "Internal ID": 5743,
-    "Unique Entry ID": "5YyG34qEdmAuABqHd"
+    "Unique Entry ID": "5YyG34qEdmAuABqHd",
+    "Url": "=FORMULATEXT(B250)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9747,7 +9996,8 @@
     "Filename": "ToolStickRose",
     "Variant ID": "NA",
     "Internal ID": 5093,
-    "Unique Entry ID": "RB9jk9eLFLJdokFjG"
+    "Unique Entry ID": "RB9jk9eLFLJdokFjG",
+    "Url": "=FORMULATEXT(B251)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9786,7 +10036,8 @@
     "Filename": "ToolJuiceShamrock",
     "Variant ID": "NA",
     "Internal ID": 14028,
-    "Unique Entry ID": "G9SmTScRAn3pcT7dB"
+    "Unique Entry ID": "G9SmTScRAn3pcT7dB",
+    "Url": "=FORMULATEXT(B252)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9825,7 +10076,8 @@
     "Filename": "ToolStickShamrock",
     "Variant ID": "NA",
     "Internal ID": 14239,
-    "Unique Entry ID": "Qvn93rzckYS8BqHZs"
+    "Unique Entry ID": "Qvn93rzckYS8BqHZs",
+    "Url": "=FORMULATEXT(B253)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9864,7 +10116,8 @@
     "Filename": "ToolStickShell",
     "Variant ID": "NA",
     "Internal ID": 7586,
-    "Unique Entry ID": "EsdC3wFYpzqXB7RRi"
+    "Unique Entry ID": "EsdC3wFYpzqXB7RRi",
+    "Url": "=FORMULATEXT(B254)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9903,7 +10156,8 @@
     "Filename": "ToolScoop_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 2099,
-    "Unique Entry ID": "B6ejTnMqrR65wXv5z"
+    "Unique Entry ID": "B6ejTnMqrR65wXv5z",
+    "Url": "=FORMULATEXT(B255)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9942,7 +10196,8 @@
     "Filename": "ToolScoop_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 2099,
-    "Unique Entry ID": "6sKHnKeEuPcLpjEF3"
+    "Unique Entry ID": "6sKHnKeEuPcLpjEF3",
+    "Url": "=FORMULATEXT(B256)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -9981,7 +10236,8 @@
     "Filename": "ToolScoop_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 2099,
-    "Unique Entry ID": "SSzNaAfdGfnFoL8Qq"
+    "Unique Entry ID": "SSzNaAfdGfnFoL8Qq",
+    "Url": "=FORMULATEXT(B257)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10020,7 +10276,8 @@
     "Filename": "ToolScoop_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 2099,
-    "Unique Entry ID": "qiAf2KCaX5Xr57bXb"
+    "Unique Entry ID": "qiAf2KCaX5Xr57bXb",
+    "Url": "=FORMULATEXT(B258)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10059,7 +10316,8 @@
     "Filename": "ToolScoop_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 2099,
-    "Unique Entry ID": "bbbeRassLbyY8HCP3"
+    "Unique Entry ID": "bbbeRassLbyY8HCP3",
+    "Url": "=FORMULATEXT(B259)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10098,7 +10356,8 @@
     "Filename": "ToolScoop_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 2099,
-    "Unique Entry ID": "CZoPP24ecNvDxdNfY"
+    "Unique Entry ID": "CZoPP24ecNvDxdNfY",
+    "Url": "=FORMULATEXT(B260)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10137,7 +10396,8 @@
     "Filename": "ToolScoop_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 2099,
-    "Unique Entry ID": "JLemP4xchhzB2BmLk"
+    "Unique Entry ID": "JLemP4xchhzB2BmLk",
+    "Url": "=FORMULATEXT(B261)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10176,7 +10436,8 @@
     "Filename": "ToolScoop_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 2099,
-    "Unique Entry ID": "egJGqooiodvdWtv6Y"
+    "Unique Entry ID": "egJGqooiodvdWtv6Y",
+    "Url": "=FORMULATEXT(B262)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10215,7 +10476,8 @@
     "Filename": "ToolSensu1",
     "Variant ID": "NA",
     "Internal ID": 323,
-    "Unique Entry ID": "QEGoJrSFWoioQcg9s"
+    "Unique Entry ID": "QEGoJrSFWoioQcg9s",
+    "Url": "=FORMULATEXT(B263)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10254,7 +10516,8 @@
     "Filename": "ToolSlingshot_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 2822,
-    "Unique Entry ID": "kgAEBkWjeZrdvZLwC"
+    "Unique Entry ID": "kgAEBkWjeZrdvZLwC",
+    "Url": "=FORMULATEXT(B264)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10293,7 +10556,8 @@
     "Filename": "ToolSlingshot_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 2822,
-    "Unique Entry ID": "aoeJ6gnZq7Cz9MH58"
+    "Unique Entry ID": "aoeJ6gnZq7Cz9MH58",
+    "Url": "=FORMULATEXT(B265)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10332,7 +10596,8 @@
     "Filename": "ToolSlingshot_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 2822,
-    "Unique Entry ID": "prpgd3XrcJHJZybaD"
+    "Unique Entry ID": "prpgd3XrcJHJZybaD",
+    "Url": "=FORMULATEXT(B266)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10371,7 +10636,8 @@
     "Filename": "ToolSlingshot_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 2822,
-    "Unique Entry ID": "bHrn2thixWf3tPgQB"
+    "Unique Entry ID": "bHrn2thixWf3tPgQB",
+    "Url": "=FORMULATEXT(B267)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10410,7 +10676,8 @@
     "Filename": "ToolSlingshot_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 2822,
-    "Unique Entry ID": "o2z73jZqDyg3Bwjtq"
+    "Unique Entry ID": "o2z73jZqDyg3Bwjtq",
+    "Url": "=FORMULATEXT(B268)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10449,7 +10716,8 @@
     "Filename": "ToolSlingshot_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 2822,
-    "Unique Entry ID": "J47FSys2XtpZr8dT9"
+    "Unique Entry ID": "J47FSys2XtpZr8dT9",
+    "Url": "=FORMULATEXT(B269)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10488,7 +10756,8 @@
     "Filename": "ToolSlingshot_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 2822,
-    "Unique Entry ID": "qKjLAtchN5GvjyknF"
+    "Unique Entry ID": "qKjLAtchN5GvjyknF",
+    "Url": "=FORMULATEXT(B270)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10527,7 +10796,8 @@
     "Filename": "ToolSlingshot_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 2822,
-    "Unique Entry ID": "dq9S8zrmf4efRddki"
+    "Unique Entry ID": "dq9S8zrmf4efRddki",
+    "Url": "=FORMULATEXT(B271)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10566,7 +10836,8 @@
     "Filename": "ToolJuiceFuzzyapple",
     "Variant ID": "NA",
     "Internal ID": 13835,
-    "Unique Entry ID": "RwPmXZCELsvd44w2t"
+    "Unique Entry ID": "RwPmXZCELsvd44w2t",
+    "Url": "=FORMULATEXT(B272)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10605,7 +10876,8 @@
     "Filename": "ToolBasketHalloween_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 14542,
-    "Unique Entry ID": "7iCi5mzyunH38iSKL"
+    "Unique Entry ID": "7iCi5mzyunH38iSKL",
+    "Url": "=FORMULATEXT(B273)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10644,7 +10916,8 @@
     "Filename": "ToolBasketHalloween_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 14542,
-    "Unique Entry ID": "BeF86fkPMobZLnCJS"
+    "Unique Entry ID": "BeF86fkPMobZLnCJS",
+    "Url": "=FORMULATEXT(B274)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10683,7 +10956,8 @@
     "Filename": "ToolBasketHalloween_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 14542,
-    "Unique Entry ID": "nKJf3hTfazivQyxa7"
+    "Unique Entry ID": "nKJf3hTfazivQyxa7",
+    "Url": "=FORMULATEXT(B275)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10722,7 +10996,8 @@
     "Filename": "ToolBasketHalloween_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 14542,
-    "Unique Entry ID": "Yqgz4pipg2uNLWTYM"
+    "Unique Entry ID": "Yqgz4pipg2uNLWTYM",
+    "Url": "=FORMULATEXT(B276)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10761,7 +11036,8 @@
     "Filename": "ToolStickHalloween",
     "Variant ID": "NA",
     "Internal ID": 13237,
-    "Unique Entry ID": "M8JtabnRsijZu4RqN"
+    "Unique Entry ID": "M8JtabnRsijZu4RqN",
+    "Url": "=FORMULATEXT(B277)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10800,7 +11076,8 @@
     "Filename": "ToolNetStar_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 8176,
-    "Unique Entry ID": "wmcDHN8JZMbnvLiNs"
+    "Unique Entry ID": "wmcDHN8JZMbnvLiNs",
+    "Url": "=FORMULATEXT(B278)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10839,7 +11116,8 @@
     "Filename": "ToolNetStar_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 8176,
-    "Unique Entry ID": "KxYpvPeESLFNeLjGm"
+    "Unique Entry ID": "KxYpvPeESLFNeLjGm",
+    "Url": "=FORMULATEXT(B279)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10878,7 +11156,8 @@
     "Filename": "ToolNetStar_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 8176,
-    "Unique Entry ID": "7GJJruF4u4y62nvQy"
+    "Unique Entry ID": "7GJJruF4u4y62nvQy",
+    "Url": "=FORMULATEXT(B280)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10917,7 +11196,8 @@
     "Filename": "ToolNetStar_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 8176,
-    "Unique Entry ID": "y7BXcMSNByN5Q4Ycs"
+    "Unique Entry ID": "y7BXcMSNByN5Q4Ycs",
+    "Url": "=FORMULATEXT(B281)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10956,7 +11236,8 @@
     "Filename": "ToolNetStar_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 8176,
-    "Unique Entry ID": "ajfxbnCnpzWsxsk9q"
+    "Unique Entry ID": "ajfxbnCnpzWsxsk9q",
+    "Url": "=FORMULATEXT(B282)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -10995,7 +11276,8 @@
     "Filename": "ToolNetStar_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 8176,
-    "Unique Entry ID": "4mcfWQJQeebqu4az6"
+    "Unique Entry ID": "4mcfWQJQeebqu4az6",
+    "Url": "=FORMULATEXT(B283)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11034,7 +11316,8 @@
     "Filename": "ToolNetStar_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 8176,
-    "Unique Entry ID": "ngWXLftz3J8uf7WZq"
+    "Unique Entry ID": "ngWXLftz3J8uf7WZq",
+    "Url": "=FORMULATEXT(B284)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11073,7 +11356,8 @@
     "Filename": "ToolNetStar_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 8176,
-    "Unique Entry ID": "YZeGaCuXAbFSpEg3h"
+    "Unique Entry ID": "YZeGaCuXAbFSpEg3h",
+    "Url": "=FORMULATEXT(B285)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11112,7 +11396,8 @@
     "Filename": "ToolChangeStick",
     "Variant ID": "NA",
     "Internal ID": 2544,
-    "Unique Entry ID": "mMwQ96ZbuiBMzgutd"
+    "Unique Entry ID": "mMwQ96ZbuiBMzgutd",
+    "Url": "=FORMULATEXT(B286)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11151,7 +11436,8 @@
     "Filename": "ToolMegaphone2",
     "Variant ID": "NA",
     "Internal ID": 14014,
-    "Unique Entry ID": "AuWqSWWeNacnwYhyk"
+    "Unique Entry ID": "AuWqSWWeNacnwYhyk",
+    "Url": "=FORMULATEXT(B287)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11190,7 +11476,8 @@
     "Filename": "ToolAxeStoneNormal",
     "Variant ID": "NA",
     "Internal ID": 5856,
-    "Unique Entry ID": "NKHsBuYu25RHWjMBx"
+    "Unique Entry ID": "NKHsBuYu25RHWjMBx",
+    "Url": "=FORMULATEXT(B288)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11229,7 +11516,8 @@
     "Filename": "ToolIcecream2",
     "Variant ID": "NA",
     "Internal ID": 14837,
-    "Unique Entry ID": "c97LXNZRkhn8tDBJ3"
+    "Unique Entry ID": "c97LXNZRkhn8tDBJ3",
+    "Url": "=FORMULATEXT(B289)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11268,7 +11556,8 @@
     "Filename": "ToolCandyfloss1",
     "Variant ID": "NA",
     "Internal ID": 14748,
-    "Unique Entry ID": "CdFxYJ9eRjApQfEQM"
+    "Unique Entry ID": "CdFxYJ9eRjApQfEQM",
+    "Url": "=FORMULATEXT(B290)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11307,7 +11596,8 @@
     "Filename": "ToolDonutPlayer2",
     "Variant ID": "NA",
     "Internal ID": 334,
-    "Unique Entry ID": "6xEQLktM6S7yGBhSA"
+    "Unique Entry ID": "6xEQLktM6S7yGBhSA",
+    "Url": "=FORMULATEXT(B291)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11346,7 +11636,8 @@
     "Filename": "ToolCupTakeout",
     "Variant ID": "NA",
     "Internal ID": 14541,
-    "Unique Entry ID": "tELkNKkmj6HbDxy8m"
+    "Unique Entry ID": "tELkNKkmj6HbDxy8m",
+    "Url": "=FORMULATEXT(B292)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11385,7 +11676,8 @@
     "Filename": "ToolTambourine",
     "Variant ID": "NA",
     "Internal ID": 5430,
-    "Unique Entry ID": "eYwGmK6fQwz2XJcht"
+    "Unique Entry ID": "eYwGmK6fQwz2XJcht",
+    "Url": "=FORMULATEXT(B293)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11424,7 +11716,8 @@
     "Filename": "ToolTimer",
     "Variant ID": "NA",
     "Internal ID": 3331,
-    "Unique Entry ID": "vEEPnFx9FEcKKuzg2"
+    "Unique Entry ID": "vEEPnFx9FEcKKuzg2",
+    "Url": "=FORMULATEXT(B294)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11463,7 +11756,8 @@
     "Filename": "Transceiver",
     "Variant ID": "NA",
     "Internal ID": 1233,
-    "Unique Entry ID": "cxgtsYesQuMu5uhSt"
+    "Unique Entry ID": "cxgtsYesQuMu5uhSt",
+    "Url": "=FORMULATEXT(B295)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11502,7 +11796,8 @@
     "Filename": "ToolStickTree",
     "Variant ID": "NA",
     "Internal ID": 7587,
-    "Unique Entry ID": "KnHhJXtuXEhqcPMTx"
+    "Unique Entry ID": "KnHhJXtuXEhqcPMTx",
+    "Url": "=FORMULATEXT(B296)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11541,7 +11836,8 @@
     "Filename": "ToolStickTri0",
     "Variant ID": "NA",
     "Internal ID": 1048,
-    "Unique Entry ID": "QojJMSosWgbHRhNPJ"
+    "Unique Entry ID": "QojJMSosWgbHRhNPJ",
+    "Url": "=FORMULATEXT(B297)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11580,7 +11876,8 @@
     "Filename": "ToolStickTulip",
     "Variant ID": "NA",
     "Internal ID": 5085,
-    "Unique Entry ID": "u7ZfCMpDYtPRbK2vc"
+    "Unique Entry ID": "u7ZfCMpDYtPRbK2vc",
+    "Url": "=FORMULATEXT(B298)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11619,7 +11916,8 @@
     "Filename": "ToolBlowouts",
     "Variant ID": "NA",
     "Internal ID": 5742,
-    "Unique Entry ID": "QxaQCNrLi393nadSQ"
+    "Unique Entry ID": "QxaQCNrLi393nadSQ",
+    "Url": "=FORMULATEXT(B299)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11658,7 +11956,8 @@
     "Filename": "ToolPaperFan",
     "Variant ID": "NA",
     "Internal ID": 5319,
-    "Unique Entry ID": "bPKsESXK5jLNWXAof"
+    "Unique Entry ID": "bPKsESXK5jLNWXAof",
+    "Url": "=FORMULATEXT(B300)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11697,7 +11996,8 @@
     "Filename": "ToolIcecream0",
     "Variant ID": "NA",
     "Internal ID": 14635,
-    "Unique Entry ID": "oZLLmRsTp5HZ6tAvw"
+    "Unique Entry ID": "oZLLmRsTp5HZ6tAvw",
+    "Url": "=FORMULATEXT(B301)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11736,7 +12036,8 @@
     "Filename": "ToolIcesoft0",
     "Variant ID": "NA",
     "Internal ID": 14636,
-    "Unique Entry ID": "GRzhsozbuwfpdSxAu"
+    "Unique Entry ID": "GRzhsozbuwfpdSxAu",
+    "Url": "=FORMULATEXT(B302)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11775,7 +12076,8 @@
     "Filename": "LongWoodenStick",
     "Variant ID": "NA",
     "Internal ID": 4703,
-    "Unique Entry ID": "2vD5XPKHSCCSjy882"
+    "Unique Entry ID": "2vD5XPKHSCCSjy882",
+    "Url": "=FORMULATEXT(B303)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11814,7 +12116,8 @@
     "Filename": "LadderKitA0_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 13526,
-    "Unique Entry ID": "WW5vXJpgHWbZNqN6t"
+    "Unique Entry ID": "WW5vXJpgHWbZNqN6t",
+    "Url": "=FORMULATEXT(B304)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11853,7 +12156,8 @@
     "Filename": "LadderKitA0_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 13526,
-    "Unique Entry ID": "2Bn52xsRMR52qYrJg"
+    "Unique Entry ID": "2Bn52xsRMR52qYrJg",
+    "Url": "=FORMULATEXT(B305)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11892,7 +12196,8 @@
     "Filename": "LadderKitA0_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 13526,
-    "Unique Entry ID": "rJYqpe4XHCbBsvfKR"
+    "Unique Entry ID": "rJYqpe4XHCbBsvfKR",
+    "Url": "=FORMULATEXT(B306)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11931,7 +12236,8 @@
     "Filename": "ToolStickWood",
     "Variant ID": "NA",
     "Internal ID": 7584,
-    "Unique Entry ID": "2Re2yBHTfLRDiTWRb"
+    "Unique Entry ID": "2Re2yBHTfLRDiTWRb",
+    "Url": "=FORMULATEXT(B307)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -11970,7 +12276,8 @@
     "Filename": "ToolWatering_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 2379,
-    "Unique Entry ID": "wLChevsx2T9Sm6yf4"
+    "Unique Entry ID": "wLChevsx2T9Sm6yf4",
+    "Url": "=FORMULATEXT(B308)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12009,7 +12316,8 @@
     "Filename": "ToolWatering_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 2379,
-    "Unique Entry ID": "29SBgiL9wQWpYmfa4"
+    "Unique Entry ID": "29SBgiL9wQWpYmfa4",
+    "Url": "=FORMULATEXT(B309)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12048,7 +12356,8 @@
     "Filename": "ToolWatering_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 2379,
-    "Unique Entry ID": "m8fFeTsh7z7JgjB6H"
+    "Unique Entry ID": "m8fFeTsh7z7JgjB6H",
+    "Url": "=FORMULATEXT(B310)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12087,7 +12396,8 @@
     "Filename": "ToolWatering_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 2379,
-    "Unique Entry ID": "95zusTkvS5ou2wPEC"
+    "Unique Entry ID": "95zusTkvS5ou2wPEC",
+    "Url": "=FORMULATEXT(B311)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12126,7 +12436,8 @@
     "Filename": "ToolWatering_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 2379,
-    "Unique Entry ID": "wiAp8rGXiDM3kyxpo"
+    "Unique Entry ID": "wiAp8rGXiDM3kyxpo",
+    "Url": "=FORMULATEXT(B312)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12165,7 +12476,8 @@
     "Filename": "ToolWatering_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 2379,
-    "Unique Entry ID": "JSe4Du3wPtE2TT98X"
+    "Unique Entry ID": "JSe4Du3wPtE2TT98X",
+    "Url": "=FORMULATEXT(B313)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12204,7 +12516,8 @@
     "Filename": "ToolWatering_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 2379,
-    "Unique Entry ID": "Z7ggDgjzNii2RWjNQ"
+    "Unique Entry ID": "Z7ggDgjzNii2RWjNQ",
+    "Url": "=FORMULATEXT(B314)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12243,7 +12556,8 @@
     "Filename": "ToolWatering_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 2379,
-    "Unique Entry ID": "77zFHmNrGhuJAvvjA"
+    "Unique Entry ID": "77zFHmNrGhuJAvvjA",
+    "Url": "=FORMULATEXT(B315)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12282,7 +12596,8 @@
     "Filename": "ToolStickJune",
     "Variant ID": "NA",
     "Internal ID": 12695,
-    "Unique Entry ID": "syPb2baTrP3zqi66f"
+    "Unique Entry ID": "syPb2baTrP3zqi66f",
+    "Url": "=FORMULATEXT(B316)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12321,7 +12636,8 @@
     "Filename": "ToolDonutPlayer1",
     "Variant ID": "NA",
     "Internal ID": 337,
-    "Unique Entry ID": "H8TDicKFng43vpWy2"
+    "Unique Entry ID": "H8TDicKFng43vpWy2",
+    "Url": "=FORMULATEXT(B317)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12360,7 +12676,8 @@
     "Filename": "ToolStickAnemones",
     "Variant ID": "NA",
     "Internal ID": 5084,
-    "Unique Entry ID": "ERMKczYuvS6Eff7C9"
+    "Unique Entry ID": "ERMKczYuvS6Eff7C9",
+    "Url": "=FORMULATEXT(B318)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12399,7 +12716,8 @@
     "Filename": "LadderKitB0_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 13530,
-    "Unique Entry ID": "Apjs6HkLwMsryuvbt"
+    "Unique Entry ID": "Apjs6HkLwMsryuvbt",
+    "Url": "=FORMULATEXT(B319)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12438,7 +12756,8 @@
     "Filename": "LadderKitB0_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 13530,
-    "Unique Entry ID": "e68rdW5MrXueaLt35"
+    "Unique Entry ID": "e68rdW5MrXueaLt35",
+    "Url": "=FORMULATEXT(B320)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12477,7 +12796,8 @@
     "Filename": "LadderKitB0_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 13530,
-    "Unique Entry ID": "kG85Xou84e8PKg7hD"
+    "Unique Entry ID": "kG85Xou84e8PKg7hD",
+    "Url": "=FORMULATEXT(B321)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12516,7 +12836,8 @@
     "Filename": "LadderKitB0_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 13530,
-    "Unique Entry ID": "4Ymt3v2EFoZL7mghy"
+    "Unique Entry ID": "4Ymt3v2EFoZL7mghy",
+    "Url": "=FORMULATEXT(B322)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12555,7 +12876,8 @@
     "Filename": "LadderKitB0_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 13530,
-    "Unique Entry ID": "oGJNcNSyTYjQAgg8Y"
+    "Unique Entry ID": "oGJNcNSyTYjQAgg8Y",
+    "Url": "=FORMULATEXT(B323)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12594,7 +12916,8 @@
     "Filename": "LadderKitB0_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 13530,
-    "Unique Entry ID": "ZPMwEtEspQwqSGLCg"
+    "Unique Entry ID": "ZPMwEtEspQwqSGLCg",
+    "Url": "=FORMULATEXT(B324)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12633,7 +12956,8 @@
     "Filename": "ToolAxeFragile",
     "Variant ID": "NA",
     "Internal ID": 12615,
-    "Unique Entry ID": "xqXJch47cQrNT65jG"
+    "Unique Entry ID": "xqXJch47cQrNT65jG",
+    "Url": "=FORMULATEXT(B325)"
   },
   {
     "SourceSheet": "Tools/Goods",
@@ -12672,6 +12996,7 @@
     "Filename": "ToolBalloonNormal2",
     "Variant ID": "NA",
     "Internal ID": 13124,
-    "Unique Entry ID": "dF8pTGMJY5465vatR"
+    "Unique Entry ID": "dF8pTGMJY5465vatR",
+    "Url": "=FORMULATEXT(B326)"
   }
 ]

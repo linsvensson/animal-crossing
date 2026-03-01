@@ -24,6 +24,7 @@
     "filename": "RugOtherBellM00",
     "internalId": 12214,
     "uniqueEntryId": "KfRapmYKpizqQWzCg",
+    "url": "=FORMULATEXT(B5)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12214,
@@ -71,6 +72,7 @@
     "filename": "RugOtherEasterM00",
     "internalId": 7546,
     "uniqueEntryId": "6tC8Zhswobdah6ftE",
+    "url": "=FORMULATEXT(B33)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "027",
@@ -285,6 +287,7 @@
     "filename": "RugOtherCinnamonM00",
     "internalId": 12288,
     "uniqueEntryId": "QGLTyMNpsBoKRTcZ7",
+    "url": "=FORMULATEXT(B36)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "038",
@@ -351,6 +354,7 @@
     "filename": "RugRoundEarthM00",
     "internalId": 7357,
     "uniqueEntryId": "RPF9JQeXN8cD4afuE",
+    "url": "=FORMULATEXT(B46)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7357,
@@ -398,6 +402,7 @@
     "filename": "RugOtherKittyM00",
     "internalId": 12291,
     "uniqueEntryId": "gk42LeDJJsjsTeGfv",
+    "url": "=FORMULATEXT(B69)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "035",
@@ -464,6 +469,7 @@
     "filename": "RugRoundKeroppiM00",
     "internalId": 12289,
     "uniqueEntryId": "smABvGpiNirHZ449q",
+    "url": "=FORMULATEXT(B75)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "040",
@@ -530,6 +536,7 @@
     "filename": "RugOtherKikilalaM00",
     "internalId": 12290,
     "uniqueEntryId": "7t6nDHA4oEok4fjPr",
+    "url": "=FORMULATEXT(B76)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "037",
@@ -596,6 +603,7 @@
     "filename": "RugOtherLEGOM00",
     "internalId": 1293,
     "uniqueEntryId": "eAocrWuwiE9kiNMyX",
+    "url": "=FORMULATEXT(B81)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "061",
@@ -662,6 +670,7 @@
     "filename": "RugOtherMarioBM00",
     "internalId": 13873,
     "uniqueEntryId": "H66iRYRxAHNP8bZdf",
+    "url": "=FORMULATEXT(B79)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "034",
@@ -730,6 +739,7 @@
     "filename": "RugRectMomS00",
     "internalId": 7402,
     "uniqueEntryId": "QR6HWdrKgLeoFAkzR",
+    "url": "=FORMULATEXT(B93)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "025",
@@ -798,6 +808,7 @@
     "filename": "RugRectMomS02",
     "internalId": 9543,
     "uniqueEntryId": "MvLXeraTpCoKRqmWA",
+    "url": "=FORMULATEXT(B94)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "025",
@@ -866,6 +877,7 @@
     "filename": "RugRectMomS01",
     "internalId": 9542,
     "uniqueEntryId": "3F5HHssaHXMit7YMH",
+    "url": "=FORMULATEXT(B95)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "025",
@@ -934,6 +946,7 @@
     "filename": "RugRectMomS03",
     "internalId": 9541,
     "uniqueEntryId": "pe2KbbDbmkWPyd56c",
+    "url": "=FORMULATEXT(B96)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "025",
@@ -1000,6 +1013,7 @@
     "filename": "RugOtherMymelodyM00",
     "internalId": 12292,
     "uniqueEntryId": "yrbMifhEWhbM6A7nv",
+    "url": "=FORMULATEXT(B101)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "039",
@@ -1066,6 +1080,7 @@
     "filename": "RugOtherTanukiM00",
     "internalId": 12325,
     "uniqueEntryId": "WiHenFMXuxj7q2rgq",
+    "url": "=FORMULATEXT(B106)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12325,
@@ -1113,6 +1128,7 @@
     "filename": "RugOtherLeafM00",
     "internalId": 7364,
     "uniqueEntryId": "HFmdcXn43ApSRKdk4",
+    "url": "=FORMULATEXT(B107)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7364,
@@ -1160,6 +1176,7 @@
     "filename": "RugRectTanukiL00",
     "internalId": 12396,
     "uniqueEntryId": "XQ72LLzAakWbavKFr",
+    "url": "=FORMULATEXT(B108)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12396,
@@ -1207,6 +1224,7 @@
     "filename": "RugOtherPurinM00",
     "internalId": 12293,
     "uniqueEntryId": "updiXar2svW2mCdva",
+    "url": "=FORMULATEXT(B119)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "036",
@@ -1273,6 +1291,7 @@
     "filename": "RugSquareHarvestL00",
     "internalId": 13525,
     "uniqueEntryId": "S3E3mJ2PfFsqN6FPq",
+    "url": "=FORMULATEXT(B181)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "032",
@@ -1339,6 +1358,7 @@
     "filename": "RugOtherMarioAM00",
     "internalId": 13872,
     "uniqueEntryId": "CfuABFvYQYNAKQcR6",
+    "url": "=FORMULATEXT(B211)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "034",
@@ -1405,6 +1425,7 @@
     "filename": "RugOtherAcornM00",
     "internalId": 12335,
     "uniqueEntryId": "Y2BtGdBHjHDAZ5aMi",
+    "url": "=FORMULATEXT(B2)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "021",
@@ -1517,6 +1538,7 @@
     "filename": "RugRectAluminumM00",
     "internalId": 7356,
     "uniqueEntryId": "vFkuGbx8Sh2MDLEsq",
+    "url": "=FORMULATEXT(B3)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7356,
@@ -1564,6 +1586,7 @@
     "filename": "RugOtherAppleM00",
     "internalId": 7327,
     "uniqueEntryId": "5GsjYsaz9NDtQ6QFB",
+    "url": "=FORMULATEXT(B4)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -1676,6 +1699,7 @@
     "filename": "RugSquareBlockM03",
     "internalId": 11104,
     "uniqueEntryId": "4kj8FXzMTqvZvqEra",
+    "url": "=FORMULATEXT(B6)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 11104,
@@ -1723,6 +1747,7 @@
     "filename": "RugRectDeckM03",
     "internalId": 7382,
     "uniqueEntryId": "kQDKkEGfdAjqPxd4w",
+    "url": "=FORMULATEXT(B7)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7382,
@@ -1770,6 +1795,7 @@
     "filename": "RugRectNativeKitchenS03",
     "internalId": 7594,
     "uniqueEntryId": "G7CAPiAEpYv6QKbsL",
+    "url": "=FORMULATEXT(B8)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7594,
@@ -1817,6 +1843,7 @@
     "filename": "RugSquareHawaiianL00",
     "internalId": 12391,
     "uniqueEntryId": "L3nBtt43WwHPYTpDE",
+    "url": "=FORMULATEXT(B13)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12391,
@@ -1864,6 +1891,7 @@
     "filename": "RugSquarePersianL01",
     "internalId": 8035,
     "uniqueEntryId": "CDY97qjWg4xG6egyS",
+    "url": "=FORMULATEXT(B18)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 8035,
@@ -1911,6 +1939,7 @@
     "filename": "RugRectArgyleL02",
     "internalId": 8467,
     "uniqueEntryId": "uw8DvCwwBia7ozA72",
+    "url": "=FORMULATEXT(B9)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 8467,
@@ -1958,6 +1987,7 @@
     "filename": "RugSquareBlockM01",
     "internalId": 11102,
     "uniqueEntryId": "Mjxd8kenDFZgTFXcm",
+    "url": "=FORMULATEXT(B10)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 11102,
@@ -2005,6 +2035,7 @@
     "filename": "RugRectDotL03",
     "internalId": 7467,
     "uniqueEntryId": "JAAx9zSMrjXKKw2ij",
+    "url": "=FORMULATEXT(B11)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7467,
@@ -2052,6 +2083,7 @@
     "filename": "RugRectMatM01",
     "internalId": 12387,
     "uniqueEntryId": "DdiGJyEREa2QAMXRM",
+    "url": "=FORMULATEXT(B12)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12387,
@@ -2099,6 +2131,7 @@
     "filename": "RugSquareKirimL01",
     "internalId": 9316,
     "uniqueEntryId": "MhvdxvmyKtddid2G2",
+    "url": "=FORMULATEXT(B14)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9316,
@@ -2146,6 +2179,7 @@
     "filename": "RugRectKitchenS02",
     "internalId": 8394,
     "uniqueEntryId": "SLBDbK365pHRnKE5k",
+    "url": "=FORMULATEXT(B15)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 8394,
@@ -2193,6 +2227,7 @@
     "filename": "RugRoundSimpleM02",
     "internalId": 9546,
     "uniqueEntryId": "JfLKCbWRz4CozZYpH",
+    "url": "=FORMULATEXT(B16)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9546,
@@ -2240,6 +2275,7 @@
     "filename": "RugOtherMessageS01",
     "internalId": 9310,
     "uniqueEntryId": "5grLuDzGkNL4DYk4r",
+    "url": "=FORMULATEXT(B17)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9310,
@@ -2287,6 +2323,7 @@
     "filename": "RugSquareShaggyL02",
     "internalId": 9564,
     "uniqueEntryId": "v4ZJPY2ToZPHXp6KH",
+    "url": "=FORMULATEXT(B19)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9564,
@@ -2334,6 +2371,7 @@
     "filename": "RugRoundSimpleS02",
     "internalId": 9549,
     "uniqueEntryId": "BxaqCsC7TqwGdHpib",
+    "url": "=FORMULATEXT(B20)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9549,
@@ -2381,6 +2419,7 @@
     "filename": "RugRectBorderL02",
     "internalId": 7533,
     "uniqueEntryId": "dAHzKeTqwA9wD2yfa",
+    "url": "=FORMULATEXT(B21)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7533,
@@ -2428,6 +2467,7 @@
     "filename": "RugRectVinylM01",
     "internalId": 7404,
     "uniqueEntryId": "b8xZjiyqLPWJsgt73",
+    "url": "=FORMULATEXT(B22)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7404,
@@ -2475,6 +2515,7 @@
     "filename": "RugRectWaveL02",
     "internalId": 7458,
     "uniqueEntryId": "SbRQxAyR7EZSRBb4j",
+    "url": "=FORMULATEXT(B23)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7458,
@@ -2522,6 +2563,7 @@
     "filename": "RugRectJuneBrideM00",
     "internalId": 12462,
     "uniqueEntryId": "ghEfAZG8Lt5sb8nt3",
+    "url": "=FORMULATEXT(B24)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "028",
@@ -2588,6 +2630,7 @@
     "filename": "RugRectNativeKitchenS01",
     "internalId": 7595,
     "uniqueEntryId": "DiEHu3wPobZXzhhp8",
+    "url": "=FORMULATEXT(B25)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7595,
@@ -2635,6 +2678,7 @@
     "filename": "RugOtherBoneS00",
     "internalId": 12363,
     "uniqueEntryId": "udGT7fiMezZW5ptrC",
+    "url": "=FORMULATEXT(B26)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12363,
@@ -2682,6 +2726,7 @@
     "filename": "RugRectBotanicalL00",
     "internalId": 7353,
     "uniqueEntryId": "nEqsaya7wt6FsWwDC",
+    "url": "=FORMULATEXT(B27)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7353,
@@ -2729,6 +2774,7 @@
     "filename": "RugRectArgyleL03",
     "internalId": 8468,
     "uniqueEntryId": "yrQTuyQr2m6axKkr2",
+    "url": "=FORMULATEXT(B28)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 8468,
@@ -2776,6 +2822,7 @@
     "filename": "RugOtherAnimalM00",
     "internalId": 14191,
     "uniqueEntryId": "KJwqjJp9YWCALKSNd",
+    "url": "=FORMULATEXT(B29)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14191,
@@ -2823,6 +2870,7 @@
     "filename": "RugRectKitchenS00",
     "internalId": 7341,
     "uniqueEntryId": "2ya9gAeftrSe4YSmE",
+    "url": "=FORMULATEXT(B30)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7341,
@@ -2870,6 +2918,7 @@
     "filename": "RugSquareShaggyL01",
     "internalId": 9563,
     "uniqueEntryId": "cAFej6s3C7T3DYykj",
+    "url": "=FORMULATEXT(B31)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9563,
@@ -2917,6 +2966,7 @@
     "filename": "RugRectDeckM00",
     "internalId": 7323,
     "uniqueEntryId": "MSPQjkRRMRGNRTeEt",
+    "url": "=FORMULATEXT(B32)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7323,
@@ -2964,6 +3014,7 @@
     "filename": "RugOtherCherryM00",
     "internalId": 7328,
     "uniqueEntryId": "R9Bxb8FQw7Fj2YuCa",
+    "url": "=FORMULATEXT(B34)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -3076,6 +3127,7 @@
     "filename": "RugOtherSakuraM00",
     "internalId": 12351,
     "uniqueEntryId": "CcifD7vuYJm5bwrZ5",
+    "url": "=FORMULATEXT(B35)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "022",
@@ -3188,6 +3240,7 @@
     "filename": "RugRectCoconutmatS00",
     "internalId": 13057,
     "uniqueEntryId": "EjrmBRgYWehusZa2N",
+    "url": "=FORMULATEXT(B37)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13057,
@@ -3235,6 +3288,7 @@
     "filename": "RugRectVinylM00",
     "internalId": 7359,
     "uniqueEntryId": "FAAQgrJJM4svoYJb8",
+    "url": "=FORMULATEXT(B38)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7359,
@@ -3282,6 +3336,7 @@
     "filename": "RugRoundBiscuitM00",
     "internalId": 12219,
     "uniqueEntryId": "fZLyR8EQBdjPaM3DL",
+    "url": "=FORMULATEXT(B39)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12219,
@@ -3329,6 +3384,7 @@
     "filename": "RugRectBambooS01",
     "internalId": 12400,
     "uniqueEntryId": "Zsefv3Y8qxYqEy3HE",
+    "url": "=FORMULATEXT(B40)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "010",
@@ -3441,6 +3497,7 @@
     "filename": "RugRectBambooM01",
     "internalId": 11114,
     "uniqueEntryId": "yC3qR56GTSs3PZuJi",
+    "url": "=FORMULATEXT(B41)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "010",
@@ -3553,6 +3610,7 @@
     "filename": "RugSquareWoodS03",
     "internalId": 13592,
     "uniqueEntryId": "RTxLCmZR43xEhpShK",
+    "url": "=FORMULATEXT(B42)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13592,
@@ -3600,6 +3658,7 @@
     "filename": "RugSquareStoneS01",
     "internalId": 13594,
     "uniqueEntryId": "bJHqqykWdvmzJ9EJT",
+    "url": "=FORMULATEXT(B43)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13594,
@@ -3647,6 +3706,7 @@
     "filename": "RugRectDisplayStandS02",
     "internalId": 14039,
     "uniqueEntryId": "x2syTNwYeaW4Mxq87",
+    "url": "=FORMULATEXT(B44)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14039,
@@ -3694,6 +3754,7 @@
     "filename": "RugSquareDisplayStandS02",
     "internalId": 14036,
     "uniqueEntryId": "4mY6nD2swycxSXQku",
+    "url": "=FORMULATEXT(B45)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14036,
@@ -3741,6 +3802,7 @@
     "filename": "RugSquareElegantL01",
     "internalId": 14144,
     "uniqueEntryId": "uz8vNGT54vMG3XjvJ",
+    "url": "=FORMULATEXT(B47)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14144,
@@ -3788,6 +3850,7 @@
     "filename": "RugSquareElegantL02",
     "internalId": 14146,
     "uniqueEntryId": "FqtWjzFN4t2zfbSFw",
+    "url": "=FORMULATEXT(B48)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14146,
@@ -3835,6 +3898,7 @@
     "filename": "RugSquareElegantL03",
     "internalId": 14145,
     "uniqueEntryId": "Lrv8sqJR58fnEBoCH",
+    "url": "=FORMULATEXT(B49)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14145,
@@ -3882,6 +3946,7 @@
     "filename": "RugSquareElegantL00",
     "internalId": 14012,
     "uniqueEntryId": "TFoCKovb9EWhomZRA",
+    "url": "=FORMULATEXT(B50)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14012,
@@ -3929,6 +3994,7 @@
     "filename": "RugSquareChristmasL00",
     "internalId": 7544,
     "uniqueEntryId": "gtnhB8Je9YTRgmJgE",
+    "url": "=FORMULATEXT(B51)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "026",
@@ -4084,6 +4150,7 @@
     "filename": "RugOtherFishM00",
     "internalId": 7361,
     "uniqueEntryId": "iWb2Ca8YMDYnpyDrx",
+    "url": "=FORMULATEXT(B52)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7361,
@@ -4131,6 +4198,7 @@
     "filename": "RugOtherCloudM00",
     "internalId": 7329,
     "uniqueEntryId": "DKPzh943uZYKHKsX7",
+    "url": "=FORMULATEXT(B53)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7329,
@@ -4178,6 +4246,7 @@
     "filename": "RugOtherFootballM00",
     "internalId": 13904,
     "uniqueEntryId": "r5zaZS3Ar6oHTkTGM",
+    "url": "=FORMULATEXT(B54)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13904,
@@ -4225,6 +4294,7 @@
     "filename": "RugOtherFossilM00",
     "internalId": 7366,
     "uniqueEntryId": "P2tKuDsb8sxfpKXh3",
+    "url": "=FORMULATEXT(B55)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7366,
@@ -4272,6 +4342,7 @@
     "filename": "RugSquareIceS00",
     "internalId": 13572,
     "uniqueEntryId": "RLGupv2AHKtPZSiMu",
+    "url": "=FORMULATEXT(B56)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "018",
@@ -4384,6 +4455,7 @@
     "filename": "RugRectGlowMossM00",
     "internalId": 13877,
     "uniqueEntryId": "h4TbbaAX8yuK99GcD",
+    "url": "=FORMULATEXT(B57)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13877,
@@ -4477,6 +4549,7 @@
     "filename": "RugSquareBrickS01",
     "internalId": 13597,
     "uniqueEntryId": "ioDyQEaC2DhRyXQ67",
+    "url": "=FORMULATEXT(B58)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13597,
@@ -4524,6 +4597,7 @@
     "filename": "RugSquareTileS00",
     "internalId": 13566,
     "uniqueEntryId": "BwxnCvAdHi2ipphjj",
+    "url": "=FORMULATEXT(B59)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13566,
@@ -4571,6 +4645,7 @@
     "filename": "RugSquareHawaiianL03",
     "internalId": 12392,
     "uniqueEntryId": "KosWdPvmbZa9LCDn8",
+    "url": "=FORMULATEXT(B64)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12392,
@@ -4618,6 +4693,7 @@
     "filename": "RugRectBambooBathmatS00",
     "internalId": 12329,
     "uniqueEntryId": "ZB86Sp2wk7jjmPFf8",
+    "url": "=FORMULATEXT(B60)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "010",
@@ -4730,6 +4806,7 @@
     "filename": "RugSquareCheckQuiltL03",
     "internalId": 7464,
     "uniqueEntryId": "hAYpTXLShJh7p5gcB",
+    "url": "=FORMULATEXT(B61)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7464,
@@ -4777,6 +4854,7 @@
     "filename": "RugRectMatM02",
     "internalId": 12388,
     "uniqueEntryId": "x2HEgGGPNS9b5tgGD",
+    "url": "=FORMULATEXT(B62)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12388,
@@ -4824,6 +4902,7 @@
     "filename": "RugRectChinamatS01",
     "internalId": 12221,
     "uniqueEntryId": "HSAXrcHbfgF4KEG5F",
+    "url": "=FORMULATEXT(B63)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12221,
@@ -4871,6 +4950,7 @@
     "filename": "RugSquareKirimL02",
     "internalId": 9314,
     "uniqueEntryId": "86w3TxnYsZLSzeX2q",
+    "url": "=FORMULATEXT(B65)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9314,
@@ -4918,6 +4998,7 @@
     "filename": "RugRectKitchenS03",
     "internalId": 8393,
     "uniqueEntryId": "QpRcMgKRTNvayFdy9",
+    "url": "=FORMULATEXT(B66)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 8393,
@@ -4965,6 +5046,7 @@
     "filename": "RugSquareShaggyL00",
     "internalId": 7354,
     "uniqueEntryId": "hNWup2nSxzMMsGfyy",
+    "url": "=FORMULATEXT(B67)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7354,
@@ -5012,6 +5094,7 @@
     "filename": "RugRectBorderL03",
     "internalId": 7534,
     "uniqueEntryId": "DEEzqeCYXaxA8i63W",
+    "url": "=FORMULATEXT(B68)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7534,
@@ -5059,6 +5142,7 @@
     "filename": "RugSquareChinaL00",
     "internalId": 12395,
     "uniqueEntryId": "ggoGewuex9epXNZaB",
+    "url": "=FORMULATEXT(B70)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12395,
@@ -5106,6 +5190,7 @@
     "filename": "RugRectIronmatS00",
     "internalId": 7337,
     "uniqueEntryId": "KaHhjd5QbpmmmhkCg",
+    "url": "=FORMULATEXT(B71)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "001",
@@ -5172,6 +5257,7 @@
     "filename": "RugRoundSimpleM00",
     "internalId": 7325,
     "uniqueEntryId": "ucw27wEffTFj9DK4v",
+    "url": "=FORMULATEXT(B72)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7325,
@@ -5219,6 +5305,7 @@
     "filename": "RugRectBathmatS00",
     "internalId": 7333,
     "uniqueEntryId": "iFx2DHj9qJsY8vzsT",
+    "url": "=FORMULATEXT(B73)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7333,
@@ -5266,6 +5353,7 @@
     "filename": "RugRoundSimpleS00",
     "internalId": 7334,
     "uniqueEntryId": "8to7AD6FkrkZkaKX5",
+    "url": "=FORMULATEXT(B74)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7334,
@@ -5313,6 +5401,7 @@
     "filename": "RugRoundLaceM00",
     "internalId": 7368,
     "uniqueEntryId": "bzWc6Hh3tAnYcgh3f",
+    "url": "=FORMULATEXT(B77)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7368,
@@ -5360,6 +5449,7 @@
     "filename": "RugRoundLadybirdM00",
     "internalId": 7360,
     "uniqueEntryId": "T7T3r6GJqfhndy5xp",
+    "url": "=FORMULATEXT(B78)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7360,
@@ -5407,6 +5497,7 @@
     "filename": "RugSquarePatternL00",
     "internalId": 14706,
     "uniqueEntryId": "9Nsr7mTBvgd4R7sxR",
+    "url": "=FORMULATEXT(B80)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14706,
@@ -5454,6 +5545,7 @@
     "filename": "RugRectBambooS00",
     "internalId": 12399,
     "uniqueEntryId": "c8ssiZHTGjWaSrBtw",
+    "url": "=FORMULATEXT(B82)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "010",
@@ -5566,6 +5658,7 @@
     "filename": "RugRectBambooM00",
     "internalId": 11113,
     "uniqueEntryId": "c34AemWJDW8WvYGrm",
+    "url": "=FORMULATEXT(B83)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "010",
@@ -5678,6 +5771,7 @@
     "filename": "RugSquareWoodS00",
     "internalId": 13568,
     "uniqueEntryId": "iTXijyHZredEYXZDZ",
+    "url": "=FORMULATEXT(B84)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13568,
@@ -5725,6 +5819,7 @@
     "filename": "RugSquareStoneS00",
     "internalId": 13567,
     "uniqueEntryId": "MPfMGMqdjmur7L67z",
+    "url": "=FORMULATEXT(B85)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13567,
@@ -5772,6 +5867,7 @@
     "filename": "RugOtherAnimalM01",
     "internalId": 14245,
     "uniqueEntryId": "oe9tHv9xzH3pgEPvJ",
+    "url": "=FORMULATEXT(B86)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14245,
@@ -5819,6 +5915,7 @@
     "filename": "RugRectDisplayStandS00",
     "internalId": 13860,
     "uniqueEntryId": "E2TyniSoRxLaPTe7P",
+    "url": "=FORMULATEXT(B87)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13860,
@@ -5866,6 +5963,7 @@
     "filename": "RugSquareDisplayStandS00",
     "internalId": 13861,
     "uniqueEntryId": "3oPdNhD9Q9ueWso2N",
+    "url": "=FORMULATEXT(B88)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13861,
@@ -5913,6 +6011,7 @@
     "filename": "RugRoundMagicM00",
     "internalId": 7367,
     "uniqueEntryId": "77PHyfuxLmPTgriT2",
+    "url": "=FORMULATEXT(B89)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7367,
@@ -5960,6 +6059,7 @@
     "filename": "RugOtherMapleM00",
     "internalId": 12390,
     "uniqueEntryId": "2SeNZcru6oTK6S8YJ",
+    "url": "=FORMULATEXT(B90)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "021",
@@ -6072,6 +6172,7 @@
     "filename": "RugOtherMermaidM00",
     "internalId": 12563,
     "uniqueEntryId": "WfJHsYQ4KETP2yDEs",
+    "url": "=FORMULATEXT(B91)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "030",
@@ -6203,6 +6304,7 @@
     "filename": "RugRectWaveL00",
     "internalId": 7350,
     "uniqueEntryId": "tfdJqWZ2ETosBdHem",
+    "url": "=FORMULATEXT(B92)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7350,
@@ -6250,6 +6352,7 @@
     "filename": "RugRectDotL00",
     "internalId": 7349,
     "uniqueEntryId": "n7kdsLeGa9sFzPfYR",
+    "url": "=FORMULATEXT(B97)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7349,
@@ -6297,6 +6400,7 @@
     "filename": "RugRectWaveL01",
     "internalId": 7456,
     "uniqueEntryId": "KEQx7PcEYYP5C8QGW",
+    "url": "=FORMULATEXT(B98)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7456,
@@ -6344,6 +6448,7 @@
     "filename": "RugRoundMoonM00",
     "internalId": 13287,
     "uniqueEntryId": "ZSc6ADmEcAnG92DWv",
+    "url": "=FORMULATEXT(B99)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "019",
@@ -6410,6 +6515,7 @@
     "filename": "RugOtherMushM00",
     "internalId": 7363,
     "uniqueEntryId": "deKdNh2bu4udJ5zYx",
+    "url": "=FORMULATEXT(B100)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "008",
@@ -6476,6 +6582,7 @@
     "filename": "RugRectDeckM01",
     "internalId": 7380,
     "uniqueEntryId": "4xyhHztk2b3GbRKu6",
+    "url": "=FORMULATEXT(B102)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7380,
@@ -6523,6 +6630,7 @@
     "filename": "RugRectDisplayStandS01",
     "internalId": 14040,
     "uniqueEntryId": "AZNySSdAmQkzWn6XX",
+    "url": "=FORMULATEXT(B103)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14040,
@@ -6570,6 +6678,7 @@
     "filename": "RugSquareDisplayStandS01",
     "internalId": 14037,
     "uniqueEntryId": "pfHmxKED8rbMj57XC",
+    "url": "=FORMULATEXT(B104)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14037,
@@ -6617,6 +6726,7 @@
     "filename": "RugSquareWoodS02",
     "internalId": 13593,
     "uniqueEntryId": "yhxQcsvCcLgMFcCmN",
+    "url": "=FORMULATEXT(B105)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13593,
@@ -6664,6 +6774,7 @@
     "filename": "RugOtherOrangeM00",
     "internalId": 7330,
     "uniqueEntryId": "cXGa9CDpwXcCMzQw2",
+    "url": "=FORMULATEXT(B109)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -6776,6 +6887,7 @@
     "filename": "RugOtherCountryS00",
     "internalId": 7370,
     "uniqueEntryId": "TJaw3inQooLN9DXGt",
+    "url": "=FORMULATEXT(B110)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7370,
@@ -6823,6 +6935,7 @@
     "filename": "RugSquareCheckQuiltL02",
     "internalId": 7463,
     "uniqueEntryId": "QLtQLYyCeg7A28tzC",
+    "url": "=FORMULATEXT(B111)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7463,
@@ -6870,6 +6983,7 @@
     "filename": "RugOtherPeachM00",
     "internalId": 7331,
     "uniqueEntryId": "tqGgxHpeDfRCGRrjY",
+    "url": "=FORMULATEXT(B112)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -6982,6 +7096,7 @@
     "filename": "RugRectBorderL01",
     "internalId": 7532,
     "uniqueEntryId": "LGhZCR8PgGQJYqST9",
+    "url": "=FORMULATEXT(B113)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7532,
@@ -7029,6 +7144,7 @@
     "filename": "RugOtherPearM00",
     "internalId": 7332,
     "uniqueEntryId": "hLakk5wPNF2RHRCHR",
+    "url": "=FORMULATEXT(B114)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -7141,6 +7257,7 @@
     "filename": "RugSquareHawaiianL02",
     "internalId": 12393,
     "uniqueEntryId": "SRMw5MpysCbKEKg8t",
+    "url": "=FORMULATEXT(B115)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12393,
@@ -7188,6 +7305,7 @@
     "filename": "RugOtherHeartM00",
     "internalId": 7322,
     "uniqueEntryId": "TY5kKqhPpxgifmRJF",
+    "url": "=FORMULATEXT(B116)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7322,
@@ -7235,6 +7353,7 @@
     "filename": "RugOtherRoseM00",
     "internalId": 7365,
     "uniqueEntryId": "adYBsXgG3etWwtsds",
+    "url": "=FORMULATEXT(B117)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7365,
@@ -7282,6 +7401,7 @@
     "filename": "RugRectPiratesM00",
     "internalId": 12564,
     "uniqueEntryId": "RPasRWt9A7bb4h4yv",
+    "url": "=FORMULATEXT(B118)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "029",
@@ -7348,6 +7468,7 @@
     "filename": "RugSquarePersianL03",
     "internalId": 8037,
     "uniqueEntryId": "QzKyWFwcBF6DNoMQS",
+    "url": "=FORMULATEXT(B121)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 8037,
@@ -7395,6 +7516,7 @@
     "filename": "RugOtherHeartM02",
     "internalId": 7580,
     "uniqueEntryId": "LzB8y9NY5cwZJETQy",
+    "url": "=FORMULATEXT(B120)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7580,
@@ -7442,6 +7564,7 @@
     "filename": "RugSquareShaggyL03",
     "internalId": 9562,
     "uniqueEntryId": "jYsKTqR44uCHSGbnE",
+    "url": "=FORMULATEXT(B122)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9562,
@@ -7489,6 +7612,7 @@
     "filename": "RugRoundRecordM00",
     "internalId": 12328,
     "uniqueEntryId": "qj27J9JpEkG9g25Rm",
+    "url": "=FORMULATEXT(B123)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12328,
@@ -7536,6 +7660,7 @@
     "filename": "RugSquarePersianL00",
     "internalId": 7347,
     "uniqueEntryId": "ToTG8debi3YH93yqJ",
+    "url": "=FORMULATEXT(B134)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7347,
@@ -7583,6 +7708,7 @@
     "filename": "RugRectArgyleL01",
     "internalId": 8466,
     "uniqueEntryId": "JcnvagFXFrtRojuX5",
+    "url": "=FORMULATEXT(B124)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 8466,
@@ -7630,6 +7756,7 @@
     "filename": "RugSquareBlockM00",
     "internalId": 11101,
     "uniqueEntryId": "PWaKA8fJZfRLdgBjP",
+    "url": "=FORMULATEXT(B125)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 11101,
@@ -7677,6 +7804,7 @@
     "filename": "RugSquareBrickS00",
     "internalId": 13571,
     "uniqueEntryId": "8NahbkoGyfbwoySfM",
+    "url": "=FORMULATEXT(B126)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13571,
@@ -7724,6 +7852,7 @@
     "filename": "RugRectElegantM00",
     "internalId": 7348,
     "uniqueEntryId": "DrZgYBvviB7CGP3nx",
+    "url": "=FORMULATEXT(B127)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7348,
@@ -7771,6 +7900,7 @@
     "filename": "RugRectDotL02",
     "internalId": 7465,
     "uniqueEntryId": "6KoyAtx4QA2BuXKea",
+    "url": "=FORMULATEXT(B128)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7465,
@@ -7818,6 +7948,7 @@
     "filename": "RugRectMatM03",
     "internalId": 12389,
     "uniqueEntryId": "NaSNe8vRWZbAZoebM",
+    "url": "=FORMULATEXT(B129)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12389,
@@ -7865,6 +7996,7 @@
     "filename": "RugRectChinamatS00",
     "internalId": 12220,
     "uniqueEntryId": "Nn6qx5QZw239ML4j2",
+    "url": "=FORMULATEXT(B130)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12220,
@@ -7912,6 +8044,7 @@
     "filename": "RugSquareKirimL00",
     "internalId": 9313,
     "uniqueEntryId": "dhvJNNbRm9qDxXrpJ",
+    "url": "=FORMULATEXT(B131)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9313,
@@ -7959,6 +8092,7 @@
     "filename": "RugRoundSimpleM01",
     "internalId": 9545,
     "uniqueEntryId": "Ev2FGNQPGqW8Nn7fk",
+    "url": "=FORMULATEXT(B132)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9545,
@@ -8006,6 +8140,7 @@
     "filename": "RugOtherMessageS03",
     "internalId": 9312,
     "uniqueEntryId": "uYJPL9oP3tgpZHNhL",
+    "url": "=FORMULATEXT(B133)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9312,
@@ -8053,6 +8188,7 @@
     "filename": "RugOtherRoseM01",
     "internalId": 8758,
     "uniqueEntryId": "cXt7bSZGo8G4MWZ3x",
+    "url": "=FORMULATEXT(B135)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "020",
@@ -8119,6 +8255,7 @@
     "filename": "RugRoundSimpleS01",
     "internalId": 9548,
     "uniqueEntryId": "z6C8NBYbSkshNZG7J",
+    "url": "=FORMULATEXT(B136)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9548,
@@ -8166,6 +8303,7 @@
     "filename": "RugRectVinylM02",
     "internalId": 7405,
     "uniqueEntryId": "2tPPLjzq42Z8wjtNv",
+    "url": "=FORMULATEXT(B137)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7405,
@@ -8213,6 +8351,7 @@
     "filename": "RugOtherWatermelonM00",
     "internalId": 12215,
     "uniqueEntryId": "uAFL2apYYrYEZksq3",
+    "url": "=FORMULATEXT(B138)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12215,
@@ -8260,6 +8399,7 @@
     "filename": "RugRectWaveL03",
     "internalId": 7457,
     "uniqueEntryId": "pPTXqs45y6k23f62j",
+    "url": "=FORMULATEXT(B139)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7457,
@@ -8307,6 +8447,7 @@
     "filename": "RugRectJuneBrideM02",
     "internalId": 12465,
     "uniqueEntryId": "LmxrQZwL5HrEzsHqK",
+    "url": "=FORMULATEXT(B140)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "028",
@@ -8373,6 +8514,7 @@
     "filename": "RugSquareCheckQuiltL00",
     "internalId": 7343,
     "uniqueEntryId": "zrouM9QCzYKg3kBcc",
+    "url": "=FORMULATEXT(B141)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7343,
@@ -8420,6 +8562,7 @@
     "filename": "RugRectNativeKitchenS00",
     "internalId": 7340,
     "uniqueEntryId": "7KtKd8P5tbGSfG2qZ",
+    "url": "=FORMULATEXT(B142)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7340,
@@ -8467,6 +8610,7 @@
     "filename": "RugRectDotL01",
     "internalId": 7466,
     "uniqueEntryId": "29Pm3PcqEJ3nP36sh",
+    "url": "=FORMULATEXT(B143)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7466,
@@ -8514,6 +8658,7 @@
     "filename": "RugRectDoormatS00",
     "internalId": 7324,
     "uniqueEntryId": "oEg77tXhJ6GReb7gp",
+    "url": "=FORMULATEXT(B144)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7324,
@@ -8561,6 +8706,7 @@
     "filename": "RugRoundGlowMossS00",
     "internalId": 13878,
     "uniqueEntryId": "hBAApWnka5p3taup2",
+    "url": "=FORMULATEXT(B145)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13878,
@@ -8654,6 +8800,7 @@
     "filename": "RugRoundVineS00",
     "internalId": 13906,
     "uniqueEntryId": "4swv5cokrfFG3Pvpw",
+    "url": "=FORMULATEXT(B146)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13906,
@@ -8747,6 +8894,7 @@
     "filename": "RugRectRubberScraperS00",
     "internalId": 7339,
     "uniqueEntryId": "Er4wGFd53SAq3zsGX",
+    "url": "=FORMULATEXT(B147)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7339,
@@ -8794,6 +8942,7 @@
     "filename": "RugOtherShamrockM00",
     "internalId": 7547,
     "uniqueEntryId": "FcnuoWDXY7oGanq74",
+    "url": "=FORMULATEXT(B148)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7547,
@@ -8841,6 +8990,7 @@
     "filename": "RugSquareOldStrawL00",
     "internalId": 7345,
     "uniqueEntryId": "jLR8r3aHpRe4yJyxA",
+    "url": "=FORMULATEXT(B149)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7345,
@@ -8888,6 +9038,7 @@
     "filename": "RugOtherShellM00",
     "internalId": 7362,
     "uniqueEntryId": "kC3KJRKazh5c6m2uN",
+    "url": "=FORMULATEXT(B150)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "007",
@@ -9000,6 +9151,7 @@
     "filename": "RugRectEntranceS00",
     "internalId": 13058,
     "uniqueEntryId": "sgqHLSNKe9ezJFrnL",
+    "url": "=FORMULATEXT(B151)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13058,
@@ -9047,6 +9199,7 @@
     "filename": "RugRectBathmatS03",
     "internalId": 7516,
     "uniqueEntryId": "zfRhHqsvfBg5D6CJA",
+    "url": "=FORMULATEXT(B152)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7516,
@@ -9094,6 +9247,7 @@
     "filename": "RugSquareSimpleM03",
     "internalId": 7524,
     "uniqueEntryId": "9BzJWMCmruohLvY8x",
+    "url": "=FORMULATEXT(B153)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7524,
@@ -9141,6 +9295,7 @@
     "filename": "RugSquareSimpleM07",
     "internalId": 7539,
     "uniqueEntryId": "Nmx4FN5RX5LJ2xRF8",
+    "url": "=FORMULATEXT(B154)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7539,
@@ -9188,6 +9343,7 @@
     "filename": "RugSquareSimpleM02",
     "internalId": 7523,
     "uniqueEntryId": "7nEjDqYTsZdF3n8Ky",
+    "url": "=FORMULATEXT(B155)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7523,
@@ -9235,6 +9391,7 @@
     "filename": "RugSquareSimpleM01",
     "internalId": 7519,
     "uniqueEntryId": "FAqsC7JonfkPt3jc2",
+    "url": "=FORMULATEXT(B156)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7519,
@@ -9282,6 +9439,7 @@
     "filename": "RugSquareSimpleM05",
     "internalId": 7536,
     "uniqueEntryId": "Bt6N5gWJJNtdNg8TC",
+    "url": "=FORMULATEXT(B157)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7536,
@@ -9329,6 +9487,7 @@
     "filename": "RugSquareSimpleM06",
     "internalId": 7538,
     "uniqueEntryId": "9WryqBnvAMiSF7vJ6",
+    "url": "=FORMULATEXT(B158)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7538,
@@ -9376,6 +9535,7 @@
     "filename": "RugSquareSimpleM04",
     "internalId": 7540,
     "uniqueEntryId": "yB22Mz4KP2wbzjYtv",
+    "url": "=FORMULATEXT(B159)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7540,
@@ -9423,6 +9583,7 @@
     "filename": "RugRectBathmatS01",
     "internalId": 7518,
     "uniqueEntryId": "AZQdF6gMi89DXP9K3",
+    "url": "=FORMULATEXT(B160)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7518,
@@ -9470,6 +9631,7 @@
     "filename": "RugRectBathmatS02",
     "internalId": 7517,
     "uniqueEntryId": "Lqze8wPcmFatBMFDw",
+    "url": "=FORMULATEXT(B161)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7517,
@@ -9517,6 +9679,7 @@
     "filename": "RugSquareSimpleS03",
     "internalId": 7520,
     "uniqueEntryId": "PKfPEbTw8C55Qc5oH",
+    "url": "=FORMULATEXT(B162)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7520,
@@ -9564,6 +9727,7 @@
     "filename": "RugSquareSimpleS07",
     "internalId": 7543,
     "uniqueEntryId": "uSGDYs7hCuxMBTZbi",
+    "url": "=FORMULATEXT(B163)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7543,
@@ -9611,6 +9775,7 @@
     "filename": "RugSquareSimpleS02",
     "internalId": 7521,
     "uniqueEntryId": "Q7FSQ4q6Hzt2YihKH",
+    "url": "=FORMULATEXT(B164)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7521,
@@ -9658,6 +9823,7 @@
     "filename": "RugSquareSimpleS01",
     "internalId": 7522,
     "uniqueEntryId": "aKCpcBCjrn6wWcyw2",
+    "url": "=FORMULATEXT(B165)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7522,
@@ -9705,6 +9871,7 @@
     "filename": "RugSquareSimpleS05",
     "internalId": 7541,
     "uniqueEntryId": "WomwFGQsQgogZNtQf",
+    "url": "=FORMULATEXT(B166)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7541,
@@ -9752,6 +9919,7 @@
     "filename": "RugSquareSimpleS06",
     "internalId": 7542,
     "uniqueEntryId": "h7wpDFdwKgJs2BvgG",
+    "url": "=FORMULATEXT(B167)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7542,
@@ -9799,6 +9967,7 @@
     "filename": "RugSquareSimpleS04",
     "internalId": 7537,
     "uniqueEntryId": "nRakPP7nXacJB3YHX",
+    "url": "=FORMULATEXT(B168)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7537,
@@ -9846,6 +10015,7 @@
     "filename": "RugOtherSkullM00",
     "internalId": 12334,
     "uniqueEntryId": "45XdJjQY2JqipTQ9F",
+    "url": "=FORMULATEXT(B169)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12334,
@@ -9893,6 +10063,7 @@
     "filename": "RugOtherSloppyL00",
     "internalId": 7371,
     "uniqueEntryId": "337rrvb9iapfJC4nb",
+    "url": "=FORMULATEXT(B170)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "047",
@@ -9959,6 +10130,7 @@
     "filename": "RugRectPatternS00",
     "internalId": 14707,
     "uniqueEntryId": "pTEGa3pxpuMwuwLmJ",
+    "url": "=FORMULATEXT(B171)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14707,
@@ -10006,6 +10178,7 @@
     "filename": "RugRoundSnowM00",
     "internalId": 7346,
     "uniqueEntryId": "upNaAkxPwQRHP6NXi",
+    "url": "=FORMULATEXT(B172)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7346,
@@ -10053,6 +10226,7 @@
     "filename": "RugSquareHalloweenL00",
     "internalId": 7545,
     "uniqueEntryId": "vgzmZDqaGRtrDN7Pv",
+    "url": "=FORMULATEXT(B173)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "012",
@@ -10119,6 +10293,7 @@
     "filename": "RugRoundStageM00",
     "internalId": 12725,
     "uniqueEntryId": "5ooaYbBht82jjATW9",
+    "url": "=FORMULATEXT(B174)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12725,
@@ -10166,6 +10341,7 @@
     "filename": "RugRoundZodiacM00",
     "internalId": 12521,
     "uniqueEntryId": "xzKfkAfhP9hgzsRXw",
+    "url": "=FORMULATEXT(B175)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "019",
@@ -10297,6 +10473,7 @@
     "filename": "RugOtherShellSnailM00",
     "internalId": 12217,
     "uniqueEntryId": "fBGGF9Cqbudi6cmsk",
+    "url": "=FORMULATEXT(B176)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12217,
@@ -10390,6 +10567,7 @@
     "filename": "RugOtherSunflowerM00",
     "internalId": 13596,
     "uniqueEntryId": "D8jXWc5Nq678JDmpr",
+    "url": "=FORMULATEXT(B177)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "020",
@@ -10456,6 +10634,7 @@
     "filename": "RugRectTatamiM00",
     "internalId": 7369,
     "uniqueEntryId": "m7efgfNG3HZR6G29s",
+    "url": "=FORMULATEXT(B178)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7369,
@@ -10503,6 +10682,7 @@
     "filename": "RugOtherStumpM00",
     "internalId": 12379,
     "uniqueEntryId": "LeZfLvbzy4LHMFotw",
+    "url": "=FORMULATEXT(B179)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12379,
@@ -10596,6 +10776,7 @@
     "filename": "RugRoundIslandM00",
     "internalId": 7358,
     "uniqueEntryId": "tjgfDcBRhWQrxhjzk",
+    "url": "=FORMULATEXT(B180)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7358,
@@ -10643,6 +10824,7 @@
     "filename": "RugOtherHeartM01",
     "internalId": 7579,
     "uniqueEntryId": "MeN8d4a4YKoFc2zDW",
+    "url": "=FORMULATEXT(B182)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7579,
@@ -10690,6 +10872,7 @@
     "filename": "RugRectMatM00",
     "internalId": 12386,
     "uniqueEntryId": "PTEdMjQ6RhLp5JNQt",
+    "url": "=FORMULATEXT(B183)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12386,
@@ -10737,6 +10920,7 @@
     "filename": "RugOtherHeartM03",
     "internalId": 7578,
     "uniqueEntryId": "ur5qNz9QEkkCEPRDQ",
+    "url": "=FORMULATEXT(B184)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7578,
@@ -10784,6 +10968,7 @@
     "filename": "RugOtherMessageS00",
     "internalId": 7338,
     "uniqueEntryId": "ey5h5kDoaHvTgEdkj",
+    "url": "=FORMULATEXT(B185)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7338,
@@ -10831,6 +11016,7 @@
     "filename": "RugOtherRoseM03",
     "internalId": 8757,
     "uniqueEntryId": "fWrizz9CC3Lg8apM2",
+    "url": "=FORMULATEXT(B186)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "020",
@@ -10897,6 +11083,7 @@
     "filename": "RugSquareSimpleM00",
     "internalId": 7335,
     "uniqueEntryId": "vXD2oADv2fg4QRCp6",
+    "url": "=FORMULATEXT(B187)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7335,
@@ -10944,6 +11131,7 @@
     "filename": "RugSquareSimpleS00",
     "internalId": 7336,
     "uniqueEntryId": "vhxZi6oAZWm9gxRfK",
+    "url": "=FORMULATEXT(B188)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7336,
@@ -10991,6 +11179,7 @@
     "filename": "RugSquareWoodS01",
     "internalId": 13595,
     "uniqueEntryId": "AybYhmrNqDQF7nmwA",
+    "url": "=FORMULATEXT(B189)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 13595,
@@ -11038,6 +11227,7 @@
     "filename": "RugRectJuneBrideM03",
     "internalId": 12464,
     "uniqueEntryId": "At7cbGksXn6rvhkQr",
+    "url": "=FORMULATEXT(B190)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "028",
@@ -11104,6 +11294,7 @@
     "filename": "RugRectDeckM02",
     "internalId": 7381,
     "uniqueEntryId": "nmBMJkGHnxGdzYzzP",
+    "url": "=FORMULATEXT(B191)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7381,
@@ -11151,6 +11342,7 @@
     "filename": "RugRectDisplayStandS03",
     "internalId": 14038,
     "uniqueEntryId": "MnwwbhGePuQcNsm7C",
+    "url": "=FORMULATEXT(B192)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14038,
@@ -11198,6 +11390,7 @@
     "filename": "RugSquareDisplayStandS03",
     "internalId": 14035,
     "uniqueEntryId": "QDuruxueRohGJyFPh",
+    "url": "=FORMULATEXT(B193)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 14035,
@@ -11245,6 +11438,7 @@
     "filename": "RugSquareHawaiianL01",
     "internalId": 12394,
     "uniqueEntryId": "rsqpEquuEaidZAdjW",
+    "url": "=FORMULATEXT(B198)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12394,
@@ -11292,6 +11486,7 @@
     "filename": "RugSquarePersianL02",
     "internalId": 8036,
     "uniqueEntryId": "HdsBjfD2ongYrBt5m",
+    "url": "=FORMULATEXT(B203)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 8036,
@@ -11339,6 +11534,7 @@
     "filename": "RugRectArgyleL00",
     "internalId": 7352,
     "uniqueEntryId": "TEzohiZZfTSxoSNpd",
+    "url": "=FORMULATEXT(B194)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7352,
@@ -11386,6 +11582,7 @@
     "filename": "RugRectBambooBathmatS01",
     "internalId": 12330,
     "uniqueEntryId": "hKGKs9oChoax3Qkqp",
+    "url": "=FORMULATEXT(B195)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "010",
@@ -11498,6 +11695,7 @@
     "filename": "RugSquareBlockM02",
     "internalId": 11103,
     "uniqueEntryId": "Gb4rwvjZv74CDT8qE",
+    "url": "=FORMULATEXT(B196)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 11103,
@@ -11545,6 +11743,7 @@
     "filename": "RugSquareCheckQuiltL01",
     "internalId": 7462,
     "uniqueEntryId": "GdqeFkwTpKJLFQpyK",
+    "url": "=FORMULATEXT(B197)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7462,
@@ -11592,6 +11791,7 @@
     "filename": "RugSquareKirimL03",
     "internalId": 9315,
     "uniqueEntryId": "274gPov62L9zR3onG",
+    "url": "=FORMULATEXT(B199)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9315,
@@ -11639,6 +11839,7 @@
     "filename": "RugRectKitchenS01",
     "internalId": 8395,
     "uniqueEntryId": "CyGFnLgFnD3jrgKio",
+    "url": "=FORMULATEXT(B200)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 8395,
@@ -11686,6 +11887,7 @@
     "filename": "RugRoundSimpleM03",
     "internalId": 9544,
     "uniqueEntryId": "TfKNppy5CiswuZGSw",
+    "url": "=FORMULATEXT(B201)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9544,
@@ -11733,6 +11935,7 @@
     "filename": "RugOtherMessageS02",
     "internalId": 9311,
     "uniqueEntryId": "6NpR38JASvkZDezYq",
+    "url": "=FORMULATEXT(B202)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9311,
@@ -11780,6 +11983,7 @@
     "filename": "RugOtherRoseM02",
     "internalId": 8759,
     "uniqueEntryId": "jta8sYzY36aqcjp3T",
+    "url": "=FORMULATEXT(B204)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "020",
@@ -11846,6 +12050,7 @@
     "filename": "RugRoundSimpleS03",
     "internalId": 9547,
     "uniqueEntryId": "FS2ZvZLcRQDHp6hHr",
+    "url": "=FORMULATEXT(B205)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 9547,
@@ -11893,6 +12098,7 @@
     "filename": "RugOtherStarM00",
     "internalId": 12222,
     "uniqueEntryId": "7CPoE3KPnJ3SqK4Mk",
+    "url": "=FORMULATEXT(B206)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "019",
@@ -12005,6 +12211,7 @@
     "filename": "RugRectBorderL00",
     "internalId": 7351,
     "uniqueEntryId": "mJP9gz2YZAcQsWELE",
+    "url": "=FORMULATEXT(B207)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7351,
@@ -12052,6 +12259,7 @@
     "filename": "RugRectVinylM03",
     "internalId": 7403,
     "uniqueEntryId": "8tMeC24TcYdot9ZuC",
+    "url": "=FORMULATEXT(B208)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7403,
@@ -12099,6 +12307,7 @@
     "filename": "RugOtherWatermelonM01",
     "internalId": 12216,
     "uniqueEntryId": "a7xgXP8K6df43NCBQ",
+    "url": "=FORMULATEXT(B209)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 12216,
@@ -12146,6 +12355,7 @@
     "filename": "RugRectNativeKitchenS02",
     "internalId": 7596,
     "uniqueEntryId": "B76hfTkYR2vm96Hfd",
+    "url": "=FORMULATEXT(B210)",
     "translations": {
       "sourceSheet": "Rugs",
       "id": 7596,

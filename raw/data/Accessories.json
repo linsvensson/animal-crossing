@@ -35,7 +35,8 @@
     "Filename": "AccessoryGlassThreed0",
     "ClothGroup ID": 386,
     "Internal ID": 4463,
-    "Unique Entry ID": "FNxEraBTeWRiCvtFu"
+    "Unique Entry ID": "FNxEraBTeWRiCvtFu",
+    "Url": "=FORMULATEXT(B2)"
   },
   {
     "SourceSheet": "Accessories",
@@ -73,7 +74,8 @@
     "Filename": "AccessoryGlassThreed1",
     "ClothGroup ID": 386,
     "Internal ID": 11020,
-    "Unique Entry ID": "mM9SXPCcGPfPJAmtm"
+    "Unique Entry ID": "mM9SXPCcGPfPJAmtm",
+    "Url": "=FORMULATEXT(B3)"
   },
   {
     "SourceSheet": "Accessories",
@@ -111,7 +113,8 @@
     "Filename": "AccessoryMouthHalloween0",
     "ClothGroup ID": 1271,
     "Internal ID": 13018,
-    "Unique Entry ID": "6RJgfodWEebvmWTN9"
+    "Unique Entry ID": "6RJgfodWEebvmWTN9",
+    "Url": "=FORMULATEXT(B4)"
   },
   {
     "SourceSheet": "Accessories",
@@ -149,7 +152,8 @@
     "Filename": "AccessoryGlassDance0",
     "ClothGroup ID": 441,
     "Internal ID": 4561,
-    "Unique Entry ID": "aejA2rbAuzwNyPHFZ"
+    "Unique Entry ID": "aejA2rbAuzwNyPHFZ",
+    "Url": "=FORMULATEXT(B5)"
   },
   {
     "SourceSheet": "Accessories",
@@ -187,7 +191,8 @@
     "Filename": "AccessoryGlassDance1",
     "ClothGroup ID": 441,
     "Internal ID": 11159,
-    "Unique Entry ID": "bQ6ZyNH4876dxpspJ"
+    "Unique Entry ID": "bQ6ZyNH4876dxpspJ",
+    "Url": "=FORMULATEXT(B6)"
   },
   {
     "SourceSheet": "Accessories",
@@ -225,7 +230,8 @@
     "Filename": "AccessoryMouthBandageSkin",
     "ClothGroup ID": 503,
     "Internal ID": 4677,
-    "Unique Entry ID": "2qFT5iPkk8bREvpkj"
+    "Unique Entry ID": "2qFT5iPkk8bREvpkj",
+    "Url": "=FORMULATEXT(B7)"
   },
   {
     "SourceSheet": "Accessories",
@@ -263,7 +269,8 @@
     "Filename": "AccessoryMouthBeakYellow",
     "ClothGroup ID": 184,
     "Internal ID": 3549,
-    "Unique Entry ID": "T5CpsJi4xBSachNL5"
+    "Unique Entry ID": "T5CpsJi4xBSachNL5",
+    "Url": "=FORMULATEXT(B8)"
   },
   {
     "SourceSheet": "Accessories",
@@ -301,7 +308,8 @@
     "Filename": "AccessoryGlassBirthday2",
     "ClothGroup ID": 415,
     "Internal ID": 11218,
-    "Unique Entry ID": "ojXoAAj8Bs2XgRiWB"
+    "Unique Entry ID": "ojXoAAj8Bs2XgRiWB",
+    "Url": "=FORMULATEXT(B9)"
   },
   {
     "SourceSheet": "Accessories",
@@ -339,7 +347,8 @@
     "Filename": "AccessoryGlassBirthday1",
     "ClothGroup ID": 415,
     "Internal ID": 11217,
-    "Unique Entry ID": "g3MPcmAKM4z5h8KYX"
+    "Unique Entry ID": "g3MPcmAKM4z5h8KYX",
+    "Url": "=FORMULATEXT(B10)"
   },
   {
     "SourceSheet": "Accessories",
@@ -377,7 +386,8 @@
     "Filename": "AccessoryGlassBirthday0",
     "ClothGroup ID": 415,
     "Internal ID": 4510,
-    "Unique Entry ID": "S6CiB9ZvzBTMhEnDz"
+    "Unique Entry ID": "S6CiB9ZvzBTMhEnDz",
+    "Url": "=FORMULATEXT(B11)"
   },
   {
     "SourceSheet": "Accessories",
@@ -415,7 +425,8 @@
     "Filename": "AccessoryGlassBirthday3",
     "ClothGroup ID": 415,
     "Internal ID": 11219,
-    "Unique Entry ID": "Yr9mRJaZM44554oTS"
+    "Unique Entry ID": "Yr9mRJaZM44554oTS",
+    "Url": "=FORMULATEXT(B12)"
   },
   {
     "SourceSheet": "Accessories",
@@ -453,7 +464,8 @@
     "Filename": "AccessoryGlassLoose6",
     "ClothGroup ID": 463,
     "Internal ID": 11086,
-    "Unique Entry ID": "eT6KLntq43nCGFvB9"
+    "Unique Entry ID": "eT6KLntq43nCGFvB9",
+    "Url": "=FORMULATEXT(B13)"
   },
   {
     "SourceSheet": "Accessories",
@@ -491,7 +503,8 @@
     "Filename": "AccessoryGlassLoose0",
     "ClothGroup ID": 463,
     "Internal ID": 4597,
-    "Unique Entry ID": "ZHqtvcoqqDpJLf9Pc"
+    "Unique Entry ID": "ZHqtvcoqqDpJLf9Pc",
+    "Url": "=FORMULATEXT(B14)"
   },
   {
     "SourceSheet": "Accessories",
@@ -529,7 +542,8 @@
     "Filename": "AccessoryGlassLoose5",
     "ClothGroup ID": 463,
     "Internal ID": 11085,
-    "Unique Entry ID": "zpzD4NjApEyazKyKt"
+    "Unique Entry ID": "zpzD4NjApEyazKyKt",
+    "Url": "=FORMULATEXT(B15)"
   },
   {
     "SourceSheet": "Accessories",
@@ -567,7 +581,8 @@
     "Filename": "AccessoryGlassLoose4",
     "ClothGroup ID": 463,
     "Internal ID": 11084,
-    "Unique Entry ID": "w7bEbAGSQTvur6D6f"
+    "Unique Entry ID": "w7bEbAGSQTvur6D6f",
+    "Url": "=FORMULATEXT(B16)"
   },
   {
     "SourceSheet": "Accessories",
@@ -605,7 +620,8 @@
     "Filename": "AccessoryGlassLoose2",
     "ClothGroup ID": 463,
     "Internal ID": 11082,
-    "Unique Entry ID": "EtxJZDCgnqjWkETqK"
+    "Unique Entry ID": "EtxJZDCgnqjWkETqK",
+    "Url": "=FORMULATEXT(B17)"
   },
   {
     "SourceSheet": "Accessories",
@@ -643,7 +659,8 @@
     "Filename": "AccessoryGlassLoose3",
     "ClothGroup ID": 463,
     "Internal ID": 11083,
-    "Unique Entry ID": "LEbiXtkHoiEMEtjWK"
+    "Unique Entry ID": "LEbiXtkHoiEMEtjWK",
+    "Url": "=FORMULATEXT(B18)"
   },
   {
     "SourceSheet": "Accessories",
@@ -681,7 +698,8 @@
     "Filename": "AccessoryGlassLoose1",
     "ClothGroup ID": 463,
     "Internal ID": 11081,
-    "Unique Entry ID": "akRhFD3qeJEPM7WiD"
+    "Unique Entry ID": "akRhFD3qeJEPM7WiD",
+    "Url": "=FORMULATEXT(B19)"
   },
   {
     "SourceSheet": "Accessories",
@@ -719,7 +737,8 @@
     "Filename": "AccessoryGlassThurmont3",
     "ClothGroup ID": 260,
     "Internal ID": 11071,
-    "Unique Entry ID": "R9rDoMEzPcBw75hLE"
+    "Unique Entry ID": "R9rDoMEzPcBw75hLE",
+    "Url": "=FORMULATEXT(B20)"
   },
   {
     "SourceSheet": "Accessories",
@@ -757,7 +776,8 @@
     "Filename": "AccessoryGlassThurmont0",
     "ClothGroup ID": 260,
     "Internal ID": 4238,
-    "Unique Entry ID": "gHxascFKEJNrLCtD9"
+    "Unique Entry ID": "gHxascFKEJNrLCtD9",
+    "Url": "=FORMULATEXT(B21)"
   },
   {
     "SourceSheet": "Accessories",
@@ -795,7 +815,8 @@
     "Filename": "AccessoryGlassThurmont2",
     "ClothGroup ID": 260,
     "Internal ID": 11070,
-    "Unique Entry ID": "f6h8aqEufzizYBWiH"
+    "Unique Entry ID": "f6h8aqEufzizYBWiH",
+    "Url": "=FORMULATEXT(B22)"
   },
   {
     "SourceSheet": "Accessories",
@@ -833,7 +854,8 @@
     "Filename": "AccessoryGlassThurmont1",
     "ClothGroup ID": 260,
     "Internal ID": 11069,
-    "Unique Entry ID": "9iqmzMJiAeQMBN3pk"
+    "Unique Entry ID": "9iqmzMJiAeQMBN3pk",
+    "Url": "=FORMULATEXT(B23)"
   },
   {
     "SourceSheet": "Accessories",
@@ -871,7 +893,8 @@
     "Filename": "AccessoryMouthBubblegum4",
     "ClothGroup ID": 856,
     "Internal ID": 11030,
-    "Unique Entry ID": "r9N2a2TYhvXBKiihn"
+    "Unique Entry ID": "r9N2a2TYhvXBKiihn",
+    "Url": "=FORMULATEXT(B24)"
   },
   {
     "SourceSheet": "Accessories",
@@ -909,7 +932,8 @@
     "Filename": "AccessoryMouthBubblegum0",
     "ClothGroup ID": 856,
     "Internal ID": 5738,
-    "Unique Entry ID": "4SLmXuCkS4eBjPbLn"
+    "Unique Entry ID": "4SLmXuCkS4eBjPbLn",
+    "Url": "=FORMULATEXT(B25)"
   },
   {
     "SourceSheet": "Accessories",
@@ -947,7 +971,8 @@
     "Filename": "AccessoryMouthBubblegum2",
     "ClothGroup ID": 856,
     "Internal ID": 11028,
-    "Unique Entry ID": "79zoWzHvMBJYcwuAy"
+    "Unique Entry ID": "79zoWzHvMBJYcwuAy",
+    "Url": "=FORMULATEXT(B26)"
   },
   {
     "SourceSheet": "Accessories",
@@ -985,7 +1010,8 @@
     "Filename": "AccessoryMouthBubblegum3",
     "ClothGroup ID": 856,
     "Internal ID": 11029,
-    "Unique Entry ID": "F3PoMop5MGyaxtKjZ"
+    "Unique Entry ID": "F3PoMop5MGyaxtKjZ",
+    "Url": "=FORMULATEXT(B27)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1023,7 +1049,8 @@
     "Filename": "AccessoryMouthBubblegum1",
     "ClothGroup ID": 856,
     "Internal ID": 11027,
-    "Unique Entry ID": "9wWYKTtMdo9pWqfsM"
+    "Unique Entry ID": "9wWYKTtMdo9pWqfsM",
+    "Url": "=FORMULATEXT(B28)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1061,7 +1088,8 @@
     "Filename": "AccessoryMouthRabbit2",
     "ClothGroup ID": 466,
     "Internal ID": 11024,
-    "Unique Entry ID": "ci8RKqDmqS5wD3W5k"
+    "Unique Entry ID": "ci8RKqDmqS5wD3W5k",
+    "Url": "=FORMULATEXT(B29)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1099,7 +1127,8 @@
     "Filename": "AccessoryMouthRabbit0",
     "ClothGroup ID": 466,
     "Internal ID": 4600,
-    "Unique Entry ID": "bxWYgcp2YKCdKe8Cr"
+    "Unique Entry ID": "bxWYgcp2YKCdKe8Cr",
+    "Url": "=FORMULATEXT(B30)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1137,7 +1166,8 @@
     "Filename": "AccessoryMouthRabbit1",
     "ClothGroup ID": 466,
     "Internal ID": 11023,
-    "Unique Entry ID": "y6Dp62aNQn5ixvkwf"
+    "Unique Entry ID": "y6Dp62aNQn5ixvkwf",
+    "Url": "=FORMULATEXT(B31)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1175,7 +1205,8 @@
     "Filename": "AccessoryGlassButterfly0",
     "ClothGroup ID": 474,
     "Internal ID": 4608,
-    "Unique Entry ID": "WjbaLp9JbBGYRrb6K"
+    "Unique Entry ID": "WjbaLp9JbBGYRrb6K",
+    "Url": "=FORMULATEXT(B32)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1213,7 +1244,8 @@
     "Filename": "AccessoryGlassButterfly1",
     "ClothGroup ID": 474,
     "Internal ID": 11503,
-    "Unique Entry ID": "AZrrNvHghPTHobKL4"
+    "Unique Entry ID": "AZrrNvHghPTHobKL4",
+    "Url": "=FORMULATEXT(B33)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1251,7 +1283,8 @@
     "Filename": "AccessoryGlassButterfly2",
     "ClothGroup ID": 474,
     "Internal ID": 11504,
-    "Unique Entry ID": "rz3Pgs5XGNiQFa3t4"
+    "Unique Entry ID": "rz3Pgs5XGNiQFa3t4",
+    "Url": "=FORMULATEXT(B34)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1289,7 +1322,8 @@
     "Filename": "AccessoryGlassmouthCatrina1",
     "ClothGroup ID": 819,
     "Internal ID": 11169,
-    "Unique Entry ID": "xyQdqFuAkXkNs9qQ5"
+    "Unique Entry ID": "xyQdqFuAkXkNs9qQ5",
+    "Url": "=FORMULATEXT(B35)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1327,7 +1361,8 @@
     "Filename": "AccessoryGlassmouthCatrina2",
     "ClothGroup ID": 819,
     "Internal ID": 11170,
-    "Unique Entry ID": "fev4af8sNdggceyW9"
+    "Unique Entry ID": "fev4af8sNdggceyW9",
+    "Url": "=FORMULATEXT(B36)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1365,7 +1400,8 @@
     "Filename": "AccessoryGlassmouthCatrina0",
     "ClothGroup ID": 819,
     "Internal ID": 5666,
-    "Unique Entry ID": "GT3LzQZKg29riohcP"
+    "Unique Entry ID": "GT3LzQZKg29riohcP",
+    "Url": "=FORMULATEXT(B37)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1403,7 +1439,8 @@
     "Filename": "AccessoryMouthCat0",
     "ClothGroup ID": 397,
     "Internal ID": 4483,
-    "Unique Entry ID": "45Muns9ig4dqrsFF7"
+    "Unique Entry ID": "45Muns9ig4dqrsFF7",
+    "Url": "=FORMULATEXT(B38)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1441,7 +1478,8 @@
     "Filename": "AccessoryMouthCat2",
     "ClothGroup ID": 397,
     "Internal ID": 11022,
-    "Unique Entry ID": "ywdWXRcwKJNMMxDyj"
+    "Unique Entry ID": "ywdWXRcwKJNMMxDyj",
+    "Url": "=FORMULATEXT(B39)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1479,7 +1517,8 @@
     "Filename": "AccessoryMouthCat1",
     "ClothGroup ID": 397,
     "Internal ID": 11021,
-    "Unique Entry ID": "CXDCEFzBdv8DwkCyM"
+    "Unique Entry ID": "CXDCEFzBdv8DwkCyM",
+    "Url": "=FORMULATEXT(B40)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1517,7 +1556,8 @@
     "Filename": "AccessoryMouthCucumber",
     "ClothGroup ID": 405,
     "Internal ID": 4491,
-    "Unique Entry ID": "MhbCBrYX5fHxZWDuA"
+    "Unique Entry ID": "MhbCBrYX5fHxZWDuA",
+    "Url": "=FORMULATEXT(B41)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1555,7 +1595,8 @@
     "Filename": "AccessoryMouthRollingmustacheBlack",
     "ClothGroup ID": 498,
     "Internal ID": 4672,
-    "Unique Entry ID": "9tyCrNPeibcu5NLo8"
+    "Unique Entry ID": "9tyCrNPeibcu5NLo8",
+    "Url": "=FORMULATEXT(B42)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1593,7 +1634,8 @@
     "Filename": "AccessoryGlassCyber2",
     "ClothGroup ID": 433,
     "Internal ID": 11499,
-    "Unique Entry ID": "AKakpCweRnd5hAsRB"
+    "Unique Entry ID": "AKakpCweRnd5hAsRB",
+    "Url": "=FORMULATEXT(B43)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1631,7 +1673,8 @@
     "Filename": "AccessoryGlassCyber1",
     "ClothGroup ID": 433,
     "Internal ID": 11498,
-    "Unique Entry ID": "67BAc4y8aADafp9Xk"
+    "Unique Entry ID": "67BAc4y8aADafp9Xk",
+    "Url": "=FORMULATEXT(B44)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1669,7 +1712,8 @@
     "Filename": "AccessoryGlassCyber0",
     "ClothGroup ID": 433,
     "Internal ID": 4552,
-    "Unique Entry ID": "3YPuxxPLkzwwNQMQd"
+    "Unique Entry ID": "3YPuxxPLkzwwNQMQd",
+    "Url": "=FORMULATEXT(B45)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1707,7 +1751,8 @@
     "Filename": "AccessoryGlassCyber5",
     "ClothGroup ID": 433,
     "Internal ID": 11502,
-    "Unique Entry ID": "5pk9ZMDGsEzLqp24L"
+    "Unique Entry ID": "5pk9ZMDGsEzLqp24L",
+    "Url": "=FORMULATEXT(B46)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1745,7 +1790,8 @@
     "Filename": "AccessoryGlassCyber4",
     "ClothGroup ID": 433,
     "Internal ID": 11501,
-    "Unique Entry ID": "9izTCDGHSpqWrQp6T"
+    "Unique Entry ID": "9izTCDGHSpqWrQp6T",
+    "Url": "=FORMULATEXT(B47)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1783,7 +1829,8 @@
     "Filename": "AccessoryGlassCyber3",
     "ClothGroup ID": 433,
     "Internal ID": 11500,
-    "Unique Entry ID": "y2svNHScnr8cNZe86"
+    "Unique Entry ID": "y2svNHScnr8cNZe86",
+    "Url": "=FORMULATEXT(B48)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1821,7 +1868,8 @@
     "Filename": "AccessoryGlassDalmask0",
     "ClothGroup ID": 1182,
     "Internal ID": 12128,
-    "Unique Entry ID": "sbkqQrHpJWMEEZLSR"
+    "Unique Entry ID": "sbkqQrHpJWMEEZLSR",
+    "Url": "=FORMULATEXT(B49)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1859,7 +1907,8 @@
     "Filename": "AccessoryGlassDalglass0",
     "ClothGroup ID": 1183,
     "Internal ID": 12129,
-    "Unique Entry ID": "zRnkH9B3rYNMLpiTP"
+    "Unique Entry ID": "zRnkH9B3rYNMLpiTP",
+    "Url": "=FORMULATEXT(B50)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1897,7 +1946,8 @@
     "Filename": "AccessoryMouthMaskWhite",
     "ClothGroup ID": 375,
     "Internal ID": 4451,
-    "Unique Entry ID": "vZDsrDRdgrbbiwi8N"
+    "Unique Entry ID": "vZDsrDRdgrbbiwi8N",
+    "Url": "=FORMULATEXT(B51)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1935,7 +1985,8 @@
     "Filename": "AccessoryMouthDog0",
     "ClothGroup ID": 630,
     "Internal ID": 5244,
-    "Unique Entry ID": "moGRcnkQihHbN89Kc"
+    "Unique Entry ID": "moGRcnkQihHbN89Kc",
+    "Url": "=FORMULATEXT(B52)"
   },
   {
     "SourceSheet": "Accessories",
@@ -1973,7 +2024,8 @@
     "Filename": "AccessoryMouthDog2",
     "ClothGroup ID": 630,
     "Internal ID": 11026,
-    "Unique Entry ID": "9JGbmWtDA3rmjf8Kc"
+    "Unique Entry ID": "9JGbmWtDA3rmjf8Kc",
+    "Url": "=FORMULATEXT(B53)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2011,7 +2063,8 @@
     "Filename": "AccessoryMouthDog1",
     "ClothGroup ID": 630,
     "Internal ID": 11025,
-    "Unique Entry ID": "zCQqXy8HLE7rDfrQf"
+    "Unique Entry ID": "zCQqXy8HLE7rDfrQf",
+    "Url": "=FORMULATEXT(B54)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2049,7 +2102,8 @@
     "Filename": "AccessoryMouthTissuedouble0",
     "ClothGroup ID": 1356,
     "Internal ID": 14247,
-    "Unique Entry ID": "E6i9gRTa99JmeGi7y"
+    "Unique Entry ID": "E6i9gRTa99JmeGi7y",
+    "Url": "=FORMULATEXT(B55)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2087,7 +2141,8 @@
     "Filename": "AccessoryGlassDoublebridge2",
     "ClothGroup ID": 277,
     "Internal ID": 11077,
-    "Unique Entry ID": "CLPEzZqr3vut85Ja4"
+    "Unique Entry ID": "CLPEzZqr3vut85Ja4",
+    "Url": "=FORMULATEXT(B56)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2125,7 +2180,8 @@
     "Filename": "AccessoryGlassDoublebridge0",
     "ClothGroup ID": 277,
     "Internal ID": 4263,
-    "Unique Entry ID": "8QCnzjXY8KEyqf7Wa"
+    "Unique Entry ID": "8QCnzjXY8KEyqf7Wa",
+    "Url": "=FORMULATEXT(B57)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2163,7 +2219,8 @@
     "Filename": "AccessoryGlassDoublebridge3",
     "ClothGroup ID": 277,
     "Internal ID": 11078,
-    "Unique Entry ID": "fD5pteAQtC8CMhq2v"
+    "Unique Entry ID": "fD5pteAQtC8CMhq2v",
+    "Url": "=FORMULATEXT(B58)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2201,7 +2258,8 @@
     "Filename": "AccessoryGlassDoublebridge1",
     "ClothGroup ID": 277,
     "Internal ID": 11076,
-    "Unique Entry ID": "guPGRuhMyqdWYKh8d"
+    "Unique Entry ID": "guPGRuhMyqdWYKh8d",
+    "Url": "=FORMULATEXT(B59)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2239,7 +2297,8 @@
     "Filename": "AccessoryGlassmouthStraw3",
     "ClothGroup ID": 865,
     "Internal ID": 11012,
-    "Unique Entry ID": "bQ67Xe7cQZ4PcXnNe"
+    "Unique Entry ID": "bQ67Xe7cQZ4PcXnNe",
+    "Url": "=FORMULATEXT(B60)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2277,7 +2336,8 @@
     "Filename": "AccessoryGlassmouthStraw2",
     "ClothGroup ID": 865,
     "Internal ID": 11011,
-    "Unique Entry ID": "b4G7SFYMTs5YWJ4i5"
+    "Unique Entry ID": "b4G7SFYMTs5YWJ4i5",
+    "Url": "=FORMULATEXT(B61)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2315,7 +2375,8 @@
     "Filename": "AccessoryGlassmouthStraw0",
     "ClothGroup ID": 865,
     "Internal ID": 5773,
-    "Unique Entry ID": "hMiEGoaE2jYb6kY4e"
+    "Unique Entry ID": "hMiEGoaE2jYb6kY4e",
+    "Url": "=FORMULATEXT(B62)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2353,7 +2414,8 @@
     "Filename": "AccessoryGlassmouthStraw1",
     "ClothGroup ID": 865,
     "Internal ID": 11010,
-    "Unique Entry ID": "DNij9RhiMW39MtKWF"
+    "Unique Entry ID": "DNij9RhiMW39MtKWF",
+    "Url": "=FORMULATEXT(B63)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2391,7 +2453,8 @@
     "Filename": "AccessoryGlassMasquerade0",
     "ClothGroup ID": 937,
     "Internal ID": 6057,
-    "Unique Entry ID": "48Ao7rDAaG7MPK8wm"
+    "Unique Entry ID": "48Ao7rDAaG7MPK8wm",
+    "Url": "=FORMULATEXT(B64)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2429,7 +2492,8 @@
     "Filename": "AccessoryGlassMasquerade1",
     "ClothGroup ID": 937,
     "Internal ID": 11175,
-    "Unique Entry ID": "ZfcPkSRN7NXkrEZH9"
+    "Unique Entry ID": "ZfcPkSRN7NXkrEZH9",
+    "Url": "=FORMULATEXT(B65)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2467,7 +2531,8 @@
     "Filename": "AccessoryGlassGauze0",
     "ClothGroup ID": 1254,
     "Internal ID": 12975,
-    "Unique Entry ID": "jEvMDCmwP5ebW7gh6"
+    "Unique Entry ID": "jEvMDCmwP5ebW7gh6",
+    "Url": "=FORMULATEXT(B66)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2505,7 +2570,8 @@
     "Filename": "AccessoryGlassMask2",
     "ClothGroup ID": 358,
     "Internal ID": 11155,
-    "Unique Entry ID": "FFAmL82w7xmtQyj49"
+    "Unique Entry ID": "FFAmL82w7xmtQyj49",
+    "Url": "=FORMULATEXT(B67)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2543,7 +2609,8 @@
     "Filename": "AccessoryGlassMask5",
     "ClothGroup ID": 358,
     "Internal ID": 11158,
-    "Unique Entry ID": "DN9e9e3kPAvftJL7X"
+    "Unique Entry ID": "DN9e9e3kPAvftJL7X",
+    "Url": "=FORMULATEXT(B68)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2581,7 +2648,8 @@
     "Filename": "AccessoryGlassMask1",
     "ClothGroup ID": 358,
     "Internal ID": 11154,
-    "Unique Entry ID": "Ck7jeovxpJEQa9BXB"
+    "Unique Entry ID": "Ck7jeovxpJEQa9BXB",
+    "Url": "=FORMULATEXT(B69)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2619,7 +2687,8 @@
     "Filename": "AccessoryGlassMask4",
     "ClothGroup ID": 358,
     "Internal ID": 11157,
-    "Unique Entry ID": "Gy2FEnpkD9KrRshtd"
+    "Unique Entry ID": "Gy2FEnpkD9KrRshtd",
+    "Url": "=FORMULATEXT(B70)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2657,7 +2726,8 @@
     "Filename": "AccessoryGlassMask3",
     "ClothGroup ID": 358,
     "Internal ID": 11156,
-    "Unique Entry ID": "csWKsYtw2k9ADBQpT"
+    "Unique Entry ID": "csWKsYtw2k9ADBQpT",
+    "Url": "=FORMULATEXT(B71)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2695,7 +2765,8 @@
     "Filename": "AccessoryGlassMask0",
     "ClothGroup ID": 358,
     "Internal ID": 4425,
-    "Unique Entry ID": "68oXMszxbRtGoe9tH"
+    "Unique Entry ID": "68oXMszxbRtGoe9tH",
+    "Url": "=FORMULATEXT(B72)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2733,7 +2804,8 @@
     "Filename": "AccessoryGlassPatchBlack",
     "ClothGroup ID": 380,
     "Internal ID": 4457,
-    "Unique Entry ID": "iZoTNGb8htGE8JWEw"
+    "Unique Entry ID": "iZoTNGb8htGE8JWEw",
+    "Url": "=FORMULATEXT(B73)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2771,7 +2843,8 @@
     "Filename": "AccessoryGlassmouthPackWhite",
     "ClothGroup ID": 417,
     "Internal ID": 4512,
-    "Unique Entry ID": "KzBY9kLtwTHhHGzR3"
+    "Unique Entry ID": "KzBY9kLtwTHhHGzR3",
+    "Url": "=FORMULATEXT(B74)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2809,7 +2882,8 @@
     "Filename": "AccessoryGlassmouthNoseRed",
     "ClothGroup ID": 407,
     "Internal ID": 4496,
-    "Unique Entry ID": "chP2wAyDtdSTS3XrF"
+    "Unique Entry ID": "chP2wAyDtdSTS3XrF",
+    "Url": "=FORMULATEXT(B75)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2847,7 +2921,8 @@
     "Filename": "AccessoryGlassFlower0",
     "ClothGroup ID": 857,
     "Internal ID": 5739,
-    "Unique Entry ID": "iJsQqLTdb4gcPwekJ"
+    "Unique Entry ID": "iJsQqLTdb4gcPwekJ",
+    "Url": "=FORMULATEXT(B76)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2885,7 +2960,8 @@
     "Filename": "AccessoryGlassFlower1",
     "ClothGroup ID": 857,
     "Internal ID": 11228,
-    "Unique Entry ID": "6TygyrRpgFEJRtYAD"
+    "Unique Entry ID": "6TygyrRpgFEJRtYAD",
+    "Url": "=FORMULATEXT(B77)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2923,7 +2999,8 @@
     "Filename": "AccessoryGlassFlower4",
     "ClothGroup ID": 857,
     "Internal ID": 11231,
-    "Unique Entry ID": "vnNLfafLRpv9vrESq"
+    "Unique Entry ID": "vnNLfafLRpv9vrESq",
+    "Url": "=FORMULATEXT(B78)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2961,7 +3038,8 @@
     "Filename": "AccessoryGlassFlower2",
     "ClothGroup ID": 857,
     "Internal ID": 11229,
-    "Unique Entry ID": "g4jdQJuTAwEgGWsyH"
+    "Unique Entry ID": "g4jdQJuTAwEgGWsyH",
+    "Url": "=FORMULATEXT(B79)"
   },
   {
     "SourceSheet": "Accessories",
@@ -2999,7 +3077,8 @@
     "Filename": "AccessoryGlassFlower3",
     "ClothGroup ID": 857,
     "Internal ID": 11230,
-    "Unique Entry ID": "hN8mRmSqAqfBBXqsK"
+    "Unique Entry ID": "hN8mRmSqAqfBBXqsK",
+    "Url": "=FORMULATEXT(B80)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3037,7 +3116,8 @@
     "Filename": "AccessoryMouthPasta",
     "ClothGroup ID": 904,
     "Internal ID": 5857,
-    "Unique Entry ID": "ErTpS7LHoG7hZ4bvn"
+    "Unique Entry ID": "ErTpS7LHoG7hZ4bvn",
+    "Url": "=FORMULATEXT(B81)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3075,7 +3155,8 @@
     "Filename": "AccessoryGlassEyes1",
     "ClothGroup ID": 418,
     "Internal ID": 11008,
-    "Unique Entry ID": "4ASpkj55QiocnNkZ2"
+    "Unique Entry ID": "4ASpkj55QiocnNkZ2",
+    "Url": "=FORMULATEXT(B82)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3113,7 +3194,8 @@
     "Filename": "AccessoryGlassEyes2",
     "ClothGroup ID": 418,
     "Internal ID": 11009,
-    "Unique Entry ID": "dio9gmQCebNSjSX89"
+    "Unique Entry ID": "dio9gmQCebNSjSX89",
+    "Url": "=FORMULATEXT(B83)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3151,7 +3233,8 @@
     "Filename": "AccessoryGlassEyes0",
     "ClothGroup ID": 418,
     "Internal ID": 4513,
-    "Unique Entry ID": "nvgwq4bKZzDoiTQzw"
+    "Unique Entry ID": "nvgwq4bKZzDoiTQzw",
+    "Url": "=FORMULATEXT(B84)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3189,7 +3272,8 @@
     "Filename": "AccessoryGlassmouthGasmask0",
     "ClothGroup ID": 487,
     "Internal ID": 4649,
-    "Unique Entry ID": "cuqWQPfsbkmXz5DuB"
+    "Unique Entry ID": "cuqWQPfsbkmXz5DuB",
+    "Url": "=FORMULATEXT(B85)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3227,7 +3311,8 @@
     "Filename": "AccessoryGlassmouthGasmask1",
     "ClothGroup ID": 487,
     "Internal ID": 11160,
-    "Unique Entry ID": "9K9ea2sRHMsPmcX6d"
+    "Unique Entry ID": "9K9ea2sRHMsPmcX6d",
+    "Url": "=FORMULATEXT(B86)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3265,7 +3350,8 @@
     "Filename": "AccessoryGlassBottleBlack",
     "ClothGroup ID": 286,
     "Internal ID": 4282,
-    "Unique Entry ID": "JFtffcGH7WnPnJKtc"
+    "Unique Entry ID": "JFtffcGH7WnPnJKtc",
+    "Url": "=FORMULATEXT(B87)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3303,7 +3389,8 @@
     "Filename": "AccessoryMouthBeardChinBlack",
     "ClothGroup ID": 502,
     "Internal ID": 4676,
-    "Unique Entry ID": "W5S7BC9qA4QMCQEFR"
+    "Unique Entry ID": "W5S7BC9qA4QMCQEFR",
+    "Url": "=FORMULATEXT(B88)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3341,7 +3428,8 @@
     "Filename": "AccessoryGlassGoggles0",
     "ClothGroup ID": 378,
     "Internal ID": 4454,
-    "Unique Entry ID": "3YkDq5TZm3jE8nBL9"
+    "Unique Entry ID": "3YkDq5TZm3jE8nBL9",
+    "Url": "=FORMULATEXT(B89)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3379,7 +3467,8 @@
     "Filename": "AccessoryGlassGoggles5",
     "ClothGroup ID": 378,
     "Internal ID": 11488,
-    "Unique Entry ID": "P8X4Rnuc6WjHTrbkz"
+    "Unique Entry ID": "P8X4Rnuc6WjHTrbkz",
+    "Url": "=FORMULATEXT(B90)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3417,7 +3506,8 @@
     "Filename": "AccessoryGlassGoggles2",
     "ClothGroup ID": 378,
     "Internal ID": 11485,
-    "Unique Entry ID": "49s9b7jcrE8uaFEdR"
+    "Unique Entry ID": "49s9b7jcrE8uaFEdR",
+    "Url": "=FORMULATEXT(B91)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3455,7 +3545,8 @@
     "Filename": "AccessoryGlassGoggles3",
     "ClothGroup ID": 378,
     "Internal ID": 11486,
-    "Unique Entry ID": "sDjZobRoupcETEKeH"
+    "Unique Entry ID": "sDjZobRoupcETEKeH",
+    "Url": "=FORMULATEXT(B92)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3493,7 +3584,8 @@
     "Filename": "AccessoryGlassGoggles1",
     "ClothGroup ID": 378,
     "Internal ID": 11484,
-    "Unique Entry ID": "gozwdhewwK4PmPGFQ"
+    "Unique Entry ID": "gozwdhewwK4PmPGFQ",
+    "Url": "=FORMULATEXT(B93)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3531,7 +3623,8 @@
     "Filename": "AccessoryGlassGoggles4",
     "ClothGroup ID": 378,
     "Internal ID": 11487,
-    "Unique Entry ID": "kwS6ErrZHdDNXpmbR"
+    "Unique Entry ID": "kwS6ErrZHdDNXpmbR",
+    "Url": "=FORMULATEXT(B94)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3569,7 +3662,8 @@
     "Filename": "AccessoryMouthBeardBlack",
     "ClothGroup ID": 185,
     "Internal ID": 3550,
-    "Unique Entry ID": "HJfvmuhPDFMN8eRB2"
+    "Unique Entry ID": "HJfvmuhPDFMN8eRB2",
+    "Url": "=FORMULATEXT(B95)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3607,7 +3701,8 @@
     "Filename": "AccessoryGlassHeart0",
     "ClothGroup ID": 259,
     "Internal ID": 4237,
-    "Unique Entry ID": "ZkwfoAxXwqiJav677"
+    "Unique Entry ID": "ZkwfoAxXwqiJav677",
+    "Url": "=FORMULATEXT(B96)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3645,7 +3740,8 @@
     "Filename": "AccessoryGlassHeart1",
     "ClothGroup ID": 259,
     "Internal ID": 11188,
-    "Unique Entry ID": "jvPC7gmEHvxxgmwfA"
+    "Unique Entry ID": "jvPC7gmEHvxxgmwfA",
+    "Url": "=FORMULATEXT(B97)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3683,7 +3779,8 @@
     "Filename": "AccessoryGlassHeart4",
     "ClothGroup ID": 259,
     "Internal ID": 11191,
-    "Unique Entry ID": "CbiyKw9gGsMfYzA4g"
+    "Unique Entry ID": "CbiyKw9gGsMfYzA4g",
+    "Url": "=FORMULATEXT(B98)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3721,7 +3818,8 @@
     "Filename": "AccessoryGlassHeart2",
     "ClothGroup ID": 259,
     "Internal ID": 11189,
-    "Unique Entry ID": "k2fF9yEC5S3XGsXhX"
+    "Unique Entry ID": "k2fF9yEC5S3XGsXhX",
+    "Url": "=FORMULATEXT(B99)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3759,7 +3857,8 @@
     "Filename": "AccessoryGlassHeart3",
     "ClothGroup ID": 259,
     "Internal ID": 11190,
-    "Unique Entry ID": "3fs7r8mBn9EiGmMT7"
+    "Unique Entry ID": "3fs7r8mBn9EiGmMT7",
+    "Url": "=FORMULATEXT(B100)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3797,7 +3896,8 @@
     "Filename": "AccessoryGlassHmdWhite",
     "ClothGroup ID": 614,
     "Internal ID": 5182,
-    "Unique Entry ID": "Hkcb2b5RCvgcXrHvc"
+    "Unique Entry ID": "Hkcb2b5RCvgcXrHvc",
+    "Url": "=FORMULATEXT(B101)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3835,7 +3935,8 @@
     "Filename": "AccessoryGlassmouthPierrot0",
     "ClothGroup ID": 504,
     "Internal ID": 4678,
-    "Unique Entry ID": "5iGdajwpPAQ98B9eE"
+    "Unique Entry ID": "5iGdajwpPAQ98B9eE",
+    "Url": "=FORMULATEXT(B102)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3873,7 +3974,8 @@
     "Filename": "AccessoryGlassmouthPierrot1",
     "ClothGroup ID": 504,
     "Internal ID": 11166,
-    "Unique Entry ID": "7HBtvdHttSMJiuA7W"
+    "Unique Entry ID": "7HBtvdHttSMJiuA7W",
+    "Url": "=FORMULATEXT(B103)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3911,7 +4013,8 @@
     "Filename": "AccessoryGlassmouthPierrot2",
     "ClothGroup ID": 504,
     "Internal ID": 11167,
-    "Unique Entry ID": "LTCnc3SoDzsffayDr"
+    "Unique Entry ID": "LTCnc3SoDzsffayDr",
+    "Url": "=FORMULATEXT(B104)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3949,7 +4052,8 @@
     "Filename": "AccessoryGlassmouthPierrot3",
     "ClothGroup ID": 504,
     "Internal ID": 11168,
-    "Unique Entry ID": "Kpyk7xszcwxgdawqA"
+    "Unique Entry ID": "Kpyk7xszcwxgdawqA",
+    "Url": "=FORMULATEXT(B105)"
   },
   {
     "SourceSheet": "Accessories",
@@ -3987,7 +4091,8 @@
     "Filename": "AccessoryGlassKate1",
     "ClothGroup ID": 1137,
     "Internal ID": 11776,
-    "Unique Entry ID": "Pk4syNKBscFTBD2mP"
+    "Unique Entry ID": "Pk4syNKBscFTBD2mP",
+    "Url": "=FORMULATEXT(B106)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4025,7 +4130,8 @@
     "Filename": "AccessoryGlassKate2",
     "ClothGroup ID": 1137,
     "Internal ID": 11777,
-    "Unique Entry ID": "TJqYcpQKFaPX6naSj"
+    "Unique Entry ID": "TJqYcpQKFaPX6naSj",
+    "Url": "=FORMULATEXT(B107)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4063,7 +4169,8 @@
     "Filename": "AccessoryGlassKate5",
     "ClothGroup ID": 1137,
     "Internal ID": 11780,
-    "Unique Entry ID": "WHaB5ZbzSPteM5KxG"
+    "Unique Entry ID": "WHaB5ZbzSPteM5KxG",
+    "Url": "=FORMULATEXT(B108)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4101,7 +4208,8 @@
     "Filename": "AccessoryGlassKate4",
     "ClothGroup ID": 1137,
     "Internal ID": 11779,
-    "Unique Entry ID": "Km6htuKWbDhQx5v2o"
+    "Unique Entry ID": "Km6htuKWbDhQx5v2o",
+    "Url": "=FORMULATEXT(B109)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4139,7 +4247,8 @@
     "Filename": "AccessoryGlassKate3",
     "ClothGroup ID": 1137,
     "Internal ID": 11778,
-    "Unique Entry ID": "yWuQ9CtGKLaG7ntW9"
+    "Unique Entry ID": "yWuQ9CtGKLaG7ntW9",
+    "Url": "=FORMULATEXT(B110)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4177,7 +4286,8 @@
     "Filename": "AccessoryGlassKate0",
     "ClothGroup ID": 1137,
     "Internal ID": 9887,
-    "Unique Entry ID": "2B4ttG2NJS7ZKRimP"
+    "Unique Entry ID": "2B4ttG2NJS7ZKRimP",
+    "Url": "=FORMULATEXT(B111)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4215,7 +4325,8 @@
     "Filename": "AccessoryGlassBlind0",
     "ClothGroup ID": 387,
     "Internal ID": 4464,
-    "Unique Entry ID": "DErjYKaqmFEkp7RQ3"
+    "Unique Entry ID": "DErjYKaqmFEkp7RQ3",
+    "Url": "=FORMULATEXT(B112)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4253,7 +4364,8 @@
     "Filename": "AccessoryGlassBlind3",
     "ClothGroup ID": 387,
     "Internal ID": 11004,
-    "Unique Entry ID": "8wvE7HfG9HvK33nTW"
+    "Unique Entry ID": "8wvE7HfG9HvK33nTW",
+    "Url": "=FORMULATEXT(B113)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4291,7 +4403,8 @@
     "Filename": "AccessoryGlassBlind4",
     "ClothGroup ID": 387,
     "Internal ID": 11005,
-    "Unique Entry ID": "mcex6oPn8f8KotnrZ"
+    "Unique Entry ID": "mcex6oPn8f8KotnrZ",
+    "Url": "=FORMULATEXT(B114)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4329,7 +4442,8 @@
     "Filename": "AccessoryGlassBlind2",
     "ClothGroup ID": 387,
     "Internal ID": 11003,
-    "Unique Entry ID": "wnvu2B7z7M975uCMf"
+    "Unique Entry ID": "wnvu2B7z7M975uCMf",
+    "Url": "=FORMULATEXT(B115)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4367,7 +4481,8 @@
     "Filename": "AccessoryGlassBlind1",
     "ClothGroup ID": 387,
     "Internal ID": 11002,
-    "Unique Entry ID": "kbZR8T9YaP2Pb7q6P"
+    "Unique Entry ID": "kbZR8T9YaP2Pb7q6P",
+    "Url": "=FORMULATEXT(B116)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4405,7 +4520,8 @@
     "Filename": "AccessoryGlassBlind5",
     "ClothGroup ID": 387,
     "Internal ID": 11006,
-    "Unique Entry ID": "SF89YKrjwGsa5Dp7t"
+    "Unique Entry ID": "SF89YKrjwGsa5Dp7t",
+    "Url": "=FORMULATEXT(B117)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4443,7 +4559,8 @@
     "Filename": "AccessoryMouthLeafGreen",
     "ClothGroup ID": 508,
     "Internal ID": 4682,
-    "Unique Entry ID": "XrpTjwp94FwmvXjmE"
+    "Unique Entry ID": "XrpTjwp94FwmvXjmE",
+    "Url": "=FORMULATEXT(B118)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4481,7 +4598,8 @@
     "Filename": "AccessoryGlassmouthLuigi0",
     "ClothGroup ID": 1325,
     "Internal ID": 13559,
-    "Unique Entry ID": "e5vt5v7DzBMFC5qTq"
+    "Unique Entry ID": "e5vt5v7DzBMFC5qTq",
+    "Url": "=FORMULATEXT(B119)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4519,7 +4637,8 @@
     "Filename": "AccessoryGlassmouthMario0",
     "ClothGroup ID": 1324,
     "Internal ID": 13558,
-    "Unique Entry ID": "zSgBiJSJofpgFQD8w"
+    "Unique Entry ID": "zSgBiJSJofpgFQD8w",
+    "Url": "=FORMULATEXT(B120)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4557,7 +4676,8 @@
     "Filename": "AccessoryGlassVenetian1",
     "ClothGroup ID": 494,
     "Internal ID": 11161,
-    "Unique Entry ID": "GL9igRSB2nTebNAin"
+    "Unique Entry ID": "GL9igRSB2nTebNAin",
+    "Url": "=FORMULATEXT(B121)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4595,7 +4715,8 @@
     "Filename": "AccessoryGlassVenetian3",
     "ClothGroup ID": 494,
     "Internal ID": 11163,
-    "Unique Entry ID": "DknNtTo9sb2jZHDht"
+    "Unique Entry ID": "DknNtTo9sb2jZHDht",
+    "Url": "=FORMULATEXT(B122)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4633,7 +4754,8 @@
     "Filename": "AccessoryGlassVenetian0",
     "ClothGroup ID": 494,
     "Internal ID": 4667,
-    "Unique Entry ID": "vwytnsJLdnFYZdeHR"
+    "Unique Entry ID": "vwytnsJLdnFYZdeHR",
+    "Url": "=FORMULATEXT(B123)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4671,7 +4793,8 @@
     "Filename": "AccessoryGlassVenetian5",
     "ClothGroup ID": 494,
     "Internal ID": 11165,
-    "Unique Entry ID": "nzAimcCqJg46jjNiN"
+    "Unique Entry ID": "nzAimcCqJg46jjNiN",
+    "Url": "=FORMULATEXT(B124)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4709,7 +4832,8 @@
     "Filename": "AccessoryGlassVenetian4",
     "ClothGroup ID": 494,
     "Internal ID": 11164,
-    "Unique Entry ID": "PEA7Y7djsLQryh4c2"
+    "Unique Entry ID": "PEA7Y7djsLQryh4c2",
+    "Url": "=FORMULATEXT(B125)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4747,7 +4871,8 @@
     "Filename": "AccessoryGlassVenetian2",
     "ClothGroup ID": 494,
     "Internal ID": 11162,
-    "Unique Entry ID": "6yKLSWNnpyXAPKJ4h"
+    "Unique Entry ID": "6yKLSWNnpyXAPKJ4h",
+    "Url": "=FORMULATEXT(B126)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4785,7 +4910,8 @@
     "Filename": "AccessoryGlassMonocle2",
     "ClothGroup ID": 385,
     "Internal ID": 11001,
-    "Unique Entry ID": "tXaLxYbQPqcTZWxej"
+    "Unique Entry ID": "tXaLxYbQPqcTZWxej",
+    "Url": "=FORMULATEXT(B127)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4823,7 +4949,8 @@
     "Filename": "AccessoryGlassMonocle0",
     "ClothGroup ID": 385,
     "Internal ID": 4462,
-    "Unique Entry ID": "vtCepd9DjYS2H5vcb"
+    "Unique Entry ID": "vtCepd9DjYS2H5vcb",
+    "Url": "=FORMULATEXT(B128)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4861,7 +4988,8 @@
     "Filename": "AccessoryGlassMonocle1",
     "ClothGroup ID": 385,
     "Internal ID": 11000,
-    "Unique Entry ID": "ghxLRorCD3NWR5h5x"
+    "Unique Entry ID": "ghxLRorCD3NWR5h5x",
+    "Url": "=FORMULATEXT(B129)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4899,7 +5027,8 @@
     "Filename": "AccessoryGlassNeon0",
     "ClothGroup ID": 1438,
     "Internal ID": 14690,
-    "Unique Entry ID": "bHuuRkz2qTsJhfv8j"
+    "Unique Entry ID": "bHuuRkz2qTsJhfv8j",
+    "Url": "=FORMULATEXT(B130)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4937,7 +5066,8 @@
     "Filename": "AccessoryGlassNeon2",
     "ClothGroup ID": 1438,
     "Internal ID": 271,
-    "Unique Entry ID": "FKCBZCF27pK5iMz3N"
+    "Unique Entry ID": "FKCBZCF27pK5iMz3N",
+    "Url": "=FORMULATEXT(B131)"
   },
   {
     "SourceSheet": "Accessories",
@@ -4975,7 +5105,8 @@
     "Filename": "AccessoryGlassNeon1",
     "ClothGroup ID": 1438,
     "Internal ID": 270,
-    "Unique Entry ID": "rmrebJexJNThgW86o"
+    "Unique Entry ID": "rmrebJexJNThgW86o",
+    "Url": "=FORMULATEXT(B132)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5013,7 +5144,8 @@
     "Filename": "AccessoryGlassNeon3",
     "ClothGroup ID": 1438,
     "Internal ID": 272,
-    "Unique Entry ID": "wwBPzo9rZssurQMFH"
+    "Unique Entry ID": "wwBPzo9rZssurQMFH",
+    "Url": "=FORMULATEXT(B133)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5051,7 +5183,8 @@
     "Filename": "AccessoryGlassNightvisionBlack",
     "ClothGroup ID": 615,
     "Internal ID": 5261,
-    "Unique Entry ID": "sMdtidR3zypRsgSCW"
+    "Unique Entry ID": "sMdtidR3zypRsgSCW",
+    "Url": "=FORMULATEXT(B134)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5089,7 +5222,8 @@
     "Filename": "AccessoryGlassNook0",
     "ClothGroup ID": 1148,
     "Internal ID": 9654,
-    "Unique Entry ID": "n8j5gx4zjuK7tkYKq"
+    "Unique Entry ID": "n8j5gx4zjuK7tkYKq",
+    "Url": "=FORMULATEXT(B135)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5127,7 +5261,8 @@
     "Filename": "AccessoryGlassmouthNook0",
     "ClothGroup ID": 1300,
     "Internal ID": 13215,
-    "Unique Entry ID": "cg2tZnttCZ9Wj3k9S"
+    "Unique Entry ID": "cg2tZnttCZ9Wj3k9S",
+    "Url": "=FORMULATEXT(B136)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5165,7 +5300,8 @@
     "Filename": "AccessoryMouthJokeDripCyan",
     "ClothGroup ID": 899,
     "Internal ID": 5833,
-    "Unique Entry ID": "9YbFJqBD3hmQkW4Gq"
+    "Unique Entry ID": "9YbFJqBD3hmQkW4Gq",
+    "Url": "=FORMULATEXT(B137)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5203,7 +5339,8 @@
     "Filename": "AccessoryMouthTissue0",
     "ClothGroup ID": 1251,
     "Internal ID": 12965,
-    "Unique Entry ID": "ZE7RhipcFrgEFDiDr"
+    "Unique Entry ID": "ZE7RhipcFrgEFDiDr",
+    "Url": "=FORMULATEXT(B138)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5241,7 +5378,8 @@
     "Filename": "AccessoryGlassOctagon0",
     "ClothGroup ID": 261,
     "Internal ID": 4239,
-    "Unique Entry ID": "dzKG7sMGwFn7EaKjm"
+    "Unique Entry ID": "dzKG7sMGwFn7EaKjm",
+    "Url": "=FORMULATEXT(B139)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5279,7 +5417,8 @@
     "Filename": "AccessoryGlassOctagon4",
     "ClothGroup ID": 261,
     "Internal ID": 11075,
-    "Unique Entry ID": "4FT4YuTQcq3RGo3Ss"
+    "Unique Entry ID": "4FT4YuTQcq3RGo3Ss",
+    "Url": "=FORMULATEXT(B140)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5317,7 +5456,8 @@
     "Filename": "AccessoryGlassOctagon1",
     "ClothGroup ID": 261,
     "Internal ID": 11072,
-    "Unique Entry ID": "NME2CQfz2tMbnwLzb"
+    "Unique Entry ID": "NME2CQfz2tMbnwLzb",
+    "Url": "=FORMULATEXT(B141)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5355,7 +5495,8 @@
     "Filename": "AccessoryGlassOctagon2",
     "ClothGroup ID": 261,
     "Internal ID": 11073,
-    "Unique Entry ID": "Je9RNoLocnJ5kinNQ"
+    "Unique Entry ID": "Je9RNoLocnJ5kinNQ",
+    "Url": "=FORMULATEXT(B142)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5393,7 +5534,8 @@
     "Filename": "AccessoryGlassOctagon3",
     "ClothGroup ID": 261,
     "Internal ID": 11074,
-    "Unique Entry ID": "t5MJmR6fbqXwevjus"
+    "Unique Entry ID": "t5MJmR6fbqXwevjus",
+    "Url": "=FORMULATEXT(B143)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5431,7 +5573,8 @@
     "Filename": "AccessoryGlassOval6",
     "ClothGroup ID": 475,
     "Internal ID": 11092,
-    "Unique Entry ID": "uuttmaKAruqm7tiKL"
+    "Unique Entry ID": "uuttmaKAruqm7tiKL",
+    "Url": "=FORMULATEXT(B144)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5469,7 +5612,8 @@
     "Filename": "AccessoryGlassOval4",
     "ClothGroup ID": 475,
     "Internal ID": 11090,
-    "Unique Entry ID": "QBNkZLi9jpeDYMxnQ"
+    "Unique Entry ID": "QBNkZLi9jpeDYMxnQ",
+    "Url": "=FORMULATEXT(B145)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5507,7 +5651,8 @@
     "Filename": "AccessoryGlassOval1",
     "ClothGroup ID": 475,
     "Internal ID": 11087,
-    "Unique Entry ID": "9AXkAraeTz6TgR6sJ"
+    "Unique Entry ID": "9AXkAraeTz6TgR6sJ",
+    "Url": "=FORMULATEXT(B146)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5545,7 +5690,8 @@
     "Filename": "AccessoryGlassOval5",
     "ClothGroup ID": 475,
     "Internal ID": 11091,
-    "Unique Entry ID": "uocqzyhP5WHmnH8dj"
+    "Unique Entry ID": "uocqzyhP5WHmnH8dj",
+    "Url": "=FORMULATEXT(B147)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5583,7 +5729,8 @@
     "Filename": "AccessoryGlassOval0",
     "ClothGroup ID": 475,
     "Internal ID": 4609,
-    "Unique Entry ID": "jw7KgW9epPat5Pw8W"
+    "Unique Entry ID": "jw7KgW9epPat5Pw8W",
+    "Url": "=FORMULATEXT(B148)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5621,7 +5768,8 @@
     "Filename": "AccessoryGlassOval2",
     "ClothGroup ID": 475,
     "Internal ID": 11088,
-    "Unique Entry ID": "ydCsvEetGaAQ4mNs2"
+    "Unique Entry ID": "ydCsvEetGaAQ4mNs2",
+    "Url": "=FORMULATEXT(B149)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5659,7 +5807,8 @@
     "Filename": "AccessoryGlassOval3",
     "ClothGroup ID": 475,
     "Internal ID": 11089,
-    "Unique Entry ID": "9ZhHgTmKeqZ7fgcNr"
+    "Unique Entry ID": "9ZhHgTmKeqZ7fgcNr",
+    "Url": "=FORMULATEXT(B150)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5697,7 +5846,8 @@
     "Filename": "AccessoryMouthPacifier5",
     "ClothGroup ID": 1055,
     "Internal ID": 11017,
-    "Unique Entry ID": "aWcYia7rWZ8nhXg37"
+    "Unique Entry ID": "aWcYia7rWZ8nhXg37",
+    "Url": "=FORMULATEXT(B151)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5735,7 +5885,8 @@
     "Filename": "AccessoryMouthPacifier4",
     "ClothGroup ID": 1055,
     "Internal ID": 11016,
-    "Unique Entry ID": "iAyukzDt8Kutfpmab"
+    "Unique Entry ID": "iAyukzDt8Kutfpmab",
+    "Url": "=FORMULATEXT(B152)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5773,7 +5924,8 @@
     "Filename": "AccessoryMouthPacifier0",
     "ClothGroup ID": 1055,
     "Internal ID": 2298,
-    "Unique Entry ID": "bK8fXPaAy9f3Nqx9Q"
+    "Unique Entry ID": "bK8fXPaAy9f3Nqx9Q",
+    "Url": "=FORMULATEXT(B153)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5811,7 +5963,8 @@
     "Filename": "AccessoryMouthPacifier7",
     "ClothGroup ID": 1055,
     "Internal ID": 11019,
-    "Unique Entry ID": "WZgrieHNMrjuw9Tah"
+    "Unique Entry ID": "WZgrieHNMrjuw9Tah",
+    "Url": "=FORMULATEXT(B154)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5849,7 +6002,8 @@
     "Filename": "AccessoryMouthPacifier2",
     "ClothGroup ID": 1055,
     "Internal ID": 11014,
-    "Unique Entry ID": "iH9JsLkZTan5CQgTt"
+    "Unique Entry ID": "iH9JsLkZTan5CQgTt",
+    "Url": "=FORMULATEXT(B155)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5887,7 +6041,8 @@
     "Filename": "AccessoryMouthPacifier3",
     "ClothGroup ID": 1055,
     "Internal ID": 11015,
-    "Unique Entry ID": "XRyQwLEtt9RwgvtST"
+    "Unique Entry ID": "XRyQwLEtt9RwgvtST",
+    "Url": "=FORMULATEXT(B156)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5925,7 +6080,8 @@
     "Filename": "AccessoryMouthPacifier1",
     "ClothGroup ID": 1055,
     "Internal ID": 11013,
-    "Unique Entry ID": "KMB2YJMHNzESo6Hws"
+    "Unique Entry ID": "KMB2YJMHNzESo6Hws",
+    "Url": "=FORMULATEXT(B157)"
   },
   {
     "SourceSheet": "Accessories",
@@ -5963,7 +6119,8 @@
     "Filename": "AccessoryMouthPacifier6",
     "ClothGroup ID": 1055,
     "Internal ID": 11018,
-    "Unique Entry ID": "ScuP52AjZHPkhCuGP"
+    "Unique Entry ID": "ScuP52AjZHPkhCuGP",
+    "Url": "=FORMULATEXT(B158)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6001,7 +6158,8 @@
     "Filename": "AccessoryMouthPigPink",
     "ClothGroup ID": 485,
     "Internal ID": 4647,
-    "Unique Entry ID": "H2JSW7YDoTdLr6GTK"
+    "Unique Entry ID": "H2JSW7YDoTdLr6GTK",
+    "Url": "=FORMULATEXT(B159)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6039,7 +6197,8 @@
     "Filename": "AccessoryGlassPilot0",
     "ClothGroup ID": 382,
     "Internal ID": 4459,
-    "Unique Entry ID": "wuyb75e6fkA5976yx"
+    "Unique Entry ID": "wuyb75e6fkA5976yx",
+    "Url": "=FORMULATEXT(B160)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6077,7 +6236,8 @@
     "Filename": "AccessoryGlassPilot1",
     "ClothGroup ID": 382,
     "Internal ID": 11214,
-    "Unique Entry ID": "nBHTPo8pt7eRL47PT"
+    "Unique Entry ID": "nBHTPo8pt7eRL47PT",
+    "Url": "=FORMULATEXT(B161)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6115,7 +6275,8 @@
     "Filename": "AccessoryMouthPirates0",
     "ClothGroup ID": 1226,
     "Internal ID": 12663,
-    "Unique Entry ID": "isFLrwBtByekpKuLB"
+    "Unique Entry ID": "isFLrwBtByekpKuLB",
+    "Url": "=FORMULATEXT(B162)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6153,7 +6314,8 @@
     "Filename": "AccessoryGlassPiratespatch0",
     "ClothGroup ID": 1225,
     "Internal ID": 12662,
-    "Unique Entry ID": "pm3izhYzmdHRwnoWR"
+    "Unique Entry ID": "pm3izhYzmdHRwnoWR",
+    "Url": "=FORMULATEXT(B163)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6191,7 +6353,8 @@
     "Filename": "AccessoryGlassDot3",
     "ClothGroup ID": 484,
     "Internal ID": 11225,
-    "Unique Entry ID": "GY4PDqrCZdcPWb4Ep"
+    "Unique Entry ID": "GY4PDqrCZdcPWb4Ep",
+    "Url": "=FORMULATEXT(B164)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6229,7 +6392,8 @@
     "Filename": "AccessoryGlassDot0",
     "ClothGroup ID": 484,
     "Internal ID": 4646,
-    "Unique Entry ID": "Tp2dC3Dk4chwa4ebr"
+    "Unique Entry ID": "Tp2dC3Dk4chwa4ebr",
+    "Url": "=FORMULATEXT(B165)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6267,7 +6431,8 @@
     "Filename": "AccessoryGlassDot1",
     "ClothGroup ID": 484,
     "Internal ID": 11223,
-    "Unique Entry ID": "6tFnu3DhC5HQvqmZ5"
+    "Unique Entry ID": "6tFnu3DhC5HQvqmZ5",
+    "Url": "=FORMULATEXT(B166)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6305,7 +6470,8 @@
     "Filename": "AccessoryGlassDot2",
     "ClothGroup ID": 484,
     "Internal ID": 11224,
-    "Unique Entry ID": "SbAGGe9yg4EXAw35b"
+    "Unique Entry ID": "SbAGGe9yg4EXAw35b",
+    "Url": "=FORMULATEXT(B167)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6343,7 +6509,8 @@
     "Filename": "AccessoryMouthSurgicalmask0",
     "ClothGroup ID": 1248,
     "Internal ID": 12962,
-    "Unique Entry ID": "Rh2YSB2exgimHN8XX"
+    "Unique Entry ID": "Rh2YSB2exgimHN8XX",
+    "Url": "=FORMULATEXT(B168)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6381,7 +6548,8 @@
     "Filename": "AccessoryMouthSurgicalmask1",
     "ClothGroup ID": 1248,
     "Internal ID": 14665,
-    "Unique Entry ID": "yTn2sXhxPXLzugr5n"
+    "Unique Entry ID": "yTn2sXhxPXLzugr5n",
+    "Url": "=FORMULATEXT(B169)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6419,7 +6587,8 @@
     "Filename": "AccessoryMouthSurgicalmask2",
     "ClothGroup ID": 1248,
     "Internal ID": 14666,
-    "Unique Entry ID": "HyskiSHyEeeikr9Te"
+    "Unique Entry ID": "HyskiSHyEeeikr9Te",
+    "Url": "=FORMULATEXT(B170)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6457,7 +6626,8 @@
     "Filename": "AccessoryMouthSurgicalmask3",
     "ClothGroup ID": 1248,
     "Internal ID": 14667,
-    "Unique Entry ID": "Pn7MXgkiFkfathwy2"
+    "Unique Entry ID": "Pn7MXgkiFkfathwy2",
+    "Url": "=FORMULATEXT(B171)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6495,7 +6665,8 @@
     "Filename": "AccessoryMouthSurgicalmask4",
     "ClothGroup ID": 1248,
     "Internal ID": 14668,
-    "Unique Entry ID": "B5wzxNWWniBh7g67J"
+    "Unique Entry ID": "B5wzxNWWniBh7g67J",
+    "Url": "=FORMULATEXT(B172)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6533,7 +6704,8 @@
     "Filename": "AccessoryMouthLeatherBlack",
     "ClothGroup ID": 922,
     "Internal ID": 6040,
-    "Unique Entry ID": "aN6Wsxguggh39oBiF"
+    "Unique Entry ID": "aN6Wsxguggh39oBiF",
+    "Url": "=FORMULATEXT(B173)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6571,7 +6743,8 @@
     "Filename": "AccessoryGlassEyepatchWhite",
     "ClothGroup ID": 376,
     "Internal ID": 4452,
-    "Unique Entry ID": "8Qgoizxz547DtMNd7"
+    "Unique Entry ID": "8Qgoizxz547DtMNd7",
+    "Url": "=FORMULATEXT(B174)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6609,7 +6782,8 @@
     "Filename": "AccessoryMouthCrowBlack",
     "ClothGroup ID": 497,
     "Internal ID": 4671,
-    "Unique Entry ID": "4GDJFfMNHhsaXXrAN"
+    "Unique Entry ID": "4GDJFfMNHhsaXXrAN",
+    "Url": "=FORMULATEXT(B175)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6647,7 +6821,8 @@
     "Filename": "AccessoryGlassMirrorGray",
     "ClothGroup ID": 921,
     "Internal ID": 6039,
-    "Unique Entry ID": "J4EgETRkyeSESkRB7"
+    "Unique Entry ID": "J4EgETRkyeSESkRB7",
+    "Url": "=FORMULATEXT(B176)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6685,7 +6860,8 @@
     "Filename": "AccessoryGlassRetro0",
     "ClothGroup ID": 379,
     "Internal ID": 4456,
-    "Unique Entry ID": "SFFhXhR5sYQzJwXWj"
+    "Unique Entry ID": "SFFhXhR5sYQzJwXWj",
+    "Url": "=FORMULATEXT(B177)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6723,7 +6899,8 @@
     "Filename": "AccessoryGlassRetro5",
     "ClothGroup ID": 379,
     "Internal ID": 11213,
-    "Unique Entry ID": "6oqHAyihAjKRfH72Z"
+    "Unique Entry ID": "6oqHAyihAjKRfH72Z",
+    "Url": "=FORMULATEXT(B178)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6761,7 +6938,8 @@
     "Filename": "AccessoryGlassRetro2",
     "ClothGroup ID": 379,
     "Internal ID": 11210,
-    "Unique Entry ID": "zg6uY6WZNQcopNq67"
+    "Unique Entry ID": "zg6uY6WZNQcopNq67",
+    "Url": "=FORMULATEXT(B179)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6799,7 +6977,8 @@
     "Filename": "AccessoryGlassRetro3",
     "ClothGroup ID": 379,
     "Internal ID": 11211,
-    "Unique Entry ID": "QqEG7ktLKMaXweFzg"
+    "Unique Entry ID": "QqEG7ktLKMaXweFzg",
+    "Url": "=FORMULATEXT(B180)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6837,7 +7016,8 @@
     "Filename": "AccessoryGlassRetro1",
     "ClothGroup ID": 379,
     "Internal ID": 11209,
-    "Unique Entry ID": "zYw3PhLHsw2KZ7TBK"
+    "Unique Entry ID": "zYw3PhLHsw2KZ7TBK",
+    "Url": "=FORMULATEXT(B181)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6875,7 +7055,8 @@
     "Filename": "AccessoryGlassRetro4",
     "ClothGroup ID": 379,
     "Internal ID": 11212,
-    "Unique Entry ID": "cJCaAmMdqrHG8uDLH"
+    "Unique Entry ID": "cJCaAmMdqrHG8uDLH",
+    "Url": "=FORMULATEXT(B182)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6913,7 +7094,8 @@
     "Filename": "AccessoryGlassRhinestone0",
     "ClothGroup ID": 509,
     "Internal ID": 4683,
-    "Unique Entry ID": "BJFhJqt9KuaWGaWuM"
+    "Unique Entry ID": "BJFhJqt9KuaWGaWuM",
+    "Url": "=FORMULATEXT(B183)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6951,7 +7133,8 @@
     "Filename": "AccessoryGlassRhinestone2",
     "ClothGroup ID": 509,
     "Internal ID": 11227,
-    "Unique Entry ID": "qy2BWYZvJedPJ69yX"
+    "Unique Entry ID": "qy2BWYZvJedPJ69yX",
+    "Url": "=FORMULATEXT(B184)"
   },
   {
     "SourceSheet": "Accessories",
@@ -6989,7 +7172,8 @@
     "Filename": "AccessoryGlassRhinestone1",
     "ClothGroup ID": 509,
     "Internal ID": 11226,
-    "Unique Entry ID": "iwtSmya59DpyGFB97"
+    "Unique Entry ID": "iwtSmya59DpyGFB97",
+    "Url": "=FORMULATEXT(B185)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7027,7 +7211,8 @@
     "Filename": "AccessoryGlassCircle2",
     "ClothGroup ID": 257,
     "Internal ID": 11185,
-    "Unique Entry ID": "jA7gAHyzXHk8qBRuq"
+    "Unique Entry ID": "jA7gAHyzXHk8qBRuq",
+    "Url": "=FORMULATEXT(B186)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7065,7 +7250,8 @@
     "Filename": "AccessoryGlassCircle0",
     "ClothGroup ID": 257,
     "Internal ID": 4235,
-    "Unique Entry ID": "DyPvwyWQK47TL4tjW"
+    "Unique Entry ID": "DyPvwyWQK47TL4tjW",
+    "Url": "=FORMULATEXT(B187)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7103,7 +7289,8 @@
     "Filename": "AccessoryGlassCircle1",
     "ClothGroup ID": 257,
     "Internal ID": 11184,
-    "Unique Entry ID": "xqu5YAX6AmrXR4Qmd"
+    "Unique Entry ID": "xqu5YAX6AmrXR4Qmd",
+    "Url": "=FORMULATEXT(B188)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7141,7 +7328,8 @@
     "Filename": "AccessoryGlassCircle4",
     "ClothGroup ID": 257,
     "Internal ID": 11187,
-    "Unique Entry ID": "fjKzCMBMhcJNEjsTv"
+    "Unique Entry ID": "fjKzCMBMhcJNEjsTv",
+    "Url": "=FORMULATEXT(B189)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7179,7 +7367,8 @@
     "Filename": "AccessoryGlassCircle3",
     "ClothGroup ID": 257,
     "Internal ID": 11186,
-    "Unique Entry ID": "RpfNwdBEPoqgF5pkh"
+    "Unique Entry ID": "RpfNwdBEPoqgF5pkh",
+    "Url": "=FORMULATEXT(B190)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7217,7 +7406,8 @@
     "Filename": "AccessoryGlassBoston6",
     "ClothGroup ID": 263,
     "Internal ID": 11201,
-    "Unique Entry ID": "z8KywWDutyXSsgXoy"
+    "Unique Entry ID": "z8KywWDutyXSsgXoy",
+    "Url": "=FORMULATEXT(B191)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7255,7 +7445,8 @@
     "Filename": "AccessoryGlassBoston0",
     "ClothGroup ID": 263,
     "Internal ID": 4241,
-    "Unique Entry ID": "SdqiPF4Fzw8HrPY4k"
+    "Unique Entry ID": "SdqiPF4Fzw8HrPY4k",
+    "Url": "=FORMULATEXT(B192)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7293,7 +7484,8 @@
     "Filename": "AccessoryGlassBoston5",
     "ClothGroup ID": 263,
     "Internal ID": 11200,
-    "Unique Entry ID": "Z9bJ6cYkY6hC4mL4o"
+    "Unique Entry ID": "Z9bJ6cYkY6hC4mL4o",
+    "Url": "=FORMULATEXT(B193)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7331,7 +7523,8 @@
     "Filename": "AccessoryGlassBoston4",
     "ClothGroup ID": 263,
     "Internal ID": 11199,
-    "Unique Entry ID": "KFNjnL6rqYckLECFB"
+    "Unique Entry ID": "KFNjnL6rqYckLECFB",
+    "Url": "=FORMULATEXT(B194)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7369,7 +7562,8 @@
     "Filename": "AccessoryGlassBoston3",
     "ClothGroup ID": 263,
     "Internal ID": 11198,
-    "Unique Entry ID": "BE37D4h9xHkhRwgmH"
+    "Unique Entry ID": "BE37D4h9xHkhRwgmH",
+    "Url": "=FORMULATEXT(B195)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7407,7 +7601,8 @@
     "Filename": "AccessoryGlassBoston1",
     "ClothGroup ID": 263,
     "Internal ID": 11196,
-    "Unique Entry ID": "Mf9c5DHdko9uWo2Hu"
+    "Unique Entry ID": "Mf9c5DHdko9uWo2Hu",
+    "Url": "=FORMULATEXT(B196)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7445,7 +7640,8 @@
     "Filename": "AccessoryGlassBoston2",
     "ClothGroup ID": 263,
     "Internal ID": 11197,
-    "Unique Entry ID": "hyhWF8rW2Y2AkXGTj"
+    "Unique Entry ID": "hyhWF8rW2Y2AkXGTj",
+    "Url": "=FORMULATEXT(B197)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7483,7 +7679,8 @@
     "Filename": "AccessoryGlassBoston7",
     "ClothGroup ID": 263,
     "Internal ID": 11202,
-    "Unique Entry ID": "fy6sue9jdYtpwh4Aq"
+    "Unique Entry ID": "fy6sue9jdYtpwh4Aq",
+    "Url": "=FORMULATEXT(B198)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7521,7 +7718,8 @@
     "Filename": "AccessoryGlassRound0",
     "ClothGroup ID": 473,
     "Internal ID": 4607,
-    "Unique Entry ID": "GdrT6sBLFECRG8LyN"
+    "Unique Entry ID": "GdrT6sBLFECRG8LyN",
+    "Url": "=FORMULATEXT(B199)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7559,7 +7757,8 @@
     "Filename": "AccessoryGlassRound1",
     "ClothGroup ID": 473,
     "Internal ID": 11220,
-    "Unique Entry ID": "KqtiBXYfKejymQ4Wg"
+    "Unique Entry ID": "KqtiBXYfKejymQ4Wg",
+    "Url": "=FORMULATEXT(B200)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7597,7 +7796,8 @@
     "Filename": "AccessoryGlassRound3",
     "ClothGroup ID": 473,
     "Internal ID": 11222,
-    "Unique Entry ID": "CeX6fKZRL2XFK7jnW"
+    "Unique Entry ID": "CeX6fKZRL2XFK7jnW",
+    "Url": "=FORMULATEXT(B201)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7635,7 +7835,8 @@
     "Filename": "AccessoryGlassRound2",
     "ClothGroup ID": 473,
     "Internal ID": 11221,
-    "Unique Entry ID": "tfuBgNyNNSXc3o4Q2"
+    "Unique Entry ID": "tfuBgNyNNSXc3o4Q2",
+    "Url": "=FORMULATEXT(B202)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7673,7 +7874,8 @@
     "Filename": "AccessoryGlassWellington2",
     "ClothGroup ID": 1369,
     "Internal ID": 149,
-    "Unique Entry ID": "49GLjwj37oTCLmq8x"
+    "Unique Entry ID": "49GLjwj37oTCLmq8x",
+    "Url": "=FORMULATEXT(B203)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7711,7 +7913,8 @@
     "Filename": "AccessoryGlassWellington0",
     "ClothGroup ID": 1369,
     "Internal ID": 14272,
-    "Unique Entry ID": "d2JX9EuySrwdDrTfS"
+    "Unique Entry ID": "d2JX9EuySrwdDrTfS",
+    "Url": "=FORMULATEXT(B204)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7749,7 +7952,8 @@
     "Filename": "AccessoryGlassWellington4",
     "ClothGroup ID": 1369,
     "Internal ID": 151,
-    "Unique Entry ID": "h4jDpJAZBx2fin9a3"
+    "Unique Entry ID": "h4jDpJAZBx2fin9a3",
+    "Url": "=FORMULATEXT(B205)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7787,7 +7991,8 @@
     "Filename": "AccessoryGlassWellington3",
     "ClothGroup ID": 1369,
     "Internal ID": 150,
-    "Unique Entry ID": "Z85Bv9oBAJn2QQ6Wj"
+    "Unique Entry ID": "Z85Bv9oBAJn2QQ6Wj",
+    "Url": "=FORMULATEXT(B206)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7825,7 +8030,8 @@
     "Filename": "AccessoryGlassWellington1",
     "ClothGroup ID": 1369,
     "Internal ID": 148,
-    "Unique Entry ID": "X7eWBQQXiJCpdYoMF"
+    "Unique Entry ID": "X7eWBQQXiJCpdYoMF",
+    "Url": "=FORMULATEXT(B207)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7863,7 +8069,8 @@
     "Filename": "AccessoryMouthBeardRoundBlack",
     "ClothGroup ID": 505,
     "Internal ID": 4679,
-    "Unique Entry ID": "As4RR5kDBbDWqHP69"
+    "Unique Entry ID": "As4RR5kDBbDWqHP69",
+    "Url": "=FORMULATEXT(B208)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7901,7 +8108,8 @@
     "Filename": "AccessoryMouthSanta",
     "ClothGroup ID": 406,
     "Internal ID": 4492,
-    "Unique Entry ID": "ZFX7n9gYwqmd2MnzE"
+    "Unique Entry ID": "ZFX7n9gYwqmd2MnzE",
+    "Url": "=FORMULATEXT(B209)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7939,7 +8147,8 @@
     "Filename": "AccessoryGlassShamrock0",
     "ClothGroup ID": 1354,
     "Internal ID": 14238,
-    "Unique Entry ID": "ffEQDCcdpsyXCcpN9"
+    "Unique Entry ID": "ffEQDCcdpsyXCcpN9",
+    "Url": "=FORMULATEXT(B210)"
   },
   {
     "SourceSheet": "Accessories",
@@ -7977,7 +8186,8 @@
     "Filename": "AccessoryGlassCrackBlack",
     "ClothGroup ID": 315,
     "Internal ID": 4337,
-    "Unique Entry ID": "9nxh9LSDKZoYjygJg"
+    "Unique Entry ID": "9nxh9LSDKZoYjygJg",
+    "Url": "=FORMULATEXT(B211)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8015,7 +8225,8 @@
     "Filename": "AccessoryGlassSolideyes0",
     "ClothGroup ID": 1489,
     "Internal ID": 14850,
-    "Unique Entry ID": "gmRWzcJSNB5QXyZDa"
+    "Unique Entry ID": "gmRWzcJSNB5QXyZDa",
+    "Url": "=FORMULATEXT(B212)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8053,7 +8264,8 @@
     "Filename": "AccessoryGlassSolideyes2",
     "ClothGroup ID": 1489,
     "Internal ID": 441,
-    "Unique Entry ID": "yZDzWsC99w6SsX7Qj"
+    "Unique Entry ID": "yZDzWsC99w6SsX7Qj",
+    "Url": "=FORMULATEXT(B213)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8091,7 +8303,8 @@
     "Filename": "AccessoryGlassSolideyes1",
     "ClothGroup ID": 1489,
     "Internal ID": 440,
-    "Unique Entry ID": "X5ZiiNaNp6tRZgSn2"
+    "Unique Entry ID": "X5ZiiNaNp6tRZgSn2",
+    "Url": "=FORMULATEXT(B214)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8129,7 +8342,8 @@
     "Filename": "AccessoryGlassSolideyes3",
     "ClothGroup ID": 1489,
     "Internal ID": 442,
-    "Unique Entry ID": "isMTngnMkDCbwaiTm"
+    "Unique Entry ID": "isMTngnMkDCbwaiTm",
+    "Url": "=FORMULATEXT(B215)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8167,7 +8381,8 @@
     "Filename": "AccessoryGlassSolideyes4",
     "ClothGroup ID": 1489,
     "Internal ID": 443,
-    "Unique Entry ID": "84RLSGW59PgkQJwjR"
+    "Unique Entry ID": "84RLSGW59PgkQJwjR",
+    "Url": "=FORMULATEXT(B216)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8205,7 +8420,8 @@
     "Filename": "AccessoryGlassSolideyes5",
     "ClothGroup ID": 1489,
     "Internal ID": 444,
-    "Unique Entry ID": "jxr5nTJF83nvsLhEx"
+    "Unique Entry ID": "jxr5nTJF83nvsLhEx",
+    "Url": "=FORMULATEXT(B217)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8243,7 +8459,8 @@
     "Filename": "AccessoryGlassNomal0",
     "ClothGroup ID": 1461,
     "Internal ID": 14795,
-    "Unique Entry ID": "aXPFDKYhqc9McTr86"
+    "Unique Entry ID": "aXPFDKYhqc9McTr86",
+    "Url": "=FORMULATEXT(B218)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8281,7 +8498,8 @@
     "Filename": "AccessoryGlassNomal4",
     "ClothGroup ID": 1461,
     "Internal ID": 157,
-    "Unique Entry ID": "C6Fnpfj46yLZM5ez5"
+    "Unique Entry ID": "C6Fnpfj46yLZM5ez5",
+    "Url": "=FORMULATEXT(B219)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8319,7 +8537,8 @@
     "Filename": "AccessoryGlassNomal5",
     "ClothGroup ID": 1461,
     "Internal ID": 158,
-    "Unique Entry ID": "4PrdCFuoqLzXxEeuE"
+    "Unique Entry ID": "4PrdCFuoqLzXxEeuE",
+    "Url": "=FORMULATEXT(B220)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8357,7 +8576,8 @@
     "Filename": "AccessoryGlassNomal2",
     "ClothGroup ID": 1461,
     "Internal ID": 155,
-    "Unique Entry ID": "eYSEaFN924rcSBbFR"
+    "Unique Entry ID": "eYSEaFN924rcSBbFR",
+    "Url": "=FORMULATEXT(B221)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8395,7 +8615,8 @@
     "Filename": "AccessoryGlassNomal3",
     "ClothGroup ID": 1461,
     "Internal ID": 156,
-    "Unique Entry ID": "rHaYK6Yk5mHz9Wxgt"
+    "Unique Entry ID": "rHaYK6Yk5mHz9Wxgt",
+    "Url": "=FORMULATEXT(B222)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8433,7 +8654,8 @@
     "Filename": "AccessoryGlassNomal1",
     "ClothGroup ID": 1461,
     "Internal ID": 154,
-    "Unique Entry ID": "APE9crmj9WsK8BpdK"
+    "Unique Entry ID": "APE9crmj9WsK8BpdK",
+    "Url": "=FORMULATEXT(B223)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8471,7 +8693,8 @@
     "Filename": "AccessoryGlassGogglesski1",
     "ClothGroup ID": 377,
     "Internal ID": 11479,
-    "Unique Entry ID": "NwNqq5g2iw4DeMsBY"
+    "Unique Entry ID": "NwNqq5g2iw4DeMsBY",
+    "Url": "=FORMULATEXT(B224)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8509,7 +8732,8 @@
     "Filename": "AccessoryGlassGogglesski0",
     "ClothGroup ID": 377,
     "Internal ID": 4453,
-    "Unique Entry ID": "GWhWLPt3sExfeAG2c"
+    "Unique Entry ID": "GWhWLPt3sExfeAG2c",
+    "Url": "=FORMULATEXT(B225)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8547,7 +8771,8 @@
     "Filename": "AccessoryGlassGogglesski2",
     "ClothGroup ID": 377,
     "Internal ID": 11480,
-    "Unique Entry ID": "4umKSoR2BWtW6JyFK"
+    "Unique Entry ID": "4umKSoR2BWtW6JyFK",
+    "Url": "=FORMULATEXT(B226)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8585,7 +8810,8 @@
     "Filename": "AccessoryGlassGogglesski5",
     "ClothGroup ID": 377,
     "Internal ID": 11483,
-    "Unique Entry ID": "vSksuA8nCN72Tq3ji"
+    "Unique Entry ID": "vSksuA8nCN72Tq3ji",
+    "Url": "=FORMULATEXT(B227)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8623,7 +8849,8 @@
     "Filename": "AccessoryGlassGogglesski4",
     "ClothGroup ID": 377,
     "Internal ID": 11482,
-    "Unique Entry ID": "SydPBHGEnpRAKuCfq"
+    "Unique Entry ID": "SydPBHGEnpRAKuCfq",
+    "Url": "=FORMULATEXT(B228)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8661,7 +8888,8 @@
     "Filename": "AccessoryGlassGogglesski3",
     "ClothGroup ID": 377,
     "Internal ID": 11481,
-    "Unique Entry ID": "RBByDZoTeK5b6jvXn"
+    "Unique Entry ID": "RBByDZoTeK5b6jvXn",
+    "Url": "=FORMULATEXT(B229)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8699,7 +8927,8 @@
     "Filename": "AccessoryGlassmouthDiver5",
     "ClothGroup ID": 432,
     "Internal ID": 11497,
-    "Unique Entry ID": "jFwR59w58PSPL53K4"
+    "Unique Entry ID": "jFwR59w58PSPL53K4",
+    "Url": "=FORMULATEXT(B230)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8737,7 +8966,8 @@
     "Filename": "AccessoryGlassmouthDiver2",
     "ClothGroup ID": 432,
     "Internal ID": 11494,
-    "Unique Entry ID": "ekXFtoFg8mmsbyZYp"
+    "Unique Entry ID": "ekXFtoFg8mmsbyZYp",
+    "Url": "=FORMULATEXT(B231)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8775,7 +9005,8 @@
     "Filename": "AccessoryGlassmouthDiver3",
     "ClothGroup ID": 432,
     "Internal ID": 11495,
-    "Unique Entry ID": "3oBKZL4APPZGp7KpN"
+    "Unique Entry ID": "3oBKZL4APPZGp7KpN",
+    "Url": "=FORMULATEXT(B232)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8813,7 +9044,8 @@
     "Filename": "AccessoryGlassmouthDiver1",
     "ClothGroup ID": 432,
     "Internal ID": 11493,
-    "Unique Entry ID": "xHJu2dJts5RYTFw7p"
+    "Unique Entry ID": "xHJu2dJts5RYTFw7p",
+    "Url": "=FORMULATEXT(B233)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8851,7 +9083,8 @@
     "Filename": "AccessoryGlassmouthDiver4",
     "ClothGroup ID": 432,
     "Internal ID": 11496,
-    "Unique Entry ID": "v9xCArJntbpz9FhSG"
+    "Unique Entry ID": "v9xCArJntbpz9FhSG",
+    "Url": "=FORMULATEXT(B234)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8889,7 +9122,8 @@
     "Filename": "AccessoryGlassmouthDiver0",
     "ClothGroup ID": 432,
     "Internal ID": 4551,
-    "Unique Entry ID": "rSw6wK34RyoG5cMe3"
+    "Unique Entry ID": "rSw6wK34RyoG5cMe3",
+    "Url": "=FORMULATEXT(B235)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8927,7 +9161,8 @@
     "Filename": "AccessoryGlassSports1",
     "ClothGroup ID": 381,
     "Internal ID": 11489,
-    "Unique Entry ID": "CA5YASgCBpgL2PSpX"
+    "Unique Entry ID": "CA5YASgCBpgL2PSpX",
+    "Url": "=FORMULATEXT(B236)"
   },
   {
     "SourceSheet": "Accessories",
@@ -8965,7 +9200,8 @@
     "Filename": "AccessoryGlassSports0",
     "ClothGroup ID": 381,
     "Internal ID": 4458,
-    "Unique Entry ID": "QkHqffg8X4eTL6PXX"
+    "Unique Entry ID": "QkHqffg8X4eTL6PXX",
+    "Url": "=FORMULATEXT(B237)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9003,7 +9239,8 @@
     "Filename": "AccessoryGlassSports2",
     "ClothGroup ID": 381,
     "Internal ID": 11490,
-    "Unique Entry ID": "GgdcckY8p5Rg5NyTY"
+    "Unique Entry ID": "GgdcckY8p5Rg5NyTY",
+    "Url": "=FORMULATEXT(B238)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9041,7 +9278,8 @@
     "Filename": "AccessoryGlassSports3",
     "ClothGroup ID": 381,
     "Internal ID": 11491,
-    "Unique Entry ID": "uwEjreWEdYSbuxXE9"
+    "Unique Entry ID": "uwEjreWEdYSbuxXE9",
+    "Url": "=FORMULATEXT(B239)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9079,7 +9317,8 @@
     "Filename": "AccessoryGlassSports4",
     "ClothGroup ID": 381,
     "Internal ID": 11492,
-    "Unique Entry ID": "THB8TWPykhsELXErr"
+    "Unique Entry ID": "THB8TWPykhsELXErr",
+    "Url": "=FORMULATEXT(B240)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9117,7 +9356,8 @@
     "Filename": "AccessoryGlassSquare2",
     "ClothGroup ID": 258,
     "Internal ID": 11067,
-    "Unique Entry ID": "QxFwFytYcWo5acGtW"
+    "Unique Entry ID": "QxFwFytYcWo5acGtW",
+    "Url": "=FORMULATEXT(B241)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9155,7 +9395,8 @@
     "Filename": "AccessoryGlassSquare1",
     "ClothGroup ID": 258,
     "Internal ID": 11066,
-    "Unique Entry ID": "LhvFWS5ADiDiPJwai"
+    "Unique Entry ID": "LhvFWS5ADiDiPJwai",
+    "Url": "=FORMULATEXT(B242)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9193,7 +9434,8 @@
     "Filename": "AccessoryGlassSquare3",
     "ClothGroup ID": 258,
     "Internal ID": 11068,
-    "Unique Entry ID": "CvziuqadDpoQgGK4C"
+    "Unique Entry ID": "CvziuqadDpoQgGK4C",
+    "Url": "=FORMULATEXT(B243)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9231,7 +9473,8 @@
     "Filename": "AccessoryGlassSquare0",
     "ClothGroup ID": 258,
     "Internal ID": 4236,
-    "Unique Entry ID": "rAzkKijSEqXzoAZKY"
+    "Unique Entry ID": "rAzkKijSEqXzoAZKY",
+    "Url": "=FORMULATEXT(B244)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9269,7 +9512,8 @@
     "Filename": "AccessoryGlassThurmontsquare3",
     "ClothGroup ID": 1391,
     "Internal ID": 165,
-    "Unique Entry ID": "fARrP83AnC3qjTooH"
+    "Unique Entry ID": "fARrP83AnC3qjTooH",
+    "Url": "=FORMULATEXT(B245)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9307,7 +9551,8 @@
     "Filename": "AccessoryGlassThurmontsquare0",
     "ClothGroup ID": 1391,
     "Internal ID": 14362,
-    "Unique Entry ID": "2ZykrYipJHcfMNf4B"
+    "Unique Entry ID": "2ZykrYipJHcfMNf4B",
+    "Url": "=FORMULATEXT(B246)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9345,7 +9590,8 @@
     "Filename": "AccessoryGlassThurmontsquare2",
     "ClothGroup ID": 1391,
     "Internal ID": 164,
-    "Unique Entry ID": "MZDq7QznBMuHgAxLn"
+    "Unique Entry ID": "MZDq7QznBMuHgAxLn",
+    "Url": "=FORMULATEXT(B247)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9383,7 +9629,8 @@
     "Filename": "AccessoryGlassThurmontsquare1",
     "ClothGroup ID": 1391,
     "Internal ID": 163,
-    "Unique Entry ID": "DRYt8riBFzSdSmwWv"
+    "Unique Entry ID": "DRYt8riBFzSdSmwWv",
+    "Url": "=FORMULATEXT(B248)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9421,7 +9668,8 @@
     "Filename": "AccessoryGlassmouthBeard0",
     "ClothGroup ID": 408,
     "Internal ID": 4501,
-    "Unique Entry ID": "s7hDzZ3ajPpK9fnEW"
+    "Unique Entry ID": "s7hDzZ3ajPpK9fnEW",
+    "Url": "=FORMULATEXT(B249)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9459,7 +9707,8 @@
     "Filename": "AccessoryGlassmouthBeard1",
     "ClothGroup ID": 408,
     "Internal ID": 11007,
-    "Unique Entry ID": "M8owND8DnAEKA9nuX"
+    "Unique Entry ID": "M8owND8DnAEKA9nuX",
+    "Url": "=FORMULATEXT(B250)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9497,7 +9746,8 @@
     "Filename": "AccessoryGlassStar1",
     "ClothGroup ID": 262,
     "Internal ID": 11192,
-    "Unique Entry ID": "PCZAYraP9kdaqnZy7"
+    "Unique Entry ID": "PCZAYraP9kdaqnZy7",
+    "Url": "=FORMULATEXT(B251)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9535,7 +9785,8 @@
     "Filename": "AccessoryGlassStar0",
     "ClothGroup ID": 262,
     "Internal ID": 4240,
-    "Unique Entry ID": "y4n8SisxyS7dGRWL7"
+    "Unique Entry ID": "y4n8SisxyS7dGRWL7",
+    "Url": "=FORMULATEXT(B252)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9573,7 +9824,8 @@
     "Filename": "AccessoryGlassStar4",
     "ClothGroup ID": 262,
     "Internal ID": 11195,
-    "Unique Entry ID": "PaF6nho2LRBu5x7Pi"
+    "Unique Entry ID": "PaF6nho2LRBu5x7Pi",
+    "Url": "=FORMULATEXT(B253)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9611,7 +9863,8 @@
     "Filename": "AccessoryGlassStar2",
     "ClothGroup ID": 262,
     "Internal ID": 11193,
-    "Unique Entry ID": "h4zk6rrWiX94jefGH"
+    "Unique Entry ID": "h4zk6rrWiX94jefGH",
+    "Url": "=FORMULATEXT(B254)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9649,7 +9902,8 @@
     "Filename": "AccessoryGlassStar3",
     "ClothGroup ID": 262,
     "Internal ID": 11194,
-    "Unique Entry ID": "GiBvxa93RwTN46zhE"
+    "Unique Entry ID": "GiBvxa93RwTN46zhE",
+    "Url": "=FORMULATEXT(B255)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9687,7 +9941,8 @@
     "Filename": "AccessoryGlassSteampunk0",
     "ClothGroup ID": 511,
     "Internal ID": 4685,
-    "Unique Entry ID": "uANDLz5EDWphoM3Lc"
+    "Unique Entry ID": "uANDLz5EDWphoM3Lc",
+    "Url": "=FORMULATEXT(B256)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9725,7 +9980,8 @@
     "Filename": "AccessoryGlassSteampunk1",
     "ClothGroup ID": 511,
     "Internal ID": 11505,
-    "Unique Entry ID": "Rhhrv89PGEMbdbdPt"
+    "Unique Entry ID": "Rhhrv89PGEMbdbdPt",
+    "Url": "=FORMULATEXT(B257)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9763,7 +10019,8 @@
     "Filename": "AccessoryMouthRice",
     "ClothGroup ID": 489,
     "Internal ID": 4652,
-    "Unique Entry ID": "isnXDFfGkHKKB8bMP"
+    "Unique Entry ID": "isnXDFfGkHKKB8bMP",
+    "Url": "=FORMULATEXT(B258)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9801,7 +10058,8 @@
     "Filename": "AccessoryGlassSummer0",
     "ClothGroup ID": 1311,
     "Internal ID": 13325,
-    "Unique Entry ID": "TbpYoSke87m3ZcWpS"
+    "Unique Entry ID": "TbpYoSke87m3ZcWpS",
+    "Url": "=FORMULATEXT(B259)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9839,7 +10097,8 @@
     "Filename": "AccessoryGlassHeromaskBlack",
     "ClothGroup ID": 510,
     "Internal ID": 4684,
-    "Unique Entry ID": "fK2Xz8nxAebSkWNdE"
+    "Unique Entry ID": "fK2Xz8nxAebSkWNdE",
+    "Url": "=FORMULATEXT(B260)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9877,7 +10136,8 @@
     "Filename": "AccessoryGlassMini1",
     "ClothGroup ID": 384,
     "Internal ID": 11215,
-    "Unique Entry ID": "tCxZoqcR8egLcu4oh"
+    "Unique Entry ID": "tCxZoqcR8egLcu4oh",
+    "Url": "=FORMULATEXT(B261)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9915,7 +10175,8 @@
     "Filename": "AccessoryGlassMini2",
     "ClothGroup ID": 384,
     "Internal ID": 11216,
-    "Unique Entry ID": "8YkgkHp2z5tycST3j"
+    "Unique Entry ID": "8YkgkHp2z5tycST3j",
+    "Url": "=FORMULATEXT(B262)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9953,7 +10214,8 @@
     "Filename": "AccessoryGlassMini0",
     "ClothGroup ID": 384,
     "Internal ID": 4461,
-    "Unique Entry ID": "DnZtrKfwj3MAy6PZc"
+    "Unique Entry ID": "DnZtrKfwj3MAy6PZc",
+    "Url": "=FORMULATEXT(B263)"
   },
   {
     "SourceSheet": "Accessories",
@@ -9991,7 +10253,8 @@
     "Filename": "AccessoryGlassTortoiseshell2",
     "ClothGroup ID": 383,
     "Internal ID": 11080,
-    "Unique Entry ID": "fEshNAFDwcyo9v2fX"
+    "Unique Entry ID": "fEshNAFDwcyo9v2fX",
+    "Url": "=FORMULATEXT(B264)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10029,7 +10292,8 @@
     "Filename": "AccessoryGlassTortoiseshell1",
     "ClothGroup ID": 383,
     "Internal ID": 11079,
-    "Unique Entry ID": "jewJFqgFQTHKyAKTz"
+    "Unique Entry ID": "jewJFqgFQTHKyAKTz",
+    "Url": "=FORMULATEXT(B265)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10067,7 +10331,8 @@
     "Filename": "AccessoryGlassTortoiseshell0",
     "ClothGroup ID": 383,
     "Internal ID": 4460,
-    "Unique Entry ID": "kqomsYL33TB7zaNtY"
+    "Unique Entry ID": "kqomsYL33TB7zaNtY",
+    "Url": "=FORMULATEXT(B266)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10105,7 +10370,8 @@
     "Filename": "AccessoryGlassTriangle5",
     "ClothGroup ID": 264,
     "Internal ID": 11207,
-    "Unique Entry ID": "QpAQQTRoBmcjNBeEK"
+    "Unique Entry ID": "QpAQQTRoBmcjNBeEK",
+    "Url": "=FORMULATEXT(B267)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10143,7 +10409,8 @@
     "Filename": "AccessoryGlassTriangle6",
     "ClothGroup ID": 264,
     "Internal ID": 11208,
-    "Unique Entry ID": "vGHab8KFNDFRgW5h6"
+    "Unique Entry ID": "vGHab8KFNDFRgW5h6",
+    "Url": "=FORMULATEXT(B268)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10181,7 +10448,8 @@
     "Filename": "AccessoryGlassTriangle0",
     "ClothGroup ID": 264,
     "Internal ID": 4242,
-    "Unique Entry ID": "cw8m5tS85qMGGnpy9"
+    "Unique Entry ID": "cw8m5tS85qMGGnpy9",
+    "Url": "=FORMULATEXT(B269)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10219,7 +10487,8 @@
     "Filename": "AccessoryGlassTriangle1",
     "ClothGroup ID": 264,
     "Internal ID": 11203,
-    "Unique Entry ID": "cR58LxuFK4Kcxh7fc"
+    "Unique Entry ID": "cR58LxuFK4Kcxh7fc",
+    "Url": "=FORMULATEXT(B270)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10257,7 +10526,8 @@
     "Filename": "AccessoryGlassTriangle4",
     "ClothGroup ID": 264,
     "Internal ID": 11206,
-    "Unique Entry ID": "4edkdodmNhmpkSCBo"
+    "Unique Entry ID": "4edkdodmNhmpkSCBo",
+    "Url": "=FORMULATEXT(B271)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10295,7 +10565,8 @@
     "Filename": "AccessoryGlassTriangle2",
     "ClothGroup ID": 264,
     "Internal ID": 11204,
-    "Unique Entry ID": "xSM4vD2KSok5cjo6p"
+    "Unique Entry ID": "xSM4vD2KSok5cjo6p",
+    "Url": "=FORMULATEXT(B272)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10333,7 +10604,8 @@
     "Filename": "AccessoryGlassTriangle3",
     "ClothGroup ID": 264,
     "Internal ID": 11205,
-    "Unique Entry ID": "vAuSuBJcAfyMR6wk7"
+    "Unique Entry ID": "vAuSuBJcAfyMR6wk7",
+    "Url": "=FORMULATEXT(B273)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10371,7 +10643,8 @@
     "Filename": "AccessoryGlassmouthVenezia0",
     "ClothGroup ID": 1447,
     "Internal ID": 14753,
-    "Unique Entry ID": "aZbA8aKMF5N9aGbtQ"
+    "Unique Entry ID": "aZbA8aKMF5N9aGbtQ",
+    "Url": "=FORMULATEXT(B274)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10409,7 +10682,8 @@
     "Filename": "AccessoryGlassmouthVenezia3",
     "ClothGroup ID": 1447,
     "Internal ID": 268,
-    "Unique Entry ID": "CLABpMMfamXdLe2Ba"
+    "Unique Entry ID": "CLABpMMfamXdLe2Ba",
+    "Url": "=FORMULATEXT(B275)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10447,7 +10721,8 @@
     "Filename": "AccessoryGlassmouthVenezia2",
     "ClothGroup ID": 1447,
     "Internal ID": 267,
-    "Unique Entry ID": "rwsdgSQ9ELd9vAwwM"
+    "Unique Entry ID": "rwsdgSQ9ELd9vAwwM",
+    "Url": "=FORMULATEXT(B276)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10485,7 +10760,8 @@
     "Filename": "AccessoryGlassmouthVenezia1",
     "ClothGroup ID": 1447,
     "Internal ID": 266,
-    "Unique Entry ID": "MeS35zmX5yAA2KGFi"
+    "Unique Entry ID": "MeS35zmX5yAA2KGFi",
+    "Url": "=FORMULATEXT(B277)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10523,7 +10799,8 @@
     "Filename": "AccessoryGlassmouthVenezia4",
     "ClothGroup ID": 1447,
     "Internal ID": 269,
-    "Unique Entry ID": "7tvGjke6YBupemtDa"
+    "Unique Entry ID": "7tvGjke6YBupemtDa",
+    "Url": "=FORMULATEXT(B278)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10561,7 +10838,8 @@
     "Filename": "AccessoryGlassmouthWario0",
     "ClothGroup ID": 1326,
     "Internal ID": 13560,
-    "Unique Entry ID": "JkKdho5JRRQe5idg2"
+    "Unique Entry ID": "JkKdho5JRRQe5idg2",
+    "Url": "=FORMULATEXT(B279)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10599,7 +10877,8 @@
     "Filename": "AccessoryGlassWood0",
     "ClothGroup ID": 496,
     "Internal ID": 4669,
-    "Unique Entry ID": "dbnqry4vZBvK6LrS2"
+    "Unique Entry ID": "dbnqry4vZBvK6LrS2",
+    "Url": "=FORMULATEXT(B280)"
   },
   {
     "SourceSheet": "Accessories",
@@ -10637,6 +10916,7 @@
     "Filename": "AccessoryGlassWood1",
     "ClothGroup ID": 496,
     "Internal ID": 11093,
-    "Unique Entry ID": "2MufTC9TPErbryyKS"
+    "Unique Entry ID": "2MufTC9TPErbryyKS",
+    "Url": "=FORMULATEXT(B281)"
   }
 ]

@@ -28,6 +28,7 @@
     "filename": "RoomTexWallEaster00",
     "internalId": 5231,
     "uniqueEntryId": "dEoSTZADDLkvmDHuY",
+    "url": "=FORMULATEXT(B65)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "027",
@@ -248,6 +249,7 @@
     "filename": "RoomTexWallCinnamon00",
     "internalId": 10172,
     "uniqueEntryId": "XAaoMY22k2S8T26bA",
+    "url": "=FORMULATEXT(B79)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "038",
@@ -320,6 +322,7 @@
     "filename": "RoomSpWallSplatoon00",
     "internalId": 1140,
     "uniqueEntryId": "efdsxy8td4sWzMQBw",
+    "url": "=FORMULATEXT(B106)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "056",
@@ -392,6 +395,7 @@
     "filename": "RoomTexWallKitty00",
     "internalId": 10171,
     "uniqueEntryId": "annG3qKgFvLLenENq",
+    "url": "=FORMULATEXT(B141)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "035",
@@ -464,6 +468,7 @@
     "filename": "RoomSpWallXmas00",
     "internalId": 5230,
     "uniqueEntryId": "ZjBHKK8ckePAaKpxe",
+    "url": "=FORMULATEXT(B150)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "026",
@@ -639,6 +644,7 @@
     "filename": "RoomTexWallKeroppi00",
     "internalId": 10175,
     "uniqueEntryId": "rcc2xxFF6iEZFWCwD",
+    "url": "=FORMULATEXT(B152)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "040",
@@ -711,6 +717,7 @@
     "filename": "RoomTexWallKikilala00",
     "internalId": 10176,
     "uniqueEntryId": "FEueHTF7kRxdi32bM",
+    "url": "=FORMULATEXT(B153)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "037",
@@ -783,6 +790,7 @@
     "filename": "RoomSpWallZeldaForest00",
     "internalId": 1057,
     "uniqueEntryId": "AWM5mc797FNs8RY3z",
+    "url": "=FORMULATEXT(B155)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "055",
@@ -855,6 +863,7 @@
     "filename": "RoomTexWallMymelody00",
     "internalId": 10173,
     "uniqueEntryId": "s97854TNLM2ipgGKY",
+    "url": "=FORMULATEXT(B179)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "039",
@@ -927,6 +936,7 @@
     "filename": "RoomTexWallFirst00",
     "internalId": 6004,
     "uniqueEntryId": "e7uEC5di7XvHpvkuk",
+    "url": "=FORMULATEXT(B180)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6004,
@@ -980,6 +990,7 @@
     "filename": "RoomTexWallGoldRich00",
     "internalId": 13020,
     "uniqueEntryId": "z22bvaYd3o8NtChdj",
+    "url": "=FORMULATEXT(B194)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13020,
@@ -1033,6 +1044,7 @@
     "filename": "RoomTexWallPurin00",
     "internalId": 10174,
     "uniqueEntryId": "AzWS3tTqRkGWGcTZz",
+    "url": "=FORMULATEXT(B216)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "036",
@@ -1105,6 +1117,7 @@
     "filename": "RoomSpWallSketch00",
     "internalId": 14896,
     "uniqueEntryId": "faa5CutSpc3i8ZSY8",
+    "url": "=FORMULATEXT(B241)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 14896,
@@ -1158,6 +1171,7 @@
     "filename": "RoomTexWallHarvest00",
     "internalId": 13318,
     "uniqueEntryId": "FofB2mpArZFhp3QJC",
+    "url": "=FORMULATEXT(B281)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "032",
@@ -1230,6 +1244,7 @@
     "filename": "RoomTexWallAbstract00",
     "internalId": 4873,
     "uniqueEntryId": "FpdbDr4PMe5WdEZkA",
+    "url": "=FORMULATEXT(B2)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4873,
@@ -1283,6 +1298,7 @@
     "filename": "RoomSpWallAirplane00",
     "internalId": 5497,
     "uniqueEntryId": "Z62odoapxLDBurx9r",
+    "url": "=FORMULATEXT(B3)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5497,
@@ -1336,6 +1352,7 @@
     "filename": "RoomTexWallEgypt00",
     "internalId": 4936,
     "uniqueEntryId": "Y2pykQMhqbEoGGa62",
+    "url": "=FORMULATEXT(B4)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4936,
@@ -1389,6 +1406,7 @@
     "filename": "RoomTexWallAntique00",
     "internalId": 13331,
     "uniqueEntryId": "ETTnjcgHmkCL56GxD",
+    "url": "=FORMULATEXT(B5)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13331,
@@ -1442,6 +1460,7 @@
     "filename": "RoomTexWallDisplay00",
     "internalId": 12911,
     "uniqueEntryId": "njfAsLH73QkJBxgg5",
+    "url": "=FORMULATEXT(B6)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12911,
@@ -1495,6 +1514,7 @@
     "filename": "RoomTexWallApple00",
     "internalId": 4916,
     "uniqueEntryId": "roJZFWataeLQK6vqa",
+    "url": "=FORMULATEXT(B7)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -1613,6 +1633,7 @@
     "filename": "RoomTexWallTile01",
     "internalId": 4930,
     "uniqueEntryId": "6NXvjsdpxJLbd96RM",
+    "url": "=FORMULATEXT(B8)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4930,
@@ -1666,6 +1687,7 @@
     "filename": "RoomSpWallGlass00",
     "internalId": 5482,
     "uniqueEntryId": "TzS5oe6a7KyBezmLS",
+    "url": "=FORMULATEXT(B9)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5482,
@@ -1719,6 +1741,7 @@
     "filename": "RoomSpWallAurora00",
     "internalId": 13609,
     "uniqueEntryId": "9FGZqwB77ofG4cC8k",
+    "url": "=FORMULATEXT(B10)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13609,
@@ -1772,6 +1795,7 @@
     "filename": "RoomSpWallAutumun00",
     "internalId": 4905,
     "uniqueEntryId": "KfLqJKhWtys8v86ig",
+    "url": "=FORMULATEXT(B11)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "021",
@@ -1928,6 +1952,7 @@
     "filename": "RoomSpWallBackyard00",
     "internalId": 5481,
     "uniqueEntryId": "oPYWjEfm7BqHTYipq",
+    "url": "=FORMULATEXT(B12)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5481,
@@ -1981,6 +2006,7 @@
     "filename": "RoomTexWallBamboo00",
     "internalId": 4833,
     "uniqueEntryId": "MYpD6DoNCPDw6d9t3",
+    "url": "=FORMULATEXT(B13)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "010",
@@ -2099,6 +2125,7 @@
     "filename": "RoomTexWallChikurin00",
     "internalId": 4853,
     "uniqueEntryId": "LbsrED9Rwg6SHTCpa",
+    "url": "=FORMULATEXT(B14)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "010",
@@ -2236,6 +2263,7 @@
     "filename": "RoomTexWallRattan00",
     "internalId": 4836,
     "uniqueEntryId": "MZt39wkPG6P7iWG2M",
+    "url": "=FORMULATEXT(B15)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4836,
@@ -2289,6 +2317,7 @@
     "filename": "RoomTexWallSafeBox00",
     "internalId": 4839,
     "uniqueEntryId": "HrgjLfo8tPzP2zpbE",
+    "url": "=FORMULATEXT(B16)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4839,
@@ -2342,6 +2371,7 @@
     "filename": "RoomSpWallSimplePanel00",
     "internalId": 5559,
     "uniqueEntryId": "FJxKPu5W2sd2YWQfA",
+    "url": "=FORMULATEXT(B17)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5559,
@@ -2395,6 +2425,7 @@
     "filename": "RoomTexWallPublicBath00",
     "internalId": 4829,
     "uniqueEntryId": "x5kZ8HpHrN5mXe8wX",
+    "url": "=FORMULATEXT(B18)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4829,
@@ -2448,6 +2479,7 @@
     "filename": "RoomTexWallBeadsCurtain00",
     "internalId": 4877,
     "uniqueEntryId": "M3mNZS2vSaHaiujcH",
+    "url": "=FORMULATEXT(B19)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4877,
@@ -2501,6 +2533,7 @@
     "filename": "RoomTexWallMorocco00",
     "internalId": 4834,
     "uniqueEntryId": "qZrgjoMjxz9ehXqa4",
+    "url": "=FORMULATEXT(B22)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "050",
@@ -2573,6 +2606,7 @@
     "filename": "RoomTexWallArtDeco00",
     "internalId": 4817,
     "uniqueEntryId": "2zmJaMB2B9i8gLTKt",
+    "url": "=FORMULATEXT(B20)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4817,
@@ -2626,6 +2660,7 @@
     "filename": "RoomTexWallCountry00",
     "internalId": 4831,
     "uniqueEntryId": "CF5325jZx7pNsqb6Z",
+    "url": "=FORMULATEXT(B21)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4831,
@@ -2679,6 +2714,7 @@
     "filename": "RoomSpWallFrench01",
     "internalId": 13866,
     "uniqueEntryId": "sQ5tk8wwoJhvHBj44",
+    "url": "=FORMULATEXT(B24)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13866,
@@ -2732,6 +2768,7 @@
     "filename": "RoomTexWallWoodTile03",
     "internalId": 6877,
     "uniqueEntryId": "PEcX9J774Ffd6Gn8S",
+    "url": "=FORMULATEXT(B23)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6877,
@@ -2785,6 +2822,7 @@
     "filename": "RoomTexWallHall03",
     "internalId": 6862,
     "uniqueEntryId": "pQrYRHsmovBApejNJ",
+    "url": "=FORMULATEXT(B25)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6862,
@@ -2838,6 +2876,7 @@
     "filename": "RoomTexWallPegboard02",
     "internalId": 4922,
     "uniqueEntryId": "7fMiJATy4fWP4DpoC",
+    "url": "=FORMULATEXT(B26)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4922,
@@ -2891,6 +2930,7 @@
     "filename": "RoomTexWallTwoToneTile06",
     "internalId": 6859,
     "uniqueEntryId": "aF8tqscwpShhhsASx",
+    "url": "=FORMULATEXT(B27)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6859,
@@ -2944,6 +2984,7 @@
     "filename": "RoomSpWallWindow01",
     "internalId": 13438,
     "uniqueEntryId": "LXuaBG839ogDDzkPe",
+    "url": "=FORMULATEXT(B28)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13438,
@@ -2997,6 +3038,7 @@
     "filename": "RoomTexWallBrick02",
     "internalId": 4929,
     "uniqueEntryId": "tCex7y47sAsaD44Wm",
+    "url": "=FORMULATEXT(B29)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4929,
@@ -3050,6 +3092,7 @@
     "filename": "RoomTexWallCrown01",
     "internalId": 4815,
     "uniqueEntryId": "4cCAvP8bbCYcyAyBE",
+    "url": "=FORMULATEXT(B30)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4815,
@@ -3103,6 +3146,7 @@
     "filename": "RoomTexWallBlackBoard00",
     "internalId": 4882,
     "uniqueEntryId": "Aseoowo4cuXJqyWaA",
+    "url": "=FORMULATEXT(B31)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4882,
@@ -3156,6 +3200,7 @@
     "filename": "RoomTexWallMorocco01",
     "internalId": 4835,
     "uniqueEntryId": "vgNuogZ2JG2eZEBni",
+    "url": "=FORMULATEXT(B41)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "050",
@@ -3228,6 +3273,7 @@
     "filename": "RoomTexWallTadelakt00",
     "internalId": 13487,
     "uniqueEntryId": "stCTPTZtxH5iakJzd",
+    "url": "=FORMULATEXT(B42)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13487,
@@ -3281,6 +3327,7 @@
     "filename": "RoomTexWallCountry02",
     "internalId": 4896,
     "uniqueEntryId": "SZWxorHWvT7vhGXsj",
+    "url": "=FORMULATEXT(B32)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4896,
@@ -3334,6 +3381,7 @@
     "filename": "RoomTexWallCamouflage01",
     "internalId": 4884,
     "uniqueEntryId": "xQ2EDvGyh76skJyX3",
+    "url": "=FORMULATEXT(B33)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4884,
@@ -3387,6 +3435,7 @@
     "filename": "RoomTexWallManor03",
     "internalId": 6852,
     "uniqueEntryId": "7Fb4nvMvoxtCZRQv7",
+    "url": "=FORMULATEXT(B34)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6852,
@@ -3440,6 +3489,7 @@
     "filename": "RoomTexWallDiner00",
     "internalId": 7241,
     "uniqueEntryId": "GjJT3k3neqwzenXku",
+    "url": "=FORMULATEXT(B35)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "003",
@@ -3512,6 +3562,7 @@
     "filename": "RoomTexWallFlower03",
     "internalId": 6873,
     "uniqueEntryId": "Hfm5a2EozWyQws3Tv",
+    "url": "=FORMULATEXT(B36)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6873,
@@ -3565,6 +3616,7 @@
     "filename": "RoomTexWallHeart00",
     "internalId": 4874,
     "uniqueEntryId": "9dXvZ4H39kton3Tcj",
+    "url": "=FORMULATEXT(B37)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4874,
@@ -3618,6 +3670,7 @@
     "filename": "RoomTexWallHoneycomb01",
     "internalId": 4912,
     "uniqueEntryId": "Fht6yazsmMqdtEYQb",
+    "url": "=FORMULATEXT(B38)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4912,
@@ -3671,6 +3724,7 @@
     "filename": "RoomTexWallFlowerPop00",
     "internalId": 4848,
     "uniqueEntryId": "p65nAJPAzQRgrjmDk",
+    "url": "=FORMULATEXT(B39)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4848,
@@ -3724,6 +3778,7 @@
     "filename": "RoomTexWallPanelMold01",
     "internalId": 4871,
     "uniqueEntryId": "NpLfp6Jj3N5SDZJGK",
+    "url": "=FORMULATEXT(B40)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4871,
@@ -3777,6 +3832,7 @@
     "filename": "RoomTexWallPaintWood00",
     "internalId": 4948,
     "uniqueEntryId": "taLRgdodXzdzaAqA5",
+    "url": "=FORMULATEXT(B43)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4948,
@@ -3830,6 +3886,7 @@
     "filename": "RoomTexWallToy00",
     "internalId": 4888,
     "uniqueEntryId": "GFvGWj5w9m6i5eRwu",
+    "url": "=FORMULATEXT(B44)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "060",
@@ -3902,6 +3959,7 @@
     "filename": "RoomTexWallDollhouse01",
     "internalId": 7277,
     "uniqueEntryId": "PPTLt5GQAdAhgRkxx",
+    "url": "=FORMULATEXT(B45)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 7277,
@@ -3955,6 +4013,7 @@
     "filename": "RoomTexWallTin02",
     "internalId": 4925,
     "uniqueEntryId": "izNEFpPcp7pZaokHC",
+    "url": "=FORMULATEXT(B46)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4925,
@@ -4008,6 +4067,7 @@
     "filename": "RoomTexWallSimple03",
     "internalId": 4869,
     "uniqueEntryId": "KEN3oXsCwXwBcrfyD",
+    "url": "=FORMULATEXT(B47)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "046",
@@ -4080,6 +4140,7 @@
     "filename": "RoomTexWallMetro00",
     "internalId": 4940,
     "uniqueEntryId": "mJ2HZDvnKgWB4TfXD",
+    "url": "=FORMULATEXT(B48)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4940,
@@ -4133,6 +4194,7 @@
     "filename": "RoomTexWallTile03",
     "internalId": 7127,
     "uniqueEntryId": "gFc6NFYEbm8AqnpNu",
+    "url": "=FORMULATEXT(B49)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 7127,
@@ -4186,6 +4248,7 @@
     "filename": "RoomTexWallTwoToneTile05",
     "internalId": 6858,
     "uniqueEntryId": "97tHxtBzbMechYNAe",
+    "url": "=FORMULATEXT(B50)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6858,
@@ -4239,6 +4302,7 @@
     "filename": "RoomTexWallCrown00",
     "internalId": 4814,
     "uniqueEntryId": "k3b6CntCn3X84TN8X",
+    "url": "=FORMULATEXT(B51)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4814,
@@ -4292,6 +4356,7 @@
     "filename": "RoomTexWallStucco03",
     "internalId": 4811,
     "uniqueEntryId": "Pdr9WyCDQ9MBgG2qf",
+    "url": "=FORMULATEXT(B52)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4811,
@@ -4345,6 +4410,7 @@
     "filename": "RoomTexWallRose03",
     "internalId": 6869,
     "uniqueEntryId": "24hAjZQPsBXg3qHgw",
+    "url": "=FORMULATEXT(B53)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6869,
@@ -4398,6 +4464,7 @@
     "filename": "RoomTexWallStripe03",
     "internalId": 4945,
     "uniqueEntryId": "ZN2NXtCWSxQyeY9TF",
+    "url": "=FORMULATEXT(B54)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4945,
@@ -4451,6 +4518,7 @@
     "filename": "RoomTexWallWoodTile02",
     "internalId": 6876,
     "uniqueEntryId": "gAvEyZiovXdKht7Db",
+    "url": "=FORMULATEXT(B55)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6876,
@@ -4504,6 +4572,7 @@
     "filename": "RoomSpWallSchoolyard00",
     "internalId": 12855,
     "uniqueEntryId": "r6GkwPtTHqgKbKD8c",
+    "url": "=FORMULATEXT(B56)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12855,
@@ -4557,6 +4626,7 @@
     "filename": "RoomTexWallWoodTile01",
     "internalId": 4827,
     "uniqueEntryId": "FBLdaz4BkJbYvtdhy",
+    "url": "=FORMULATEXT(B57)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4827,
@@ -4610,6 +4680,7 @@
     "filename": "RoomTexWallDiner03",
     "internalId": 7244,
     "uniqueEntryId": "wtnNQikxNEJkL753p",
+    "url": "=FORMULATEXT(B58)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "003",
@@ -4682,6 +4753,7 @@
     "filename": "RoomTexWallHall00",
     "internalId": 4806,
     "uniqueEntryId": "hFcaZ4n9ktaGNSTBE",
+    "url": "=FORMULATEXT(B59)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4806,
@@ -4735,6 +4807,7 @@
     "filename": "RoomTexWallHerringbone00",
     "internalId": 4804,
     "uniqueEntryId": "oYALopoXWt2ZRT7Ej",
+    "url": "=FORMULATEXT(B60)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4804,
@@ -4834,6 +4907,7 @@
     "filename": "RoomTexWallTin03",
     "internalId": 4926,
     "uniqueEntryId": "MHxmHT82gP3odiLwv",
+    "url": "=FORMULATEXT(B61)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4926,
@@ -4887,6 +4961,7 @@
     "filename": "RoomSpWallChurch01",
     "internalId": 12468,
     "uniqueEntryId": "micAswPDNsNS2A2mb",
+    "url": "=FORMULATEXT(B62)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "028",
@@ -4959,6 +5034,7 @@
     "filename": "RoomTexWallBrick03",
     "internalId": 6850,
     "uniqueEntryId": "BE69b25WcF47xAqdG",
+    "url": "=FORMULATEXT(B63)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6850,
@@ -5012,6 +5088,7 @@
     "filename": "RoomTexWallCrown03",
     "internalId": 6851,
     "uniqueEntryId": "oL8aBjZoFCFKEEgAg",
+    "url": "=FORMULATEXT(B64)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6851,
@@ -5065,6 +5142,7 @@
     "filename": "RoomTexWallInsect00",
     "internalId": 4880,
     "uniqueEntryId": "gJEmy4shFTnDB9Pjy",
+    "url": "=FORMULATEXT(B66)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4880,
@@ -5118,6 +5196,7 @@
     "filename": "RoomTexWallLog00",
     "internalId": 4840,
     "uniqueEntryId": "sAEWR5uKGAXM6utL7",
+    "url": "=FORMULATEXT(B67)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4840,
@@ -5217,6 +5296,7 @@
     "filename": "RoomSpWallCafe00",
     "internalId": 5483,
     "uniqueEntryId": "ficQ2fw73rzF5EJBB",
+    "url": "=FORMULATEXT(B68)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5483,
@@ -5270,6 +5350,7 @@
     "filename": "RoomTexWallCamouflage00",
     "internalId": 4883,
     "uniqueEntryId": "gBLHTGPLB65iZypbn",
+    "url": "=FORMULATEXT(B69)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4883,
@@ -5323,6 +5404,7 @@
     "filename": "RoomSpWallCandle00",
     "internalId": 5492,
     "uniqueEntryId": "XmH9GSRmcFZ7HfECB",
+    "url": "=FORMULATEXT(B70)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5492,
@@ -5376,6 +5458,7 @@
     "filename": "RoomSpWallEmptyLot00",
     "internalId": 5485,
     "uniqueEntryId": "Qwbt8qxT8yN9XfXdR",
+    "url": "=FORMULATEXT(B71)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5485,
@@ -5429,6 +5512,7 @@
     "filename": "RoomTexWallCherry00",
     "internalId": 4919,
     "uniqueEntryId": "tcMuDzZqtDYs29Asm",
+    "url": "=FORMULATEXT(B72)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -5547,6 +5631,7 @@
     "filename": "RoomSpWallSakura00",
     "internalId": 7205,
     "uniqueEntryId": "LrRvk9Twg87SSqNR4",
+    "url": "=FORMULATEXT(B73)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "022",
@@ -5684,6 +5769,7 @@
     "filename": "RoomTexWallLego03",
     "internalId": 1292,
     "uniqueEntryId": "xG5WsXZmDzvxPBiMS",
+    "url": "=FORMULATEXT(B74)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "061",
@@ -5756,6 +5842,7 @@
     "filename": "RoomTexWallMud03",
     "internalId": 11176,
     "uniqueEntryId": "juLfiYnkF3x3wSAMZ",
+    "url": "=FORMULATEXT(B75)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 11176,
@@ -5809,6 +5896,7 @@
     "filename": "RoomTexWallClassic00",
     "internalId": 4828,
     "uniqueEntryId": "QMofvFznsaNcsDTqg",
+    "url": "=FORMULATEXT(B76)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4828,
@@ -5862,6 +5950,7 @@
     "filename": "RoomTexWallHall01",
     "internalId": 4807,
     "uniqueEntryId": "WZfDqbGb3cACFJWrg",
+    "url": "=FORMULATEXT(B77)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4807,
@@ -5915,6 +6004,7 @@
     "filename": "RoomTexWallHerringbone01",
     "internalId": 4805,
     "uniqueEntryId": "TpZxYjK6NorSqDMwu",
+    "url": "=FORMULATEXT(B78)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4805,
@@ -6014,6 +6104,7 @@
     "filename": "RoomTexWallGeek00",
     "internalId": 4821,
     "uniqueEntryId": "Ms4DDtXTTGMwXdvvy",
+    "url": "=FORMULATEXT(B80)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4821,
@@ -6067,6 +6158,7 @@
     "filename": "RoomSpWallSummer00",
     "internalId": 12721,
     "uniqueEntryId": "ixM9xgbth7JXjE8Mp",
+    "url": "=FORMULATEXT(B81)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12721,
@@ -6120,6 +6212,7 @@
     "filename": "RoomSpWallNightView00",
     "internalId": 5400,
     "uniqueEntryId": "9B4hFDTD7xM8goPGs",
+    "url": "=FORMULATEXT(B82)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5400,
@@ -6173,6 +6266,7 @@
     "filename": "RoomTexWallLibrary00",
     "internalId": 4837,
     "uniqueEntryId": "YbYmnjKXc49cyT6GB",
+    "url": "=FORMULATEXT(B83)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4837,
@@ -6272,6 +6366,7 @@
     "filename": "RoomSpWallClub00",
     "internalId": 13130,
     "uniqueEntryId": "Dsyv8o4HCHf92g9j5",
+    "url": "=FORMULATEXT(B84)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13130,
@@ -6325,6 +6420,7 @@
     "filename": "RoomTexWallCoffee00",
     "internalId": 12908,
     "uniqueEntryId": "kzCjxQsgHnvqNcHjY",
+    "url": "=FORMULATEXT(B85)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12908,
@@ -6378,6 +6474,7 @@
     "filename": "RoomTexWallLego00",
     "internalId": 1282,
     "uniqueEntryId": "nhwkuBYzogRZ684o9",
+    "url": "=FORMULATEXT(B86)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "061",
@@ -6450,6 +6547,7 @@
     "filename": "RoomTexWallPuzzle01",
     "internalId": 4887,
     "uniqueEntryId": "gpsYwFiGd3coj2eBS",
+    "url": "=FORMULATEXT(B87)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4887,
@@ -6503,6 +6601,7 @@
     "filename": "RoomTexWallTile02",
     "internalId": 4931,
     "uniqueEntryId": "yu9xkApAW49Zhhf9i",
+    "url": "=FORMULATEXT(B88)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4931,
@@ -6556,6 +6655,7 @@
     "filename": "RoomTexWallCommon00",
     "internalId": 4795,
     "uniqueEntryId": "nLsLm3SoBAKtH5DmF",
+    "url": "=FORMULATEXT(B89)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4795,
@@ -6609,6 +6709,7 @@
     "filename": "RoomSpWallStand00",
     "internalId": 12913,
     "uniqueEntryId": "heesFhfzdGF2Yf5sq",
+    "url": "=FORMULATEXT(B90)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12913,
@@ -6662,6 +6763,7 @@
     "filename": "RoomTexWallConcrete00",
     "internalId": 4890,
     "uniqueEntryId": "jmixjxLNuH9jRQhyr",
+    "url": "=FORMULATEXT(B91)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4890,
@@ -6715,6 +6817,7 @@
     "filename": "RoomTexWallBlueSheet00",
     "internalId": 4843,
     "uniqueEntryId": "gDubZLr2wi622j5De",
+    "url": "=FORMULATEXT(B92)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4843,
@@ -6768,6 +6871,7 @@
     "filename": "RoomTexWallCrepe00",
     "internalId": 4841,
     "uniqueEntryId": "dBSCiiYyny3ReAbgo",
+    "url": "=FORMULATEXT(B93)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4841,
@@ -6821,6 +6925,7 @@
     "filename": "RoomTexWallLego02",
     "internalId": 1291,
     "uniqueEntryId": "q9oMMzxz2AEYTuJZ7",
+    "url": "=FORMULATEXT(B95)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "061",
@@ -6893,6 +6998,7 @@
     "filename": "RoomTexWallCute02",
     "internalId": 7217,
     "uniqueEntryId": "KFhQNtCs6tx9sj7dy",
+    "url": "=FORMULATEXT(B94)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 7217,
@@ -6946,6 +7052,7 @@
     "filename": "RoomTexWallCute01",
     "internalId": 7216,
     "uniqueEntryId": "qYZyrdquxzvHErF5n",
+    "url": "=FORMULATEXT(B96)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 7216,
@@ -6999,6 +7106,7 @@
     "filename": "RoomTexWallCute00",
     "internalId": 7215,
     "uniqueEntryId": "McKcAab2qjAaviYvA",
+    "url": "=FORMULATEXT(B97)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 7215,
@@ -7052,6 +7160,7 @@
     "filename": "RoomTexWallCute03",
     "internalId": 7218,
     "uniqueEntryId": "6j8PFwiuCwkN7GP5b",
+    "url": "=FORMULATEXT(B98)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 7218,
@@ -7105,6 +7214,7 @@
     "filename": "RoomTexWallMixPlankWood01",
     "internalId": 4860,
     "uniqueEntryId": "zZ6oMsuRibBQMkCA7",
+    "url": "=FORMULATEXT(B99)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4860,
@@ -7204,6 +7314,7 @@
     "filename": "RoomTexWallChocolate00",
     "internalId": 4932,
     "uniqueEntryId": "MWLvj23WuHrEJkMjk",
+    "url": "=FORMULATEXT(B100)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4932,
@@ -7257,6 +7368,7 @@
     "filename": "RoomSpWallDesert00",
     "internalId": 5488,
     "uniqueEntryId": "o45mte3eFoaM3ts98",
+    "url": "=FORMULATEXT(B101)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5488,
@@ -7310,6 +7422,7 @@
     "filename": "RoomTexWallStratum00",
     "internalId": 5222,
     "uniqueEntryId": "Rj3X2dJ5WfYu3wpMP",
+    "url": "=FORMULATEXT(B102)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5222,
@@ -7363,6 +7476,7 @@
     "filename": "RoomTexWallOldSoil00",
     "internalId": 4856,
     "uniqueEntryId": "LCJDGnfwuHqkgfxJB",
+    "url": "=FORMULATEXT(B103)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4856,
@@ -7416,6 +7530,7 @@
     "filename": "RoomTexWallBaseboards00",
     "internalId": 5227,
     "uniqueEntryId": "sLYrC9TRZJDMCZjM6",
+    "url": "=FORMULATEXT(B104)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5227,
@@ -7469,6 +7584,7 @@
     "filename": "RoomSpWallJail00",
     "internalId": 5509,
     "uniqueEntryId": "zcHJb34EruL2Szn87",
+    "url": "=FORMULATEXT(B105)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5509,
@@ -7522,6 +7638,7 @@
     "filename": "RoomTexWallChina00",
     "internalId": 4866,
     "uniqueEntryId": "TPZRP5K6z87YHs6TC",
+    "url": "=FORMULATEXT(B107)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4866,
@@ -7575,6 +7692,7 @@
     "filename": "RoomSpWallSnowy00",
     "internalId": 13603,
     "uniqueEntryId": "EufJsvAbx2PSzr8jz",
+    "url": "=FORMULATEXT(B108)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13603,
@@ -7693,6 +7811,7 @@
     "filename": "RoomSpWallFireworks00",
     "internalId": 13230,
     "uniqueEntryId": "poLXZmMTa2bYsAYpe",
+    "url": "=FORMULATEXT(B109)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13230,
@@ -7746,6 +7865,7 @@
     "filename": "RoomTexWallMushForest00",
     "internalId": 7187,
     "uniqueEntryId": "ogwkK7pveFmag6MXj",
+    "url": "=FORMULATEXT(B110)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "008",
@@ -7946,6 +8066,7 @@
     "filename": "RoomSpWallFrozenFood00",
     "internalId": 13358,
     "uniqueEntryId": "hMLoXRHP2DGtEfoRE",
+    "url": "=FORMULATEXT(B111)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13358,
@@ -7999,6 +8120,7 @@
     "filename": "RoomSpWallTechnology00",
     "internalId": 5494,
     "uniqueEntryId": "JawM9P46KeFwGXdsm",
+    "url": "=FORMULATEXT(B112)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5494,
@@ -8052,6 +8174,7 @@
     "filename": "RoomTexWallGarbage00",
     "internalId": 5229,
     "uniqueEntryId": "KfoTScCc4NZruFYd8",
+    "url": "=FORMULATEXT(B113)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5229,
@@ -8131,6 +8254,7 @@
     "filename": "RoomSpWallGlowCave00",
     "internalId": 13881,
     "uniqueEntryId": "jMHwiBTGKCvtCF5GN",
+    "url": "=FORMULATEXT(B114)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13881,
@@ -8249,6 +8373,7 @@
     "filename": "RoomSpWallGlowMoss00",
     "internalId": 13019,
     "uniqueEntryId": "9R9RS7LePEZwAMDrT",
+    "url": "=FORMULATEXT(B115)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13019,
@@ -8367,6 +8492,7 @@
     "filename": "RoomSpWallGlowRemains00",
     "internalId": 13874,
     "uniqueEntryId": "MpgCdjR8QPeo5TtGg",
+    "url": "=FORMULATEXT(B116)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13874,
@@ -8485,6 +8611,7 @@
     "filename": "RoomTexWallFusumaGorgeous00",
     "internalId": 4820,
     "uniqueEntryId": "CucFATJt8EtZmbKFX",
+    "url": "=FORMULATEXT(B117)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4820,
@@ -8603,6 +8730,7 @@
     "filename": "RoomTexWallGold00",
     "internalId": 4894,
     "uniqueEntryId": "uyLj28ErYLEjpYzEF",
+    "url": "=FORMULATEXT(B118)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "005",
@@ -8721,6 +8849,7 @@
     "filename": "RoomSpWallCemetery00",
     "internalId": 5511,
     "uniqueEntryId": "aNSptq7wunS7ezfQe",
+    "url": "=FORMULATEXT(B119)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5511,
@@ -8774,6 +8903,7 @@
     "filename": "RoomTexWallDiner02",
     "internalId": 7243,
     "uniqueEntryId": "eTcpWCGHCzsdGRs7k",
+    "url": "=FORMULATEXT(B120)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "003",
@@ -8846,6 +8976,7 @@
     "filename": "RoomTexWallLocker01",
     "internalId": 13441,
     "uniqueEntryId": "DThEXePPszmFcsCpv",
+    "url": "=FORMULATEXT(B121)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13441,
@@ -8899,6 +9030,7 @@
     "filename": "RoomTexWallPanelMold02",
     "internalId": 4872,
     "uniqueEntryId": "49g9WCb7cvS8kpqDF",
+    "url": "=FORMULATEXT(B122)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4872,
@@ -8952,6 +9084,7 @@
     "filename": "RoomTexWallTin00",
     "internalId": 4923,
     "uniqueEntryId": "7uz4sbe5zSfsa8PqK",
+    "url": "=FORMULATEXT(B123)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4923,
@@ -9005,6 +9138,7 @@
     "filename": "RoomTexWallShelf01",
     "internalId": 13442,
     "uniqueEntryId": "xujwrSS3Q7YKTRGLA",
+    "url": "=FORMULATEXT(B124)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13442,
@@ -9058,6 +9192,7 @@
     "filename": "RoomTexWallStripe02",
     "internalId": 4944,
     "uniqueEntryId": "xWHnQXK7duTWZ8GrD",
+    "url": "=FORMULATEXT(B125)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4944,
@@ -9111,6 +9246,7 @@
     "filename": "RoomTexWallCountry03",
     "internalId": 4903,
     "uniqueEntryId": "ZPCtPY4gYYKPn7ipQ",
+    "url": "=FORMULATEXT(B126)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4903,
@@ -9164,6 +9300,7 @@
     "filename": "RoomTexWallManor02",
     "internalId": 4898,
     "uniqueEntryId": "rsBmsGkcmQYWzEivw",
+    "url": "=FORMULATEXT(B127)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4898,
@@ -9217,6 +9354,7 @@
     "filename": "RoomTexWallFlower01",
     "internalId": 4935,
     "uniqueEntryId": "oYN6MCEQENZymoKdm",
+    "url": "=FORMULATEXT(B128)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4935,
@@ -9270,6 +9408,7 @@
     "filename": "RoomTexWallHoneycomb02",
     "internalId": 4913,
     "uniqueEntryId": "Aws33pgNCEygKeaB4",
+    "url": "=FORMULATEXT(B129)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4913,
@@ -9323,6 +9462,7 @@
     "filename": "RoomTexWallFlowerPop02",
     "internalId": 6878,
     "uniqueEntryId": "hD6uCKiZPpJC6eqom",
+    "url": "=FORMULATEXT(B130)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6878,
@@ -9376,6 +9516,7 @@
     "filename": "RoomTexWallPanelMold03",
     "internalId": 6854,
     "uniqueEntryId": "L5cttCqv5dPEpZNwm",
+    "url": "=FORMULATEXT(B131)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6854,
@@ -9429,6 +9570,7 @@
     "filename": "RoomTexWallPaintWood01",
     "internalId": 4949,
     "uniqueEntryId": "wDrM2ExdLkKTKohtr",
+    "url": "=FORMULATEXT(B132)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4949,
@@ -9482,6 +9624,7 @@
     "filename": "RoomTexWallToy02",
     "internalId": 6866,
     "uniqueEntryId": "hrZPmBpEgQ8SZm2oe",
+    "url": "=FORMULATEXT(B133)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "060",
@@ -9554,6 +9697,7 @@
     "filename": "RoomSpWallChurch02",
     "internalId": 12469,
     "uniqueEntryId": "WvGCWHyf2NKwuiZ7Z",
+    "url": "=FORMULATEXT(B134)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "028",
@@ -9626,6 +9770,7 @@
     "filename": "RoomTexWallStucco04",
     "internalId": 4812,
     "uniqueEntryId": "3ZHQo8e8Wqgw4cpwy",
+    "url": "=FORMULATEXT(B135)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4812,
@@ -9679,6 +9824,7 @@
     "filename": "RoomSpWallGreenHouse00",
     "internalId": 13434,
     "uniqueEntryId": "hdknyvkKdgrsWfqx5",
+    "url": "=FORMULATEXT(B136)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13434,
@@ -9732,6 +9878,7 @@
     "filename": "RoomTexWallPsyche00",
     "internalId": 4846,
     "uniqueEntryId": "gt5Bv4qHoaZ9QCyj4",
+    "url": "=FORMULATEXT(B137)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4846,
@@ -9785,6 +9932,7 @@
     "filename": "RoomTexWallBoard00",
     "internalId": 12848,
     "uniqueEntryId": "NCBd3TwM7prv5MPfM",
+    "url": "=FORMULATEXT(B138)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12848,
@@ -9838,6 +9986,7 @@
     "filename": "RoomTexWallOriental00",
     "internalId": 11180,
     "uniqueEntryId": "uCzqeq8GvfKRsWRd4",
+    "url": "=FORMULATEXT(B139)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 11180,
@@ -9891,6 +10040,7 @@
     "filename": "RoomTexWallThickCurtain00",
     "internalId": 4878,
     "uniqueEntryId": "mKPtEN398qGZ7Yryu",
+    "url": "=FORMULATEXT(B140)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4878,
@@ -9944,6 +10094,7 @@
     "filename": "RoomTexWallHoney00",
     "internalId": 4865,
     "uniqueEntryId": "hB3LqvkNidDmzrZ8z",
+    "url": "=FORMULATEXT(B142)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4865,
@@ -10023,6 +10174,7 @@
     "filename": "RoomTexWallHoneycomb00",
     "internalId": 4909,
     "uniqueEntryId": "S3bCMm6KGHKF6Ynzg",
+    "url": "=FORMULATEXT(B143)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4909,
@@ -10076,6 +10228,7 @@
     "filename": "RoomSpWallIce00",
     "internalId": 5505,
     "uniqueEntryId": "d84Y3R4CzrtjCasov",
+    "url": "=FORMULATEXT(B144)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "018",
@@ -10213,6 +10366,7 @@
     "filename": "RoomTexWallIcecream00",
     "internalId": 12909,
     "uniqueEntryId": "wFAgqt6mCbvc9qjo4",
+    "url": "=FORMULATEXT(B145)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12909,
@@ -10266,6 +10420,7 @@
     "filename": "RoomTexWallIceFloe00",
     "internalId": 5662,
     "uniqueEntryId": "XqrwARWP9bzsmsjiF",
+    "url": "=FORMULATEXT(B146)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5662,
@@ -10365,6 +10520,7 @@
     "filename": "RoomTexWallDynasty00",
     "internalId": 5224,
     "uniqueEntryId": "YkuzvDjqXDB9CYHhm",
+    "url": "=FORMULATEXT(B147)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5224,
@@ -10418,6 +10574,7 @@
     "filename": "RoomTexWallFactory00",
     "internalId": 4876,
     "uniqueEntryId": "ao5GCHQqnwssDNRGN",
+    "url": "=FORMULATEXT(B148)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4876,
@@ -10471,6 +10628,7 @@
     "filename": "RoomTexWallIvy00",
     "internalId": 4850,
     "uniqueEntryId": "t6XmWqkyhZt8Axyeh",
+    "url": "=FORMULATEXT(B149)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4850,
@@ -10524,6 +10682,7 @@
     "filename": "RoomTexWallJungle00",
     "internalId": 5457,
     "uniqueEntryId": "pJFdFWHgQRiYAn67i",
+    "url": "=FORMULATEXT(B151)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5457,
@@ -10680,6 +10839,7 @@
     "filename": "RoomTexWallKiss00",
     "internalId": 4881,
     "uniqueEntryId": "ZeuGwoWptbyaQDsbu",
+    "url": "=FORMULATEXT(B154)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4881,
@@ -10733,6 +10893,7 @@
     "filename": "RoomSpWallLabo00",
     "internalId": 5495,
     "uniqueEntryId": "kNrqC5Xs7RFybYfkN",
+    "url": "=FORMULATEXT(B156)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5495,
@@ -10786,6 +10947,7 @@
     "filename": "RoomTexWallLattice00",
     "internalId": 4830,
     "uniqueEntryId": "ZQFuCuh6fdtufMYzs",
+    "url": "=FORMULATEXT(B157)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4830,
@@ -10839,6 +11001,7 @@
     "filename": "RoomSpWallLimestone00",
     "internalId": 5507,
     "uniqueEntryId": "vcz2byxybzfXkuCSX",
+    "url": "=FORMULATEXT(B158)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5507,
@@ -10892,6 +11055,7 @@
     "filename": "RoomSpWallVolcano00",
     "internalId": 5506,
     "uniqueEntryId": "ugvpYYqX4F9bgLbnj",
+    "url": "=FORMULATEXT(B159)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5506,
@@ -10945,6 +11109,7 @@
     "filename": "RoomTexWallLibrary01",
     "internalId": 4838,
     "uniqueEntryId": "wRBeXRoDHw6Curx44",
+    "url": "=FORMULATEXT(B160)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4838,
@@ -11044,6 +11209,7 @@
     "filename": "RoomTexWallMangrove00",
     "internalId": 5514,
     "uniqueEntryId": "j8cYo8ozHYBaAm3JH",
+    "url": "=FORMULATEXT(B161)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5514,
@@ -11102,6 +11268,7 @@
     "filename": "RoomTexWallFish00",
     "internalId": 4879,
     "uniqueEntryId": "DmheJHpCg6xk8dX3R",
+    "url": "=FORMULATEXT(B162)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4879,
@@ -11155,6 +11322,7 @@
     "filename": "RoomSpWallHighLands00",
     "internalId": 5484,
     "uniqueEntryId": "QdWj45HftWrWwC3dH",
+    "url": "=FORMULATEXT(B163)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5484,
@@ -11208,6 +11376,7 @@
     "filename": "RoomSpWallMermaid00",
     "internalId": 12566,
     "uniqueEntryId": "MP44TSDm3ADQzbMq2",
+    "url": "=FORMULATEXT(B164)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "030",
@@ -11428,6 +11597,7 @@
     "filename": "RoomSpWallRain00",
     "internalId": 11915,
     "uniqueEntryId": "hgiWgFTr76YtZH8sH",
+    "url": "=FORMULATEXT(B165)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 11915,
@@ -11481,6 +11651,7 @@
     "filename": "RoomTexWallMod00",
     "internalId": 4908,
     "uniqueEntryId": "Tiya4QoMRwThyKcG8",
+    "url": "=FORMULATEXT(B166)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4908,
@@ -11534,6 +11705,7 @@
     "filename": "RoomTexWallLego01",
     "internalId": 1290,
     "uniqueEntryId": "5aY2FCma48tNnG6gM",
+    "url": "=FORMULATEXT(B167)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "061",
@@ -11606,6 +11778,7 @@
     "filename": "RoomSpWallShojiModem00",
     "internalId": 4864,
     "uniqueEntryId": "WBh8T7xJBavLRKZpB",
+    "url": "=FORMULATEXT(B168)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4864,
@@ -11659,6 +11832,7 @@
     "filename": "RoomTexWallMud02",
     "internalId": 11178,
     "uniqueEntryId": "Yk5NZC7SSyjDEpnA7",
+    "url": "=FORMULATEXT(B169)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 11178,
@@ -11712,6 +11886,7 @@
     "filename": "RoomTexWallMixwood00",
     "internalId": 4904,
     "uniqueEntryId": "KZjTLMR8uhbpJGQ64",
+    "url": "=FORMULATEXT(B170)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4904,
@@ -11849,6 +12024,7 @@
     "filename": "RoomTexWallDot00",
     "internalId": 4892,
     "uniqueEntryId": "SWkrbmL8ME6NeQd9Q",
+    "url": "=FORMULATEXT(B171)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4892,
@@ -11902,6 +12078,7 @@
     "filename": "RoomTexWallTile00",
     "internalId": 4910,
     "uniqueEntryId": "6pk8nNbm4EmT3PrBr",
+    "url": "=FORMULATEXT(B172)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4910,
@@ -11955,6 +12132,7 @@
     "filename": "RoomTexWallPlaster00",
     "internalId": 5215,
     "uniqueEntryId": "mfRLEniEAEB9YAjCY",
+    "url": "=FORMULATEXT(B173)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5215,
@@ -12008,6 +12186,7 @@
     "filename": "RoomTexWallMosaicTile00",
     "internalId": 4862,
     "uniqueEntryId": "2T8d9sRKwijHhESDS",
+    "url": "=FORMULATEXT(B174)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4862,
@@ -12061,6 +12240,7 @@
     "filename": "RoomTexWallMoss00",
     "internalId": 5458,
     "uniqueEntryId": "nuuPHdxH5skMPdehs",
+    "url": "=FORMULATEXT(B175)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5458,
@@ -12114,6 +12294,7 @@
     "filename": "RoomTexWallMuseum00",
     "internalId": 4842,
     "uniqueEntryId": "NQvZs3xkbGd6azYxB",
+    "url": "=FORMULATEXT(B176)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4842,
@@ -12167,6 +12348,7 @@
     "filename": "RoomTexWallMush00",
     "internalId": 5164,
     "uniqueEntryId": "6xJHWgQgJA9e2n4jJ",
+    "url": "=FORMULATEXT(B177)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "008",
@@ -12350,6 +12532,7 @@
     "filename": "RoomSpWallMario00",
     "internalId": 13805,
     "uniqueEntryId": "Z5kYqifx5im2Ywe6P",
+    "url": "=FORMULATEXT(B178)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "034",
@@ -12422,6 +12605,7 @@
     "filename": "RoomSpWallHorizon00",
     "internalId": 5486,
     "uniqueEntryId": "BYpn3AZyJ8PWCAxHj",
+    "url": "=FORMULATEXT(B181)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5486,
@@ -12475,6 +12659,7 @@
     "filename": "RoomTexWallOffice00",
     "internalId": 5218,
     "uniqueEntryId": "gSMtrRvmA9mYgtKtD",
+    "url": "=FORMULATEXT(B182)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5218,
@@ -12528,6 +12713,7 @@
     "filename": "RoomTexWallOld00",
     "internalId": 4857,
     "uniqueEntryId": "LvLyyhmz3TH3qjBi4",
+    "url": "=FORMULATEXT(B183)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4857,
@@ -12581,6 +12767,7 @@
     "filename": "RoomTexWallMorocco03",
     "internalId": 6863,
     "uniqueEntryId": "z5bNEBbKNL56CwQKo",
+    "url": "=FORMULATEXT(B184)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "050",
@@ -12653,6 +12840,7 @@
     "filename": "RoomTexWallOperatingRoom00",
     "internalId": 12851,
     "uniqueEntryId": "BS7HgCFLJpppWYxrD",
+    "url": "=FORMULATEXT(B185)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12851,
@@ -12706,6 +12894,7 @@
     "filename": "RoomTexWallTadelakt01",
     "internalId": 13497,
     "uniqueEntryId": "tN3DQ95fSAWs3o5SM",
+    "url": "=FORMULATEXT(B188)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13497,
@@ -12759,6 +12948,7 @@
     "filename": "RoomTexWallCamouflage03",
     "internalId": 6855,
     "uniqueEntryId": "xiaFSrf6okC624pCz",
+    "url": "=FORMULATEXT(B186)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6855,
@@ -12812,6 +13002,7 @@
     "filename": "RoomTexWallPanelMold00",
     "internalId": 4870,
     "uniqueEntryId": "zW3vwqmKDGhK68rCJ",
+    "url": "=FORMULATEXT(B187)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4870,
@@ -12865,6 +13056,7 @@
     "filename": "RoomTexWallOrange00",
     "internalId": 4915,
     "uniqueEntryId": "4GirW6p4notkWfhs7",
+    "url": "=FORMULATEXT(B189)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -12983,6 +13175,7 @@
     "filename": "RoomTexWallStucco01",
     "internalId": 4809,
     "uniqueEntryId": "TFsdbmb9sti7Gz3pt",
+    "url": "=FORMULATEXT(B190)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4809,
@@ -13036,6 +13229,7 @@
     "filename": "RoomTexWallTeahouse00",
     "internalId": 12910,
     "uniqueEntryId": "BrjPZz2J4AvQBgpR3",
+    "url": "=FORMULATEXT(B191)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12910,
@@ -13089,6 +13283,7 @@
     "filename": "RoomTexWallAtelier00",
     "internalId": 4854,
     "uniqueEntryId": "qnE76Sd6WdnihirBL",
+    "url": "=FORMULATEXT(B192)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4854,
@@ -13142,6 +13337,7 @@
     "filename": "RoomSpWallPalace00",
     "internalId": 5502,
     "uniqueEntryId": "fGigBL7P6sRsv25Au",
+    "url": "=FORMULATEXT(B193)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5502,
@@ -13195,6 +13391,7 @@
     "filename": "RoomTexWallParty00",
     "internalId": 5226,
     "uniqueEntryId": "9v4H4NeFMQR9tKLj7",
+    "url": "=FORMULATEXT(B195)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5226,
@@ -13248,6 +13445,7 @@
     "filename": "RoomTexWallDot01",
     "internalId": 4899,
     "uniqueEntryId": "m4ha6kr7tPuio5AcL",
+    "url": "=FORMULATEXT(B196)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4899,
@@ -13301,6 +13499,7 @@
     "filename": "RoomTexWallPuzzle00",
     "internalId": 4886,
     "uniqueEntryId": "b3EvGiavTx8QPHrfP",
+    "url": "=FORMULATEXT(B197)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4886,
@@ -13354,6 +13553,7 @@
     "filename": "RoomTexWallFootmark00",
     "internalId": 13482,
     "uniqueEntryId": "m5usCdM6aRQPQme5x",
+    "url": "=FORMULATEXT(B198)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13482,
@@ -13407,6 +13607,7 @@
     "filename": "RoomTexWallTwoToneTile04",
     "internalId": 6857,
     "uniqueEntryId": "m9bGMPzT4cjdMddyY",
+    "url": "=FORMULATEXT(B199)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6857,
@@ -13460,6 +13661,7 @@
     "filename": "RoomTexWallPeach00",
     "internalId": 4918,
     "uniqueEntryId": "cpGXBrDm4SXGAXraz",
+    "url": "=FORMULATEXT(B200)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -13578,6 +13780,7 @@
     "filename": "RoomTexWallPear00",
     "internalId": 4917,
     "uniqueEntryId": "vtaaw7vsoJD8meQuM",
+    "url": "=FORMULATEXT(B201)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "013",
@@ -13696,6 +13899,7 @@
     "filename": "RoomTexWallPegboard01",
     "internalId": 4921,
     "uniqueEntryId": "BThQrmfp4EnBqyfv3",
+    "url": "=FORMULATEXT(B202)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4921,
@@ -13749,6 +13953,7 @@
     "filename": "RoomTexWallMedicineRoom00",
     "internalId": 12724,
     "uniqueEntryId": "RsJaDrDCjLfrtCB9G",
+    "url": "=FORMULATEXT(B203)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12724,
@@ -13802,6 +14007,7 @@
     "filename": "RoomTexWallCountry01",
     "internalId": 4895,
     "uniqueEntryId": "zgZSrtarnCJG53AdD",
+    "url": "=FORMULATEXT(B204)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4895,
@@ -13855,6 +14061,7 @@
     "filename": "RoomTexWallDiner01",
     "internalId": 7242,
     "uniqueEntryId": "MXeKHor4q66HH3GJs",
+    "url": "=FORMULATEXT(B205)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "003",
@@ -13927,6 +14134,7 @@
     "filename": "RoomTexWallFlower00",
     "internalId": 4893,
     "uniqueEntryId": "eCN5rZb7sXsoWSCmW",
+    "url": "=FORMULATEXT(B206)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4893,
@@ -13980,6 +14188,7 @@
     "filename": "RoomTexWallHeart01",
     "internalId": 4875,
     "uniqueEntryId": "4f732CJdDvXxHDQsd",
+    "url": "=FORMULATEXT(B207)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4875,
@@ -14033,6 +14242,7 @@
     "filename": "RoomTexWallPaintWood02",
     "internalId": 4802,
     "uniqueEntryId": "tjx2TsuHTcr4jaMHM",
+    "url": "=FORMULATEXT(B208)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4802,
@@ -14086,6 +14296,7 @@
     "filename": "RoomTexWallToy01",
     "internalId": 4889,
     "uniqueEntryId": "xYNWemEyTsD9zG8iC",
+    "url": "=FORMULATEXT(B209)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "060",
@@ -14158,6 +14369,7 @@
     "filename": "RoomTexWallDollhouse00",
     "internalId": 7274,
     "uniqueEntryId": "gToedZLPo7MbMvpah",
+    "url": "=FORMULATEXT(B210)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 7274,
@@ -14211,6 +14423,7 @@
     "filename": "RoomTexWallTin01",
     "internalId": 4924,
     "uniqueEntryId": "WfmPknxrLpp25SMbS",
+    "url": "=FORMULATEXT(B211)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4924,
@@ -14264,6 +14477,7 @@
     "filename": "RoomTexWallSimple02",
     "internalId": 4868,
     "uniqueEntryId": "mH2zs7NpfPgERmHwm",
+    "url": "=FORMULATEXT(B212)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "046",
@@ -14336,6 +14550,7 @@
     "filename": "RoomTexWallCrown02",
     "internalId": 4816,
     "uniqueEntryId": "cwBg3xvzjfh2qm7Lg",
+    "url": "=FORMULATEXT(B213)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4816,
@@ -14389,6 +14604,7 @@
     "filename": "RoomTexWallStripe01",
     "internalId": 4943,
     "uniqueEntryId": "Pwd2z87xxFm52tA28",
+    "url": "=FORMULATEXT(B214)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4943,
@@ -14442,6 +14658,7 @@
     "filename": "RoomSpWallPirates00",
     "internalId": 12567,
     "uniqueEntryId": "DydGczJz6fqyAZJuA",
+    "url": "=FORMULATEXT(B215)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "029",
@@ -14514,6 +14731,7 @@
     "filename": "RoomSpWallBallroom00",
     "internalId": 14252,
     "uniqueEntryId": "PSDiTRHahnqgc3vEY",
+    "url": "=FORMULATEXT(B217)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 14252,
@@ -14567,6 +14785,7 @@
     "filename": "RoomTexWallMorocco02",
     "internalId": 6864,
     "uniqueEntryId": "2y5jPPPs3so7APToC",
+    "url": "=FORMULATEXT(B220)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "050",
@@ -14639,6 +14858,7 @@
     "filename": "RoomTexWallCamouflage02",
     "internalId": 4885,
     "uniqueEntryId": "AY2jSyyAd4BD74xQ7",
+    "url": "=FORMULATEXT(B218)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4885,
@@ -14692,6 +14912,7 @@
     "filename": "RoomTexWallDot04",
     "internalId": 4902,
     "uniqueEntryId": "JRu4Xs5kYG4ognk2P",
+    "url": "=FORMULATEXT(B219)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4902,
@@ -14745,6 +14966,7 @@
     "filename": "RoomTexWallPuzzle03",
     "internalId": 6875,
     "uniqueEntryId": "iG8MR3f2F2jDsLjT9",
+    "url": "=FORMULATEXT(B221)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6875,
@@ -14798,6 +15020,7 @@
     "filename": "RoomTexWallDollhouse03",
     "internalId": 7275,
     "uniqueEntryId": "tmY5uczEnYXA6fdeQ",
+    "url": "=FORMULATEXT(B222)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 7275,
@@ -14851,6 +15074,7 @@
     "filename": "RoomTexWallRose01",
     "internalId": 4907,
     "uniqueEntryId": "kHEHhFZSfDXTHtZAa",
+    "url": "=FORMULATEXT(B223)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4907,
@@ -14904,6 +15128,7 @@
     "filename": "RoomTexWallHanchiku00",
     "internalId": 4845,
     "uniqueEntryId": "9AafcLh3QkLp2tdWj",
+    "url": "=FORMULATEXT(B224)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4845,
@@ -14957,6 +15182,7 @@
     "filename": "RoomTexWallRuins00",
     "internalId": 5225,
     "uniqueEntryId": "bTb98gEchXobwaqdt",
+    "url": "=FORMULATEXT(B225)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5225,
@@ -15010,6 +15236,7 @@
     "filename": "RoomTexWallArtDeco01",
     "internalId": 4818,
     "uniqueEntryId": "R3zgKkrxc3ar4y9A8",
+    "url": "=FORMULATEXT(B226)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4818,
@@ -15063,6 +15290,7 @@
     "filename": "RoomTexWallManor01",
     "internalId": 4897,
     "uniqueEntryId": "F7oWFwEAh4evtkJcb",
+    "url": "=FORMULATEXT(B227)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4897,
@@ -15116,6 +15344,7 @@
     "filename": "RoomTexWallDot02",
     "internalId": 4900,
     "uniqueEntryId": "3mfqbt8sXR88eDfTk",
+    "url": "=FORMULATEXT(B228)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4900,
@@ -15169,6 +15398,7 @@
     "filename": "RoomTexWallHeart03",
     "internalId": 6870,
     "uniqueEntryId": "TPrtAkkWJa7KpLady",
+    "url": "=FORMULATEXT(B229)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6870,
@@ -15222,6 +15452,7 @@
     "filename": "RoomTexWallFlowerPop03",
     "internalId": 6879,
     "uniqueEntryId": "yasngHr44QgXc9tYs",
+    "url": "=FORMULATEXT(B230)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6879,
@@ -15275,6 +15506,7 @@
     "filename": "RoomTexWallLocker00",
     "internalId": 12849,
     "uniqueEntryId": "9KJS7LeM7STiSXYKH",
+    "url": "=FORMULATEXT(B231)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12849,
@@ -15328,6 +15560,7 @@
     "filename": "RoomTexWallPegboard03",
     "internalId": 6853,
     "uniqueEntryId": "TCLSE3BdkCQeiM7wX",
+    "url": "=FORMULATEXT(B232)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6853,
@@ -15381,6 +15614,7 @@
     "filename": "RoomTexWallTwoToneTile03",
     "internalId": 6856,
     "uniqueEntryId": "u9dKmtft32t4cxxiW",
+    "url": "=FORMULATEXT(B233)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6856,
@@ -15434,6 +15668,7 @@
     "filename": "RoomTexWallBrick01",
     "internalId": 4928,
     "uniqueEntryId": "Hu3jyiCP23j78PCdX",
+    "url": "=FORMULATEXT(B234)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4928,
@@ -15487,6 +15722,7 @@
     "filename": "RoomTexWallKitsch00",
     "internalId": 4847,
     "uniqueEntryId": "MdWwebM7zyeBdykxp",
+    "url": "=FORMULATEXT(B235)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4847,
@@ -15540,6 +15776,7 @@
     "filename": "RoomTexWallRestaurant00",
     "internalId": 12907,
     "uniqueEntryId": "HCYc3GcoJqWhMM7nc",
+    "url": "=FORMULATEXT(B236)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12907,
@@ -15593,6 +15830,7 @@
     "filename": "RoomSpWallFarm00",
     "internalId": 5487,
     "uniqueEntryId": "TnHvGeJGKioxc95mH",
+    "url": "=FORMULATEXT(B237)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5487,
@@ -15646,6 +15884,7 @@
     "filename": "RoomSpWallWrestling00",
     "internalId": 5512,
     "uniqueEntryId": "bg9rQRYAbzeD8rLCw",
+    "url": "=FORMULATEXT(B238)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5512,
@@ -15699,6 +15938,7 @@
     "filename": "RoomTexWallRobo00",
     "internalId": 5455,
     "uniqueEntryId": "hJZQA7tyayEK3spG6",
+    "url": "=FORMULATEXT(B239)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5455,
@@ -15752,6 +15992,7 @@
     "filename": "RoomTexWallBouldering00",
     "internalId": 4851,
     "uniqueEntryId": "CRvqDNWfXzY2ibXvG",
+    "url": "=FORMULATEXT(B240)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4851,
@@ -15805,6 +16046,7 @@
     "filename": "RoomSpWallRopenet00",
     "internalId": 13875,
     "uniqueEntryId": "kjhatSss6jpDHcG5j",
+    "url": "=FORMULATEXT(B242)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13875,
@@ -15923,6 +16165,7 @@
     "filename": "RoomTexWallRose00",
     "internalId": 4906,
     "uniqueEntryId": "azgSWFRcgeuopRWrH",
+    "url": "=FORMULATEXT(B243)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4906,
@@ -15976,6 +16219,7 @@
     "filename": "RoomTexWallRemains00",
     "internalId": 5228,
     "uniqueEntryId": "ZHiKhqts5brebhYH9",
+    "url": "=FORMULATEXT(B244)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5228,
@@ -16029,6 +16273,7 @@
     "filename": "RoomTexWallStone00",
     "internalId": 4813,
     "uniqueEntryId": "xP7S673w2oNwNHowp",
+    "url": "=FORMULATEXT(B245)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4813,
@@ -16147,6 +16392,7 @@
     "filename": "RoomTexWallSolidWood00",
     "internalId": 4947,
     "uniqueEntryId": "jFtMrj8NBC3o4ALzG",
+    "url": "=FORMULATEXT(B246)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "022",
@@ -16284,6 +16530,7 @@
     "filename": "RoomSpWallSF00",
     "internalId": 5510,
     "uniqueEntryId": "y48TLWMbXCbrWQp5a",
+    "url": "=FORMULATEXT(B247)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5510,
@@ -16402,6 +16649,7 @@
     "filename": "RoomTexWallFusuma00",
     "internalId": 4819,
     "uniqueEntryId": "wk4ST89FjabXnZPXy",
+    "url": "=FORMULATEXT(B248)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4819,
@@ -16455,6 +16703,7 @@
     "filename": "RoomSpWallSeaView00",
     "internalId": 5501,
     "uniqueEntryId": "fHQn9EzoTxznm7nJ9",
+    "url": "=FORMULATEXT(B249)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5501,
@@ -16508,6 +16757,7 @@
     "filename": "RoomSpWallMonitor00",
     "internalId": 5491,
     "uniqueEntryId": "N6T3rBvQdYoJoXkrH",
+    "url": "=FORMULATEXT(B250)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5491,
@@ -16561,6 +16811,7 @@
     "filename": "RoomTexWallPuzzle02",
     "internalId": 6874,
     "uniqueEntryId": "2mtYv7D25wDqMWi6P",
+    "url": "=FORMULATEXT(B251)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6874,
@@ -16614,6 +16865,7 @@
     "filename": "RoomSpWallServer00",
     "internalId": 5490,
     "uniqueEntryId": "ycnhxNaWfeXEq5x7A",
+    "url": "=FORMULATEXT(B252)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5490,
@@ -16667,6 +16919,7 @@
     "filename": "RoomSpWallShoji00",
     "internalId": 4863,
     "uniqueEntryId": "5RdqeAZAvdCR5QxqM",
+    "url": "=FORMULATEXT(B253)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4863,
@@ -16720,6 +16973,7 @@
     "filename": "RoomTexWallShutter00",
     "internalId": 4825,
     "uniqueEntryId": "4ez74JDpR9kmiroQr",
+    "url": "=FORMULATEXT(B254)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4825,
@@ -16773,6 +17027,7 @@
     "filename": "RoomSpWallGelande00",
     "internalId": 5498,
     "uniqueEntryId": "hCdDcFDBWEe6pmctp",
+    "url": "=FORMULATEXT(B255)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5498,
@@ -16872,6 +17127,7 @@
     "filename": "RoomSpWallSkull00",
     "internalId": 5520,
     "uniqueEntryId": "7GLt2YDxMDyp8EJth",
+    "url": "=FORMULATEXT(B256)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5520,
@@ -16925,6 +17181,7 @@
     "filename": "RoomSpWallCloud00",
     "internalId": 5504,
     "uniqueEntryId": "9YmTrPqSZRCvxRtLi",
+    "url": "=FORMULATEXT(B257)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5504,
@@ -16978,6 +17235,7 @@
     "filename": "RoomTexWallSkyscraper00",
     "internalId": 4852,
     "uniqueEntryId": "Ah36ZRM9QBHBt7HZF",
+    "url": "=FORMULATEXT(B258)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4852,
@@ -17031,6 +17289,7 @@
     "filename": "RoomTexWallSnowCrystal00",
     "internalId": 4855,
     "uniqueEntryId": "w5MEjbgphAwDo42mk",
+    "url": "=FORMULATEXT(B259)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4855,
@@ -17130,6 +17389,7 @@
     "filename": "RoomTexWallMud01",
     "internalId": 11177,
     "uniqueEntryId": "Bke28iGoY3LhDagx4",
+    "url": "=FORMULATEXT(B260)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 11177,
@@ -17183,6 +17443,7 @@
     "filename": "RoomTexWallHalloween00",
     "internalId": 13224,
     "uniqueEntryId": "hD6Y9zX2se2nKpxWy",
+    "url": "=FORMULATEXT(B261)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "012",
@@ -17255,6 +17516,7 @@
     "filename": "RoomTexWallFireWood00",
     "internalId": 4844,
     "uniqueEntryId": "TZi9bo7GYzJxPJNNe",
+    "url": "=FORMULATEXT(B262)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4844,
@@ -17354,6 +17616,7 @@
     "filename": "RoomSpWallStadium00",
     "internalId": 5503,
     "uniqueEntryId": "oJoGTXMzLnYTpdBaf",
+    "url": "=FORMULATEXT(B263)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5503,
@@ -17407,6 +17670,7 @@
     "filename": "RoomTexWallMud00",
     "internalId": 5521,
     "uniqueEntryId": "4Zv8KLzxrsm6k53pN",
+    "url": "=FORMULATEXT(B264)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5521,
@@ -17460,6 +17724,7 @@
     "filename": "RoomSpWallStarPrint00",
     "internalId": 5528,
     "uniqueEntryId": "sjnLXANKDEPMzdGbn",
+    "url": "=FORMULATEXT(B265)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5528,
@@ -17578,6 +17843,7 @@
     "filename": "RoomSpWallStarSky00",
     "internalId": 5500,
     "uniqueEntryId": "iMQgW8pWYPWbj9Qom",
+    "url": "=FORMULATEXT(B266)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "019",
@@ -17715,6 +17981,7 @@
     "filename": "RoomTexWallRenaissance00",
     "internalId": 4861,
     "uniqueEntryId": "BdPATBHc8m7YvJzwP",
+    "url": "=FORMULATEXT(B267)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4861,
@@ -17768,6 +18035,7 @@
     "filename": "RoomTexWallSteampunk00",
     "internalId": 4937,
     "uniqueEntryId": "DhX6XzLy3Bg7s4owN",
+    "url": "=FORMULATEXT(B268)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4937,
@@ -17821,6 +18089,7 @@
     "filename": "RoomTexWallSteel00",
     "internalId": 4801,
     "uniqueEntryId": "K2uSKanJ3r6bQt6MG",
+    "url": "=FORMULATEXT(B269)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4801,
@@ -17920,6 +18189,7 @@
     "filename": "RoomTexWallBasement00",
     "internalId": 5216,
     "uniqueEntryId": "8hnPcADHfoEpvgSAS",
+    "url": "=FORMULATEXT(B270)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5216,
@@ -18019,6 +18289,7 @@
     "filename": "RoomSpWallThunder00",
     "internalId": 5499,
     "uniqueEntryId": "Y3sjyMeHtDFcdBfrM",
+    "url": "=FORMULATEXT(B271)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5499,
@@ -18072,6 +18343,7 @@
     "filename": "RoomTexWallStraw00",
     "internalId": 5217,
     "uniqueEntryId": "u3orRaGAX2iwdtCLG",
+    "url": "=FORMULATEXT(B272)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5217,
@@ -18125,6 +18397,7 @@
     "filename": "RoomTexWallChocolate02",
     "internalId": 4934,
     "uniqueEntryId": "G5QeNa2L26MwuCexA",
+    "url": "=FORMULATEXT(B273)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4934,
@@ -18178,6 +18451,7 @@
     "filename": "RoomTexWallStreetArt00",
     "internalId": 5221,
     "uniqueEntryId": "88hCuytidryqimPXr",
+    "url": "=FORMULATEXT(B274)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5221,
@@ -18231,6 +18505,7 @@
     "filename": "RoomSpWallMountainTop00",
     "internalId": 5513,
     "uniqueEntryId": "hFmF2iNjDvLGfF3Rf",
+    "url": "=FORMULATEXT(B275)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5513,
@@ -18284,6 +18559,7 @@
     "filename": "RoomTexWallSupermarket00",
     "internalId": 5220,
     "uniqueEntryId": "tttMaoMYDWcGjpCSD",
+    "url": "=FORMULATEXT(B276)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5220,
@@ -18337,6 +18613,7 @@
     "filename": "RoomTexWallGlamping00",
     "internalId": 13435,
     "uniqueEntryId": "T5kHeh2QvsQNQ5avc",
+    "url": "=FORMULATEXT(B277)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13435,
@@ -18390,6 +18667,7 @@
     "filename": "RoomSpWallTrain00",
     "internalId": 5496,
     "uniqueEntryId": "pkPNcpqbtoB3fNmCT",
+    "url": "=FORMULATEXT(B278)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5496,
@@ -18443,6 +18721,7 @@
     "filename": "RoomTexWallRoadsideTree00",
     "internalId": 5456,
     "uniqueEntryId": "aLzrLXC7Nyk6h6pDw",
+    "url": "=FORMULATEXT(B279)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5456,
@@ -18496,6 +18775,7 @@
     "filename": "RoomSpWallTropical00",
     "internalId": 5661,
     "uniqueEntryId": "sZgNFwEcxpLSAxB4X",
+    "url": "=FORMULATEXT(B280)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5661,
@@ -18595,6 +18875,7 @@
     "filename": "RoomSpWallFishTank00",
     "internalId": 5508,
     "uniqueEntryId": "QXNnruZcwJursNmjP",
+    "url": "=FORMULATEXT(B282)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5508,
@@ -18713,6 +18994,7 @@
     "filename": "RoomTexWallWaveTile00",
     "internalId": 4832,
     "uniqueEntryId": "eLQ2JDZKjrzcnP9gn",
+    "url": "=FORMULATEXT(B283)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4832,
@@ -18766,6 +19048,7 @@
     "filename": "RoomTexWallJuneBride00",
     "internalId": 12461,
     "uniqueEntryId": "xT6kyFtbGPpR8nRM3",
+    "url": "=FORMULATEXT(B284)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "028",
@@ -18838,6 +19121,7 @@
     "filename": "RoomSpWallWilderness00",
     "internalId": 5489,
     "uniqueEntryId": "tYFKmm4XzGGGQAcfG",
+    "url": "=FORMULATEXT(B285)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5489,
@@ -18891,6 +19175,7 @@
     "filename": "RoomSpWallFrench00",
     "internalId": 12906,
     "uniqueEntryId": "itpyDq45huqbfAcqB",
+    "url": "=FORMULATEXT(B288)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12906,
@@ -18944,6 +19229,7 @@
     "filename": "RoomTexWallWoodTile00",
     "internalId": 4826,
     "uniqueEntryId": "QyrvwKiKMmNvm7KxR",
+    "url": "=FORMULATEXT(B286)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4826,
@@ -18997,6 +19283,7 @@
     "filename": "RoomTexWallManor00",
     "internalId": 4891,
     "uniqueEntryId": "ZDpt8b6TTGr2hihP5",
+    "url": "=FORMULATEXT(B287)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4891,
@@ -19050,6 +19337,7 @@
     "filename": "RoomTexWallHall02",
     "internalId": 6861,
     "uniqueEntryId": "HZoM3iHpKrQPBK2Gh",
+    "url": "=FORMULATEXT(B289)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6861,
@@ -19103,6 +19391,7 @@
     "filename": "RoomTexWallHoneycomb03",
     "internalId": 4914,
     "uniqueEntryId": "K8mdzBZZeBLxZEAzZ",
+    "url": "=FORMULATEXT(B290)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4914,
@@ -19156,6 +19445,7 @@
     "filename": "RoomTexWallPaintWood03",
     "internalId": 4803,
     "uniqueEntryId": "cN4bnHaw4mruhnMZk",
+    "url": "=FORMULATEXT(B291)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4803,
@@ -19209,6 +19499,7 @@
     "filename": "RoomTexWallPegboard00",
     "internalId": 4920,
     "uniqueEntryId": "krohWS7x49N2hCKrF",
+    "url": "=FORMULATEXT(B292)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4920,
@@ -19262,6 +19553,7 @@
     "filename": "RoomTexWallSimple00",
     "internalId": 4939,
     "uniqueEntryId": "z2Zh2fzFwCbvMDm8J",
+    "url": "=FORMULATEXT(B293)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "046",
@@ -19334,6 +19626,7 @@
     "filename": "RoomTexWallMetro01",
     "internalId": 4941,
     "uniqueEntryId": "ajXm5zy9pwf7XEyHF",
+    "url": "=FORMULATEXT(B294)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4941,
@@ -19387,6 +19680,7 @@
     "filename": "RoomSpWallChurch00",
     "internalId": 12466,
     "uniqueEntryId": "mKuptCLkH2MknX2PN",
+    "url": "=FORMULATEXT(B295)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "028",
@@ -19459,6 +19753,7 @@
     "filename": "RoomSpWallWindow00",
     "internalId": 13332,
     "uniqueEntryId": "DZQQvsrgHThm5gHZZ",
+    "url": "=FORMULATEXT(B296)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13332,
@@ -19512,6 +19807,7 @@
     "filename": "RoomTexWallBrick00",
     "internalId": 4927,
     "uniqueEntryId": "htjwxjceb2hc6GxjX",
+    "url": "=FORMULATEXT(B297)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4927,
@@ -19565,6 +19861,7 @@
     "filename": "RoomTexWallChocolate01",
     "internalId": 4933,
     "uniqueEntryId": "6qMhFdc2nDSvJSCfT",
+    "url": "=FORMULATEXT(B298)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4933,
@@ -19618,6 +19915,7 @@
     "filename": "RoomTexWallRose02",
     "internalId": 6868,
     "uniqueEntryId": "yksDvcnnKqM7tnzas",
+    "url": "=FORMULATEXT(B299)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6868,
@@ -19671,6 +19969,7 @@
     "filename": "RoomTexWallShelf00",
     "internalId": 12912,
     "uniqueEntryId": "sNhncamcj9AS7Fq2Z",
+    "url": "=FORMULATEXT(B300)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 12912,
@@ -19724,6 +20023,7 @@
     "filename": "RoomTexWallWildWood00",
     "internalId": 4858,
     "uniqueEntryId": "vhJr7B96SnG3xQQCs",
+    "url": "=FORMULATEXT(B301)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4858,
@@ -19823,6 +20123,7 @@
     "filename": "RoomTexWallCedar00",
     "internalId": 4911,
     "uniqueEntryId": "puQYs9hygxfcQWsjt",
+    "url": "=FORMULATEXT(B302)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4911,
@@ -19922,6 +20223,7 @@
     "filename": "RoomTexWallMixPlankWood00",
     "internalId": 4859,
     "uniqueEntryId": "RgzoarteJyzD4xSAm",
+    "url": "=FORMULATEXT(B303)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4859,
@@ -20021,6 +20323,7 @@
     "filename": "RoomTexWallJukai00",
     "internalId": 5223,
     "uniqueEntryId": "2B4YTYqnm64vgANY4",
+    "url": "=FORMULATEXT(B304)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 5223,
@@ -20139,6 +20442,7 @@
     "filename": "RoomTexWallFlower02",
     "internalId": 6872,
     "uniqueEntryId": "esknqzcAenk8uqzYk",
+    "url": "=FORMULATEXT(B305)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6872,
@@ -20192,6 +20496,7 @@
     "filename": "RoomTexWallHeart02",
     "internalId": 6871,
     "uniqueEntryId": "BqWMEqc2tL8CnPAmd",
+    "url": "=FORMULATEXT(B306)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 6871,
@@ -20245,6 +20550,7 @@
     "filename": "RoomTexWallFlowerPop01",
     "internalId": 4849,
     "uniqueEntryId": "FrZas8MjMdjDTPvkX",
+    "url": "=FORMULATEXT(B307)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4849,
@@ -20298,6 +20604,7 @@
     "filename": "RoomTexWallToy03",
     "internalId": 6865,
     "uniqueEntryId": "mraytANoYBQvA8qAk",
+    "url": "=FORMULATEXT(B308)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "060",
@@ -20370,6 +20677,7 @@
     "filename": "RoomTexWallDollhouse02",
     "internalId": 7276,
     "uniqueEntryId": "ysEdh2vpCpg5qBcNg",
+    "url": "=FORMULATEXT(B309)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 7276,
@@ -20423,6 +20731,7 @@
     "filename": "RoomTexWallSimple01",
     "internalId": 4867,
     "uniqueEntryId": "7sSXFNqcYgPMcGY8k",
+    "url": "=FORMULATEXT(B310)",
     "seriesTranslations": {
       "sourceSheet": "HHA Themes",
       "id": "046",
@@ -20495,6 +20804,7 @@
     "filename": "RoomTexWallStucco00",
     "internalId": 4808,
     "uniqueEntryId": "TySAA4kKqyvGGeZ5C",
+    "url": "=FORMULATEXT(B311)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4808,
@@ -20548,6 +20858,7 @@
     "filename": "RoomTexWallStripe04",
     "internalId": 4946,
     "uniqueEntryId": "N6sef3YhY973LDgdR",
+    "url": "=FORMULATEXT(B312)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 4946,
@@ -20601,6 +20912,7 @@
     "filename": "RoomTexWallTwotone00",
     "internalId": 13333,
     "uniqueEntryId": "puwFr4WzMEfameWnz",
+    "url": "=FORMULATEXT(B313)",
     "translations": {
       "sourceSheet": "Wallpaper",
       "id": 13333,

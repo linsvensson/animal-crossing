@@ -76,6 +76,7 @@
         "variantId": "0_0",
         "internalId": 13150,
         "uniqueEntryId": "SZsKXX3tLH55GmWLD",
+        "url": "=FORMULATEXT(B316)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13150,
@@ -113,6 +114,7 @@
         "variantId": "1_0",
         "internalId": 13150,
         "uniqueEntryId": "MkX4L8sSF2rxmrFmA",
+        "url": "=FORMULATEXT(B317)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13150,
@@ -150,6 +152,7 @@
         "variantId": "2_0",
         "internalId": 13150,
         "uniqueEntryId": "zbbzSPZSkSnDTDhtb",
+        "url": "=FORMULATEXT(B318)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13150,
@@ -187,6 +190,7 @@
         "variantId": "3_0",
         "internalId": 13150,
         "uniqueEntryId": "oPm7Ry5HzgmBwPjYb",
+        "url": "=FORMULATEXT(B319)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13150,
@@ -224,6 +228,7 @@
         "variantId": "4_0",
         "internalId": 13150,
         "uniqueEntryId": "Jy3D3gxk4TahBrmR4",
+        "url": "=FORMULATEXT(B320)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13150,
@@ -261,6 +266,7 @@
         "variantId": "5_0",
         "internalId": 13150,
         "uniqueEntryId": "z3Kn7eHC9ghTMvKLR",
+        "url": "=FORMULATEXT(B321)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13150,
@@ -298,6 +304,7 @@
         "variantId": "6_0",
         "internalId": 13150,
         "uniqueEntryId": "nvYJsaecAzc5zB9TE",
+        "url": "=FORMULATEXT(B322)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13150,
@@ -335,6 +342,7 @@
         "variantId": "7_0",
         "internalId": 13150,
         "uniqueEntryId": "AvTKLFij8mZgqySHm",
+        "url": "=FORMULATEXT(B323)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13150,
@@ -439,6 +447,7 @@
         "variantId": "0_0",
         "internalId": 13149,
         "uniqueEntryId": "G2Lj8TQGpzQmoDvK4",
+        "url": "=FORMULATEXT(B324)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13149,
@@ -476,6 +485,7 @@
         "variantId": "1_0",
         "internalId": 13149,
         "uniqueEntryId": "dvWSCqsfYXuBc3gq5",
+        "url": "=FORMULATEXT(B325)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13149,
@@ -513,6 +523,7 @@
         "variantId": "2_0",
         "internalId": 13149,
         "uniqueEntryId": "wwm4GQ4Cb9wqPTDz7",
+        "url": "=FORMULATEXT(B326)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13149,
@@ -550,6 +561,7 @@
         "variantId": "3_0",
         "internalId": 13149,
         "uniqueEntryId": "rRWZTMPovpio3pGc5",
+        "url": "=FORMULATEXT(B327)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13149,
@@ -587,6 +599,7 @@
         "variantId": "4_0",
         "internalId": 13149,
         "uniqueEntryId": "G4Sjqn7bByPMcM52e",
+        "url": "=FORMULATEXT(B328)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13149,
@@ -624,6 +637,7 @@
         "variantId": "5_0",
         "internalId": 13149,
         "uniqueEntryId": "dfxYfEDh33NW8pWcN",
+        "url": "=FORMULATEXT(B329)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13149,
@@ -661,6 +675,7 @@
         "variantId": "6_0",
         "internalId": 13149,
         "uniqueEntryId": "kybma6KYWkaaokycB",
+        "url": "=FORMULATEXT(B330)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13149,
@@ -746,6 +761,7 @@
         "variantId": "0_0",
         "internalId": 13335,
         "uniqueEntryId": "yc9t5w3fJfvP3F8KH",
+        "url": "=FORMULATEXT(B2)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13335,
@@ -783,6 +799,7 @@
         "variantId": "1_0",
         "internalId": 13335,
         "uniqueEntryId": "a54FKzv6QNNebBCvK",
+        "url": "=FORMULATEXT(B3)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13335,
@@ -820,6 +837,7 @@
         "variantId": "2_0",
         "internalId": 13335,
         "uniqueEntryId": "xGJZnBxsaBB2idex7",
+        "url": "=FORMULATEXT(B4)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13335,
@@ -857,6 +875,7 @@
         "variantId": "3_0",
         "internalId": 13335,
         "uniqueEntryId": "iKnDfGXqoMb9EQhiz",
+        "url": "=FORMULATEXT(B5)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13335,
@@ -894,6 +913,7 @@
         "variantId": "4_0",
         "internalId": 13335,
         "uniqueEntryId": "vWQ5eu6s5HSza9Koc",
+        "url": "=FORMULATEXT(B6)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13335,
@@ -931,6 +951,7 @@
         "variantId": "5_0",
         "internalId": 13335,
         "uniqueEntryId": "MPa7LBS2LGsiwkg43",
+        "url": "=FORMULATEXT(B7)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13335,
@@ -968,6 +989,7 @@
         "variantId": "6_0",
         "internalId": 13335,
         "uniqueEntryId": "4GQ47PzKzBDL7bqcH",
+        "url": "=FORMULATEXT(B8)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13335,
@@ -1005,6 +1027,7 @@
         "variantId": "7_0",
         "internalId": 13335,
         "uniqueEntryId": "eRzRva6sDHJ86zEfJ",
+        "url": "=FORMULATEXT(B9)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13335,
@@ -1090,6 +1113,7 @@
         "variantId": "0_0",
         "internalId": 13475,
         "uniqueEntryId": "6hud3fPCPms6mGhnj",
+        "url": "=FORMULATEXT(B10)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13475,
@@ -1127,6 +1151,7 @@
         "variantId": "1_0",
         "internalId": 13475,
         "uniqueEntryId": "3TTXBjBjXiXYTFiPN",
+        "url": "=FORMULATEXT(B11)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13475,
@@ -1164,6 +1189,7 @@
         "variantId": "2_0",
         "internalId": 13475,
         "uniqueEntryId": "kHktsqkYvMFTaY4yW",
+        "url": "=FORMULATEXT(B12)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13475,
@@ -1201,6 +1227,7 @@
         "variantId": "3_0",
         "internalId": 13475,
         "uniqueEntryId": "MvQTsNW4pocwgvvSB",
+        "url": "=FORMULATEXT(B13)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13475,
@@ -1238,6 +1265,7 @@
         "variantId": "4_0",
         "internalId": 13475,
         "uniqueEntryId": "RKwuDp5C8ztNS5sH6",
+        "url": "=FORMULATEXT(B14)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13475,
@@ -1323,6 +1351,7 @@
         "variantId": "0_0",
         "internalId": 13156,
         "uniqueEntryId": "aL4HQTAEXKLxS53qu",
+        "url": "=FORMULATEXT(B15)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13156,
@@ -1360,6 +1389,7 @@
         "variantId": "1_0",
         "internalId": 13156,
         "uniqueEntryId": "R5izGA4wwdWe89Hbn",
+        "url": "=FORMULATEXT(B16)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13156,
@@ -1397,6 +1427,7 @@
         "variantId": "2_0",
         "internalId": 13156,
         "uniqueEntryId": "KX5cYFbab9jz4acSP",
+        "url": "=FORMULATEXT(B17)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13156,
@@ -1434,6 +1465,7 @@
         "variantId": "3_0",
         "internalId": 13156,
         "uniqueEntryId": "FKkHr72uXCc4SKudN",
+        "url": "=FORMULATEXT(B18)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13156,
@@ -1471,6 +1503,7 @@
         "variantId": "4_0",
         "internalId": 13156,
         "uniqueEntryId": "6zA2Wvp3RSe38j22W",
+        "url": "=FORMULATEXT(B19)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13156,
@@ -1508,6 +1541,7 @@
         "variantId": "5_0",
         "internalId": 13156,
         "uniqueEntryId": "mTTPLTNFCm9KYpoPi",
+        "url": "=FORMULATEXT(B20)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13156,
@@ -1545,6 +1579,7 @@
         "variantId": "6_0",
         "internalId": 13156,
         "uniqueEntryId": "rAgJf8Ru2nREoNE8Z",
+        "url": "=FORMULATEXT(B21)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13156,
@@ -1582,6 +1617,7 @@
         "variantId": "7_0",
         "internalId": 13156,
         "uniqueEntryId": "qJJk7pyT8iS37ftnY",
+        "url": "=FORMULATEXT(B22)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13156,
@@ -1667,6 +1703,7 @@
         "variantId": "0_0",
         "internalId": 13148,
         "uniqueEntryId": "6Ncu5niwBqF9PYCWr",
+        "url": "=FORMULATEXT(B23)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13148,
@@ -1704,6 +1741,7 @@
         "variantId": "1_0",
         "internalId": 13148,
         "uniqueEntryId": "dtjZNa83K4DjDkMwN",
+        "url": "=FORMULATEXT(B24)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13148,
@@ -1741,6 +1779,7 @@
         "variantId": "2_0",
         "internalId": 13148,
         "uniqueEntryId": "L8q9PZN7foKEyLFtA",
+        "url": "=FORMULATEXT(B25)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13148,
@@ -1778,6 +1817,7 @@
         "variantId": "3_0",
         "internalId": 13148,
         "uniqueEntryId": "3y9HYDy7u727zTt6R",
+        "url": "=FORMULATEXT(B26)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13148,
@@ -1815,6 +1855,7 @@
         "variantId": "4_0",
         "internalId": 13148,
         "uniqueEntryId": "6hFYwmiYXL66Jt5EC",
+        "url": "=FORMULATEXT(B27)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13148,
@@ -1852,6 +1893,7 @@
         "variantId": "5_0",
         "internalId": 13148,
         "uniqueEntryId": "XgHwaEb3dTAnwt9oj",
+        "url": "=FORMULATEXT(B28)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13148,
@@ -1889,6 +1931,7 @@
         "variantId": "6_0",
         "internalId": 13148,
         "uniqueEntryId": "DnfzL4iipq34XW5HR",
+        "url": "=FORMULATEXT(B29)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13148,
@@ -1926,6 +1969,7 @@
         "variantId": "7_0",
         "internalId": 13148,
         "uniqueEntryId": "G7Zhyazv68XoCdWML",
+        "url": "=FORMULATEXT(B30)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13148,
@@ -2011,6 +2055,7 @@
         "variantId": "0_0",
         "internalId": 13154,
         "uniqueEntryId": "rpa6FyR6dfo8bnFfG",
+        "url": "=FORMULATEXT(B31)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13154,
@@ -2048,6 +2093,7 @@
         "variantId": "1_0",
         "internalId": 13154,
         "uniqueEntryId": "86BYQSKtxoemM4nie",
+        "url": "=FORMULATEXT(B32)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13154,
@@ -2085,6 +2131,7 @@
         "variantId": "2_0",
         "internalId": 13154,
         "uniqueEntryId": "PBsnbJG64housikMf",
+        "url": "=FORMULATEXT(B33)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13154,
@@ -2122,6 +2169,7 @@
         "variantId": "3_0",
         "internalId": 13154,
         "uniqueEntryId": "Abhuqf6fbK6HWCPCH",
+        "url": "=FORMULATEXT(B34)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13154,
@@ -2159,6 +2207,7 @@
         "variantId": "4_0",
         "internalId": 13154,
         "uniqueEntryId": "gbyjqfTrTDE2hYjz9",
+        "url": "=FORMULATEXT(B35)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13154,
@@ -2196,6 +2245,7 @@
         "variantId": "5_0",
         "internalId": 13154,
         "uniqueEntryId": "ouxDDJo9PS2wCdbzx",
+        "url": "=FORMULATEXT(B36)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13154,
@@ -2233,6 +2283,7 @@
         "variantId": "6_0",
         "internalId": 13154,
         "uniqueEntryId": "nxnidXeR4B88xwD2N",
+        "url": "=FORMULATEXT(B37)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13154,
@@ -2270,6 +2321,7 @@
         "variantId": "7_0",
         "internalId": 13154,
         "uniqueEntryId": "K959Mam4ngd4yd6yG",
+        "url": "=FORMULATEXT(B38)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13154,
@@ -2355,6 +2407,7 @@
         "variantId": "0_0",
         "internalId": 13164,
         "uniqueEntryId": "666kTns3YTDS6ad82",
+        "url": "=FORMULATEXT(B39)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13164,
@@ -2392,6 +2445,7 @@
         "variantId": "1_0",
         "internalId": 13164,
         "uniqueEntryId": "yvt2eH8RTaN5vEsEX",
+        "url": "=FORMULATEXT(B40)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13164,
@@ -2429,6 +2483,7 @@
         "variantId": "2_0",
         "internalId": 13164,
         "uniqueEntryId": "k7iquQDDBFsWRs6wJ",
+        "url": "=FORMULATEXT(B41)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13164,
@@ -2466,6 +2521,7 @@
         "variantId": "3_0",
         "internalId": 13164,
         "uniqueEntryId": "wAr6xtACASe3rmndj",
+        "url": "=FORMULATEXT(B42)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13164,
@@ -2503,6 +2559,7 @@
         "variantId": "4_0",
         "internalId": 13164,
         "uniqueEntryId": "eL3j32FYktxdQNcHp",
+        "url": "=FORMULATEXT(B43)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13164,
@@ -2540,6 +2597,7 @@
         "variantId": "5_0",
         "internalId": 13164,
         "uniqueEntryId": "rhEC3pvhFSoucTsd2",
+        "url": "=FORMULATEXT(B44)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13164,
@@ -2625,6 +2683,7 @@
         "variantId": "0_0",
         "internalId": 13701,
         "uniqueEntryId": "ZHJcaGhcinXu9Lgtg",
+        "url": "=FORMULATEXT(B45)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13701,
@@ -2662,6 +2721,7 @@
         "variantId": "0_1",
         "internalId": 13701,
         "uniqueEntryId": "h6MqXRWWQCQ5z7Sts",
+        "url": "=FORMULATEXT(B46)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13701,
@@ -2699,6 +2759,7 @@
         "variantId": "0_2",
         "internalId": 13701,
         "uniqueEntryId": "9c5Kfg7CyQsshGqmw",
+        "url": "=FORMULATEXT(B47)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13701,
@@ -2736,6 +2797,7 @@
         "variantId": "0_3",
         "internalId": 13701,
         "uniqueEntryId": "RD2P8efrbmfZs6mLC",
+        "url": "=FORMULATEXT(B48)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13701,
@@ -2773,6 +2835,7 @@
         "variantId": "0_4",
         "internalId": 13701,
         "uniqueEntryId": "xihWLMywaKD3ELJj4",
+        "url": "=FORMULATEXT(B49)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13701,
@@ -2810,6 +2873,7 @@
         "variantId": "0_5",
         "internalId": 13701,
         "uniqueEntryId": "QnmBRB7qXsa8qjGrD",
+        "url": "=FORMULATEXT(B50)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13701,
@@ -2847,6 +2911,7 @@
         "variantId": "0_6",
         "internalId": 13701,
         "uniqueEntryId": "J47yu2h82T24arHHy",
+        "url": "=FORMULATEXT(B51)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13701,
@@ -2884,6 +2949,7 @@
         "variantId": "0_7",
         "internalId": 13701,
         "uniqueEntryId": "Rn3FBo6zXYfHFy6Ty",
+        "url": "=FORMULATEXT(B52)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13701,
@@ -2988,6 +3054,7 @@
         "variantId": "0_0",
         "internalId": 13692,
         "uniqueEntryId": "cvF3RdwF47yCdvfNd",
+        "url": "=FORMULATEXT(B53)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13692,
@@ -3025,6 +3092,7 @@
         "variantId": "1_0",
         "internalId": 13692,
         "uniqueEntryId": "jittPPTcGr46QNS5A",
+        "url": "=FORMULATEXT(B54)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13692,
@@ -3062,6 +3130,7 @@
         "variantId": "2_0",
         "internalId": 13692,
         "uniqueEntryId": "6x3cMCQxXgnwmuipd",
+        "url": "=FORMULATEXT(B55)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13692,
@@ -3099,6 +3168,7 @@
         "variantId": "3_0",
         "internalId": 13692,
         "uniqueEntryId": "Ktpgk6bTPFYiSq9w7",
+        "url": "=FORMULATEXT(B56)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13692,
@@ -3136,6 +3206,7 @@
         "variantId": "4_0",
         "internalId": 13692,
         "uniqueEntryId": "dABGdMJLtbn39gjhn",
+        "url": "=FORMULATEXT(B57)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13692,
@@ -3173,6 +3244,7 @@
         "variantId": "5_0",
         "internalId": 13692,
         "uniqueEntryId": "2mBBr7PGMKmhABq3g",
+        "url": "=FORMULATEXT(B58)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13692,
@@ -3258,6 +3330,7 @@
         "variantId": "0_0",
         "internalId": 13157,
         "uniqueEntryId": "DNQgZTgXiwLEq835D",
+        "url": "=FORMULATEXT(B59)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3314,6 +3387,7 @@
         "variantId": "0_1",
         "internalId": 13157,
         "uniqueEntryId": "jsmA4x4mjKuGtGz77",
+        "url": "=FORMULATEXT(B60)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3370,6 +3444,7 @@
         "variantId": "0_2",
         "internalId": 13157,
         "uniqueEntryId": "W8TBbzyYikrYaJwFx",
+        "url": "=FORMULATEXT(B61)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3426,6 +3501,7 @@
         "variantId": "0_3",
         "internalId": 13157,
         "uniqueEntryId": "MKs66dr2nWM8Jinp9",
+        "url": "=FORMULATEXT(B62)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3482,6 +3558,7 @@
         "variantId": "0_4",
         "internalId": 13157,
         "uniqueEntryId": "KnN9BFDz3k2q4A5Ge",
+        "url": "=FORMULATEXT(B63)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3538,6 +3615,7 @@
         "variantId": "0_5",
         "internalId": 13157,
         "uniqueEntryId": "xWdrNzYsohFShstHX",
+        "url": "=FORMULATEXT(B64)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3594,6 +3672,7 @@
         "variantId": "0_6",
         "internalId": 13157,
         "uniqueEntryId": "w9XnPye2fdbru49T6",
+        "url": "=FORMULATEXT(B65)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3650,6 +3729,7 @@
         "variantId": "0_7",
         "internalId": 13157,
         "uniqueEntryId": "9DacbLzRcAgddhuky",
+        "url": "=FORMULATEXT(B66)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3706,6 +3786,7 @@
         "variantId": "1_0",
         "internalId": 13157,
         "uniqueEntryId": "AzTuYXSWvaYbnWH6y",
+        "url": "=FORMULATEXT(B67)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3762,6 +3843,7 @@
         "variantId": "1_1",
         "internalId": 13157,
         "uniqueEntryId": "j9LHLHQrGdxWMHoAk",
+        "url": "=FORMULATEXT(B68)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3818,6 +3900,7 @@
         "variantId": "1_2",
         "internalId": 13157,
         "uniqueEntryId": "f8tByPKfe4Tfoqbm6",
+        "url": "=FORMULATEXT(B69)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3874,6 +3957,7 @@
         "variantId": "1_3",
         "internalId": 13157,
         "uniqueEntryId": "2oF6ADqdJgjZyjegP",
+        "url": "=FORMULATEXT(B70)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3930,6 +4014,7 @@
         "variantId": "1_4",
         "internalId": 13157,
         "uniqueEntryId": "sPsYjW2kaDtLhKurr",
+        "url": "=FORMULATEXT(B71)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -3986,6 +4071,7 @@
         "variantId": "1_5",
         "internalId": 13157,
         "uniqueEntryId": "TaDzoR2gzXWozdK7u",
+        "url": "=FORMULATEXT(B72)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4042,6 +4128,7 @@
         "variantId": "1_6",
         "internalId": 13157,
         "uniqueEntryId": "HTNprAAauJ3wZx28Y",
+        "url": "=FORMULATEXT(B73)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4098,6 +4185,7 @@
         "variantId": "1_7",
         "internalId": 13157,
         "uniqueEntryId": "8WNZoPXjF6dy4qjtE",
+        "url": "=FORMULATEXT(B74)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4154,6 +4242,7 @@
         "variantId": "2_0",
         "internalId": 13157,
         "uniqueEntryId": "2HQ4jW8JAerr75JbM",
+        "url": "=FORMULATEXT(B75)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4210,6 +4299,7 @@
         "variantId": "2_1",
         "internalId": 13157,
         "uniqueEntryId": "uNvuymdLwKmHjYP2t",
+        "url": "=FORMULATEXT(B76)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4266,6 +4356,7 @@
         "variantId": "2_2",
         "internalId": 13157,
         "uniqueEntryId": "iMJ3Mnp4LBeyKEiSg",
+        "url": "=FORMULATEXT(B77)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4322,6 +4413,7 @@
         "variantId": "2_3",
         "internalId": 13157,
         "uniqueEntryId": "LhnQETo2hH6zB8T2J",
+        "url": "=FORMULATEXT(B78)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4378,6 +4470,7 @@
         "variantId": "2_4",
         "internalId": 13157,
         "uniqueEntryId": "T6n2iR8RGthCAxJso",
+        "url": "=FORMULATEXT(B79)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4434,6 +4527,7 @@
         "variantId": "2_5",
         "internalId": 13157,
         "uniqueEntryId": "XBcqnk4oj77arwtnP",
+        "url": "=FORMULATEXT(B80)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4490,6 +4584,7 @@
         "variantId": "2_6",
         "internalId": 13157,
         "uniqueEntryId": "oXdAZiFiHzWds8sCS",
+        "url": "=FORMULATEXT(B81)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4546,6 +4641,7 @@
         "variantId": "2_7",
         "internalId": 13157,
         "uniqueEntryId": "6uRJbJ6ifRLx9tZJg",
+        "url": "=FORMULATEXT(B82)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13157,
@@ -4650,6 +4746,7 @@
         "variantId": "0_0",
         "internalId": 13119,
         "uniqueEntryId": "z3NdvA7Ag7GaCoBg9",
+        "url": "=FORMULATEXT(B83)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13119,
@@ -4687,6 +4784,7 @@
         "variantId": "1_0",
         "internalId": 13119,
         "uniqueEntryId": "L9acqzZ3p3ZWqSquz",
+        "url": "=FORMULATEXT(B84)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13119,
@@ -4724,6 +4822,7 @@
         "variantId": "2_0",
         "internalId": 13119,
         "uniqueEntryId": "Ci6kRtHR2sebKf6t8",
+        "url": "=FORMULATEXT(B85)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13119,
@@ -4761,6 +4860,7 @@
         "variantId": "3_0",
         "internalId": 13119,
         "uniqueEntryId": "Dqpdd9D3u3Jzbxn4Y",
+        "url": "=FORMULATEXT(B86)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13119,
@@ -4798,6 +4898,7 @@
         "variantId": "4_0",
         "internalId": 13119,
         "uniqueEntryId": "JGHX2AWo48EWqSFpe",
+        "url": "=FORMULATEXT(B87)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13119,
@@ -4835,6 +4936,7 @@
         "variantId": "5_0",
         "internalId": 13119,
         "uniqueEntryId": "A7uquzQ9mDBqogBiS",
+        "url": "=FORMULATEXT(B88)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13119,
@@ -4872,6 +4974,7 @@
         "variantId": "6_0",
         "internalId": 13119,
         "uniqueEntryId": "zzsPuSitPWSGr9y4d",
+        "url": "=FORMULATEXT(B89)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13119,
@@ -4957,6 +5060,7 @@
         "variantId": "0_0",
         "internalId": 13151,
         "uniqueEntryId": "Fk2gL6ojxtwScbwSo",
+        "url": "=FORMULATEXT(B90)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5013,6 +5117,7 @@
         "variantId": "0_1",
         "internalId": 13151,
         "uniqueEntryId": "Atz78nLksLmJtxa4X",
+        "url": "=FORMULATEXT(B91)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5069,6 +5174,7 @@
         "variantId": "0_2",
         "internalId": 13151,
         "uniqueEntryId": "maFaaK5thKLrmknPu",
+        "url": "=FORMULATEXT(B92)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5125,6 +5231,7 @@
         "variantId": "0_3",
         "internalId": 13151,
         "uniqueEntryId": "osJefXSMca6gRLcBX",
+        "url": "=FORMULATEXT(B93)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5181,6 +5288,7 @@
         "variantId": "0_4",
         "internalId": 13151,
         "uniqueEntryId": "t2z8Fe6TdEmwzt7Ez",
+        "url": "=FORMULATEXT(B94)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5237,6 +5345,7 @@
         "variantId": "0_5",
         "internalId": 13151,
         "uniqueEntryId": "yzsNN8xAEDyby2ajS",
+        "url": "=FORMULATEXT(B95)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5293,6 +5402,7 @@
         "variantId": "0_6",
         "internalId": 13151,
         "uniqueEntryId": "BpLr7DQoRWhLuBmWW",
+        "url": "=FORMULATEXT(B96)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5349,6 +5459,7 @@
         "variantId": "0_7",
         "internalId": 13151,
         "uniqueEntryId": "5iaNrtzapzQWmE4F4",
+        "url": "=FORMULATEXT(B97)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5405,6 +5516,7 @@
         "variantId": "1_0",
         "internalId": 13151,
         "uniqueEntryId": "fDhq5f2yQ5E9S8kmK",
+        "url": "=FORMULATEXT(B98)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5461,6 +5573,7 @@
         "variantId": "1_1",
         "internalId": 13151,
         "uniqueEntryId": "mWvfaTY99BXoEeB23",
+        "url": "=FORMULATEXT(B99)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5517,6 +5630,7 @@
         "variantId": "1_2",
         "internalId": 13151,
         "uniqueEntryId": "sErJ7EWbfDznwoycS",
+        "url": "=FORMULATEXT(B100)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5573,6 +5687,7 @@
         "variantId": "1_3",
         "internalId": 13151,
         "uniqueEntryId": "3z3oNTTM34uv5pj8C",
+        "url": "=FORMULATEXT(B101)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5629,6 +5744,7 @@
         "variantId": "1_4",
         "internalId": 13151,
         "uniqueEntryId": "ivES6wruQuxDroRhA",
+        "url": "=FORMULATEXT(B102)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5685,6 +5801,7 @@
         "variantId": "1_5",
         "internalId": 13151,
         "uniqueEntryId": "K6nRZi4a7LL93GfSj",
+        "url": "=FORMULATEXT(B103)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5741,6 +5858,7 @@
         "variantId": "1_6",
         "internalId": 13151,
         "uniqueEntryId": "iB9BLaPh88gGpwjxw",
+        "url": "=FORMULATEXT(B104)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5797,6 +5915,7 @@
         "variantId": "1_7",
         "internalId": 13151,
         "uniqueEntryId": "Jx7MniQgq7yG3RXY9",
+        "url": "=FORMULATEXT(B105)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5853,6 +5972,7 @@
         "variantId": "2_0",
         "internalId": 13151,
         "uniqueEntryId": "QLgSM6b96ZRfoJT8P",
+        "url": "=FORMULATEXT(B106)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5909,6 +6029,7 @@
         "variantId": "2_1",
         "internalId": 13151,
         "uniqueEntryId": "hAwY68kyqhnGtYEhB",
+        "url": "=FORMULATEXT(B107)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -5965,6 +6086,7 @@
         "variantId": "2_2",
         "internalId": 13151,
         "uniqueEntryId": "P3JBW3zKA7M3azAsC",
+        "url": "=FORMULATEXT(B108)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6021,6 +6143,7 @@
         "variantId": "2_3",
         "internalId": 13151,
         "uniqueEntryId": "pyqz7tvZfzzE4MTrY",
+        "url": "=FORMULATEXT(B109)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6077,6 +6200,7 @@
         "variantId": "2_4",
         "internalId": 13151,
         "uniqueEntryId": "3qQw4tnoBXYFcmKYe",
+        "url": "=FORMULATEXT(B110)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6133,6 +6257,7 @@
         "variantId": "2_5",
         "internalId": 13151,
         "uniqueEntryId": "r4d4rP2Az2HmwArex",
+        "url": "=FORMULATEXT(B111)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6189,6 +6314,7 @@
         "variantId": "2_6",
         "internalId": 13151,
         "uniqueEntryId": "FeyEipyboSLLPCjCt",
+        "url": "=FORMULATEXT(B112)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6245,6 +6371,7 @@
         "variantId": "2_7",
         "internalId": 13151,
         "uniqueEntryId": "skFNJEhbzXARutJjn",
+        "url": "=FORMULATEXT(B113)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6301,6 +6428,7 @@
         "variantId": "3_0",
         "internalId": 13151,
         "uniqueEntryId": "9eT5fXzDP6stqeMiJ",
+        "url": "=FORMULATEXT(B114)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6357,6 +6485,7 @@
         "variantId": "3_1",
         "internalId": 13151,
         "uniqueEntryId": "6B5cdZLhGbnoBEMDv",
+        "url": "=FORMULATEXT(B115)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6413,6 +6542,7 @@
         "variantId": "3_2",
         "internalId": 13151,
         "uniqueEntryId": "9rTucC7BJnsfKYkME",
+        "url": "=FORMULATEXT(B116)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6469,6 +6599,7 @@
         "variantId": "3_3",
         "internalId": 13151,
         "uniqueEntryId": "Qv5DsNGGoXWX37mFT",
+        "url": "=FORMULATEXT(B117)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6525,6 +6656,7 @@
         "variantId": "3_4",
         "internalId": 13151,
         "uniqueEntryId": "2QRtc6Z6QExvJDAMQ",
+        "url": "=FORMULATEXT(B118)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6581,6 +6713,7 @@
         "variantId": "3_5",
         "internalId": 13151,
         "uniqueEntryId": "iMTK6AmtLN6qv7yvc",
+        "url": "=FORMULATEXT(B119)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6637,6 +6770,7 @@
         "variantId": "3_6",
         "internalId": 13151,
         "uniqueEntryId": "nnWY6YNQHtFgWu8bq",
+        "url": "=FORMULATEXT(B120)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6693,6 +6827,7 @@
         "variantId": "3_7",
         "internalId": 13151,
         "uniqueEntryId": "qFFxDPWYKJiFqvM9Z",
+        "url": "=FORMULATEXT(B121)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13151,
@@ -6797,6 +6932,7 @@
         "variantId": "0_0",
         "internalId": 13220,
         "uniqueEntryId": "ymSFQkyFFZQ3o9Etr",
+        "url": "=FORMULATEXT(B122)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -6853,6 +6989,7 @@
         "variantId": "0_1",
         "internalId": 13220,
         "uniqueEntryId": "nhAu5Cjx7dqSGst5P",
+        "url": "=FORMULATEXT(B123)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -6909,6 +7046,7 @@
         "variantId": "0_2",
         "internalId": 13220,
         "uniqueEntryId": "N3fmDtGWdobBusYyw",
+        "url": "=FORMULATEXT(B124)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -6965,6 +7103,7 @@
         "variantId": "0_3",
         "internalId": 13220,
         "uniqueEntryId": "LaGaaQnoZ5Bbx2FXs",
+        "url": "=FORMULATEXT(B125)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7021,6 +7160,7 @@
         "variantId": "0_4",
         "internalId": 13220,
         "uniqueEntryId": "rtHjjjv2HHMPbsrZR",
+        "url": "=FORMULATEXT(B126)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7077,6 +7217,7 @@
         "variantId": "0_5",
         "internalId": 13220,
         "uniqueEntryId": "XTqwYo5Sneu8sTm55",
+        "url": "=FORMULATEXT(B127)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7133,6 +7274,7 @@
         "variantId": "0_6",
         "internalId": 13220,
         "uniqueEntryId": "8Y9fL7NWw3a2CN6gQ",
+        "url": "=FORMULATEXT(B128)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7189,6 +7331,7 @@
         "variantId": "0_7",
         "internalId": 13220,
         "uniqueEntryId": "7wBS8ir9Ws36vMZB3",
+        "url": "=FORMULATEXT(B129)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7245,6 +7388,7 @@
         "variantId": "1_0",
         "internalId": 13220,
         "uniqueEntryId": "TaiAzzKxBv3C3iD7y",
+        "url": "=FORMULATEXT(B130)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7301,6 +7445,7 @@
         "variantId": "1_1",
         "internalId": 13220,
         "uniqueEntryId": "mhqiYdciCDCFjzJpS",
+        "url": "=FORMULATEXT(B131)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7357,6 +7502,7 @@
         "variantId": "1_2",
         "internalId": 13220,
         "uniqueEntryId": "7frLi3S8Cmk9w3nzk",
+        "url": "=FORMULATEXT(B132)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7413,6 +7559,7 @@
         "variantId": "1_3",
         "internalId": 13220,
         "uniqueEntryId": "sEWRxRK6AvDPLhAhB",
+        "url": "=FORMULATEXT(B133)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7469,6 +7616,7 @@
         "variantId": "1_4",
         "internalId": 13220,
         "uniqueEntryId": "4JM4WaM26gGj2gqni",
+        "url": "=FORMULATEXT(B134)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7525,6 +7673,7 @@
         "variantId": "1_5",
         "internalId": 13220,
         "uniqueEntryId": "jqJJbPAekb6jRJs6c",
+        "url": "=FORMULATEXT(B135)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7581,6 +7730,7 @@
         "variantId": "1_6",
         "internalId": 13220,
         "uniqueEntryId": "eXrJzvxhZ24bTbuhh",
+        "url": "=FORMULATEXT(B136)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7637,6 +7787,7 @@
         "variantId": "1_7",
         "internalId": 13220,
         "uniqueEntryId": "hwD52bpWuF3Pzq3za",
+        "url": "=FORMULATEXT(B137)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7693,6 +7844,7 @@
         "variantId": "2_0",
         "internalId": 13220,
         "uniqueEntryId": "QDjkXT3EMwCacPRQN",
+        "url": "=FORMULATEXT(B138)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7749,6 +7901,7 @@
         "variantId": "2_1",
         "internalId": 13220,
         "uniqueEntryId": "TZLSFskD7ffDi5JhY",
+        "url": "=FORMULATEXT(B139)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7805,6 +7958,7 @@
         "variantId": "2_2",
         "internalId": 13220,
         "uniqueEntryId": "nsJu8RuyAJde5czJd",
+        "url": "=FORMULATEXT(B140)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7861,6 +8015,7 @@
         "variantId": "2_3",
         "internalId": 13220,
         "uniqueEntryId": "LjMxshboPw7gSJFAT",
+        "url": "=FORMULATEXT(B141)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7917,6 +8072,7 @@
         "variantId": "2_4",
         "internalId": 13220,
         "uniqueEntryId": "6q2WzN8da8iZQjx28",
+        "url": "=FORMULATEXT(B142)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -7973,6 +8129,7 @@
         "variantId": "2_5",
         "internalId": 13220,
         "uniqueEntryId": "pffiXSJSgmiuferLk",
+        "url": "=FORMULATEXT(B143)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8029,6 +8186,7 @@
         "variantId": "2_6",
         "internalId": 13220,
         "uniqueEntryId": "BCh2F6BJjy5DSXkov",
+        "url": "=FORMULATEXT(B144)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8085,6 +8243,7 @@
         "variantId": "2_7",
         "internalId": 13220,
         "uniqueEntryId": "YC8gxhQ26KnpfeGmW",
+        "url": "=FORMULATEXT(B145)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8141,6 +8300,7 @@
         "variantId": "3_0",
         "internalId": 13220,
         "uniqueEntryId": "dqeaa3ZMXvxaZCxJJ",
+        "url": "=FORMULATEXT(B146)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8197,6 +8357,7 @@
         "variantId": "3_1",
         "internalId": 13220,
         "uniqueEntryId": "yJr4xvPnejQeq4QDA",
+        "url": "=FORMULATEXT(B147)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8253,6 +8414,7 @@
         "variantId": "3_2",
         "internalId": 13220,
         "uniqueEntryId": "P5SptwCCkMmTi8aPw",
+        "url": "=FORMULATEXT(B148)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8309,6 +8471,7 @@
         "variantId": "3_3",
         "internalId": 13220,
         "uniqueEntryId": "LodfB6uWEayx4BxAK",
+        "url": "=FORMULATEXT(B149)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8365,6 +8528,7 @@
         "variantId": "3_4",
         "internalId": 13220,
         "uniqueEntryId": "hWn3styS3tY6xeBey",
+        "url": "=FORMULATEXT(B150)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8421,6 +8585,7 @@
         "variantId": "3_5",
         "internalId": 13220,
         "uniqueEntryId": "TnZj3Eff3X8eyspaP",
+        "url": "=FORMULATEXT(B151)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8477,6 +8642,7 @@
         "variantId": "3_6",
         "internalId": 13220,
         "uniqueEntryId": "GAWGymWRsLZ3W7r7T",
+        "url": "=FORMULATEXT(B152)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8533,6 +8699,7 @@
         "variantId": "3_7",
         "internalId": 13220,
         "uniqueEntryId": "kfxyRS85Ah6c5adft",
+        "url": "=FORMULATEXT(B153)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13220,
@@ -8683,6 +8850,7 @@
         "variantId": "0_0",
         "internalId": 13147,
         "uniqueEntryId": "ZSCama3Fsjpmgkon5",
+        "url": "=FORMULATEXT(B154)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13147,
@@ -8720,6 +8888,7 @@
         "variantId": "1_0",
         "internalId": 13147,
         "uniqueEntryId": "P9LyeSRK9Cq6cLymt",
+        "url": "=FORMULATEXT(B155)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13147,
@@ -8757,6 +8926,7 @@
         "variantId": "2_0",
         "internalId": 13147,
         "uniqueEntryId": "EaprMcD47gkv4q8Jp",
+        "url": "=FORMULATEXT(B156)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13147,
@@ -8842,6 +9012,7 @@
         "variantId": "0_0",
         "internalId": 13764,
         "uniqueEntryId": "YRnzKvGGCaouKtknw",
+        "url": "=FORMULATEXT(B157)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13764,
@@ -8879,6 +9050,7 @@
         "variantId": "0_1",
         "internalId": 13764,
         "uniqueEntryId": "wdDxug85M54YfyLXG",
+        "url": "=FORMULATEXT(B158)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13764,
@@ -8916,6 +9088,7 @@
         "variantId": "0_2",
         "internalId": 13764,
         "uniqueEntryId": "JytppiuTRH4JdHqyH",
+        "url": "=FORMULATEXT(B159)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13764,
@@ -8953,6 +9126,7 @@
         "variantId": "0_3",
         "internalId": 13764,
         "uniqueEntryId": "YLjx3Nx7buCoMKeja",
+        "url": "=FORMULATEXT(B160)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13764,
@@ -8990,6 +9164,7 @@
         "variantId": "0_4",
         "internalId": 13764,
         "uniqueEntryId": "bGa6fcPRQFri8pitH",
+        "url": "=FORMULATEXT(B161)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13764,
@@ -9027,6 +9202,7 @@
         "variantId": "0_5",
         "internalId": 13764,
         "uniqueEntryId": "M6HqgrDwJTXvhsRYF",
+        "url": "=FORMULATEXT(B162)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13764,
@@ -9064,6 +9240,7 @@
         "variantId": "0_6",
         "internalId": 13764,
         "uniqueEntryId": "q6xdhdAZpiPDpAYr5",
+        "url": "=FORMULATEXT(B163)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13764,
@@ -9101,6 +9278,7 @@
         "variantId": "0_7",
         "internalId": 13764,
         "uniqueEntryId": "Wv729SbyD3rz8aWkQ",
+        "url": "=FORMULATEXT(B164)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13764,
@@ -9186,6 +9364,7 @@
         "variantId": "0_0",
         "internalId": 14210,
         "uniqueEntryId": "2oEM3YxZbrpFnDnLv",
+        "url": "=FORMULATEXT(B165)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14210,
@@ -9223,6 +9402,7 @@
         "variantId": "1_0",
         "internalId": 14210,
         "uniqueEntryId": "6QXX6qnZWcKwqNrch",
+        "url": "=FORMULATEXT(B166)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14210,
@@ -9260,6 +9440,7 @@
         "variantId": "2_0",
         "internalId": 14210,
         "uniqueEntryId": "qXcjz5bDWqN6Mc9fm",
+        "url": "=FORMULATEXT(B167)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14210,
@@ -9297,6 +9478,7 @@
         "variantId": "3_0",
         "internalId": 14210,
         "uniqueEntryId": "Hwf8aXPE3YyXcX7zb",
+        "url": "=FORMULATEXT(B168)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14210,
@@ -9334,6 +9516,7 @@
         "variantId": "4_0",
         "internalId": 14210,
         "uniqueEntryId": "dAQgXBmMmazNsTHag",
+        "url": "=FORMULATEXT(B169)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14210,
@@ -9371,6 +9554,7 @@
         "variantId": "5_0",
         "internalId": 14210,
         "uniqueEntryId": "SN2fFRfQEM2RNXYR6",
+        "url": "=FORMULATEXT(B170)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14210,
@@ -9408,6 +9592,7 @@
         "variantId": "6_0",
         "internalId": 14210,
         "uniqueEntryId": "aivAzWFeZaaJvDvXS",
+        "url": "=FORMULATEXT(B171)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14210,
@@ -9445,6 +9630,7 @@
         "variantId": "7_0",
         "internalId": 14210,
         "uniqueEntryId": "Q7kmrB2wkAXDFpdzB",
+        "url": "=FORMULATEXT(B172)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14210,
@@ -9595,6 +9781,7 @@
         "variantId": "0_0",
         "internalId": 13926,
         "uniqueEntryId": "2qr8emcaC2tYFK4fZ",
+        "url": "=FORMULATEXT(B173)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -9651,6 +9838,7 @@
         "variantId": "0_1",
         "internalId": 13926,
         "uniqueEntryId": "Ryg4Hbgwojm42oGJN",
+        "url": "=FORMULATEXT(B174)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -9707,6 +9895,7 @@
         "variantId": "0_2",
         "internalId": 13926,
         "uniqueEntryId": "tfmAkqWSJhxAaZmDi",
+        "url": "=FORMULATEXT(B175)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -9763,6 +9952,7 @@
         "variantId": "0_3",
         "internalId": 13926,
         "uniqueEntryId": "G7XFHrEGCW2zgoA3T",
+        "url": "=FORMULATEXT(B176)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -9819,6 +10009,7 @@
         "variantId": "0_4",
         "internalId": 13926,
         "uniqueEntryId": "Pm8fdQ7Begc9JJs6u",
+        "url": "=FORMULATEXT(B177)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -9875,6 +10066,7 @@
         "variantId": "0_5",
         "internalId": 13926,
         "uniqueEntryId": "3ZQY5tFjWXYsJdybD",
+        "url": "=FORMULATEXT(B178)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -9931,6 +10123,7 @@
         "variantId": "0_6",
         "internalId": 13926,
         "uniqueEntryId": "p5xbAiigafjzoCymA",
+        "url": "=FORMULATEXT(B179)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -9987,6 +10180,7 @@
         "variantId": "0_7",
         "internalId": 13926,
         "uniqueEntryId": "mqrjFRgzwQSDf4tFb",
+        "url": "=FORMULATEXT(B180)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10043,6 +10237,7 @@
         "variantId": "1_0",
         "internalId": 13926,
         "uniqueEntryId": "2apgkbGbsWoe6Wztz",
+        "url": "=FORMULATEXT(B181)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10099,6 +10294,7 @@
         "variantId": "1_1",
         "internalId": 13926,
         "uniqueEntryId": "Qoq4bNEMiQNgsMEYq",
+        "url": "=FORMULATEXT(B182)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10155,6 +10351,7 @@
         "variantId": "1_2",
         "internalId": 13926,
         "uniqueEntryId": "bxtn6t5iqYuRebAa8",
+        "url": "=FORMULATEXT(B183)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10211,6 +10408,7 @@
         "variantId": "1_3",
         "internalId": 13926,
         "uniqueEntryId": "BQzvNrpnQn56FPJ27",
+        "url": "=FORMULATEXT(B184)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10267,6 +10465,7 @@
         "variantId": "1_4",
         "internalId": 13926,
         "uniqueEntryId": "gx5rxcECvZsNongCv",
+        "url": "=FORMULATEXT(B185)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10323,6 +10522,7 @@
         "variantId": "1_5",
         "internalId": 13926,
         "uniqueEntryId": "q3TZ6HeA5N6F2PxWC",
+        "url": "=FORMULATEXT(B186)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10379,6 +10579,7 @@
         "variantId": "1_6",
         "internalId": 13926,
         "uniqueEntryId": "YiawZhr97X2r83LKz",
+        "url": "=FORMULATEXT(B187)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10435,6 +10636,7 @@
         "variantId": "1_7",
         "internalId": 13926,
         "uniqueEntryId": "QABqkCGC3vCH7FYsM",
+        "url": "=FORMULATEXT(B188)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10491,6 +10693,7 @@
         "variantId": "2_0",
         "internalId": 13926,
         "uniqueEntryId": "aycwbGSXPo9npwqFS",
+        "url": "=FORMULATEXT(B189)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10547,6 +10750,7 @@
         "variantId": "2_1",
         "internalId": 13926,
         "uniqueEntryId": "Tjx9wcHZhmMzF4g29",
+        "url": "=FORMULATEXT(B190)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10603,6 +10807,7 @@
         "variantId": "2_2",
         "internalId": 13926,
         "uniqueEntryId": "WaxsgQvthdEcFPzA8",
+        "url": "=FORMULATEXT(B191)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10659,6 +10864,7 @@
         "variantId": "2_3",
         "internalId": 13926,
         "uniqueEntryId": "X3NjrtNsgbCAn54wj",
+        "url": "=FORMULATEXT(B192)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10715,6 +10921,7 @@
         "variantId": "2_4",
         "internalId": 13926,
         "uniqueEntryId": "B2LPnk8MCoRkpLzw2",
+        "url": "=FORMULATEXT(B193)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10771,6 +10978,7 @@
         "variantId": "2_5",
         "internalId": 13926,
         "uniqueEntryId": "AgXdamceyBvnscWNK",
+        "url": "=FORMULATEXT(B194)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10827,6 +11035,7 @@
         "variantId": "2_6",
         "internalId": 13926,
         "uniqueEntryId": "zsbCQAtwrP86CrHaA",
+        "url": "=FORMULATEXT(B195)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10883,6 +11092,7 @@
         "variantId": "2_7",
         "internalId": 13926,
         "uniqueEntryId": "bKg5jkAAX923wndsF",
+        "url": "=FORMULATEXT(B196)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10939,6 +11149,7 @@
         "variantId": "3_0",
         "internalId": 13926,
         "uniqueEntryId": "oTGPc9SNZSSXe77dt",
+        "url": "=FORMULATEXT(B197)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -10995,6 +11206,7 @@
         "variantId": "3_1",
         "internalId": 13926,
         "uniqueEntryId": "bDYkCM77naf5nAbMo",
+        "url": "=FORMULATEXT(B198)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11051,6 +11263,7 @@
         "variantId": "3_2",
         "internalId": 13926,
         "uniqueEntryId": "e78CYGBzMDazkDeXC",
+        "url": "=FORMULATEXT(B199)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11107,6 +11320,7 @@
         "variantId": "3_3",
         "internalId": 13926,
         "uniqueEntryId": "AH3p2ysnwGnhkc7ud",
+        "url": "=FORMULATEXT(B200)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11163,6 +11377,7 @@
         "variantId": "3_4",
         "internalId": 13926,
         "uniqueEntryId": "yqxFMFqca28r4SqW3",
+        "url": "=FORMULATEXT(B201)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11219,6 +11434,7 @@
         "variantId": "3_5",
         "internalId": 13926,
         "uniqueEntryId": "6KLSn6NfqAAKYXj9W",
+        "url": "=FORMULATEXT(B202)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11275,6 +11491,7 @@
         "variantId": "3_6",
         "internalId": 13926,
         "uniqueEntryId": "fizcs5w9hEqFT3WMd",
+        "url": "=FORMULATEXT(B203)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11331,6 +11548,7 @@
         "variantId": "3_7",
         "internalId": 13926,
         "uniqueEntryId": "2gnsJpXCyCStbfQvZ",
+        "url": "=FORMULATEXT(B204)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11387,6 +11605,7 @@
         "variantId": "4_0",
         "internalId": 13926,
         "uniqueEntryId": "onhYQSPz5Yb8gRwuK",
+        "url": "=FORMULATEXT(B205)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11443,6 +11662,7 @@
         "variantId": "4_1",
         "internalId": 13926,
         "uniqueEntryId": "epimDwLQiXeDHEGfQ",
+        "url": "=FORMULATEXT(B206)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11499,6 +11719,7 @@
         "variantId": "4_2",
         "internalId": 13926,
         "uniqueEntryId": "Cxy4fH826tqwFPhJi",
+        "url": "=FORMULATEXT(B207)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11555,6 +11776,7 @@
         "variantId": "4_3",
         "internalId": 13926,
         "uniqueEntryId": "fEyz2dfm4nAwMqjP9",
+        "url": "=FORMULATEXT(B208)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11611,6 +11833,7 @@
         "variantId": "4_4",
         "internalId": 13926,
         "uniqueEntryId": "Q86dfG64bwXNQeCf4",
+        "url": "=FORMULATEXT(B209)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11667,6 +11890,7 @@
         "variantId": "4_5",
         "internalId": 13926,
         "uniqueEntryId": "Yjc4ncdfM9tukmLSP",
+        "url": "=FORMULATEXT(B210)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11723,6 +11947,7 @@
         "variantId": "4_6",
         "internalId": 13926,
         "uniqueEntryId": "vyhbvgXJnv2un2M85",
+        "url": "=FORMULATEXT(B211)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11779,6 +12004,7 @@
         "variantId": "4_7",
         "internalId": 13926,
         "uniqueEntryId": "ua95aSqJLRcthTJDM",
+        "url": "=FORMULATEXT(B212)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11835,6 +12061,7 @@
         "variantId": "5_0",
         "internalId": 13926,
         "uniqueEntryId": "zeaehthG64XbvQDHv",
+        "url": "=FORMULATEXT(B213)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11891,6 +12118,7 @@
         "variantId": "5_1",
         "internalId": 13926,
         "uniqueEntryId": "XhpGT4ZDRjYCX3yoB",
+        "url": "=FORMULATEXT(B214)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -11947,6 +12175,7 @@
         "variantId": "5_2",
         "internalId": 13926,
         "uniqueEntryId": "865d2kBJnHjqpBWuF",
+        "url": "=FORMULATEXT(B215)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12003,6 +12232,7 @@
         "variantId": "5_3",
         "internalId": 13926,
         "uniqueEntryId": "odT93QR25QvMEvHPi",
+        "url": "=FORMULATEXT(B216)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12059,6 +12289,7 @@
         "variantId": "5_4",
         "internalId": 13926,
         "uniqueEntryId": "h994thiJGB7K5wj2h",
+        "url": "=FORMULATEXT(B217)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12115,6 +12346,7 @@
         "variantId": "5_5",
         "internalId": 13926,
         "uniqueEntryId": "JngAKiKbkvDy5dv8L",
+        "url": "=FORMULATEXT(B218)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12171,6 +12403,7 @@
         "variantId": "5_6",
         "internalId": 13926,
         "uniqueEntryId": "X5NFp5PwJmT3c5yJQ",
+        "url": "=FORMULATEXT(B219)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12227,6 +12460,7 @@
         "variantId": "5_7",
         "internalId": 13926,
         "uniqueEntryId": "CSDNuzSTEnejKDGWT",
+        "url": "=FORMULATEXT(B220)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12283,6 +12517,7 @@
         "variantId": "6_0",
         "internalId": 13926,
         "uniqueEntryId": "tD8HhFxxdPuTp7wwq",
+        "url": "=FORMULATEXT(B221)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12339,6 +12574,7 @@
         "variantId": "6_1",
         "internalId": 13926,
         "uniqueEntryId": "co9rJoNJggbbNyuiR",
+        "url": "=FORMULATEXT(B222)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12395,6 +12631,7 @@
         "variantId": "6_2",
         "internalId": 13926,
         "uniqueEntryId": "pNMbPb5yj53Wfkfpf",
+        "url": "=FORMULATEXT(B223)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12451,6 +12688,7 @@
         "variantId": "6_3",
         "internalId": 13926,
         "uniqueEntryId": "75k8ZiSFzJbP2XPbd",
+        "url": "=FORMULATEXT(B224)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12507,6 +12745,7 @@
         "variantId": "6_4",
         "internalId": 13926,
         "uniqueEntryId": "rsmqSDRvzDyuG7NJz",
+        "url": "=FORMULATEXT(B225)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12563,6 +12802,7 @@
         "variantId": "6_5",
         "internalId": 13926,
         "uniqueEntryId": "oRJL2FJYn5AQSkpeT",
+        "url": "=FORMULATEXT(B226)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12619,6 +12859,7 @@
         "variantId": "6_6",
         "internalId": 13926,
         "uniqueEntryId": "reBaMnSCsh5twK6sd",
+        "url": "=FORMULATEXT(B227)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12675,6 +12916,7 @@
         "variantId": "6_7",
         "internalId": 13926,
         "uniqueEntryId": "Q7H95554NF3n9BFvJ",
+        "url": "=FORMULATEXT(B228)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13926,
@@ -12779,6 +13021,7 @@
         "variantId": "0_0",
         "internalId": 13616,
         "uniqueEntryId": "CnuXwWbfCKhvoogAn",
+        "url": "=FORMULATEXT(B229)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13616,
@@ -12816,6 +13059,7 @@
         "variantId": "1_0",
         "internalId": 13616,
         "uniqueEntryId": "hHkRKdtztJdw2Gbc2",
+        "url": "=FORMULATEXT(B230)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13616,
@@ -12853,6 +13097,7 @@
         "variantId": "2_0",
         "internalId": 13616,
         "uniqueEntryId": "jzWQE8xk6Ty4FYjAS",
+        "url": "=FORMULATEXT(B231)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13616,
@@ -12890,6 +13135,7 @@
         "variantId": "3_0",
         "internalId": 13616,
         "uniqueEntryId": "oQC8N7L43emnYz2sL",
+        "url": "=FORMULATEXT(B232)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13616,
@@ -12975,6 +13221,7 @@
         "variantId": "0_0",
         "internalId": 13925,
         "uniqueEntryId": "JgQFaaWnwnDCjFsoX",
+        "url": "=FORMULATEXT(B233)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13031,6 +13278,7 @@
         "variantId": "0_1",
         "internalId": 13925,
         "uniqueEntryId": "EfexPdR2K7cNfna2k",
+        "url": "=FORMULATEXT(B234)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13087,6 +13335,7 @@
         "variantId": "0_2",
         "internalId": 13925,
         "uniqueEntryId": "NyrF69dQnjigWadcn",
+        "url": "=FORMULATEXT(B235)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13143,6 +13392,7 @@
         "variantId": "0_3",
         "internalId": 13925,
         "uniqueEntryId": "GX729LyL5hvhbwmPt",
+        "url": "=FORMULATEXT(B236)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13199,6 +13449,7 @@
         "variantId": "0_4",
         "internalId": 13925,
         "uniqueEntryId": "k4SWb2JnJNXMjzpGm",
+        "url": "=FORMULATEXT(B237)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13255,6 +13506,7 @@
         "variantId": "0_5",
         "internalId": 13925,
         "uniqueEntryId": "EfaqRmQPMWY8KNvHH",
+        "url": "=FORMULATEXT(B238)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13311,6 +13563,7 @@
         "variantId": "0_6",
         "internalId": 13925,
         "uniqueEntryId": "MQvic9T92frLqXQd4",
+        "url": "=FORMULATEXT(B239)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13367,6 +13620,7 @@
         "variantId": "0_7",
         "internalId": 13925,
         "uniqueEntryId": "4LPNKW8igRGLpkaLs",
+        "url": "=FORMULATEXT(B240)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13423,6 +13677,7 @@
         "variantId": "1_0",
         "internalId": 13925,
         "uniqueEntryId": "7938NbySCXf4QBMiJ",
+        "url": "=FORMULATEXT(B241)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13479,6 +13734,7 @@
         "variantId": "1_1",
         "internalId": 13925,
         "uniqueEntryId": "ugX8ATuB7B3hRz7Ze",
+        "url": "=FORMULATEXT(B242)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13535,6 +13791,7 @@
         "variantId": "1_2",
         "internalId": 13925,
         "uniqueEntryId": "T9QqPtvwjCMjhwEB9",
+        "url": "=FORMULATEXT(B243)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13591,6 +13848,7 @@
         "variantId": "1_3",
         "internalId": 13925,
         "uniqueEntryId": "W4qKj8qcq8Fgn6xaE",
+        "url": "=FORMULATEXT(B244)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13647,6 +13905,7 @@
         "variantId": "1_4",
         "internalId": 13925,
         "uniqueEntryId": "raMXjbK7vghhxrnW4",
+        "url": "=FORMULATEXT(B245)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13703,6 +13962,7 @@
         "variantId": "1_5",
         "internalId": 13925,
         "uniqueEntryId": "7aKssqFTMHFyGELb6",
+        "url": "=FORMULATEXT(B246)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13759,6 +14019,7 @@
         "variantId": "1_6",
         "internalId": 13925,
         "uniqueEntryId": "YKvsLr2vR6gutTF2j",
+        "url": "=FORMULATEXT(B247)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13815,6 +14076,7 @@
         "variantId": "1_7",
         "internalId": 13925,
         "uniqueEntryId": "die9LhuqBgZTfrdSn",
+        "url": "=FORMULATEXT(B248)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13871,6 +14133,7 @@
         "variantId": "2_0",
         "internalId": 13925,
         "uniqueEntryId": "PiHurCSee4TvEC2zG",
+        "url": "=FORMULATEXT(B249)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13927,6 +14190,7 @@
         "variantId": "2_1",
         "internalId": 13925,
         "uniqueEntryId": "Bfv5DKA2e32S7s2CA",
+        "url": "=FORMULATEXT(B250)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -13983,6 +14247,7 @@
         "variantId": "2_2",
         "internalId": 13925,
         "uniqueEntryId": "BmBro7Y5cLm9vncAr",
+        "url": "=FORMULATEXT(B251)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -14039,6 +14304,7 @@
         "variantId": "2_3",
         "internalId": 13925,
         "uniqueEntryId": "sprpPmCQzfM3BxNbJ",
+        "url": "=FORMULATEXT(B252)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -14095,6 +14361,7 @@
         "variantId": "2_4",
         "internalId": 13925,
         "uniqueEntryId": "RiNQJCeiifDMJBydc",
+        "url": "=FORMULATEXT(B253)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -14151,6 +14418,7 @@
         "variantId": "2_5",
         "internalId": 13925,
         "uniqueEntryId": "xJ2CQ7SfFNtWRoiTY",
+        "url": "=FORMULATEXT(B254)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -14207,6 +14475,7 @@
         "variantId": "2_6",
         "internalId": 13925,
         "uniqueEntryId": "FNTMXXpZG4QAjjH6f",
+        "url": "=FORMULATEXT(B255)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -14263,6 +14532,7 @@
         "variantId": "2_7",
         "internalId": 13925,
         "uniqueEntryId": "zYeaiiwiputXHM4pT",
+        "url": "=FORMULATEXT(B256)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13925,
@@ -14367,6 +14637,7 @@
         "variantId": "0_0",
         "internalId": 13158,
         "uniqueEntryId": "gBKfxTAZ3AQWyFdRw",
+        "url": "=FORMULATEXT(B257)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13158,
@@ -14404,6 +14675,7 @@
         "variantId": "1_0",
         "internalId": 13158,
         "uniqueEntryId": "pEqxhBGdF7xkjhD73",
+        "url": "=FORMULATEXT(B258)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13158,
@@ -14441,6 +14713,7 @@
         "variantId": "2_0",
         "internalId": 13158,
         "uniqueEntryId": "4yJDFQoPM8w3Bygzz",
+        "url": "=FORMULATEXT(B259)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13158,
@@ -14478,6 +14751,7 @@
         "variantId": "3_0",
         "internalId": 13158,
         "uniqueEntryId": "w4iZywtEuiSodWvdr",
+        "url": "=FORMULATEXT(B260)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13158,
@@ -14515,6 +14789,7 @@
         "variantId": "4_0",
         "internalId": 13158,
         "uniqueEntryId": "ybpJfhrQfm6S9kjYn",
+        "url": "=FORMULATEXT(B261)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13158,
@@ -14552,6 +14827,7 @@
         "variantId": "5_0",
         "internalId": 13158,
         "uniqueEntryId": "Sgu6DHnaBx3jifABe",
+        "url": "=FORMULATEXT(B262)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13158,
@@ -14589,6 +14865,7 @@
         "variantId": "6_0",
         "internalId": 13158,
         "uniqueEntryId": "RRJXtkXX72FckvEgt",
+        "url": "=FORMULATEXT(B263)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13158,
@@ -14626,6 +14903,7 @@
         "variantId": "7_0",
         "internalId": 13158,
         "uniqueEntryId": "48JeBN3hs4P2PLbSG",
+        "url": "=FORMULATEXT(B264)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13158,
@@ -14711,6 +14989,7 @@
         "variantId": "0_0",
         "internalId": 14346,
         "uniqueEntryId": "26S5qwRMQAF6yJonM",
+        "url": "=FORMULATEXT(B265)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 14346,
@@ -14748,6 +15027,7 @@
         "variantId": "0_1",
         "internalId": 14346,
         "uniqueEntryId": "cKwinC5yYnrxATLfq",
+        "url": "=FORMULATEXT(B266)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 14346,
@@ -14785,6 +15065,7 @@
         "variantId": "0_2",
         "internalId": 14346,
         "uniqueEntryId": "dzKnPDKTNnP5Pp9xq",
+        "url": "=FORMULATEXT(B267)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 14346,
@@ -14822,6 +15103,7 @@
         "variantId": "0_3",
         "internalId": 14346,
         "uniqueEntryId": "3QMsp5K4dhwdfQZqu",
+        "url": "=FORMULATEXT(B268)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 14346,
@@ -14859,6 +15141,7 @@
         "variantId": "0_4",
         "internalId": 14346,
         "uniqueEntryId": "LfoBy6BgxcoxzqGQd",
+        "url": "=FORMULATEXT(B269)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 14346,
@@ -14896,6 +15179,7 @@
         "variantId": "0_5",
         "internalId": 14346,
         "uniqueEntryId": "XThwHDF2GjSARHCFj",
+        "url": "=FORMULATEXT(B270)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 14346,
@@ -14933,6 +15217,7 @@
         "variantId": "0_6",
         "internalId": 14346,
         "uniqueEntryId": "JdHPDMzcifTm5D9mZ",
+        "url": "=FORMULATEXT(B271)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 14346,
@@ -15018,6 +15303,7 @@
         "variantId": "0_0",
         "internalId": 13468,
         "uniqueEntryId": "vtjYab9P2Wowa7Xry",
+        "url": "=FORMULATEXT(B272)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13468,
@@ -15055,6 +15341,7 @@
         "variantId": "1_0",
         "internalId": 13468,
         "uniqueEntryId": "hM6H5JWFXjkn4FdZu",
+        "url": "=FORMULATEXT(B273)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13468,
@@ -15092,6 +15379,7 @@
         "variantId": "2_0",
         "internalId": 13468,
         "uniqueEntryId": "Mssg8bvB4LMWYRjDK",
+        "url": "=FORMULATEXT(B274)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13468,
@@ -15129,6 +15417,7 @@
         "variantId": "3_0",
         "internalId": 13468,
         "uniqueEntryId": "zuCbZseKiAXXQc5Su",
+        "url": "=FORMULATEXT(B275)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13468,
@@ -15166,6 +15455,7 @@
         "variantId": "4_0",
         "internalId": 13468,
         "uniqueEntryId": "vJtnGwvSwMAhRFFNT",
+        "url": "=FORMULATEXT(B276)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13468,
@@ -15203,6 +15493,7 @@
         "variantId": "5_0",
         "internalId": 13468,
         "uniqueEntryId": "cXMQBGzjmTpe39kE9",
+        "url": "=FORMULATEXT(B277)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13468,
@@ -15240,6 +15531,7 @@
         "variantId": "6_0",
         "internalId": 13468,
         "uniqueEntryId": "MbrxbMF7yTf4quCfR",
+        "url": "=FORMULATEXT(B278)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13468,
@@ -15277,6 +15569,7 @@
         "variantId": "7_0",
         "internalId": 13468,
         "uniqueEntryId": "hwTGzbSeXiB5AJtHr",
+        "url": "=FORMULATEXT(B279)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13468,
@@ -15362,6 +15655,7 @@
         "variantId": "0_0",
         "internalId": 14620,
         "uniqueEntryId": "qQvtF8qN6zC4GP8GA",
+        "url": "=FORMULATEXT(B280)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15418,6 +15712,7 @@
         "variantId": "0_1",
         "internalId": 14620,
         "uniqueEntryId": "PAFhnps5Peb2aTf3g",
+        "url": "=FORMULATEXT(B281)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15474,6 +15769,7 @@
         "variantId": "0_2",
         "internalId": 14620,
         "uniqueEntryId": "mjzFupGP3GjPKxQbC",
+        "url": "=FORMULATEXT(B282)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15530,6 +15826,7 @@
         "variantId": "0_3",
         "internalId": 14620,
         "uniqueEntryId": "e8BwhYiPj9Lo2wwn4",
+        "url": "=FORMULATEXT(B283)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15586,6 +15883,7 @@
         "variantId": "0_4",
         "internalId": 14620,
         "uniqueEntryId": "92nFR5oQqyQRPqznL",
+        "url": "=FORMULATEXT(B284)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15642,6 +15940,7 @@
         "variantId": "0_5",
         "internalId": 14620,
         "uniqueEntryId": "5RLjPK2JDJTRNBWMf",
+        "url": "=FORMULATEXT(B285)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15698,6 +15997,7 @@
         "variantId": "0_6",
         "internalId": 14620,
         "uniqueEntryId": "Yw3FHkgLXPTWWanHP",
+        "url": "=FORMULATEXT(B286)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15754,6 +16054,7 @@
         "variantId": "0_7",
         "internalId": 14620,
         "uniqueEntryId": "vQzzXcFt7s3p8NGDj",
+        "url": "=FORMULATEXT(B287)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15810,6 +16111,7 @@
         "variantId": "1_0",
         "internalId": 14620,
         "uniqueEntryId": "6kby6r3XyJzADkWkp",
+        "url": "=FORMULATEXT(B288)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15866,6 +16168,7 @@
         "variantId": "1_1",
         "internalId": 14620,
         "uniqueEntryId": "5hpRzqvpEPDnyzwmf",
+        "url": "=FORMULATEXT(B289)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15922,6 +16225,7 @@
         "variantId": "1_2",
         "internalId": 14620,
         "uniqueEntryId": "Wmkdpfk6mJiKF5CW3",
+        "url": "=FORMULATEXT(B290)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -15978,6 +16282,7 @@
         "variantId": "1_3",
         "internalId": 14620,
         "uniqueEntryId": "iJ9GP6nKPYvrzFcRb",
+        "url": "=FORMULATEXT(B291)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16034,6 +16339,7 @@
         "variantId": "1_4",
         "internalId": 14620,
         "uniqueEntryId": "m83JW97ZEBSHSM4QY",
+        "url": "=FORMULATEXT(B292)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16090,6 +16396,7 @@
         "variantId": "1_5",
         "internalId": 14620,
         "uniqueEntryId": "xAM63RPfYghLczfEZ",
+        "url": "=FORMULATEXT(B293)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16146,6 +16453,7 @@
         "variantId": "1_6",
         "internalId": 14620,
         "uniqueEntryId": "SutcdHtF36sPc2wKu",
+        "url": "=FORMULATEXT(B294)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16202,6 +16510,7 @@
         "variantId": "1_7",
         "internalId": 14620,
         "uniqueEntryId": "BkGMmYLwcDJNBeMWu",
+        "url": "=FORMULATEXT(B295)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16258,6 +16567,7 @@
         "variantId": "2_0",
         "internalId": 14620,
         "uniqueEntryId": "nQK94J4MRT8BZk8v2",
+        "url": "=FORMULATEXT(B296)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16314,6 +16624,7 @@
         "variantId": "2_1",
         "internalId": 14620,
         "uniqueEntryId": "2ZzYoyXP2bcF6Cs9G",
+        "url": "=FORMULATEXT(B297)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16370,6 +16681,7 @@
         "variantId": "2_2",
         "internalId": 14620,
         "uniqueEntryId": "wvjgJAKry9eaPiZ4h",
+        "url": "=FORMULATEXT(B298)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16426,6 +16738,7 @@
         "variantId": "2_3",
         "internalId": 14620,
         "uniqueEntryId": "Xb7zXwqHGwXkA2jXD",
+        "url": "=FORMULATEXT(B299)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16482,6 +16795,7 @@
         "variantId": "2_4",
         "internalId": 14620,
         "uniqueEntryId": "eNdvfeQSt7FASdfFq",
+        "url": "=FORMULATEXT(B300)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16538,6 +16852,7 @@
         "variantId": "2_5",
         "internalId": 14620,
         "uniqueEntryId": "3XWkewEgEKzkh8snq",
+        "url": "=FORMULATEXT(B301)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16594,6 +16909,7 @@
         "variantId": "2_6",
         "internalId": 14620,
         "uniqueEntryId": "P47aBjB9kcrPtaSzX",
+        "url": "=FORMULATEXT(B302)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16650,6 +16966,7 @@
         "variantId": "2_7",
         "internalId": 14620,
         "uniqueEntryId": "Gf78PE9NjmA5uacEE",
+        "url": "=FORMULATEXT(B303)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14620,
@@ -16754,6 +17071,7 @@
         "variantId": "0_0",
         "internalId": 13152,
         "uniqueEntryId": "mjuRFER5J9srXcN4b",
+        "url": "=FORMULATEXT(B304)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13152,
@@ -16791,6 +17109,7 @@
         "variantId": "1_0",
         "internalId": 13152,
         "uniqueEntryId": "k6X6jQ6jsmPsYKnxx",
+        "url": "=FORMULATEXT(B305)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13152,
@@ -16828,6 +17147,7 @@
         "variantId": "2_0",
         "internalId": 13152,
         "uniqueEntryId": "cGuQxt5LzTPr8pY7C",
+        "url": "=FORMULATEXT(B306)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13152,
@@ -16865,6 +17185,7 @@
         "variantId": "3_0",
         "internalId": 13152,
         "uniqueEntryId": "x8ptsXFeKhBcXhGwD",
+        "url": "=FORMULATEXT(B307)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13152,
@@ -16902,6 +17223,7 @@
         "variantId": "4_0",
         "internalId": 13152,
         "uniqueEntryId": "aJSxu3JiDbfJXxMqz",
+        "url": "=FORMULATEXT(B308)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13152,
@@ -16939,6 +17261,7 @@
         "variantId": "5_0",
         "internalId": 13152,
         "uniqueEntryId": "KZGcnm8ABZM7PzN6h",
+        "url": "=FORMULATEXT(B309)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13152,
@@ -16976,6 +17299,7 @@
         "variantId": "6_0",
         "internalId": 13152,
         "uniqueEntryId": "ouo4tLBaeEXuGcFZX",
+        "url": "=FORMULATEXT(B310)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13152,
@@ -17061,6 +17385,7 @@
         "variantId": "0_0",
         "internalId": 13146,
         "uniqueEntryId": "p5sBed8yQHronq2uL",
+        "url": "=FORMULATEXT(B311)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13146,
@@ -17098,6 +17423,7 @@
         "variantId": "1_0",
         "internalId": 13146,
         "uniqueEntryId": "PgR2FxZqHDZsztDGu",
+        "url": "=FORMULATEXT(B312)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13146,
@@ -17135,6 +17461,7 @@
         "variantId": "2_0",
         "internalId": 13146,
         "uniqueEntryId": "TCTsahzF4o66wcwzi",
+        "url": "=FORMULATEXT(B313)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13146,
@@ -17172,6 +17499,7 @@
         "variantId": "3_0",
         "internalId": 13146,
         "uniqueEntryId": "N4ccCBitWbGQppn4g",
+        "url": "=FORMULATEXT(B314)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13146,
@@ -17209,6 +17537,7 @@
         "variantId": "4_0",
         "internalId": 13146,
         "uniqueEntryId": "gb43hMtDshfbsMqSY",
+        "url": "=FORMULATEXT(B315)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13146,
@@ -17294,6 +17623,7 @@
         "variantId": "0_0",
         "internalId": 13626,
         "uniqueEntryId": "9dRFvoYEake64zBbB",
+        "url": "=FORMULATEXT(B331)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13626,
@@ -17331,6 +17661,7 @@
         "variantId": "1_0",
         "internalId": 13626,
         "uniqueEntryId": "taYrbyzWNzLDnyRN8",
+        "url": "=FORMULATEXT(B332)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13626,
@@ -17368,6 +17699,7 @@
         "variantId": "2_0",
         "internalId": 13626,
         "uniqueEntryId": "i9ozQKdBFcpvzG2fz",
+        "url": "=FORMULATEXT(B333)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13626,
@@ -17405,6 +17737,7 @@
         "variantId": "3_0",
         "internalId": 13626,
         "uniqueEntryId": "XD6jsvnEf9SakfHWv",
+        "url": "=FORMULATEXT(B334)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13626,
@@ -17442,6 +17775,7 @@
         "variantId": "4_0",
         "internalId": 13626,
         "uniqueEntryId": "RGHx5uL3uwcJSnHHi",
+        "url": "=FORMULATEXT(B335)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13626,
@@ -17527,6 +17861,7 @@
         "variantId": "0_0",
         "internalId": 13642,
         "uniqueEntryId": "YN7r5NggQf87iu2Hw",
+        "url": "=FORMULATEXT(B336)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13642,
@@ -17564,6 +17899,7 @@
         "variantId": "1_0",
         "internalId": 13642,
         "uniqueEntryId": "iNEw9Y5K5jSqo8m6t",
+        "url": "=FORMULATEXT(B337)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13642,
@@ -17601,6 +17937,7 @@
         "variantId": "2_0",
         "internalId": 13642,
         "uniqueEntryId": "cGdaFCKfdvBRxadov",
+        "url": "=FORMULATEXT(B338)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13642,
@@ -17638,6 +17975,7 @@
         "variantId": "3_0",
         "internalId": 13642,
         "uniqueEntryId": "XAvMzAnBuq6j4JNBA",
+        "url": "=FORMULATEXT(B339)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13642,
@@ -17675,6 +18013,7 @@
         "variantId": "4_0",
         "internalId": 13642,
         "uniqueEntryId": "yE6WZa4vYzJypDJbk",
+        "url": "=FORMULATEXT(B340)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13642,
@@ -17712,6 +18051,7 @@
         "variantId": "5_0",
         "internalId": 13642,
         "uniqueEntryId": "awSxu9nb6TxtXeenu",
+        "url": "=FORMULATEXT(B341)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13642,
@@ -17749,6 +18089,7 @@
         "variantId": "6_0",
         "internalId": 13642,
         "uniqueEntryId": "LyQkN3iDSrgB3NGDG",
+        "url": "=FORMULATEXT(B342)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13642,
@@ -17786,6 +18127,7 @@
         "variantId": "7_0",
         "internalId": 13642,
         "uniqueEntryId": "dRghA85W4KRQ2xrwS",
+        "url": "=FORMULATEXT(B343)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13642,
@@ -17871,6 +18213,7 @@
         "variantId": "0_0",
         "internalId": 13229,
         "uniqueEntryId": "P9gvvgiHma7mrEagj",
+        "url": "=FORMULATEXT(B344)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13229,
@@ -17908,6 +18251,7 @@
         "variantId": "1_0",
         "internalId": 13229,
         "uniqueEntryId": "evZAcvtJkqoC5BJeu",
+        "url": "=FORMULATEXT(B345)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13229,
@@ -17945,6 +18289,7 @@
         "variantId": "2_0",
         "internalId": 13229,
         "uniqueEntryId": "zdijiekaAm6TfjiKB",
+        "url": "=FORMULATEXT(B346)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13229,
@@ -17982,6 +18327,7 @@
         "variantId": "3_0",
         "internalId": 13229,
         "uniqueEntryId": "rWGH7yBebwZaBFtvd",
+        "url": "=FORMULATEXT(B347)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13229,
@@ -18019,6 +18365,7 @@
         "variantId": "4_0",
         "internalId": 13229,
         "uniqueEntryId": "3WcYrLboPpRzR5maX",
+        "url": "=FORMULATEXT(B348)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13229,
@@ -18104,6 +18451,7 @@
         "variantId": "0_0",
         "internalId": 13120,
         "uniqueEntryId": "7C79rbc4hkTsyr3JL",
+        "url": "=FORMULATEXT(B349)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13120,
@@ -18141,6 +18489,7 @@
         "variantId": "1_0",
         "internalId": 13120,
         "uniqueEntryId": "BRoJ7ydkvzKwqGCt2",
+        "url": "=FORMULATEXT(B350)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13120,
@@ -18178,6 +18527,7 @@
         "variantId": "2_0",
         "internalId": 13120,
         "uniqueEntryId": "rzcHrZs2PptecH9Wf",
+        "url": "=FORMULATEXT(B351)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13120,
@@ -18263,6 +18613,7 @@
         "variantId": "0_0",
         "internalId": 13730,
         "uniqueEntryId": "2RohNDsCTGEWfiMZG",
+        "url": "=FORMULATEXT(B352)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13730,
@@ -18300,6 +18651,7 @@
         "variantId": "0_1",
         "internalId": 13730,
         "uniqueEntryId": "TYojFat77HS5MuC9a",
+        "url": "=FORMULATEXT(B353)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13730,
@@ -18337,6 +18689,7 @@
         "variantId": "0_2",
         "internalId": 13730,
         "uniqueEntryId": "5xsDcodzPStNsFntj",
+        "url": "=FORMULATEXT(B354)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13730,
@@ -18374,6 +18727,7 @@
         "variantId": "0_3",
         "internalId": 13730,
         "uniqueEntryId": "EyJhxnQDBzkojjwLZ",
+        "url": "=FORMULATEXT(B355)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13730,
@@ -18411,6 +18765,7 @@
         "variantId": "0_4",
         "internalId": 13730,
         "uniqueEntryId": "t98tLmMybTgwhRxR9",
+        "url": "=FORMULATEXT(B356)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13730,
@@ -18448,6 +18803,7 @@
         "variantId": "0_5",
         "internalId": 13730,
         "uniqueEntryId": "6PaSkJXooh8n99vik",
+        "url": "=FORMULATEXT(B357)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13730,
@@ -18485,6 +18841,7 @@
         "variantId": "0_6",
         "internalId": 13730,
         "uniqueEntryId": "xA68d3rBPzxergzCs",
+        "url": "=FORMULATEXT(B358)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13730,
@@ -18522,6 +18879,7 @@
         "variantId": "0_7",
         "internalId": 13730,
         "uniqueEntryId": "9sZpePFnAEvP4h4qp",
+        "url": "=FORMULATEXT(B359)",
         "patternTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 13730,
@@ -18626,6 +18984,7 @@
         "variantId": "0_0",
         "internalId": 13144,
         "uniqueEntryId": "ohmPG3KmKS9JtZcsF",
+        "url": "=FORMULATEXT(B360)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13144,
@@ -18663,6 +19022,7 @@
         "variantId": "1_0",
         "internalId": 13144,
         "uniqueEntryId": "pskhbzKgYM7gSLpHt",
+        "url": "=FORMULATEXT(B361)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13144,
@@ -18700,6 +19060,7 @@
         "variantId": "2_0",
         "internalId": 13144,
         "uniqueEntryId": "opZX66N5qKaSMqpaS",
+        "url": "=FORMULATEXT(B362)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13144,
@@ -18737,6 +19098,7 @@
         "variantId": "3_0",
         "internalId": 13144,
         "uniqueEntryId": "pu8xktt2XDZWwpscH",
+        "url": "=FORMULATEXT(B363)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13144,
@@ -18774,6 +19136,7 @@
         "variantId": "4_0",
         "internalId": 13144,
         "uniqueEntryId": "RXgYHNEwantuaqsSp",
+        "url": "=FORMULATEXT(B364)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13144,
@@ -18811,6 +19174,7 @@
         "variantId": "5_0",
         "internalId": 13144,
         "uniqueEntryId": "LhYpAfe9jktngTRbc",
+        "url": "=FORMULATEXT(B365)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13144,
@@ -18848,6 +19212,7 @@
         "variantId": "6_0",
         "internalId": 13144,
         "uniqueEntryId": "nf3GMw9XZDZL2iTvR",
+        "url": "=FORMULATEXT(B366)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13144,
@@ -18933,6 +19298,7 @@
         "variantId": "0_0",
         "internalId": 13155,
         "uniqueEntryId": "T6KTMnRmBZq8b6LWR",
+        "url": "=FORMULATEXT(B367)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13155,
@@ -18970,6 +19336,7 @@
         "variantId": "1_0",
         "internalId": 13155,
         "uniqueEntryId": "eyD3gr3HSCQd7hCRc",
+        "url": "=FORMULATEXT(B368)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13155,
@@ -19007,6 +19374,7 @@
         "variantId": "2_0",
         "internalId": 13155,
         "uniqueEntryId": "bmF75KaiQqsWvTPTc",
+        "url": "=FORMULATEXT(B369)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13155,
@@ -19092,6 +19460,7 @@
         "variantId": "0_0",
         "internalId": 13145,
         "uniqueEntryId": "LTZsmyhdKDohg6uvQ",
+        "url": "=FORMULATEXT(B370)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13145,
@@ -19129,6 +19498,7 @@
         "variantId": "1_0",
         "internalId": 13145,
         "uniqueEntryId": "KfaXfNniD7Rt8dtr8",
+        "url": "=FORMULATEXT(B371)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13145,
@@ -19166,6 +19536,7 @@
         "variantId": "2_0",
         "internalId": 13145,
         "uniqueEntryId": "56EzTWCvj8bBat4r9",
+        "url": "=FORMULATEXT(B372)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13145,
@@ -19203,6 +19574,7 @@
         "variantId": "3_0",
         "internalId": 13145,
         "uniqueEntryId": "aLZa55JTaYPcW6gEs",
+        "url": "=FORMULATEXT(B373)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13145,
@@ -19240,6 +19612,7 @@
         "variantId": "4_0",
         "internalId": 13145,
         "uniqueEntryId": "yAaQDtr2cqe9DRLAX",
+        "url": "=FORMULATEXT(B374)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13145,
@@ -19277,6 +19650,7 @@
         "variantId": "5_0",
         "internalId": 13145,
         "uniqueEntryId": "tofwLq9wexMRhqHJe",
+        "url": "=FORMULATEXT(B375)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13145,
@@ -19314,6 +19688,7 @@
         "variantId": "6_0",
         "internalId": 13145,
         "uniqueEntryId": "Tf2WHPTfcKYNybRmi",
+        "url": "=FORMULATEXT(B376)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13145,
@@ -19351,6 +19726,7 @@
         "variantId": "7_0",
         "internalId": 13145,
         "uniqueEntryId": "mNwJ8zzHmpNppCqWH",
+        "url": "=FORMULATEXT(B377)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13145,
@@ -19436,6 +19812,7 @@
         "variantId": "0_0",
         "internalId": 14619,
         "uniqueEntryId": "XxeGr9pjYagGKkGqr",
+        "url": "=FORMULATEXT(B378)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19492,6 +19869,7 @@
         "variantId": "0_1",
         "internalId": 14619,
         "uniqueEntryId": "i7ccnsAoQzW7N3Bvi",
+        "url": "=FORMULATEXT(B379)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19548,6 +19926,7 @@
         "variantId": "0_2",
         "internalId": 14619,
         "uniqueEntryId": "tzk8ahXR5cK3GmhKL",
+        "url": "=FORMULATEXT(B380)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19604,6 +19983,7 @@
         "variantId": "0_3",
         "internalId": 14619,
         "uniqueEntryId": "d3uFAN6nTZXxezp3s",
+        "url": "=FORMULATEXT(B381)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19660,6 +20040,7 @@
         "variantId": "0_4",
         "internalId": 14619,
         "uniqueEntryId": "oS7c8wmQPL8EJTxk2",
+        "url": "=FORMULATEXT(B382)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19716,6 +20097,7 @@
         "variantId": "0_5",
         "internalId": 14619,
         "uniqueEntryId": "CZRr62enK657qYoAc",
+        "url": "=FORMULATEXT(B383)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19772,6 +20154,7 @@
         "variantId": "0_6",
         "internalId": 14619,
         "uniqueEntryId": "GGudu4CFJkZrSN3yn",
+        "url": "=FORMULATEXT(B384)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19828,6 +20211,7 @@
         "variantId": "0_7",
         "internalId": 14619,
         "uniqueEntryId": "2yRtWSBDMHTAFt8HD",
+        "url": "=FORMULATEXT(B385)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19884,6 +20268,7 @@
         "variantId": "1_0",
         "internalId": 14619,
         "uniqueEntryId": "YZGvmTiXzRgG3BudC",
+        "url": "=FORMULATEXT(B386)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19940,6 +20325,7 @@
         "variantId": "1_1",
         "internalId": 14619,
         "uniqueEntryId": "pGdhfhQbqaxsTovLk",
+        "url": "=FORMULATEXT(B387)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -19996,6 +20382,7 @@
         "variantId": "1_2",
         "internalId": 14619,
         "uniqueEntryId": "gkmWAuhMegXXeHwfm",
+        "url": "=FORMULATEXT(B388)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20052,6 +20439,7 @@
         "variantId": "1_3",
         "internalId": 14619,
         "uniqueEntryId": "DewT2xfyAyaeahQ2H",
+        "url": "=FORMULATEXT(B389)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20108,6 +20496,7 @@
         "variantId": "1_4",
         "internalId": 14619,
         "uniqueEntryId": "w2x5XouAcqMSBAjL2",
+        "url": "=FORMULATEXT(B390)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20164,6 +20553,7 @@
         "variantId": "1_5",
         "internalId": 14619,
         "uniqueEntryId": "hDAdyPjxSWSjY7XSb",
+        "url": "=FORMULATEXT(B391)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20220,6 +20610,7 @@
         "variantId": "1_6",
         "internalId": 14619,
         "uniqueEntryId": "84Y7tLgvBruoQyM3H",
+        "url": "=FORMULATEXT(B392)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20276,6 +20667,7 @@
         "variantId": "1_7",
         "internalId": 14619,
         "uniqueEntryId": "iQqh2ESJv6A8jABGg",
+        "url": "=FORMULATEXT(B393)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20332,6 +20724,7 @@
         "variantId": "2_0",
         "internalId": 14619,
         "uniqueEntryId": "FoeDSN6aqBdM5Aybn",
+        "url": "=FORMULATEXT(B394)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20388,6 +20781,7 @@
         "variantId": "2_1",
         "internalId": 14619,
         "uniqueEntryId": "pRXc8BjQD5RgMcjTe",
+        "url": "=FORMULATEXT(B395)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20444,6 +20838,7 @@
         "variantId": "2_2",
         "internalId": 14619,
         "uniqueEntryId": "z5qrzbSSFkYpChbo6",
+        "url": "=FORMULATEXT(B396)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20500,6 +20895,7 @@
         "variantId": "2_3",
         "internalId": 14619,
         "uniqueEntryId": "Ey2kKmN5hQ5ZKiTDt",
+        "url": "=FORMULATEXT(B397)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20556,6 +20952,7 @@
         "variantId": "2_4",
         "internalId": 14619,
         "uniqueEntryId": "Ma46x5v4pfMA3p7rn",
+        "url": "=FORMULATEXT(B398)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20612,6 +21009,7 @@
         "variantId": "2_5",
         "internalId": 14619,
         "uniqueEntryId": "LevHGS6rKyYatkvtN",
+        "url": "=FORMULATEXT(B399)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20668,6 +21066,7 @@
         "variantId": "2_6",
         "internalId": 14619,
         "uniqueEntryId": "8FcDDxkuBaHQihE6j",
+        "url": "=FORMULATEXT(B400)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20724,6 +21123,7 @@
         "variantId": "2_7",
         "internalId": 14619,
         "uniqueEntryId": "ufaBoc93rY2fNqekc",
+        "url": "=FORMULATEXT(B401)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14619,
@@ -20828,6 +21228,7 @@
         "variantId": "0_0",
         "internalId": 14206,
         "uniqueEntryId": "WtaTX7zWerMgsPy3L",
+        "url": "=FORMULATEXT(B402)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14206,
@@ -20865,6 +21266,7 @@
         "variantId": "1_0",
         "internalId": 14206,
         "uniqueEntryId": "cYehwwyt5WQMwNgGq",
+        "url": "=FORMULATEXT(B403)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14206,
@@ -20902,6 +21304,7 @@
         "variantId": "2_0",
         "internalId": 14206,
         "uniqueEntryId": "DHwZEL89vengfY3JE",
+        "url": "=FORMULATEXT(B404)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14206,
@@ -20939,6 +21342,7 @@
         "variantId": "3_0",
         "internalId": 14206,
         "uniqueEntryId": "aPmA3MN8vndnaXCqw",
+        "url": "=FORMULATEXT(B405)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14206,
@@ -20976,6 +21380,7 @@
         "variantId": "4_0",
         "internalId": 14206,
         "uniqueEntryId": "53dnKaEP5GePKhXxy",
+        "url": "=FORMULATEXT(B406)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 14206,
@@ -21107,6 +21512,7 @@
         "variantId": "0_0",
         "internalId": 13121,
         "uniqueEntryId": "Zuj5JaMFHQN6bEgcN",
+        "url": "=FORMULATEXT(B407)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13121,
@@ -21144,6 +21550,7 @@
         "variantId": "1_0",
         "internalId": 13121,
         "uniqueEntryId": "GZbtEEgx4tXeFQvf7",
+        "url": "=FORMULATEXT(B408)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13121,
@@ -21181,6 +21588,7 @@
         "variantId": "2_0",
         "internalId": 13121,
         "uniqueEntryId": "Jh9EBTHEBdBevNjL6",
+        "url": "=FORMULATEXT(B409)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13121,
@@ -21218,6 +21626,7 @@
         "variantId": "3_0",
         "internalId": 13121,
         "uniqueEntryId": "hFYKv2QS8NLABAw75",
+        "url": "=FORMULATEXT(B410)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13121,
@@ -21255,6 +21664,7 @@
         "variantId": "4_0",
         "internalId": 13121,
         "uniqueEntryId": "yqqQLbfQhv35fvRWG",
+        "url": "=FORMULATEXT(B411)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13121,
@@ -21292,6 +21702,7 @@
         "variantId": "5_0",
         "internalId": 13121,
         "uniqueEntryId": "k4Su8pKD3PDzgDHaJ",
+        "url": "=FORMULATEXT(B412)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13121,
@@ -21329,6 +21740,7 @@
         "variantId": "6_0",
         "internalId": 13121,
         "uniqueEntryId": "c727QA2hJrKsfBJwz",
+        "url": "=FORMULATEXT(B413)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13121,
@@ -21414,6 +21826,7 @@
         "variantId": "0_0",
         "internalId": 13153,
         "uniqueEntryId": "2B3icdo56jsD22prF",
+        "url": "=FORMULATEXT(B414)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13153,
@@ -21451,6 +21864,7 @@
         "variantId": "1_0",
         "internalId": 13153,
         "uniqueEntryId": "PGubzvqK9GCwwCK4S",
+        "url": "=FORMULATEXT(B415)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13153,
@@ -21488,6 +21902,7 @@
         "variantId": "2_0",
         "internalId": 13153,
         "uniqueEntryId": "mHrua9fcTWSA3whcy",
+        "url": "=FORMULATEXT(B416)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13153,
@@ -21525,6 +21940,7 @@
         "variantId": "3_0",
         "internalId": 13153,
         "uniqueEntryId": "7KJtrTL9Z8drkGHsk",
+        "url": "=FORMULATEXT(B417)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13153,
@@ -21610,6 +22026,7 @@
         "variantId": "0_0",
         "internalId": 13122,
         "uniqueEntryId": "xpJFaD5TXMA8pLK5n",
+        "url": "=FORMULATEXT(B418)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13122,
@@ -21647,6 +22064,7 @@
         "variantId": "1_0",
         "internalId": 13122,
         "uniqueEntryId": "Px6gvtCHutXqiHKZx",
+        "url": "=FORMULATEXT(B419)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13122,
@@ -21684,6 +22102,7 @@
         "variantId": "2_0",
         "internalId": 13122,
         "uniqueEntryId": "44bqnSdAjJnKAQWvo",
+        "url": "=FORMULATEXT(B420)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 13122,

@@ -23,6 +23,8 @@
     "storageFilename": "StarpieceAquarius",
     "internalId": 5986,
     "uniqueEntryId": "sHWduQNusYLWRjhzb",
+    "url2": "=FORMULATEXT(B5)",
+    "url": "=FORMULATEXT(C5)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5986,
@@ -69,6 +71,8 @@
     "storageFilename": "StarpieceAries",
     "internalId": 5988,
     "uniqueEntryId": "D5JE2Ypt5vZ3C4EM6",
+    "url2": "=FORMULATEXT(B7)",
+    "url": "=FORMULATEXT(C7)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5988,
@@ -115,6 +119,8 @@
     "storageFilename": "Cookingbook1",
     "internalId": 14811,
     "uniqueEntryId": "qb2eaBbQEsMwQz5v3",
+    "url2": "=FORMULATEXT(B11)",
+    "url": "=FORMULATEXT(C11)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14811,
@@ -161,6 +167,8 @@
     "storageFilename": "HowtoBookDIYRecipePlus",
     "internalId": 14691,
     "uniqueEntryId": "ssswcjPYorzGtHwqS",
+    "url2": "=FORMULATEXT(B12)",
+    "url": "=FORMULATEXT(C12)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14691,
@@ -207,6 +215,8 @@
     "storageFilename": "PhotoStudioBellBag",
     "internalId": 7731,
     "uniqueEntryId": "MwHcZBfqcJ5vJzRqZ",
+    "url2": "=FORMULATEXT(B13)",
+    "url": "=FORMULATEXT(C13)",
     "translations": {
       "sourceSheet": "Harv's Island Items",
       "id": 7731,
@@ -253,6 +263,8 @@
     "storageFilename": "PhotoStudioBell",
     "internalId": 7730,
     "uniqueEntryId": "jNjH659eycYXADzaq",
+    "url2": "=FORMULATEXT(B14)",
+    "url": "=FORMULATEXT(C14)",
     "translations": {
       "sourceSheet": "Harv's Island Items",
       "id": 7730,
@@ -299,6 +311,8 @@
     "storageFilename": "BellExchangeTicket",
     "internalId": 9964,
     "uniqueEntryId": "Ekx2qXMQw3nrBxbwC",
+    "url2": "=FORMULATEXT(B15)",
+    "url": "=FORMULATEXT(C15)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 9964,
@@ -345,6 +359,8 @@
     "storageFilename": "MuseumTent",
     "internalId": 2755,
     "uniqueEntryId": "57HSnpzwFHuTfBiyf",
+    "url2": "=FORMULATEXT(B25)",
+    "url": "=FORMULATEXT(C25)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 2755,
@@ -391,6 +407,8 @@
     "storageFilename": "HowtoBookBodyColor",
     "internalId": 13256,
     "uniqueEntryId": "k36tjaygAsSjGYcmj",
+    "url2": "=FORMULATEXT(B39)",
+    "url": "=FORMULATEXT(C39)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13256,
@@ -437,6 +455,8 @@
     "storageFilename": "StarpieceCancer",
     "internalId": 5991,
     "uniqueEntryId": "SmqC4auAEN7GSNraA",
+    "url2": "=FORMULATEXT(B49)",
+    "url": "=FORMULATEXT(C49)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5991,
@@ -483,6 +503,8 @@
     "storageFilename": "StarpieceCapricornus",
     "internalId": 5985,
     "uniqueEntryId": "Yv5hZXu5AkG7sWNQ6",
+    "url2": "=FORMULATEXT(B51)",
+    "url": "=FORMULATEXT(C51)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5985,
@@ -532,6 +554,8 @@
     "storageFilename": "DIYbookHarvest",
     "internalId": 13787,
     "uniqueEntryId": "WfSB5eBmXt4vKqRJe",
+    "url2": "=FORMULATEXT(B70)",
+    "url": "=FORMULATEXT(C70)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13787,
@@ -578,6 +602,8 @@
     "storageFilename": "HowtoBookMydesingPro",
     "internalId": 12185,
     "uniqueEntryId": "MMYBdDHWn2kW2Maze",
+    "url2": "=FORMULATEXT(B72)",
+    "url": "=FORMULATEXT(C72)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 12185,
@@ -624,6 +650,8 @@
     "storageFilename": "HowtoBookMydesingPro2",
     "internalId": 13195,
     "uniqueEntryId": "CdzhKtEHzrYPLZfRn",
+    "url2": "=FORMULATEXT(B73)",
+    "url": "=FORMULATEXT(C73)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13195,
@@ -670,6 +698,8 @@
     "storageFilename": "HowtoBookMydesignPatternPlus",
     "internalId": 14692,
     "uniqueEntryId": "jEPKJAeJzjPjMtxhp",
+    "url2": "=FORMULATEXT(B74)",
+    "url": "=FORMULATEXT(C74)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14692,
@@ -716,6 +746,8 @@
     "storageFilename": "HowtoBookMydesignShowcase",
     "internalId": 14158,
     "uniqueEntryId": "mnAwALPx9PrztGiKX",
+    "url2": "=FORMULATEXT(B75)",
+    "url": "=FORMULATEXT(C75)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14158,
@@ -762,6 +794,8 @@
     "storageFilename": "HowtoBookFenceRemake",
     "internalId": 14694,
     "uniqueEntryId": "QWBuACsymBtKAqEbm",
+    "url2": "=FORMULATEXT(B76)",
+    "url": "=FORMULATEXT(C76)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14694,
@@ -808,6 +842,8 @@
     "storageFilename": "DIYbook1",
     "internalId": 5603,
     "uniqueEntryId": "Xg3ZJkcs2GKKj629h",
+    "url2": "=FORMULATEXT(B84)",
+    "url": "=FORMULATEXT(C84)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5603,
@@ -856,6 +892,8 @@
     "storageFilename": "DreamBellExchangeTicket",
     "internalId": 13228,
     "uniqueEntryId": "oqF5TeSPnfuFD94kf",
+    "url2": "=FORMULATEXT(B85)",
+    "url": "=FORMULATEXT(C85)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13228,
@@ -902,6 +940,8 @@
     "storageFilename": "HowtoBookEyeColor",
     "internalId": 13257,
     "uniqueEntryId": "YjrQJLTjgggwSYDYM",
+    "url2": "=FORMULATEXT(B94)",
+    "url": "=FORMULATEXT(C94)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13257,
@@ -948,6 +988,8 @@
     "storageFilename": "StarpieceGemini",
     "internalId": 5990,
     "uniqueEntryId": "FKd48SRH79uQKweuZ",
+    "url2": "=FORMULATEXT(B101)",
+    "url": "=FORMULATEXT(C101)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5990,
@@ -994,6 +1036,8 @@
     "storageFilename": "HowtoBookReaction",
     "internalId": 13610,
     "uniqueEntryId": "Eyap99SoXYKQtJdtS",
+    "url2": "=FORMULATEXT(B120)",
+    "url": "=FORMULATEXT(C120)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13610,
@@ -1040,6 +1084,8 @@
     "storageFilename": "HowtoBookLifeSupportTips",
     "internalId": 14796,
     "uniqueEntryId": "mHGb9ywAQWtX34waj",
+    "url2": "=FORMULATEXT(B126)",
+    "url": "=FORMULATEXT(C126)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14796,
@@ -1086,6 +1132,8 @@
     "storageFilename": "StarpieceLeo",
     "internalId": 5992,
     "uniqueEntryId": "kxQAgnSXcGbYHtNLB",
+    "url2": "=FORMULATEXT(B130)",
+    "url": "=FORMULATEXT(C130)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5992,
@@ -1132,6 +1180,8 @@
     "storageFilename": "StarpieceLibra",
     "internalId": 5994,
     "uniqueEntryId": "SRpunGqz97ZSyQeKq",
+    "url2": "=FORMULATEXT(B131)",
+    "url": "=FORMULATEXT(C131)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5994,
@@ -1178,6 +1228,8 @@
     "storageFilename": "HowtoBookReaction_v200",
     "internalId": 14828,
     "uniqueEntryId": "STZTMjFRELXTvZaY5",
+    "url2": "=FORMULATEXT(B149)",
+    "url": "=FORMULATEXT(C149)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14828,
@@ -1224,6 +1276,8 @@
     "storageFilename": "MilePlaneTicket",
     "internalId": 5851,
     "uniqueEntryId": "FAn9xRZvpBRAad3E6",
+    "url2": "=FORMULATEXT(B150)",
+    "url": "=FORMULATEXT(C150)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5851,
@@ -1270,6 +1324,8 @@
     "storageFilename": "SmartphoneCaseOtg",
     "internalId": 14820,
     "uniqueEntryId": "gzc3vqZZhLZj3iHt8",
+    "url2": "=FORMULATEXT(B175)",
+    "url": "=FORMULATEXT(C175)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 14820,
@@ -1316,6 +1372,8 @@
     "storageFilename": "StarpiecePisces",
     "internalId": 5987,
     "uniqueEntryId": "nCwjX8yHBFefjAion",
+    "url2": "=FORMULATEXT(B205)",
+    "url": "=FORMULATEXT(C205)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5987,
@@ -1362,6 +1420,8 @@
     "storageFilename": "SmartphoneCaseComp",
     "internalId": 13439,
     "uniqueEntryId": "cB4KmrbAxssgvXhNP",
+    "url2": "=FORMULATEXT(B210)",
+    "url": "=FORMULATEXT(C210)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 13439,
@@ -1408,6 +1468,8 @@
     "storageFilename": "HowtoBookPocketExpansion",
     "internalId": 9052,
     "uniqueEntryId": "rMYGGvqwXxrzrA2FG",
+    "url2": "=FORMULATEXT(B211)",
+    "url": "=FORMULATEXT(C211)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 9052,
@@ -1454,6 +1516,8 @@
     "storageFilename": "DIYbookNormalTools",
     "internalId": 9221,
     "uniqueEntryId": "qX2D6tr7ba6exWbPj",
+    "url2": "=FORMULATEXT(B230)",
+    "url": "=FORMULATEXT(C230)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 9221,
@@ -1500,6 +1564,8 @@
     "storageFilename": "HowtoBook1stPersonCamera",
     "internalId": 14695,
     "uniqueEntryId": "ewzfTCou2LjigL3u4",
+    "url2": "=FORMULATEXT(B231)",
+    "url": "=FORMULATEXT(C231)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14695,
@@ -1546,6 +1612,8 @@
     "storageFilename": "HowtoBookAddBridgeSlope",
     "internalId": 14914,
     "uniqueEntryId": "xccbsyKLfNacT2atx",
+    "url2": "=FORMULATEXT(B232)",
+    "url": "=FORMULATEXT(C232)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14914,
@@ -1592,6 +1660,8 @@
     "storageFilename": "HowtoBookCeilingFtrAccentWall",
     "internalId": 14693,
     "uniqueEntryId": "ncbqaFKoHGJtCaL3a",
+    "url2": "=FORMULATEXT(B233)",
+    "url": "=FORMULATEXT(C233)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14693,
@@ -1638,6 +1708,8 @@
     "storageFilename": "StarpieceSagittarius",
     "internalId": 5996,
     "uniqueEntryId": "9R62eP8SNmyp2BKCw",
+    "url2": "=FORMULATEXT(B293)",
+    "url": "=FORMULATEXT(C293)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5996,
@@ -1684,6 +1756,8 @@
     "storageFilename": "RollanTicket",
     "internalId": 9261,
     "uniqueEntryId": "hcEpSZjo7pxbNQ4B9",
+    "url2": "=FORMULATEXT(B294)",
+    "url": "=FORMULATEXT(C294)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 9261,
@@ -1730,6 +1804,8 @@
     "storageFilename": "StarpieceScorpio",
     "internalId": 5995,
     "uniqueEntryId": "qGiMqtK2j3TsC7bNu",
+    "url2": "=FORMULATEXT(B298)",
+    "url": "=FORMULATEXT(C298)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5995,
@@ -1776,6 +1852,8 @@
     "storageFilename": "StarpieceTaurus",
     "internalId": 5989,
     "uniqueEntryId": "3k9txwAoHfTjWgxtx",
+    "url2": "=FORMULATEXT(B321)",
+    "url": "=FORMULATEXT(C321)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5989,
@@ -1822,6 +1900,8 @@
     "storageFilename": "DIYbook2",
     "internalId": 5604,
     "uniqueEntryId": "Z98Fu4EyDgeSnqxzE",
+    "url2": "=FORMULATEXT(B324)",
+    "url": "=FORMULATEXT(C324)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5604,
@@ -1868,6 +1948,8 @@
     "storageFilename": "HowtoBookRingMenuUI",
     "internalId": 9616,
     "uniqueEntryId": "AXc86J2LA2TEEgkTy",
+    "url2": "=FORMULATEXT(B327)",
+    "url": "=FORMULATEXT(C327)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 9616,
@@ -1914,6 +1996,8 @@
     "storageFilename": "HowtoBookHair_v200",
     "internalId": 14829,
     "uniqueEntryId": "EkfcmkMkNAMsnS7x3",
+    "url2": "=FORMULATEXT(B328)",
+    "url": "=FORMULATEXT(C328)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14829,
@@ -1960,6 +2044,8 @@
     "storageFilename": "HowtoBookHairRock",
     "internalId": 13766,
     "uniqueEntryId": "7bC3au49Axxr4p5L5",
+    "url2": "=FORMULATEXT(B329)",
+    "url": "=FORMULATEXT(C329)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13766,
@@ -2006,6 +2092,8 @@
     "storageFilename": "HowtoBookHairCool",
     "internalId": 9050,
     "uniqueEntryId": "qRimrPCob8DS8zuug",
+    "url2": "=FORMULATEXT(B330)",
+    "url": "=FORMULATEXT(C330)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 9050,
@@ -2052,6 +2140,8 @@
     "storageFilename": "HowtoBookHairPop",
     "internalId": 9049,
     "uniqueEntryId": "2KfDyfk47DR6Gw8m9",
+    "url2": "=FORMULATEXT(B331)",
+    "url": "=FORMULATEXT(C331)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 9049,
@@ -2098,6 +2188,8 @@
     "storageFilename": "HowtoBookHairColor",
     "internalId": 9051,
     "uniqueEntryId": "JPwL4N6fr494vbJHb",
+    "url2": "=FORMULATEXT(B332)",
+    "url": "=FORMULATEXT(C332)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 9051,
@@ -2144,6 +2236,8 @@
     "storageFilename": "CookingbookHarvest",
     "internalId": 14816,
     "uniqueEntryId": "5xYYfFYyrEG9rS9Hx",
+    "url2": "=FORMULATEXT(B336)",
+    "url": "=FORMULATEXT(C336)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14816,
@@ -2190,6 +2284,8 @@
     "storageFilename": "HowtoBookPocketExpansion2",
     "internalId": 11140,
     "uniqueEntryId": "jLHd4JDRQDRxBhE9o",
+    "url2": "=FORMULATEXT(B338)",
+    "url": "=FORMULATEXT(C338)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 11140,
@@ -2236,6 +2332,8 @@
     "storageFilename": "StarpieceVirgo",
     "internalId": 5993,
     "uniqueEntryId": "6pD87cCAtspPu5xgi",
+    "url2": "=FORMULATEXT(B342)",
+    "url": "=FORMULATEXT(C342)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5993,
@@ -2282,6 +2380,8 @@
     "storageFilename": "HowtoBookReactionCarnival",
     "internalId": 14030,
     "uniqueEntryId": "QHERh7S2v4M3vkM5N",
+    "url2": "=FORMULATEXT(B343)",
+    "url": "=FORMULATEXT(C343)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14030,
@@ -2328,6 +2428,8 @@
     "storageFilename": "TreasureCapsuleDust",
     "internalId": 2546,
     "uniqueEntryId": "abcQC3Kh7T8KSyBRA",
+    "url2": "=FORMULATEXT(B350)",
+    "url": "=FORMULATEXT(C350)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 2546,
@@ -2374,6 +2476,8 @@
     "storageFilename": "LostQuestNoteDust",
     "internalId": 5427,
     "uniqueEntryId": "ruc9ZFn2WnduaPXPz",
+    "url2": "=FORMULATEXT(B349)",
+    "url": "=FORMULATEXT(C349)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 5427,
@@ -2420,6 +2524,8 @@
     "storageFilename": "LostQuestBookDust",
     "internalId": 4643,
     "uniqueEntryId": "uh9ZQCxKj52Entfkv",
+    "url2": "=FORMULATEXT(B348)",
+    "url": "=FORMULATEXT(C348)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 4643,
@@ -2466,6 +2572,8 @@
     "storageFilename": "LostQuestBagDust",
     "internalId": 4642,
     "uniqueEntryId": "tFfFLpFHcdbw3AEW3",
+    "url2": "=FORMULATEXT(B347)",
+    "url": "=FORMULATEXT(C347)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 4642,
@@ -2512,6 +2620,8 @@
     "storageFilename": "DIYbook3",
     "internalId": 5605,
     "uniqueEntryId": "7DL3HBGPEfgi6XZfX",
+    "url2": "=FORMULATEXT(B384)",
+    "url": "=FORMULATEXT(C384)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5605,
@@ -2558,6 +2668,8 @@
     "storageFilename": "YutaroWisp",
     "internalId": 4702,
     "uniqueEntryId": "yhGWoYrexRQRmWkvP",
+    "url2": "=FORMULATEXT(B385)",
+    "url": "=FORMULATEXT(C385)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 4702,
@@ -2604,6 +2716,8 @@
     "storageFilename": "DIYAcorn",
     "internalId": 5727,
     "uniqueEntryId": "LWRPyLkySfCNkDvdv",
+    "url2": "=FORMULATEXT(B2)",
+    "url": "=FORMULATEXT(C2)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5727,
@@ -2650,6 +2764,8 @@
     "storageFilename": "Apple",
     "internalId": 2213,
     "uniqueEntryId": "iTWs2LBrcFu8XyDMF",
+    "url2": "=FORMULATEXT(B3)",
+    "url": "=FORMULATEXT(C3)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2213,
@@ -2696,6 +2812,8 @@
     "storageFilename": "PltApple4",
     "internalId": 3360,
     "uniqueEntryId": "4BFZn59FMC5eyCKXS",
+    "url2": "=FORMULATEXT(B4)",
+    "url": "=FORMULATEXT(C4)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3360,
@@ -2742,6 +2860,8 @@
     "storageFilename": "FtrGroundMakerStonePattern",
     "internalId": 8776,
     "uniqueEntryId": "yDajuWo93WGgTR4bJ",
+    "url2": "=FORMULATEXT(B6)",
+    "url": "=FORMULATEXT(C6)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 8776,
@@ -2788,6 +2908,8 @@
     "storageFilename": "DIYBamboo",
     "internalId": 2501,
     "uniqueEntryId": "RJpF9Apqi52AqPP25",
+    "url2": "=FORMULATEXT(B8)",
+    "url": "=FORMULATEXT(C8)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 2501,
@@ -2834,6 +2956,8 @@
     "storageFilename": "BambooShoot",
     "internalId": 2295,
     "uniqueEntryId": "kTmS9FFMxJFuCS7vr",
+    "url2": "=FORMULATEXT(B9)",
+    "url": "=FORMULATEXT(C9)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2295,
@@ -2880,6 +3004,8 @@
     "storageFilename": "PltBamboo4",
     "internalId": 2815,
     "uniqueEntryId": "m6And8qdTfySMh9kR",
+    "url2": "=FORMULATEXT(B10)",
+    "url": "=FORMULATEXT(C10)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2815,
@@ -2926,6 +3052,8 @@
     "storageFilename": "FlwCosmosBlack",
     "internalId": 2875,
     "uniqueEntryId": "QveR5KriJ63ZvAmQs",
+    "url2": "=FORMULATEXT(B16)",
+    "url": "=FORMULATEXT(C16)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2875,
@@ -2972,6 +3100,8 @@
     "storageFilename": "FlwYuriBlack",
     "internalId": 2999,
     "uniqueEntryId": "GJEkbwJexHSSq3Kvp",
+    "url2": "=FORMULATEXT(B17)",
+    "url": "=FORMULATEXT(C17)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2999,
@@ -3018,6 +3148,8 @@
     "storageFilename": "FlwRoseBlack",
     "internalId": 2955,
     "uniqueEntryId": "RAxXqgdwa6Jb3fKFX",
+    "url2": "=FORMULATEXT(B18)",
+    "url": "=FORMULATEXT(C18)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2955,
@@ -3064,6 +3196,8 @@
     "storageFilename": "FlwTulipBlack",
     "internalId": 2903,
     "uniqueEntryId": "WGvGEjXRYjucLHity",
+    "url2": "=FORMULATEXT(B19)",
+    "url": "=FORMULATEXT(C19)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2903,
@@ -3110,6 +3244,8 @@
     "storageFilename": "WPaperBlack",
     "internalId": 7698,
     "uniqueEntryId": "e726AGFuzKwPdeNZu",
+    "url2": "=FORMULATEXT(B20)",
+    "url": "=FORMULATEXT(C20)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7698,
@@ -3156,6 +3292,8 @@
     "storageFilename": "PltCosmosBlack3",
     "internalId": 3834,
     "uniqueEntryId": "o54h94yBpGiSSfKkr",
+    "url2": "=FORMULATEXT(B21)",
+    "url": "=FORMULATEXT(C21)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3834,
@@ -3202,6 +3340,8 @@
     "storageFilename": "PltYuriBlack3",
     "internalId": 3896,
     "uniqueEntryId": "RgsTH72gphGY6AHsK",
+    "url2": "=FORMULATEXT(B22)",
+    "url": "=FORMULATEXT(C22)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3896,
@@ -3248,6 +3388,8 @@
     "storageFilename": "PltRoseBlack3",
     "internalId": 3874,
     "uniqueEntryId": "suqNAcWRFj6JJZKuk",
+    "url2": "=FORMULATEXT(B23)",
+    "url": "=FORMULATEXT(C23)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3874,
@@ -3294,6 +3436,8 @@
     "storageFilename": "PltTulipBlack3",
     "internalId": 3848,
     "uniqueEntryId": "2aiEhGHeGqQG725zX",
+    "url2": "=FORMULATEXT(B24)",
+    "url": "=FORMULATEXT(C24)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3848,
@@ -3340,6 +3484,8 @@
     "storageFilename": "FeatherBlue",
     "internalId": 3542,
     "uniqueEntryId": "RRAxA9JnFuW8K7v7s",
+    "url2": "=FORMULATEXT(B26)",
+    "url": "=FORMULATEXT(C26)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 3542,
@@ -3386,6 +3532,8 @@
     "storageFilename": "FlwHyacinthBlue",
     "internalId": 3748,
     "uniqueEntryId": "K6yui8FLmJvwNcfL4",
+    "url2": "=FORMULATEXT(B27)",
+    "url": "=FORMULATEXT(C27)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3748,
@@ -3432,6 +3580,8 @@
     "storageFilename": "DIYOrnamentBlue",
     "internalId": 5731,
     "uniqueEntryId": "s38Tms3PpjpWGnFtn",
+    "url2": "=FORMULATEXT(B28)",
+    "url": "=FORMULATEXT(C28)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5731,
@@ -3478,6 +3628,8 @@
     "storageFilename": "FlwPansyBlue",
     "internalId": 2927,
     "uniqueEntryId": "mNBAQ7xCjndP63TW8",
+    "url2": "=FORMULATEXT(B29)",
+    "url": "=FORMULATEXT(C29)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2927,
@@ -3524,6 +3676,8 @@
     "storageFilename": "FlwRoseBlue",
     "internalId": 2959,
     "uniqueEntryId": "C39ncDcJ44My6qoQm",
+    "url2": "=FORMULATEXT(B30)",
+    "url": "=FORMULATEXT(C30)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2959,
@@ -3570,6 +3724,8 @@
     "storageFilename": "FlwAnemonesBlue",
     "internalId": 3717,
     "uniqueEntryId": "JmHWXFZvvgpJYrg8Z",
+    "url2": "=FORMULATEXT(B31)",
+    "url": "=FORMULATEXT(C31)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3717,
@@ -3616,6 +3772,8 @@
     "storageFilename": "WPaperBlue",
     "internalId": 7692,
     "uniqueEntryId": "FK3PwoipGayPzS4SW",
+    "url2": "=FORMULATEXT(B32)",
+    "url": "=FORMULATEXT(C32)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7692,
@@ -3662,6 +3820,8 @@
     "storageFilename": "PltHyacinthBlue3",
     "internalId": 3920,
     "uniqueEntryId": "MNT54SyQWEWfaQAc6",
+    "url2": "=FORMULATEXT(B33)",
+    "url": "=FORMULATEXT(C33)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3920,
@@ -3708,6 +3868,8 @@
     "storageFilename": "PltHydrangeaBlue2",
     "internalId": 3800,
     "uniqueEntryId": "trgrtapDMZkkyDfiz",
+    "url2": "=FORMULATEXT(B34)",
+    "url": "=FORMULATEXT(C34)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3800,
@@ -3754,6 +3916,8 @@
     "storageFilename": "SeedHydrangeaBlue",
     "internalId": 3798,
     "uniqueEntryId": "GNsNR4uHsjm4B7XJr",
+    "url2": "=FORMULATEXT(B35)",
+    "url": "=FORMULATEXT(C35)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3798,
@@ -3800,6 +3964,8 @@
     "storageFilename": "PltPansyBlue3",
     "internalId": 3860,
     "uniqueEntryId": "Zd4CiamQfSEbYcymn",
+    "url2": "=FORMULATEXT(B36)",
+    "url": "=FORMULATEXT(C36)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3860,
@@ -3846,6 +4012,8 @@
     "storageFilename": "PltRoseBlue3",
     "internalId": 3876,
     "uniqueEntryId": "XXDs7bACfxsb5ospo",
+    "url2": "=FORMULATEXT(B37)",
+    "url": "=FORMULATEXT(C37)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3876,
@@ -3892,6 +4060,8 @@
     "storageFilename": "PltAnemonesBlue3",
     "internalId": 3902,
     "uniqueEntryId": "A4yXEFxhamZ2fCfmG",
+    "url2": "=FORMULATEXT(B38)",
+    "url": "=FORMULATEXT(C38)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3902,
@@ -3938,6 +4108,8 @@
     "storageFilename": "OtoshidamaKr",
     "internalId": 13955,
     "uniqueEntryId": "bsrwPHAW9y9WDQysp",
+    "url2": "=FORMULATEXT(B40)",
+    "url": "=FORMULATEXT(C40)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13955,
@@ -3984,6 +4156,8 @@
     "storageFilename": "TrashBoot",
     "internalId": 3469,
     "uniqueEntryId": "7jBpMwNw25uQW345e",
+    "url2": "=FORMULATEXT(B41)",
+    "url": "=FORMULATEXT(C41)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 3469,
@@ -4030,6 +4204,8 @@
     "storageFilename": "FtrGroundMakerBrick",
     "internalId": 8774,
     "uniqueEntryId": "oHZbjoqc3QKK6WLCC",
+    "url2": "=FORMULATEXT(B42)",
+    "url": "=FORMULATEXT(C42)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 8774,
@@ -4076,6 +4252,8 @@
     "storageFilename": "BridgeLogReserveKit",
     "internalId": 7211,
     "uniqueEntryId": "qT8ewTJpgMGSEENoY",
+    "url2": "=FORMULATEXT(B43)",
+    "url": "=FORMULATEXT(C43)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7211,
@@ -4206,6 +4384,8 @@
     "storageFilename": "BridgeReserveKit",
     "internalId": 4310,
     "uniqueEntryId": "nS86mCT42JirpqqPY",
+    "url2": "=FORMULATEXT(B44)",
+    "url": "=FORMULATEXT(C44)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 4310,
@@ -4252,6 +4432,8 @@
     "storageFilename": "FlourSugarbrown",
     "internalId": 13998,
     "uniqueEntryId": "FmnEXrWrhmiq4TcxG",
+    "url2": "=FORMULATEXT(B45)",
+    "url": "=FORMULATEXT(C45)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13998,
@@ -4344,6 +4526,8 @@
     "storageFilename": "WPaperBrown",
     "internalId": 7696,
     "uniqueEntryId": "hJhmHZLzeNSDBEoSo",
+    "url2": "=FORMULATEXT(B46)",
+    "url": "=FORMULATEXT(C46)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7696,
@@ -4390,6 +4574,8 @@
     "storageFilename": "CampsiteReserveKit",
     "internalId": 5166,
     "uniqueEntryId": "ezCup9En25XEqADNt",
+    "url2": "=FORMULATEXT(B47)",
+    "url": "=FORMULATEXT(C47)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5166,
@@ -4539,6 +4725,8 @@
     "storageFilename": "MovingKitCampsite",
     "internalId": 6841,
     "uniqueEntryId": "ZXGmQ8gab2KnTmP5a",
+    "url2": "=FORMULATEXT(B48)",
+    "url": "=FORMULATEXT(C48)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 6841,
@@ -4588,6 +4776,8 @@
     "storageFilename": "Candy",
     "internalId": 13197,
     "uniqueEntryId": "ipLZk6AGCSZ7yoMui",
+    "url2": "=FORMULATEXT(B50)",
+    "url": "=FORMULATEXT(C50)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 13197,
@@ -4634,6 +4824,8 @@
     "storageFilename": "Carrot",
     "internalId": 3044,
     "uniqueEntryId": "F5FN4j4aMLH5Dke9P",
+    "url2": "=FORMULATEXT(B52)",
+    "url": "=FORMULATEXT(C52)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3044,
@@ -4680,6 +4872,8 @@
     "storageFilename": "SeedCarrot",
     "internalId": 3045,
     "uniqueEntryId": "vJBzjThWG29k6fZXf",
+    "url2": "=FORMULATEXT(B53)",
+    "url": "=FORMULATEXT(C53)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3045,
@@ -4726,6 +4920,8 @@
     "storageFilename": "SeedCedar",
     "internalId": 2800,
     "uniqueEntryId": "LP6TnsveSD3AGAMmQ",
+    "url2": "=FORMULATEXT(B54)",
+    "url": "=FORMULATEXT(C54)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2800,
@@ -4772,6 +4968,8 @@
     "storageFilename": "PltCedar4",
     "internalId": 2805,
     "uniqueEntryId": "scFwAJ9XXGD3G6NbX",
+    "url2": "=FORMULATEXT(B55)",
+    "url": "=FORMULATEXT(C55)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2805,
@@ -4818,6 +5016,8 @@
     "storageFilename": "WPaperLightGreen",
     "internalId": 7686,
     "uniqueEntryId": "RWcJQMBA79cybhZDM",
+    "url2": "=FORMULATEXT(B56)",
+    "url": "=FORMULATEXT(C56)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7686,
@@ -4864,6 +5064,8 @@
     "storageFilename": "Cherry",
     "internalId": 2287,
     "uniqueEntryId": "vAujDBhEiEHX39WDn",
+    "url2": "=FORMULATEXT(B57)",
+    "url": "=FORMULATEXT(C57)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2287,
@@ -4910,6 +5112,8 @@
     "storageFilename": "PltCherry4",
     "internalId": 3381,
     "uniqueEntryId": "GhjdFWs3sFftbtd2W",
+    "url2": "=FORMULATEXT(B58)",
+    "url": "=FORMULATEXT(C58)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3381,
@@ -4956,6 +5160,8 @@
     "storageFilename": "Sakurapetal",
     "internalId": 5859,
     "uniqueEntryId": "7hYtxcDFLTySLx8Nz",
+    "url2": "=FORMULATEXT(B59)",
+    "url": "=FORMULATEXT(C59)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5859,
@@ -5002,6 +5208,8 @@
     "storageFilename": "DIYClay",
     "internalId": 3090,
     "uniqueEntryId": "3yoCRN4WNjdYKQEJB",
+    "url2": "=FORMULATEXT(B60)",
+    "url": "=FORMULATEXT(C60)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 3090,
@@ -5048,6 +5256,8 @@
     "storageFilename": "FtrCliffMaker",
     "internalId": 8781,
     "uniqueEntryId": "WQsguRuMd9bwEFu5j",
+    "url2": "=FORMULATEXT(B61)",
+    "url": "=FORMULATEXT(C61)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 8781,
@@ -5094,6 +5304,8 @@
     "storageFilename": "PltWeed",
     "internalId": 2624,
     "uniqueEntryId": "GEtNwS4vwNF7oBvw9",
+    "url2": "=FORMULATEXT(B62)",
+    "url": "=FORMULATEXT(C62)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2624,
@@ -5140,6 +5352,8 @@
     "storageFilename": "Coconut",
     "internalId": 2288,
     "uniqueEntryId": "eHNoTML3CsNoaHoZ9",
+    "url2": "=FORMULATEXT(B63)",
+    "url": "=FORMULATEXT(C63)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2288,
@@ -5186,6 +5400,8 @@
     "storageFilename": "PltPalm4",
     "internalId": 2810,
     "uniqueEntryId": "c4FSMaXCEqboxnQzT",
+    "url2": "=FORMULATEXT(B64)",
+    "url": "=FORMULATEXT(C64)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2810,
@@ -5232,6 +5448,8 @@
     "storageFilename": "PirateQuest",
     "internalId": 13105,
     "uniqueEntryId": "4MLwWcvfFjET6hgMc",
+    "url2": "=FORMULATEXT(B65)",
+    "url": "=FORMULATEXT(C65)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 13105,
@@ -5278,6 +5496,8 @@
     "storageFilename": "JohnnyQuest1",
     "internalId": 2381,
     "uniqueEntryId": "XiM7GBuMGY9HReqm2",
+    "url2": "=FORMULATEXT(B66)",
+    "url": "=FORMULATEXT(C66)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 2381,
@@ -5324,6 +5544,8 @@
     "storageFilename": "ShellDriftHora",
     "internalId": 1376,
     "uniqueEntryId": "rtDktiz93Crc46m5c",
+    "url2": "=FORMULATEXT(B67)",
+    "url": "=FORMULATEXT(C67)",
     "translations": {
       "sourceSheet": "Shells",
       "id": 1376,
@@ -5370,6 +5592,8 @@
     "storageFilename": "ShellDriftSango",
     "internalId": 1380,
     "uniqueEntryId": "4CHLh45qehAS8wHpb",
+    "url2": "=FORMULATEXT(B68)",
+    "url": "=FORMULATEXT(C68)",
     "translations": {
       "sourceSheet": "Shells",
       "id": 1380,
@@ -5416,6 +5640,8 @@
     "storageFilename": "ShellDriftTakara",
     "internalId": 1382,
     "uniqueEntryId": "zxAax3FMiJMX9Chet",
+    "url2": "=FORMULATEXT(B69)",
+    "url": "=FORMULATEXT(C69)",
     "translations": {
       "sourceSheet": "Shells",
       "id": 1382,
@@ -5462,6 +5688,8 @@
     "storageFilename": "FtrGroundMakerMydesign",
     "internalId": 9771,
     "uniqueEntryId": "gsKtaovfLwrynQzh2",
+    "url2": "=FORMULATEXT(B71)",
+    "url": "=FORMULATEXT(C71)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 9771,
@@ -5508,6 +5736,8 @@
     "storageFilename": "SmartphoneCase_Remake_0_0",
     "internalId": 8760,
     "uniqueEntryId": "nwyFbGaLtmPjknPTY",
+    "url2": "=FORMULATEXT(B77)",
+    "url": "=FORMULATEXT(C77)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 8760,
@@ -5554,6 +5784,8 @@
     "storageFilename": "RemakeKit",
     "internalId": 2513,
     "uniqueEntryId": "Ld3gGWdjsFZscs6Qq",
+    "url2": "=FORMULATEXT(B78)",
+    "url": "=FORMULATEXT(C78)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 2513,
@@ -5600,6 +5832,8 @@
     "storageFilename": "FtrGroundMakerDarkSoil",
     "internalId": 8775,
     "uniqueEntryId": "E6p3k7jqPy5nQZqkx",
+    "url2": "=FORMULATEXT(B79)",
+    "url": "=FORMULATEXT(C79)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 8775,
@@ -5646,6 +5880,8 @@
     "storageFilename": "DummyHotelCardboard",
     "internalId": 774,
     "uniqueEntryId": "H5caXiNFoNJSfqahB",
+    "url2": "=FORMULATEXT(B82)",
+    "url": "=FORMULATEXT(C82)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 774,
@@ -5692,6 +5928,8 @@
     "storageFilename": "DummyOneroomCardboard",
     "internalId": 14873,
     "uniqueEntryId": "6dGwjf4o45MpovX2d",
+    "url2": "=FORMULATEXT(B81)",
+    "url": "=FORMULATEXT(C81)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14873,
@@ -5738,6 +5976,8 @@
     "storageFilename": "DummyCardboard",
     "internalId": 4645,
     "uniqueEntryId": "dSEW4GQniyS8P6SnE",
+    "url2": "=FORMULATEXT(B80)",
+    "url": "=FORMULATEXT(C80)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 4645,
@@ -5784,6 +6024,8 @@
     "storageFilename": "QuestWrappingBox",
     "internalId": 4245,
     "uniqueEntryId": "KGs8SGuNQXerMe7xC",
+    "url2": "=FORMULATEXT(B83)",
+    "url": "=FORMULATEXT(C83)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 4245,
@@ -5830,6 +6072,8 @@
     "storageFilename": "CloudIslandBridgeBuildKit",
     "internalId": 909,
     "uniqueEntryId": "DtF73RaLhFhKhvkcJ",
+    "url2": "=FORMULATEXT(B86)",
+    "url": "=FORMULATEXT(C86)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 909,
@@ -5876,6 +6120,8 @@
     "storageFilename": "DreamGlold",
     "internalId": 1301,
     "uniqueEntryId": "GF9MxkaE4br9DdbiG",
+    "url2": "=FORMULATEXT(B87)",
+    "url": "=FORMULATEXT(C87)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 1301,
@@ -5922,6 +6168,8 @@
     "storageFilename": "CloudIslandSlopeBuildKit",
     "internalId": 910,
     "uniqueEntryId": "GM3p4nRs2dJZGYsir",
+    "url2": "=FORMULATEXT(B88)",
+    "url": "=FORMULATEXT(C88)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 910,
@@ -5968,6 +6216,8 @@
     "storageFilename": "CloudIslandHouseMoveKit",
     "internalId": 906,
     "uniqueEntryId": "DoSvJupuidnaN49cs",
+    "url2": "=FORMULATEXT(B89)",
+    "url": "=FORMULATEXT(C89)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 906,
@@ -6014,6 +6264,8 @@
     "storageFilename": "EggGround",
     "internalId": 12509,
     "uniqueEntryId": "GfuzxkKwqvLMLq4TJ",
+    "url2": "=FORMULATEXT(B90)",
+    "url": "=FORMULATEXT(C90)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 12509,
@@ -6060,6 +6312,8 @@
     "storageFilename": "MessageBottleEgg",
     "internalId": 12544,
     "uniqueEntryId": "AQictTWfneH93yYQM",
+    "url2": "=FORMULATEXT(B91)",
+    "url": "=FORMULATEXT(C91)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 12544,
@@ -6106,6 +6360,8 @@
     "storageFilename": "MushSplendid",
     "internalId": 3276,
     "uniqueEntryId": "kHtGRmaZmf3foEhwz",
+    "url2": "=FORMULATEXT(B92)",
+    "url": "=FORMULATEXT(C92)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3276,
@@ -6152,6 +6408,8 @@
     "storageFilename": "TrashCan",
     "internalId": 3466,
     "uniqueEntryId": "rqiTcqwQexTmYoPTH",
+    "url2": "=FORMULATEXT(B93)",
+    "url": "=FORMULATEXT(C93)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 3466,
@@ -6198,6 +6456,8 @@
     "storageFilename": "WPaperOrnament",
     "internalId": 13792,
     "uniqueEntryId": "S2tzdsHpXp8ReMh4N",
+    "url2": "=FORMULATEXT(B95)",
+    "url": "=FORMULATEXT(C95)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13792,
@@ -6328,6 +6588,8 @@
     "storageFilename": "FishBait",
     "internalId": 4549,
     "uniqueEntryId": "Ghm4XtGMDXTpyFQSj",
+    "url2": "=FORMULATEXT(B96)",
+    "url": "=FORMULATEXT(C96)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 4549,
@@ -6420,6 +6682,8 @@
     "storageFilename": "MushFlat",
     "internalId": 3279,
     "uniqueEntryId": "Ym7BRDNMQF6nZL446",
+    "url2": "=FORMULATEXT(B97)",
+    "url": "=FORMULATEXT(C97)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3279,
@@ -6466,6 +6730,8 @@
     "storageFilename": "FlourWheat",
     "internalId": 13994,
     "uniqueEntryId": "uSP4sg4TWK34nZcYs",
+    "url2": "=FORMULATEXT(B98)",
+    "url": "=FORMULATEXT(C98)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13994,
@@ -6558,6 +6824,8 @@
     "storageFilename": "Fossil",
     "internalId": 2579,
     "uniqueEntryId": "ZwqydviSR4WiRWdDA",
+    "url2": "=FORMULATEXT(B99)",
+    "url": "=FORMULATEXT(C99)",
     "translations": {
       "sourceSheet": "Fossils",
       "id": 2579,
@@ -6613,6 +6881,8 @@
     "storageFilename": "Fireworks",
     "internalId": 13106,
     "uniqueEntryId": "z2n48mYextDwNiear",
+    "url2": "=FORMULATEXT(B100)",
+    "url": "=FORMULATEXT(C100)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13106,
@@ -6659,6 +6929,8 @@
     "storageFilename": "ShellDriftSyako",
     "internalId": 1381,
     "uniqueEntryId": "yzrzGTGG6mdN2N4d4",
+    "url2": "=FORMULATEXT(B102)",
+    "url": "=FORMULATEXT(C102)",
     "translations": {
       "sourceSheet": "Shells",
       "id": 1381,
@@ -6705,6 +6977,8 @@
     "storageFilename": "DummyWrappingOrnament",
     "internalId": 13793,
     "uniqueEntryId": "taPAjf8b8PS88FdZA",
+    "url2": "=FORMULATEXT(B103)",
+    "url": "=FORMULATEXT(C103)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13793,
@@ -6751,6 +7025,8 @@
     "storageFilename": "PltWeedLight",
     "internalId": 12550,
     "uniqueEntryId": "84CP4criAaKQBy6ES",
+    "url2": "=FORMULATEXT(B104)",
+    "url": "=FORMULATEXT(C104)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12550,
@@ -6797,6 +7073,8 @@
     "storageFilename": "DIYGold",
     "internalId": 2505,
     "uniqueEntryId": "i7QscMET7RcTdffLC",
+    "url2": "=FORMULATEXT(B105)",
+    "url": "=FORMULATEXT(C105)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 2505,
@@ -6843,6 +7121,8 @@
     "storageFilename": "DIYOrnamentGold",
     "internalId": 5732,
     "uniqueEntryId": "PDc3gmJTvyra4nNb6",
+    "url2": "=FORMULATEXT(B106)",
+    "url": "=FORMULATEXT(C106)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5732,
@@ -6889,6 +7169,8 @@
     "storageFilename": "FlwRoseGold",
     "internalId": 2963,
     "uniqueEntryId": "6B9RaLkgxyFA72rdm",
+    "url2": "=FORMULATEXT(B107)",
+    "url": "=FORMULATEXT(C107)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2963,
@@ -6935,6 +7217,8 @@
     "storageFilename": "WPaperGold",
     "internalId": 7695,
     "uniqueEntryId": "nKFEifDX73E7y86s3",
+    "url2": "=FORMULATEXT(B108)",
+    "url": "=FORMULATEXT(C108)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7695,
@@ -6981,6 +7265,8 @@
     "storageFilename": "PltRoseGold3",
     "internalId": 3878,
     "uniqueEntryId": "vgqcsR2h6B96skooq",
+    "url2": "=FORMULATEXT(B109)",
+    "url": "=FORMULATEXT(C109)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3878,
@@ -7027,6 +7313,8 @@
     "storageFilename": "WPaperGray",
     "internalId": 7697,
     "uniqueEntryId": "yiydxSjmgGZiNBxsm",
+    "url2": "=FORMULATEXT(B110)",
+    "url": "=FORMULATEXT(C110)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7697,
@@ -7073,6 +7361,8 @@
     "storageFilename": "FeatherGreen",
     "internalId": 3543,
     "uniqueEntryId": "RrZGEGmxJyw99NKKE",
+    "url2": "=FORMULATEXT(B111)",
+    "url": "=FORMULATEXT(C111)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 3543,
@@ -7119,6 +7409,8 @@
     "storageFilename": "FlwMumGreen",
     "internalId": 5175,
     "uniqueEntryId": "iZDGXg9rxMCXkkRXQ",
+    "url2": "=FORMULATEXT(B112)",
+    "url": "=FORMULATEXT(C112)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 5175,
@@ -7165,6 +7457,8 @@
     "storageFilename": "SquashGreen",
     "internalId": 4527,
     "uniqueEntryId": "v6GS66X8t7y82KFEB",
+    "url2": "=FORMULATEXT(B113)",
+    "url": "=FORMULATEXT(C113)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 4527,
@@ -7211,6 +7505,8 @@
     "storageFilename": "WPaperGreen",
     "internalId": 7687,
     "uniqueEntryId": "3mskzQhZ5uWSBJ373",
+    "url2": "=FORMULATEXT(B114)",
+    "url": "=FORMULATEXT(C114)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7687,
@@ -7257,6 +7553,8 @@
     "storageFilename": "PltMumGreen3",
     "internalId": 3934,
     "uniqueEntryId": "ejT89srWvyFe6eQKf",
+    "url2": "=FORMULATEXT(B115)",
+    "url": "=FORMULATEXT(C115)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3934,
@@ -7303,6 +7601,8 @@
     "storageFilename": "HaniwaPiece",
     "internalId": 14546,
     "uniqueEntryId": "uPiDr9EyiDficmje4",
+    "url2": "=FORMULATEXT(B116)",
+    "url": "=FORMULATEXT(C116)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14546,
@@ -7349,6 +7649,8 @@
     "storageFilename": "DIYWoodHard",
     "internalId": 2769,
     "uniqueEntryId": "ni3n8DjyCZ9cghTD2",
+    "url2": "=FORMULATEXT(B117)",
+    "url": "=FORMULATEXT(C117)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 2769,
@@ -7395,6 +7697,8 @@
     "storageFilename": "PltOak4",
     "internalId": 2799,
     "uniqueEntryId": "iGMxqfQ39pMGzJrji",
+    "url2": "=FORMULATEXT(B118)",
+    "url": "=FORMULATEXT(C118)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2799,
@@ -7441,6 +7745,8 @@
     "storageFilename": "Love",
     "internalId": 12546,
     "uniqueEntryId": "Seo4ym9pKPhr7A6yb",
+    "url2": "=FORMULATEXT(B119)",
+    "url": "=FORMULATEXT(C119)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 12546,
@@ -7487,6 +7793,8 @@
     "storageFilename": "PltHolly2",
     "internalId": 3027,
     "uniqueEntryId": "iS4C5XqHay6jggFoL",
+    "url2": "=FORMULATEXT(B121)",
+    "url": "=FORMULATEXT(C121)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3027,
@@ -7533,6 +7841,8 @@
     "storageFilename": "SeedHolly",
     "internalId": 3024,
     "uniqueEntryId": "ikDCfcT8TcvyPNH8Y",
+    "url2": "=FORMULATEXT(B122)",
+    "url": "=FORMULATEXT(C122)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3024,
@@ -7579,6 +7889,8 @@
     "storageFilename": "NnpcNewHousingkit",
     "internalId": 3349,
     "uniqueEntryId": "3H4M8fad4hXPPK9tq",
+    "url2": "=FORMULATEXT(B123)",
+    "url": "=FORMULATEXT(C123)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 3349,
@@ -7625,6 +7937,8 @@
     "storageFilename": "SlopeReserveKit",
     "internalId": 4311,
     "uniqueEntryId": "Nmp2P7XPoEWX2tQG6",
+    "url2": "=FORMULATEXT(B124)",
+    "url": "=FORMULATEXT(C124)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 4311,
@@ -7671,6 +7985,8 @@
     "storageFilename": "DIYIron",
     "internalId": 2511,
     "uniqueEntryId": "smkrptPsq6cK6e7ya",
+    "url2": "=FORMULATEXT(B125)",
+    "url": "=FORMULATEXT(C125)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 2511,
@@ -7717,6 +8033,8 @@
     "storageFilename": "SnowCrystalLarge",
     "internalId": 3540,
     "uniqueEntryId": "roPJbuZmNfYv9k3Q5",
+    "url2": "=FORMULATEXT(B127)",
+    "url": "=FORMULATEXT(C127)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 3540,
@@ -7763,6 +8081,8 @@
     "storageFilename": "StarpieceRare",
     "internalId": 5984,
     "uniqueEntryId": "FA6nhbrBzK7ESdoDL",
+    "url2": "=FORMULATEXT(B128)",
+    "url": "=FORMULATEXT(C128)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5984,
@@ -7809,6 +8129,8 @@
     "storageFilename": "EggLeaf",
     "internalId": 12511,
     "uniqueEntryId": "3rZgwsLcirdRrMrND",
+    "url2": "=FORMULATEXT(B129)",
+    "url": "=FORMULATEXT(C129)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 12511,
@@ -7855,6 +8177,8 @@
     "storageFilename": "WPaperLightBlue",
     "internalId": 7689,
     "uniqueEntryId": "k6ZfmjnoDpGqHWweS",
+    "url2": "=FORMULATEXT(B132)",
+    "url": "=FORMULATEXT(C132)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7689,
@@ -7901,6 +8225,8 @@
     "storageFilename": "PltSuzuran2",
     "internalId": 7651,
     "uniqueEntryId": "LXttqtLN2HF8PhQbu",
+    "url2": "=FORMULATEXT(B133)",
+    "url": "=FORMULATEXT(C133)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 7651,
@@ -7947,6 +8273,8 @@
     "storageFilename": "Lollipop",
     "internalId": 13196,
     "uniqueEntryId": "9otCnhD4JA4YbTr8u",
+    "url2": "=FORMULATEXT(B134)",
+    "url": "=FORMULATEXT(C134)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 13196,
@@ -7993,6 +8321,8 @@
     "storageFilename": "LostQuestNote",
     "internalId": 5426,
     "uniqueEntryId": "Fd7AxQwkCjc5RmfRW",
+    "url2": "=FORMULATEXT(B137)",
+    "url": "=FORMULATEXT(C137)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 5426,
@@ -8039,6 +8369,8 @@
     "storageFilename": "LostQuestBook",
     "internalId": 2375,
     "uniqueEntryId": "ymD8pZhYvP99PRiYr",
+    "url2": "=FORMULATEXT(B136)",
+    "url": "=FORMULATEXT(C136)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 2375,
@@ -8085,6 +8417,8 @@
     "storageFilename": "LostQuestBag",
     "internalId": 2374,
     "uniqueEntryId": "uncR4zC9xppuSkiij",
+    "url2": "=FORMULATEXT(B135)",
+    "url": "=FORMULATEXT(C135)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 2374,
@@ -8131,6 +8465,8 @@
     "storageFilename": "DummyOtoshidamaCh",
     "internalId": 14042,
     "uniqueEntryId": "DX5BE8kcdy8x4g37Q",
+    "url2": "=FORMULATEXT(B138)",
+    "url": "=FORMULATEXT(C138)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14042,
@@ -8177,6 +8513,8 @@
     "storageFilename": "OtoshidamaCh",
     "internalId": 13954,
     "uniqueEntryId": "Yt48256KettgBctff",
+    "url2": "=FORMULATEXT(B139)",
+    "url": "=FORMULATEXT(C139)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13954,
@@ -8223,6 +8561,8 @@
     "storageFilename": "FtrShellFishAsari",
     "internalId": 2567,
     "uniqueEntryId": "JFoiWRD9rYYRQchWY",
+    "url2": "=FORMULATEXT(B140)",
+    "url": "=FORMULATEXT(C140)",
     "translations": {
       "sourceSheet": "Shells",
       "id": 2567,
@@ -8269,6 +8609,8 @@
     "storageFilename": "AutumnLeaf",
     "internalId": 7374,
     "uniqueEntryId": "iNPeEEqdSxkjKFPDS",
+    "url2": "=FORMULATEXT(B141)",
+    "url": "=FORMULATEXT(C141)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 7374,
@@ -8315,6 +8657,8 @@
     "storageFilename": "ItemMedicine",
     "internalId": 2777,
     "uniqueEntryId": "3pirDraBT9LTcGCDc",
+    "url2": "=FORMULATEXT(B142)",
+    "url": "=FORMULATEXT(C142)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 2777,
@@ -8408,6 +8752,8 @@
     "storageFilename": "MessageBottle",
     "internalId": 5793,
     "uniqueEntryId": "euJRD9W3hqTR3YeGC",
+    "url2": "=FORMULATEXT(B143)",
+    "url": "=FORMULATEXT(C143)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5793,
@@ -8454,6 +8800,8 @@
     "storageFilename": "WPaperMint",
     "internalId": 7688,
     "uniqueEntryId": "J7HrFYe8eAajkNBPk",
+    "url2": "=FORMULATEXT(B144)",
+    "url": "=FORMULATEXT(C144)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7688,
@@ -8500,6 +8848,8 @@
     "storageFilename": "PltMoney4",
     "internalId": 4426,
     "uniqueEntryId": "ePzXeAjEBZXBhxuAF",
+    "url2": "=FORMULATEXT(B145)",
+    "url": "=FORMULATEXT(C145)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 4426,
@@ -8546,6 +8896,8 @@
     "storageFilename": "MovingKitPlayer",
     "internalId": 5358,
     "uniqueEntryId": "MyYYwJYdNvcGSEoFZ",
+    "url2": "=FORMULATEXT(B146)",
+    "url": "=FORMULATEXT(C146)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5358,
@@ -8592,6 +8944,8 @@
     "storageFilename": "MovingKitMuseum",
     "internalId": 5361,
     "uniqueEntryId": "nrLWMtL3jGmWYDAQM",
+    "url2": "=FORMULATEXT(B147)",
+    "url": "=FORMULATEXT(C147)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5361,
@@ -8638,6 +8992,8 @@
     "storageFilename": "WPaperNavy",
     "internalId": 7691,
     "uniqueEntryId": "Ms5AhyNbJL5DuZrh2",
+    "url2": "=FORMULATEXT(B148)",
+    "url": "=FORMULATEXT(C148)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7691,
@@ -8684,6 +9040,8 @@
     "storageFilename": "TrashTire",
     "internalId": 3470,
     "uniqueEntryId": "3S8juGp87QfHvtpyq",
+    "url2": "=FORMULATEXT(B151)",
+    "url": "=FORMULATEXT(C151)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 3470,
@@ -8730,6 +9088,8 @@
     "storageFilename": "Orange",
     "internalId": 2214,
     "uniqueEntryId": "T54w2hgHB3Edytw3f",
+    "url2": "=FORMULATEXT(B152)",
+    "url": "=FORMULATEXT(C152)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2214,
@@ -8776,6 +9136,8 @@
     "storageFilename": "FlwCosmosOrange",
     "internalId": 2871,
     "uniqueEntryId": "Hvp5sHy7uPHnH2Qda",
+    "url2": "=FORMULATEXT(B153)",
+    "url": "=FORMULATEXT(C153)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2871,
@@ -8822,6 +9184,8 @@
     "storageFilename": "FlwHyacinthOrange",
     "internalId": 3741,
     "uniqueEntryId": "H7pirF6ynSFrpgLMN",
+    "url2": "=FORMULATEXT(B154)",
+    "url": "=FORMULATEXT(C154)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3741,
@@ -8868,6 +9232,8 @@
     "storageFilename": "FlwYuriOrange",
     "internalId": 2995,
     "uniqueEntryId": "Y8kaixfp7SEvzCDCd",
+    "url2": "=FORMULATEXT(B155)",
+    "url": "=FORMULATEXT(C155)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2995,
@@ -8914,6 +9280,8 @@
     "storageFilename": "FlwPansyRedYellow",
     "internalId": 2919,
     "uniqueEntryId": "atQLxZD4CSqYsaNkM",
+    "url2": "=FORMULATEXT(B156)",
+    "url": "=FORMULATEXT(C156)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2919,
@@ -8962,6 +9330,8 @@
     "storageFilename": "SquashOrange",
     "internalId": 4525,
     "uniqueEntryId": "MJsfLZS7DtC3mu5Pc",
+    "url2": "=FORMULATEXT(B157)",
+    "url": "=FORMULATEXT(C157)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 4525,
@@ -9008,6 +9378,8 @@
     "storageFilename": "FlwRoseOrange",
     "internalId": 2947,
     "uniqueEntryId": "MsnwoMvrqgeH2ZrG6",
+    "url2": "=FORMULATEXT(B158)",
+    "url": "=FORMULATEXT(C158)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2947,
@@ -9054,6 +9426,8 @@
     "storageFilename": "PltOrange4",
     "internalId": 3365,
     "uniqueEntryId": "RjcKphnD5xgCxeMFM",
+    "url2": "=FORMULATEXT(B159)",
+    "url": "=FORMULATEXT(C159)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3365,
@@ -9100,6 +9474,8 @@
     "storageFilename": "FlwTulipOrange",
     "internalId": 2895,
     "uniqueEntryId": "h9SC924x9vkjSAsBC",
+    "url2": "=FORMULATEXT(B160)",
+    "url": "=FORMULATEXT(C160)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2895,
@@ -9146,6 +9522,8 @@
     "storageFilename": "FlwAnemonesOrange",
     "internalId": 3713,
     "uniqueEntryId": "dCQyoCdY9JFYxHXbR",
+    "url2": "=FORMULATEXT(B161)",
+    "url": "=FORMULATEXT(C161)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3713,
@@ -9192,6 +9570,8 @@
     "storageFilename": "WPaperOrange",
     "internalId": 7685,
     "uniqueEntryId": "brMQqHjgqsMz5kdtb",
+    "url2": "=FORMULATEXT(B162)",
+    "url": "=FORMULATEXT(C162)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7685,
@@ -9238,6 +9618,8 @@
     "storageFilename": "PltCosmosOrange3",
     "internalId": 3832,
     "uniqueEntryId": "ZMn3hzNpMRg9vkW7E",
+    "url2": "=FORMULATEXT(B163)",
+    "url": "=FORMULATEXT(C163)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3832,
@@ -9284,6 +9666,8 @@
     "storageFilename": "PltHyacinthOrange3",
     "internalId": 3916,
     "uniqueEntryId": "Qm6vasEvBMXEaWDgF",
+    "url2": "=FORMULATEXT(B164)",
+    "url": "=FORMULATEXT(C164)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3916,
@@ -9330,6 +9714,8 @@
     "storageFilename": "PltYuriOrange3",
     "internalId": 3894,
     "uniqueEntryId": "b2dp3BnCjLEQTcyHt",
+    "url2": "=FORMULATEXT(B165)",
+    "url": "=FORMULATEXT(C165)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3894,
@@ -9376,6 +9762,8 @@
     "storageFilename": "PltPansyRedYellow3",
     "internalId": 3856,
     "uniqueEntryId": "NN4tLZwnXJA7nsQJF",
+    "url2": "=FORMULATEXT(B166)",
+    "url": "=FORMULATEXT(C166)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3856,
@@ -9422,6 +9810,8 @@
     "storageFilename": "PltRoseOrange3",
     "internalId": 3870,
     "uniqueEntryId": "WN72HFoZ3fyhwQ5NG",
+    "url2": "=FORMULATEXT(B167)",
+    "url": "=FORMULATEXT(C167)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3870,
@@ -9468,6 +9858,8 @@
     "storageFilename": "PltBushOsmathusOrange2",
     "internalId": 12482,
     "uniqueEntryId": "ijnrJoK6XMityJZDM",
+    "url2": "=FORMULATEXT(B168)",
+    "url": "=FORMULATEXT(C168)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12482,
@@ -9514,6 +9906,8 @@
     "storageFilename": "SeedBushOsmathusOrange",
     "internalId": 12480,
     "uniqueEntryId": "QRyD9Q4f7vzqQdeCs",
+    "url2": "=FORMULATEXT(B169)",
+    "url": "=FORMULATEXT(C169)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12480,
@@ -9560,6 +9954,8 @@
     "storageFilename": "PltTulipOrange3",
     "internalId": 3844,
     "uniqueEntryId": "iYi6dRqA3vA8fb4oZ",
+    "url2": "=FORMULATEXT(B170)",
+    "url": "=FORMULATEXT(C170)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3844,
@@ -9606,6 +10002,8 @@
     "storageFilename": "SeedAnemonesOrange",
     "internalId": 3714,
     "uniqueEntryId": "HuPd5NbyLkkFvigEo",
+    "url2": "=FORMULATEXT(B171)",
+    "url": "=FORMULATEXT(C171)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3714,
@@ -9652,6 +10050,8 @@
     "storageFilename": "PltAnemonesOrange3",
     "internalId": 3900,
     "uniqueEntryId": "E9PAkZEzQ3HaJiRqy",
+    "url2": "=FORMULATEXT(B172)",
+    "url": "=FORMULATEXT(C172)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3900,
@@ -9698,6 +10098,8 @@
     "storageFilename": "DummyOtoshidamaJp",
     "internalId": 14044,
     "uniqueEntryId": "RzcXgZYNaqnrTzn2w",
+    "url2": "=FORMULATEXT(B173)",
+    "url": "=FORMULATEXT(C173)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14044,
@@ -9744,6 +10146,8 @@
     "storageFilename": "OtoshidamaJp",
     "internalId": 13956,
     "uniqueEntryId": "yJaHYJQogtbCLqnjT",
+    "url2": "=FORMULATEXT(B174)",
+    "url": "=FORMULATEXT(C174)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13956,
@@ -9790,6 +10194,8 @@
     "storageFilename": "Peach",
     "internalId": 2286,
     "uniqueEntryId": "qjF3dwhQy3e2LiWtr",
+    "url2": "=FORMULATEXT(B176)",
+    "url": "=FORMULATEXT(C176)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2286,
@@ -9836,6 +10242,8 @@
     "storageFilename": "PltPeach4",
     "internalId": 3375,
     "uniqueEntryId": "jr4TgJyTJyZ933o6T",
+    "url2": "=FORMULATEXT(B177)",
+    "url": "=FORMULATEXT(C177)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3375,
@@ -9882,6 +10290,8 @@
     "storageFilename": "Pear",
     "internalId": 2285,
     "uniqueEntryId": "pnTL7PHd4rtyzkanu",
+    "url2": "=FORMULATEXT(B178)",
+    "url": "=FORMULATEXT(C178)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2285,
@@ -9928,6 +10338,8 @@
     "storageFilename": "PltPear4",
     "internalId": 3370,
     "uniqueEntryId": "7kQWGcj7EmNqj8KiL",
+    "url2": "=FORMULATEXT(B179)",
+    "url": "=FORMULATEXT(C179)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3370,
@@ -9974,6 +10386,8 @@
     "storageFilename": "Pearl",
     "internalId": 12968,
     "uniqueEntryId": "EtiYMntRoS8RN53Rn",
+    "url2": "=FORMULATEXT(B180)",
+    "url": "=FORMULATEXT(C180)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 12968,
@@ -10020,6 +10434,8 @@
     "storageFilename": "DIYPinecone",
     "internalId": 5728,
     "uniqueEntryId": "pKvkjhsyir2FimNts",
+    "url2": "=FORMULATEXT(B181)",
+    "url": "=FORMULATEXT(C181)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5728,
@@ -10066,6 +10482,8 @@
     "storageFilename": "FlwCosmosPink",
     "internalId": 2867,
     "uniqueEntryId": "898Ts8bbEr7iNZzGG",
+    "url2": "=FORMULATEXT(B182)",
+    "url": "=FORMULATEXT(C182)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2867,
@@ -10112,6 +10530,8 @@
     "storageFilename": "FlwHyacinthPink",
     "internalId": 3738,
     "uniqueEntryId": "wNbmG4DKhkErfibGX",
+    "url2": "=FORMULATEXT(B183)",
+    "url": "=FORMULATEXT(C183)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3738,
@@ -10158,6 +10578,8 @@
     "storageFilename": "FlwYuriPink",
     "internalId": 2991,
     "uniqueEntryId": "kiCkkhX3PNkfauJXo",
+    "url2": "=FORMULATEXT(B184)",
+    "url": "=FORMULATEXT(C184)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2991,
@@ -10204,6 +10626,8 @@
     "storageFilename": "FlwMumPink",
     "internalId": 3765,
     "uniqueEntryId": "xNhBxScQvumKJeYDz",
+    "url2": "=FORMULATEXT(B185)",
+    "url": "=FORMULATEXT(C185)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3765,
@@ -10250,6 +10674,8 @@
     "storageFilename": "FlwRosePink",
     "internalId": 2943,
     "uniqueEntryId": "Y3XgoGJjbP4FARKP8",
+    "url2": "=FORMULATEXT(B186)",
+    "url": "=FORMULATEXT(C186)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2943,
@@ -10296,6 +10722,8 @@
     "storageFilename": "FlwTulipPink",
     "internalId": 2891,
     "uniqueEntryId": "xsXifs2QAihKWQneZ",
+    "url2": "=FORMULATEXT(B187)",
+    "url": "=FORMULATEXT(C187)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2891,
@@ -10342,6 +10770,8 @@
     "storageFilename": "FlwAnemonesPink",
     "internalId": 3720,
     "uniqueEntryId": "ap2QtwXRXd3rCw99D",
+    "url2": "=FORMULATEXT(B188)",
+    "url": "=FORMULATEXT(C188)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3720,
@@ -10388,6 +10818,8 @@
     "storageFilename": "WPaperPink",
     "internalId": 7684,
     "uniqueEntryId": "nRfsjMz6ctyb5gpGt",
+    "url2": "=FORMULATEXT(B189)",
+    "url": "=FORMULATEXT(C189)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7684,
@@ -10434,6 +10866,8 @@
     "storageFilename": "PltAzaleaPink2",
     "internalId": 3788,
     "uniqueEntryId": "jy3SJweiZ5ketX4zg",
+    "url2": "=FORMULATEXT(B190)",
+    "url": "=FORMULATEXT(C190)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3788,
@@ -10480,6 +10914,8 @@
     "storageFilename": "SeedAzaleaPink",
     "internalId": 3786,
     "uniqueEntryId": "R69MFoTNoTFaAFokq",
+    "url2": "=FORMULATEXT(B191)",
+    "url": "=FORMULATEXT(C191)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3786,
@@ -10526,6 +10962,8 @@
     "storageFilename": "PltBushCamelliaPink2",
     "internalId": 12492,
     "uniqueEntryId": "tKaeYZdRmGtTShfmH",
+    "url2": "=FORMULATEXT(B192)",
+    "url": "=FORMULATEXT(C192)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12492,
@@ -10572,6 +11010,8 @@
     "storageFilename": "SeedBushCamelliaPink",
     "internalId": 12490,
     "uniqueEntryId": "nWKkXpxtQqLCtmPEG",
+    "url2": "=FORMULATEXT(B193)",
+    "url": "=FORMULATEXT(C193)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12490,
@@ -10618,6 +11058,8 @@
     "storageFilename": "PltCosmosPink3",
     "internalId": 3830,
     "uniqueEntryId": "sPeds6o4kAXvts6mc",
+    "url2": "=FORMULATEXT(B194)",
+    "url": "=FORMULATEXT(C194)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3830,
@@ -10664,6 +11106,8 @@
     "storageFilename": "PltHyacinthPink3",
     "internalId": 3914,
     "uniqueEntryId": "3w8JnddzGnc2yb4LF",
+    "url2": "=FORMULATEXT(B195)",
+    "url": "=FORMULATEXT(C195)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3914,
@@ -10710,6 +11154,8 @@
     "storageFilename": "PltHydrangeaPink2",
     "internalId": 3796,
     "uniqueEntryId": "t3sEjgXcrmrJ9WbS7",
+    "url2": "=FORMULATEXT(B196)",
+    "url": "=FORMULATEXT(C196)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3796,
@@ -10756,6 +11202,8 @@
     "storageFilename": "SeedHydrangeaPink",
     "internalId": 3794,
     "uniqueEntryId": "MeN5MT4W7J4dbcWcC",
+    "url2": "=FORMULATEXT(B197)",
+    "url": "=FORMULATEXT(C197)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3794,
@@ -10802,6 +11250,8 @@
     "storageFilename": "PltYuriPink3",
     "internalId": 3892,
     "uniqueEntryId": "iRrTAcjkNBukdsAQm",
+    "url2": "=FORMULATEXT(B198)",
+    "url": "=FORMULATEXT(C198)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3892,
@@ -10848,6 +11298,8 @@
     "storageFilename": "PltMumPink3",
     "internalId": 3930,
     "uniqueEntryId": "yP44c6mMQC7u5udxv",
+    "url2": "=FORMULATEXT(B199)",
+    "url": "=FORMULATEXT(C199)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3930,
@@ -10894,6 +11346,8 @@
     "storageFilename": "PltBushPlumeriaPink2",
     "internalId": 13264,
     "uniqueEntryId": "QqJ7SMtBQEmJcAYy8",
+    "url2": "=FORMULATEXT(B200)",
+    "url": "=FORMULATEXT(C200)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 13264,
@@ -10940,6 +11394,8 @@
     "storageFilename": "SeedBushPlumeriaPink",
     "internalId": 13262,
     "uniqueEntryId": "HLWaYrp8ux4jyqYmZ",
+    "url2": "=FORMULATEXT(B201)",
+    "url": "=FORMULATEXT(C201)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 13262,
@@ -10986,6 +11442,8 @@
     "storageFilename": "PltRosePink3",
     "internalId": 3868,
     "uniqueEntryId": "wpLag9jyPSoMr6wcW",
+    "url2": "=FORMULATEXT(B202)",
+    "url": "=FORMULATEXT(C202)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3868,
@@ -11032,6 +11490,8 @@
     "storageFilename": "PltTulipPink3",
     "internalId": 3842,
     "uniqueEntryId": "usSvXn26PTCuavTHo",
+    "url2": "=FORMULATEXT(B203)",
+    "url": "=FORMULATEXT(C203)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3842,
@@ -11078,6 +11538,8 @@
     "storageFilename": "PltAnemonesPink3",
     "internalId": 3904,
     "uniqueEntryId": "YJfanQias2fdR9t9X",
+    "url2": "=FORMULATEXT(B204)",
+    "url": "=FORMULATEXT(C204)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3904,
@@ -11124,6 +11586,8 @@
     "storageFilename": "PitfallSeed",
     "internalId": 2578,
     "uniqueEntryId": "HYdEMJJQXzoudrWDT",
+    "url2": "=FORMULATEXT(B206)",
+    "url": "=FORMULATEXT(C206)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 2578,
@@ -11235,6 +11699,8 @@
     "storageFilename": "HousingKitRcoQuestA",
     "internalId": 5827,
     "uniqueEntryId": "2JkqabfsQ26vYe7Fp",
+    "url2": "=FORMULATEXT(B207)",
+    "url": "=FORMULATEXT(C207)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5827,
@@ -11281,6 +11747,8 @@
     "storageFilename": "HousingKitRcoQuestB",
     "internalId": 5828,
     "uniqueEntryId": "h63H2kQtzWceBt57Y",
+    "url2": "=FORMULATEXT(B208)",
+    "url": "=FORMULATEXT(C208)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5828,
@@ -11327,6 +11795,8 @@
     "storageFilename": "HousingKitRcoQuestC",
     "internalId": 5829,
     "uniqueEntryId": "5JGfxP3vczLy755Y4",
+    "url2": "=FORMULATEXT(B209)",
+    "url": "=FORMULATEXT(C209)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5829,
@@ -11373,6 +11843,8 @@
     "storageFilename": "Potato",
     "internalId": 3039,
     "uniqueEntryId": "JSA2QRMvsyyTg4hPL",
+    "url2": "=FORMULATEXT(B212)",
+    "url": "=FORMULATEXT(C212)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3039,
@@ -11419,6 +11891,8 @@
     "storageFilename": "DummyWrappingYellow",
     "internalId": 7699,
     "uniqueEntryId": "BammpXwkmiSSZ7uxz",
+    "url2": "=FORMULATEXT(B229)",
+    "url": "=FORMULATEXT(C229)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7699,
@@ -11465,6 +11939,8 @@
     "storageFilename": "DummyWrappingWhite",
     "internalId": 7709,
     "uniqueEntryId": "a5AhJAfzsgzgTfMty",
+    "url2": "=FORMULATEXT(B228)",
+    "url": "=FORMULATEXT(C228)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7709,
@@ -11511,6 +11987,8 @@
     "storageFilename": "DummyWrappingRed",
     "internalId": 7710,
     "uniqueEntryId": "id6zFR4kWdzBig22Z",
+    "url2": "=FORMULATEXT(B227)",
+    "url": "=FORMULATEXT(C227)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7710,
@@ -11557,6 +12035,8 @@
     "storageFilename": "DummyWrappingPurple",
     "internalId": 7706,
     "uniqueEntryId": "7hrL79hJbARyu7ipm",
+    "url2": "=FORMULATEXT(B226)",
+    "url": "=FORMULATEXT(C226)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7706,
@@ -11603,6 +12083,8 @@
     "storageFilename": "DummyWrappingPink",
     "internalId": 7700,
     "uniqueEntryId": "pvtYwhqa379pE76XE",
+    "url2": "=FORMULATEXT(B225)",
+    "url": "=FORMULATEXT(C225)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7700,
@@ -11649,6 +12131,8 @@
     "storageFilename": "DummyWrappingOrange",
     "internalId": 7701,
     "uniqueEntryId": "nHGaD5m8mC7s7CXvL",
+    "url2": "=FORMULATEXT(B224)",
+    "url": "=FORMULATEXT(C224)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7701,
@@ -11695,6 +12179,8 @@
     "storageFilename": "DummyWrappingNavy",
     "internalId": 7707,
     "uniqueEntryId": "YeKbW5aZJbTqDGemJ",
+    "url2": "=FORMULATEXT(B223)",
+    "url": "=FORMULATEXT(C223)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7707,
@@ -11741,6 +12227,8 @@
     "storageFilename": "DummyWrappingMint",
     "internalId": 7704,
     "uniqueEntryId": "uWkGsjeN7twxbeXLR",
+    "url2": "=FORMULATEXT(B222)",
+    "url": "=FORMULATEXT(C222)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7704,
@@ -11787,6 +12275,8 @@
     "storageFilename": "DummyWrappingLightBlue",
     "internalId": 7705,
     "uniqueEntryId": "gFWMoXzFEjAaBkoFi",
+    "url2": "=FORMULATEXT(B221)",
+    "url": "=FORMULATEXT(C221)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7705,
@@ -11833,6 +12323,8 @@
     "storageFilename": "DummyWrappingGreen",
     "internalId": 7703,
     "uniqueEntryId": "9uhhf44dFKeQ4b5zP",
+    "url2": "=FORMULATEXT(B220)",
+    "url": "=FORMULATEXT(C220)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7703,
@@ -11879,6 +12371,8 @@
     "storageFilename": "DummyWrappingGary",
     "internalId": 7713,
     "uniqueEntryId": "fw5ehh62f4u6rvQbw",
+    "url2": "=FORMULATEXT(B219)",
+    "url": "=FORMULATEXT(C219)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7713,
@@ -11925,6 +12419,8 @@
     "storageFilename": "DummyWrappingGold",
     "internalId": 7711,
     "uniqueEntryId": "JzsQLAwTvEPAZ2f9x",
+    "url2": "=FORMULATEXT(B218)",
+    "url": "=FORMULATEXT(C218)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7711,
@@ -11971,6 +12467,8 @@
     "storageFilename": "DummyWrappingLightGreen",
     "internalId": 7702,
     "uniqueEntryId": "78JwZftyosktxaKyQ",
+    "url2": "=FORMULATEXT(B217)",
+    "url": "=FORMULATEXT(C217)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7702,
@@ -12017,6 +12515,8 @@
     "storageFilename": "DummyWrappingBrown",
     "internalId": 7712,
     "uniqueEntryId": "hwkpJC9vq2AYKrhqe",
+    "url2": "=FORMULATEXT(B216)",
+    "url": "=FORMULATEXT(C216)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7712,
@@ -12063,6 +12563,8 @@
     "storageFilename": "DummyWrappingBlue",
     "internalId": 7708,
     "uniqueEntryId": "f38mKJ6yzmhtjyWXS",
+    "url2": "=FORMULATEXT(B215)",
+    "url": "=FORMULATEXT(C215)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7708,
@@ -12109,6 +12611,8 @@
     "storageFilename": "DummyWrappingBlack",
     "internalId": 7714,
     "uniqueEntryId": "Fz8reyFJoWrSLQSvq",
+    "url2": "=FORMULATEXT(B214)",
+    "url": "=FORMULATEXT(C214)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7714,
@@ -12155,6 +12659,8 @@
     "storageFilename": "DummyPresentbox",
     "internalId": 4480,
     "uniqueEntryId": "eKkBqvy3TwbZbNQWZ",
+    "url2": "=FORMULATEXT(B213)",
+    "url": "=FORMULATEXT(C213)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 4480,
@@ -12201,6 +12707,8 @@
     "storageFilename": "SeedSquash",
     "internalId": 13227,
     "uniqueEntryId": "3zojbttjJXhz4eFCE",
+    "url2": "=FORMULATEXT(B234)",
+    "url": "=FORMULATEXT(C234)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 13227,
@@ -12247,6 +12755,8 @@
     "storageFilename": "FeatherPurple",
     "internalId": 3545,
     "uniqueEntryId": "7HKiTAhpqRKwDHa9y",
+    "url2": "=FORMULATEXT(B235)",
+    "url": "=FORMULATEXT(C235)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 3545,
@@ -12293,6 +12803,8 @@
     "storageFilename": "FlwHyacinthPurple",
     "internalId": 3751,
     "uniqueEntryId": "9F9TFje8ycfZHtGwb",
+    "url2": "=FORMULATEXT(B236)",
+    "url": "=FORMULATEXT(C236)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3751,
@@ -12339,6 +12851,8 @@
     "storageFilename": "FlwMumPurple",
     "internalId": 3762,
     "uniqueEntryId": "Cx4oGE5eG4dByu52t",
+    "url2": "=FORMULATEXT(B237)",
+    "url": "=FORMULATEXT(C237)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3762,
@@ -12385,6 +12899,8 @@
     "storageFilename": "FlwPansyPurple",
     "internalId": 2923,
     "uniqueEntryId": "j7gZeSSTHAcNjGTz7",
+    "url2": "=FORMULATEXT(B238)",
+    "url": "=FORMULATEXT(C238)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2923,
@@ -12431,6 +12947,8 @@
     "storageFilename": "FlwRosePurple",
     "internalId": 2951,
     "uniqueEntryId": "7YDMvyAt4FvfmZzpX",
+    "url2": "=FORMULATEXT(B239)",
+    "url": "=FORMULATEXT(C239)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2951,
@@ -12477,6 +12995,8 @@
     "storageFilename": "FlwTulipPurple",
     "internalId": 2899,
     "uniqueEntryId": "ifT7cGFbysTHCWFES",
+    "url2": "=FORMULATEXT(B240)",
+    "url": "=FORMULATEXT(C240)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2899,
@@ -12523,6 +13043,8 @@
     "storageFilename": "FlwAnemonesPurple",
     "internalId": 3727,
     "uniqueEntryId": "k8fi3AsuMB335GrxH",
+    "url2": "=FORMULATEXT(B241)",
+    "url": "=FORMULATEXT(C241)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3727,
@@ -12569,6 +13091,8 @@
     "storageFilename": "WPaperPurple",
     "internalId": 7690,
     "uniqueEntryId": "XYFjS9w89jxHJTJks",
+    "url2": "=FORMULATEXT(B242)",
+    "url": "=FORMULATEXT(C242)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7690,
@@ -12615,6 +13139,8 @@
     "storageFilename": "PltHyacinthPurple3",
     "internalId": 3922,
     "uniqueEntryId": "25W3Z8QHvkuxynosQ",
+    "url2": "=FORMULATEXT(B243)",
+    "url": "=FORMULATEXT(C243)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3922,
@@ -12661,6 +13187,8 @@
     "storageFilename": "PltMumPurple3",
     "internalId": 3928,
     "uniqueEntryId": "h5JsnSkRkX5nHgvkJ",
+    "url2": "=FORMULATEXT(B244)",
+    "url": "=FORMULATEXT(C244)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3928,
@@ -12707,6 +13235,8 @@
     "storageFilename": "PltPansyPurple3",
     "internalId": 3858,
     "uniqueEntryId": "TRTMbvSzctgwWM6is",
+    "url2": "=FORMULATEXT(B245)",
+    "url": "=FORMULATEXT(C245)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3858,
@@ -12753,6 +13283,8 @@
     "storageFilename": "PltRosePurple3",
     "internalId": 3872,
     "uniqueEntryId": "o8Z9gXXxjwrerp3Xm",
+    "url2": "=FORMULATEXT(B246)",
+    "url": "=FORMULATEXT(C246)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3872,
@@ -12799,6 +13331,8 @@
     "storageFilename": "PltTulipPurple3",
     "internalId": 3846,
     "uniqueEntryId": "P5kEKdgi4EkF3Fxge",
+    "url2": "=FORMULATEXT(B247)",
+    "url": "=FORMULATEXT(C247)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3846,
@@ -12845,6 +13379,8 @@
     "storageFilename": "PltAnemonesPurple3",
     "internalId": 3908,
     "uniqueEntryId": "K2PvXjrjRrJcxWKDZ",
+    "url2": "=FORMULATEXT(B248)",
+    "url": "=FORMULATEXT(C248)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3908,
@@ -12891,6 +13427,8 @@
     "storageFilename": "FeatherRainbow",
     "internalId": 3548,
     "uniqueEntryId": "dPZSTbDt7jgKpw5xD",
+    "url2": "=FORMULATEXT(B249)",
+    "url": "=FORMULATEXT(C249)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 3548,
@@ -13045,6 +13583,8 @@
     "storageFilename": "MushRare",
     "internalId": 3280,
     "uniqueEntryId": "TBrdJZWSzGth68Hs9",
+    "url2": "=FORMULATEXT(B250)",
+    "url": "=FORMULATEXT(C250)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3280,
@@ -13091,6 +13631,8 @@
     "storageFilename": "FlwCosmosRed",
     "internalId": 2304,
     "uniqueEntryId": "df2GEMdr8rzF848iG",
+    "url2": "=FORMULATEXT(B251)",
+    "url": "=FORMULATEXT(C251)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2304,
@@ -13137,6 +13679,8 @@
     "storageFilename": "FeatherRed",
     "internalId": 3541,
     "uniqueEntryId": "gLSytGm9mxZM55pbo",
+    "url2": "=FORMULATEXT(B252)",
+    "url": "=FORMULATEXT(C252)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 3541,
@@ -13183,6 +13727,8 @@
     "storageFilename": "FlwHyacinthRed",
     "internalId": 3744,
     "uniqueEntryId": "ch44Hxnuhc4xFnaGq",
+    "url2": "=FORMULATEXT(B253)",
+    "url": "=FORMULATEXT(C253)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3744,
@@ -13229,6 +13775,8 @@
     "storageFilename": "FlwYuriRed",
     "internalId": 2983,
     "uniqueEntryId": "Ccbkzs9BxFwttCGux",
+    "url2": "=FORMULATEXT(B254)",
+    "url": "=FORMULATEXT(C254)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2983,
@@ -13275,6 +13823,8 @@
     "storageFilename": "FlwMumRed",
     "internalId": 3768,
     "uniqueEntryId": "YbZtSHeqdMEZfvMSj",
+    "url2": "=FORMULATEXT(B255)",
+    "url": "=FORMULATEXT(C255)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3768,
@@ -13321,6 +13871,8 @@
     "storageFilename": "DIYOrnamentRed",
     "internalId": 5730,
     "uniqueEntryId": "n7d3HHquNv3trZZ6a",
+    "url2": "=FORMULATEXT(B256)",
+    "url": "=FORMULATEXT(C256)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5730,
@@ -13367,6 +13919,8 @@
     "storageFilename": "FlwPansyRed",
     "internalId": 2911,
     "uniqueEntryId": "nifAbNAEXppAEJ2Rc",
+    "url2": "=FORMULATEXT(B257)",
+    "url": "=FORMULATEXT(C257)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2911,
@@ -13413,6 +13967,8 @@
     "storageFilename": "FlwRoseRed",
     "internalId": 2935,
     "uniqueEntryId": "6whx4t9k8aztJN6a4",
+    "url2": "=FORMULATEXT(B258)",
+    "url": "=FORMULATEXT(C258)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2935,
@@ -13459,6 +14015,8 @@
     "storageFilename": "FlwTulipRed",
     "internalId": 2883,
     "uniqueEntryId": "wbJwAKy9SJsuWeHLn",
+    "url2": "=FORMULATEXT(B259)",
+    "url": "=FORMULATEXT(C259)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2883,
@@ -13505,6 +14063,8 @@
     "storageFilename": "FlwAnemonesRed",
     "internalId": 3723,
     "uniqueEntryId": "JRcjMczbQ6geDSWDb",
+    "url2": "=FORMULATEXT(B260)",
+    "url": "=FORMULATEXT(C260)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3723,
@@ -13551,6 +14111,8 @@
     "storageFilename": "WPaperRed",
     "internalId": 7694,
     "uniqueEntryId": "AN7s2Q67gmpxy89Tv",
+    "url2": "=FORMULATEXT(B261)",
+    "url": "=FORMULATEXT(C261)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7694,
@@ -13597,6 +14159,8 @@
     "storageFilename": "PltBushCamelliaRed2",
     "internalId": 12489,
     "uniqueEntryId": "wBA9LGru4uetCqQsx",
+    "url2": "=FORMULATEXT(B262)",
+    "url": "=FORMULATEXT(C262)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12489,
@@ -13643,6 +14207,8 @@
     "storageFilename": "SeedBushCamelliaRed",
     "internalId": 12487,
     "uniqueEntryId": "wZBBMZvxkDz22tpLo",
+    "url2": "=FORMULATEXT(B263)",
+    "url": "=FORMULATEXT(C263)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12487,
@@ -13689,6 +14255,8 @@
     "storageFilename": "SeedCosmosRed",
     "internalId": 2626,
     "uniqueEntryId": "uSN5GeiPFdq4sXM9p",
+    "url2": "=FORMULATEXT(B264)",
+    "url": "=FORMULATEXT(C264)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2626,
@@ -13735,6 +14303,8 @@
     "storageFilename": "PltCosmosRed3",
     "internalId": 3824,
     "uniqueEntryId": "6DQtRdnKv3wncjoLn",
+    "url2": "=FORMULATEXT(B265)",
+    "url": "=FORMULATEXT(C265)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3824,
@@ -13781,6 +14351,8 @@
     "storageFilename": "PltHibiscusRed2",
     "internalId": 3022,
     "uniqueEntryId": "9L4XDnErnxfq4WzYC",
+    "url2": "=FORMULATEXT(B266)",
+    "url": "=FORMULATEXT(C266)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3022,
@@ -13827,6 +14399,8 @@
     "storageFilename": "SeedHibiscusRed",
     "internalId": 3019,
     "uniqueEntryId": "fru8KaSmhXoKiPmxJ",
+    "url2": "=FORMULATEXT(B267)",
+    "url": "=FORMULATEXT(C267)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3019,
@@ -13873,6 +14447,8 @@
     "storageFilename": "SeedHyacinthRed",
     "internalId": 3745,
     "uniqueEntryId": "4hfNdxNQWkQ9qf6QN",
+    "url2": "=FORMULATEXT(B268)",
+    "url": "=FORMULATEXT(C268)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3745,
@@ -13919,6 +14495,8 @@
     "storageFilename": "PltHyacinthRed3",
     "internalId": 3918,
     "uniqueEntryId": "2NJn5Znkpfj3PZ3h4",
+    "url2": "=FORMULATEXT(B269)",
+    "url": "=FORMULATEXT(C269)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3918,
@@ -13965,6 +14543,8 @@
     "storageFilename": "SeedYuriRed",
     "internalId": 2984,
     "uniqueEntryId": "6omvRhe5bmd4Abd3z",
+    "url2": "=FORMULATEXT(B270)",
+    "url": "=FORMULATEXT(C270)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2984,
@@ -14011,6 +14591,8 @@
     "storageFilename": "PltYuriRed3",
     "internalId": 3888,
     "uniqueEntryId": "FpdTm8BJu2va7bxe3",
+    "url2": "=FORMULATEXT(B271)",
+    "url": "=FORMULATEXT(C271)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3888,
@@ -14057,6 +14639,8 @@
     "storageFilename": "SeedMumRed",
     "internalId": 3769,
     "uniqueEntryId": "BZzzrHDtZyDqP9Jot",
+    "url2": "=FORMULATEXT(B272)",
+    "url": "=FORMULATEXT(C272)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3769,
@@ -14103,6 +14687,8 @@
     "storageFilename": "PltMumRed3",
     "internalId": 3932,
     "uniqueEntryId": "pdhzKEEKEWtCGLMj7",
+    "url2": "=FORMULATEXT(B273)",
+    "url": "=FORMULATEXT(C273)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3932,
@@ -14149,6 +14735,8 @@
     "storageFilename": "SeedPansyRed",
     "internalId": 2912,
     "uniqueEntryId": "H2phax8XGcyfsxHyM",
+    "url2": "=FORMULATEXT(B274)",
+    "url": "=FORMULATEXT(C274)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2912,
@@ -14195,6 +14783,8 @@
     "storageFilename": "PltPansyRed3",
     "internalId": 3852,
     "uniqueEntryId": "BQJWgPE6ouCBiNoZn",
+    "url2": "=FORMULATEXT(B275)",
+    "url": "=FORMULATEXT(C275)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3852,
@@ -14241,6 +14831,8 @@
     "storageFilename": "SeedRoseRed",
     "internalId": 2936,
     "uniqueEntryId": "e7SNQmbsXKT3pkkzS",
+    "url2": "=FORMULATEXT(B276)",
+    "url": "=FORMULATEXT(C276)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2936,
@@ -14287,6 +14879,8 @@
     "storageFilename": "PltRoseRed3",
     "internalId": 3864,
     "uniqueEntryId": "A8c3nW23t98zEzuPY",
+    "url2": "=FORMULATEXT(B277)",
+    "url": "=FORMULATEXT(C277)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3864,
@@ -14333,6 +14927,8 @@
     "storageFilename": "SeedTulipRed",
     "internalId": 2884,
     "uniqueEntryId": "6WnmQcHeeC9MAELud",
+    "url2": "=FORMULATEXT(B278)",
+    "url": "=FORMULATEXT(C278)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2884,
@@ -14379,6 +14975,8 @@
     "storageFilename": "PltTulipRed3",
     "internalId": 3838,
     "uniqueEntryId": "vq6FQiZSEprG7z24A",
+    "url2": "=FORMULATEXT(B279)",
+    "url": "=FORMULATEXT(C279)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3838,
@@ -14425,6 +15023,8 @@
     "storageFilename": "SeedAnemonesRed",
     "internalId": 3724,
     "uniqueEntryId": "gstfXhxq6i9XsQeMu",
+    "url2": "=FORMULATEXT(B280)",
+    "url": "=FORMULATEXT(C280)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3724,
@@ -14471,6 +15071,8 @@
     "storageFilename": "PltAnemonesRed3",
     "internalId": 3906,
     "uniqueEntryId": "R8JKJkD6gjEK548a2",
+    "url2": "=FORMULATEXT(B281)",
+    "url": "=FORMULATEXT(C281)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3906,
@@ -14517,6 +15119,8 @@
     "storageFilename": "PltCarrot3",
     "internalId": 12905,
     "uniqueEntryId": "quPQ8PvMvMve7BmNX",
+    "url2": "=FORMULATEXT(B282)",
+    "url": "=FORMULATEXT(C282)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12905,
@@ -14563,6 +15167,8 @@
     "storageFilename": "PltSquashGreen3",
     "internalId": 4540,
     "uniqueEntryId": "ayPbtaq8CwpKNapLf",
+    "url2": "=FORMULATEXT(B283)",
+    "url": "=FORMULATEXT(C283)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 4540,
@@ -14609,6 +15215,8 @@
     "storageFilename": "PltSquashOrange3",
     "internalId": 4532,
     "uniqueEntryId": "RusnnqE3aY6t7ThJR",
+    "url2": "=FORMULATEXT(B284)",
+    "url": "=FORMULATEXT(C284)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 4532,
@@ -14655,6 +15263,8 @@
     "storageFilename": "PltPotato3",
     "internalId": 12902,
     "uniqueEntryId": "eGHF3wrRFYbiE2Ktc",
+    "url2": "=FORMULATEXT(B285)",
+    "url": "=FORMULATEXT(C285)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12902,
@@ -14701,6 +15311,8 @@
     "storageFilename": "PltSugarCane3",
     "internalId": 12900,
     "uniqueEntryId": "Mb3ZWQvCwpZnZhM9D",
+    "url2": "=FORMULATEXT(B286)",
+    "url": "=FORMULATEXT(C286)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12900,
@@ -14747,6 +15359,8 @@
     "storageFilename": "PltTomato3",
     "internalId": 12898,
     "uniqueEntryId": "Cr5D2AzSMXXzACg4b",
+    "url2": "=FORMULATEXT(B287)",
+    "url": "=FORMULATEXT(C287)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12898,
@@ -14793,6 +15407,8 @@
     "storageFilename": "PltWheat3",
     "internalId": 12899,
     "uniqueEntryId": "eAbi74E3NBaZgv2qM",
+    "url2": "=FORMULATEXT(B288)",
+    "url": "=FORMULATEXT(C288)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12899,
@@ -14839,6 +15455,8 @@
     "storageFilename": "PltSquashWhite3",
     "internalId": 4544,
     "uniqueEntryId": "YPMgJmtwRiS4pYtQa",
+    "url2": "=FORMULATEXT(B289)",
+    "url": "=FORMULATEXT(C289)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 4544,
@@ -14885,6 +15503,8 @@
     "storageFilename": "PltSquashYellow3",
     "internalId": 4536,
     "uniqueEntryId": "R2ZZWCxaLK9Jcw7SK",
+    "url2": "=FORMULATEXT(B290)",
+    "url": "=FORMULATEXT(C290)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 4536,
@@ -14931,6 +15551,8 @@
     "storageFilename": "MushRound",
     "internalId": 3277,
     "uniqueEntryId": "x8LdsoLTpK3eNLsLP",
+    "url2": "=FORMULATEXT(B291)",
+    "url": "=FORMULATEXT(C291)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3277,
@@ -14977,6 +15599,8 @@
     "storageFilename": "JohnnyQuestDust1",
     "internalId": 2389,
     "uniqueEntryId": "eNswgjstdGpp6XoKz",
+    "url2": "=FORMULATEXT(B292)",
+    "url": "=FORMULATEXT(C292)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 2389,
@@ -15023,6 +15647,8 @@
     "storageFilename": "ShellDriftSanddollar",
     "internalId": 1379,
     "uniqueEntryId": "7QMCD99jYqLWHvEnR",
+    "url2": "=FORMULATEXT(B295)",
+    "url": "=FORMULATEXT(C295)",
     "translations": {
       "sourceSheet": "Shells",
       "id": 1379,
@@ -15069,6 +15695,8 @@
     "storageFilename": "FtrGroundMakerSand",
     "internalId": 8777,
     "uniqueEntryId": "Pw8J67aWPkpfyd2Wa",
+    "url2": "=FORMULATEXT(B296)",
+    "url": "=FORMULATEXT(C296)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 8777,
@@ -15115,6 +15743,8 @@
     "storageFilename": "SeedOak",
     "internalId": 2794,
     "uniqueEntryId": "cD3cQwuLBqLJe2WeM",
+    "url2": "=FORMULATEXT(B297)",
+    "url": "=FORMULATEXT(C297)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2794,
@@ -15161,6 +15791,8 @@
     "storageFilename": "ShellDriftEbisu",
     "internalId": 1374,
     "uniqueEntryId": "5wagvDKnQqp7a3xWD",
+    "url2": "=FORMULATEXT(B299)",
+    "url": "=FORMULATEXT(C299)",
     "translations": {
       "sourceSheet": "Shells",
       "id": 1374,
@@ -15207,6 +15839,8 @@
     "storageFilename": "DummyOtoshidamaKr",
     "internalId": 14043,
     "uniqueEntryId": "ePrzqT5HRMpbfdn7y",
+    "url2": "=FORMULATEXT(B300)",
+    "url": "=FORMULATEXT(C300)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 14043,
@@ -15253,6 +15887,8 @@
     "storageFilename": "SeedPotato",
     "internalId": 3040,
     "uniqueEntryId": "uxiLYB9gyNwmZjWaZ",
+    "url2": "=FORMULATEXT(B301)",
+    "url": "=FORMULATEXT(C301)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3040,
@@ -15299,6 +15935,8 @@
     "storageFilename": "ShopTent",
     "internalId": 2756,
     "uniqueEntryId": "GgwtWhgJSRb3E4gFt",
+    "url2": "=FORMULATEXT(B302)",
+    "url": "=FORMULATEXT(C302)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 2756,
@@ -15345,6 +15983,8 @@
     "storageFilename": "MovingKitShop",
     "internalId": 5360,
     "uniqueEntryId": "9LmRipQ63jBZ3CGWq",
+    "url2": "=FORMULATEXT(B303)",
+    "url": "=FORMULATEXT(C303)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5360,
@@ -15391,6 +16031,8 @@
     "storageFilename": "MushSlender",
     "internalId": 3278,
     "uniqueEntryId": "y2htnyw8eDSR8JHJg",
+    "url2": "=FORMULATEXT(B304)",
+    "url": "=FORMULATEXT(C304)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3278,
@@ -15437,6 +16079,8 @@
     "storageFilename": "EggSky",
     "internalId": 12513,
     "uniqueEntryId": "SLJ273SKGouTZWTzY",
+    "url2": "=FORMULATEXT(B305)",
+    "url": "=FORMULATEXT(C305)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 12513,
@@ -15483,6 +16127,8 @@
     "storageFilename": "SnowCrystal",
     "internalId": 3539,
     "uniqueEntryId": "Ru7DDSmgAT9dxL8cL",
+    "url2": "=FORMULATEXT(B306)",
+    "url": "=FORMULATEXT(C306)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 3539,
@@ -15529,6 +16175,8 @@
     "storageFilename": "DIYWoodSoft",
     "internalId": 2767,
     "uniqueEntryId": "uP3kCjbqrmTKeo2Ya",
+    "url2": "=FORMULATEXT(B307)",
+    "url": "=FORMULATEXT(C307)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 2767,
@@ -15575,6 +16223,8 @@
     "storageFilename": "SouvenirChocolate",
     "internalId": 13104,
     "uniqueEntryId": "Eyat3se8Qndpk6Kfv",
+    "url2": "=FORMULATEXT(B308)",
+    "url": "=FORMULATEXT(C308)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13104,
@@ -15621,6 +16271,8 @@
     "storageFilename": "Kabu_Spoil",
     "internalId": 2642,
     "uniqueEntryId": "xPacPLbSrKbYSjBAd",
+    "url2": "=FORMULATEXT(B309)",
+    "url": "=FORMULATEXT(C309)",
     "translations": {
       "sourceSheet": "Turnips",
       "id": 2642,
@@ -15667,6 +16319,8 @@
     "storageFilename": "Starpiece",
     "internalId": 5983,
     "uniqueEntryId": "Fy2vYDWHtktFPiRjz",
+    "url2": "=FORMULATEXT(B310)",
+    "url": "=FORMULATEXT(C310)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5983,
@@ -15713,6 +16367,8 @@
     "storageFilename": "DIYStone",
     "internalId": 2502,
     "uniqueEntryId": "rQ38YPKd7g8fCBqRC",
+    "url2": "=FORMULATEXT(B311)",
+    "url": "=FORMULATEXT(C311)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 2502,
@@ -15759,6 +16415,8 @@
     "storageFilename": "EggRock",
     "internalId": 12510,
     "uniqueEntryId": "fHsLgaoNxhWY7BGqm",
+    "url2": "=FORMULATEXT(B312)",
+    "url": "=FORMULATEXT(C312)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 12510,
@@ -15805,6 +16463,8 @@
     "storageFilename": "FtrGroundMakerStone",
     "internalId": 8773,
     "uniqueEntryId": "oTy93idiub9zpcb3F",
+    "url2": "=FORMULATEXT(B313)",
+    "url": "=FORMULATEXT(C313)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 8773,
@@ -15851,6 +16511,8 @@
     "storageFilename": "FlourSugar",
     "internalId": 13997,
     "uniqueEntryId": "PM7n3XRpKhzPXkDhp",
+    "url2": "=FORMULATEXT(B314)",
+    "url": "=FORMULATEXT(C314)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13997,
@@ -15943,6 +16605,8 @@
     "storageFilename": "SugarCane",
     "internalId": 3034,
     "uniqueEntryId": "KoKRtwn77pywTyqng",
+    "url2": "=FORMULATEXT(B315)",
+    "url": "=FORMULATEXT(C315)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3034,
@@ -15989,6 +16653,8 @@
     "storageFilename": "SeedSugarCane",
     "internalId": 3035,
     "uniqueEntryId": "PXWD7CswEAMtkDcKe",
+    "url2": "=FORMULATEXT(B316)",
+    "url": "=FORMULATEXT(C316)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3035,
@@ -16035,6 +16701,8 @@
     "storageFilename": "ShellDriftSummer",
     "internalId": 5982,
     "uniqueEntryId": "nrfNFuHkwuyx2h25n",
+    "url2": "=FORMULATEXT(B317)",
+    "url": "=FORMULATEXT(C317)",
     "translations": {
       "sourceSheet": "Shells",
       "id": 5982,
@@ -16081,6 +16749,8 @@
     "storageFilename": "HousingKitTailor",
     "internalId": 4411,
     "uniqueEntryId": "nzXpuGtjkdzS8i7aZ",
+    "url2": "=FORMULATEXT(B318)",
+    "url": "=FORMULATEXT(C318)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 4411,
@@ -16127,6 +16797,8 @@
     "storageFilename": "MovingKitTailor",
     "internalId": 5359,
     "uniqueEntryId": "GaNHE6Zd7QJtFKMwW",
+    "url2": "=FORMULATEXT(B319)",
+    "url": "=FORMULATEXT(C319)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 5359,
@@ -16173,6 +16845,8 @@
     "storageFilename": "TailorTicket",
     "internalId": 5932,
     "uniqueEntryId": "Rq3dAQH4oTDptcDMF",
+    "url2": "=FORMULATEXT(B320)",
+    "url": "=FORMULATEXT(C320)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 5932,
@@ -16219,6 +16893,8 @@
     "storageFilename": "TutorialTent",
     "internalId": 2750,
     "uniqueEntryId": "Lg4xPPH3PXiNpW268",
+    "url2": "=FORMULATEXT(B322)",
+    "url": "=FORMULATEXT(C322)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 2750,
@@ -16265,6 +16941,8 @@
     "storageFilename": "FtrGroundMakerTile",
     "internalId": 8778,
     "uniqueEntryId": "RpeWT95qyhD22ePzw",
+    "url2": "=FORMULATEXT(B323)",
+    "url": "=FORMULATEXT(C323)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 8778,
@@ -16311,6 +16989,8 @@
     "storageFilename": "Tomato",
     "internalId": 2570,
     "uniqueEntryId": "4Ht6JuKRLQ9MajgsF",
+    "url2": "=FORMULATEXT(B325)",
+    "url": "=FORMULATEXT(C325)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2570,
@@ -16357,6 +17037,8 @@
     "storageFilename": "SeedTomato",
     "internalId": 2649,
     "uniqueEntryId": "TqZXQWtrX2A4yXc7w",
+    "url2": "=FORMULATEXT(B326)",
+    "url": "=FORMULATEXT(C326)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2649,
@@ -16403,6 +17085,8 @@
     "storageFilename": "PlayerMovingHousingKit",
     "internalId": 13346,
     "uniqueEntryId": "WGRQ4YBzp3QpDNFMm",
+    "url2": "=FORMULATEXT(B333)",
+    "url": "=FORMULATEXT(C333)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13346,
@@ -16449,6 +17133,8 @@
     "storageFilename": "TreasureCapsule",
     "internalId": 2545,
     "uniqueEntryId": "KJjoYJDr5g786djiz",
+    "url2": "=FORMULATEXT(B334)",
+    "url": "=FORMULATEXT(C334)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 2545,
@@ -16495,6 +17181,8 @@
     "storageFilename": "DIYBranch",
     "internalId": 2500,
     "uniqueEntryId": "fDwbwWdq93bLwRRDr",
+    "url2": "=FORMULATEXT(B335)",
+    "url": "=FORMULATEXT(C335)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 2500,
@@ -16545,6 +17233,8 @@
     "storageFilename": "PhotoStudioKabu",
     "internalId": 7734,
     "uniqueEntryId": "4hQrmzxXh6HRb8TDg",
+    "url2": "=FORMULATEXT(B337)",
+    "url": "=FORMULATEXT(C337)",
     "translations": {
       "sourceSheet": "Harv's Island Items",
       "id": 7734,
@@ -16597,6 +17287,8 @@
     "storageFilename": "Cinder",
     "internalId": 13107,
     "uniqueEntryId": "ZndPE58PZywGJxkSq",
+    "url2": "=FORMULATEXT(B339)",
+    "url": "=FORMULATEXT(C339)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13107,
@@ -16643,6 +17335,8 @@
     "storageFilename": "ShellDriftHone",
     "internalId": 1375,
     "uniqueEntryId": "rMwbSnAnQ6SR6ov26",
+    "url2": "=FORMULATEXT(B340)",
+    "url": "=FORMULATEXT(C340)",
     "translations": {
       "sourceSheet": "Shells",
       "id": 1375,
@@ -16689,6 +17383,8 @@
     "storageFilename": "PltVine",
     "internalId": 12551,
     "uniqueEntryId": "aPdbpZA8QLSFAAywr",
+    "url2": "=FORMULATEXT(B341)",
+    "url": "=FORMULATEXT(C341)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12551,
@@ -16735,6 +17431,8 @@
     "storageFilename": "Honeycomb",
     "internalId": 3263,
     "uniqueEntryId": "nzXtgoA5GkWLJnNuv",
+    "url2": "=FORMULATEXT(B344)",
+    "url": "=FORMULATEXT(C344)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 3263,
@@ -16781,6 +17479,8 @@
     "storageFilename": "EggFish",
     "internalId": 12514,
     "uniqueEntryId": "q8ER2p757DRZoqvhB",
+    "url2": "=FORMULATEXT(B345)",
+    "url": "=FORMULATEXT(C345)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 12514,
@@ -16827,6 +17527,8 @@
     "storageFilename": "FtrRiverMaker",
     "internalId": 8780,
     "uniqueEntryId": "y27SvjCmimgePaN7y",
+    "url2": "=FORMULATEXT(B346)",
+    "url": "=FORMULATEXT(C346)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 8780,
@@ -16873,6 +17575,8 @@
     "storageFilename": "Wheat",
     "internalId": 3029,
     "uniqueEntryId": "YK3WpWZr9sthEALnN",
+    "url2": "=FORMULATEXT(B351)",
+    "url": "=FORMULATEXT(C351)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3029,
@@ -16919,6 +17623,8 @@
     "storageFilename": "SeedWheat",
     "internalId": 3030,
     "uniqueEntryId": "2Hn5xxndrhvLB2NFb",
+    "url2": "=FORMULATEXT(B352)",
+    "url": "=FORMULATEXT(C352)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3030,
@@ -16965,6 +17671,8 @@
     "storageFilename": "FlwCosmosWhite",
     "internalId": 2305,
     "uniqueEntryId": "3e4iLg8KTpbmx6XW4",
+    "url2": "=FORMULATEXT(B353)",
+    "url": "=FORMULATEXT(C353)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2305,
@@ -17011,6 +17719,8 @@
     "storageFilename": "FlwHyacinthWhite",
     "internalId": 3730,
     "uniqueEntryId": "JtxQ44iAMCEDowPzj",
+    "url2": "=FORMULATEXT(B354)",
+    "url": "=FORMULATEXT(C354)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3730,
@@ -17057,6 +17767,8 @@
     "storageFilename": "FlwYuriWhite",
     "internalId": 2979,
     "uniqueEntryId": "HxHDxpDqRQEjiEs5L",
+    "url2": "=FORMULATEXT(B355)",
+    "url": "=FORMULATEXT(C355)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2979,
@@ -17103,6 +17815,8 @@
     "storageFilename": "FlwMumWhite",
     "internalId": 3754,
     "uniqueEntryId": "nCnEJpwfWp5d3DBaF",
+    "url2": "=FORMULATEXT(B356)",
+    "url": "=FORMULATEXT(C356)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3754,
@@ -17149,6 +17863,8 @@
     "storageFilename": "FlwPansyWhite",
     "internalId": 2907,
     "uniqueEntryId": "zxfj87rooXrjMcppa",
+    "url2": "=FORMULATEXT(B357)",
+    "url": "=FORMULATEXT(C357)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2907,
@@ -17195,6 +17911,8 @@
     "storageFilename": "SquashWhite",
     "internalId": 4528,
     "uniqueEntryId": "Q27X2Qd2GL7YodxJY",
+    "url2": "=FORMULATEXT(B358)",
+    "url": "=FORMULATEXT(C358)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 4528,
@@ -17241,6 +17959,8 @@
     "storageFilename": "FlwRoseWhite",
     "internalId": 2931,
     "uniqueEntryId": "2ASg5YXYQr5sqSvwG",
+    "url2": "=FORMULATEXT(B359)",
+    "url": "=FORMULATEXT(C359)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2931,
@@ -17287,6 +18007,8 @@
     "storageFilename": "FlwTulipWhite",
     "internalId": 2879,
     "uniqueEntryId": "pzYHqKwsGDPBTsYmP",
+    "url2": "=FORMULATEXT(B360)",
+    "url": "=FORMULATEXT(C360)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2879,
@@ -17333,6 +18055,8 @@
     "storageFilename": "FlwAnemonesWhite",
     "internalId": 3709,
     "uniqueEntryId": "QayiSgWWCqxzfAHwj",
+    "url2": "=FORMULATEXT(B361)",
+    "url": "=FORMULATEXT(C361)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3709,
@@ -17379,6 +18103,8 @@
     "storageFilename": "WPaperWhite",
     "internalId": 7693,
     "uniqueEntryId": "xFSvWhgZbhuCvSSpA",
+    "url2": "=FORMULATEXT(B362)",
+    "url": "=FORMULATEXT(C362)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7693,
@@ -17425,6 +18151,8 @@
     "storageFilename": "PltAzaleaWhite2",
     "internalId": 2861,
     "uniqueEntryId": "xmkj9sBpv8pQNGnGT",
+    "url2": "=FORMULATEXT(B363)",
+    "url": "=FORMULATEXT(C363)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2861,
@@ -17471,6 +18199,8 @@
     "storageFilename": "SeedAzaleaWhite",
     "internalId": 2820,
     "uniqueEntryId": "2xmbtR7bGZ9SkctzF",
+    "url2": "=FORMULATEXT(B364)",
+    "url": "=FORMULATEXT(C364)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2820,
@@ -17517,6 +18247,8 @@
     "storageFilename": "SeedCosmosWhite",
     "internalId": 2629,
     "uniqueEntryId": "qkPkqfogiwMf9fKCS",
+    "url2": "=FORMULATEXT(B365)",
+    "url": "=FORMULATEXT(C365)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2629,
@@ -17563,6 +18295,8 @@
     "storageFilename": "PltCosmosWhite3",
     "internalId": 3826,
     "uniqueEntryId": "3iZJP9ouR47H43qMJ",
+    "url2": "=FORMULATEXT(B366)",
+    "url": "=FORMULATEXT(C366)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3826,
@@ -17609,6 +18343,8 @@
     "storageFilename": "SeedHyacinthWhite",
     "internalId": 3731,
     "uniqueEntryId": "iojgh78kpnPtzmjz5",
+    "url2": "=FORMULATEXT(B367)",
+    "url": "=FORMULATEXT(C367)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3731,
@@ -17655,6 +18391,8 @@
     "storageFilename": "PltHyacinthWhite3",
     "internalId": 3910,
     "uniqueEntryId": "uznvYGDDCpPJkYaEJ",
+    "url2": "=FORMULATEXT(B368)",
+    "url": "=FORMULATEXT(C368)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3910,
@@ -17701,6 +18439,8 @@
     "storageFilename": "SeedYuriWhite",
     "internalId": 2980,
     "uniqueEntryId": "wD5MnM6bM2t88hMs5",
+    "url2": "=FORMULATEXT(B369)",
+    "url": "=FORMULATEXT(C369)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2980,
@@ -17747,6 +18487,8 @@
     "storageFilename": "PltYuriWhite3",
     "internalId": 3886,
     "uniqueEntryId": "jwRXxgLr3hFQsAZB6",
+    "url2": "=FORMULATEXT(B370)",
+    "url": "=FORMULATEXT(C370)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3886,
@@ -17793,6 +18535,8 @@
     "storageFilename": "SeedMumWhite",
     "internalId": 3755,
     "uniqueEntryId": "PZ8MqZFTibFpr8Lqi",
+    "url2": "=FORMULATEXT(B371)",
+    "url": "=FORMULATEXT(C371)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3755,
@@ -17839,6 +18583,8 @@
     "storageFilename": "PltMumWhite3",
     "internalId": 3924,
     "uniqueEntryId": "hYqfsENa2bSHGznkC",
+    "url2": "=FORMULATEXT(B372)",
+    "url": "=FORMULATEXT(C372)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3924,
@@ -17885,6 +18631,8 @@
     "storageFilename": "SeedPansyWhite",
     "internalId": 2908,
     "uniqueEntryId": "RsndrSoamwXzNjD9y",
+    "url2": "=FORMULATEXT(B373)",
+    "url": "=FORMULATEXT(C373)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2908,
@@ -17931,6 +18679,8 @@
     "storageFilename": "PltPansyWhite3",
     "internalId": 3850,
     "uniqueEntryId": "XmpB3NuR9RS9PXmCM",
+    "url2": "=FORMULATEXT(B374)",
+    "url": "=FORMULATEXT(C374)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3850,
@@ -17977,6 +18727,8 @@
     "storageFilename": "PltBushPlumeriaWhite2",
     "internalId": 13350,
     "uniqueEntryId": "i4ff2SsFg5y97fnAT",
+    "url2": "=FORMULATEXT(B375)",
+    "url": "=FORMULATEXT(C375)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 13350,
@@ -18023,6 +18775,8 @@
     "storageFilename": "SeedBushPlumeriaWhite",
     "internalId": 13348,
     "uniqueEntryId": "4ZCsZkJsK88e7ocN6",
+    "url2": "=FORMULATEXT(B376)",
+    "url": "=FORMULATEXT(C376)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 13348,
@@ -18069,6 +18823,8 @@
     "storageFilename": "SeedRoseWhite",
     "internalId": 2932,
     "uniqueEntryId": "FxA5MDvGKZc44uenJ",
+    "url2": "=FORMULATEXT(B377)",
+    "url": "=FORMULATEXT(C377)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2932,
@@ -18115,6 +18871,8 @@
     "storageFilename": "PltRoseWhite3",
     "internalId": 3862,
     "uniqueEntryId": "vJFgRAkAYT32pscBc",
+    "url2": "=FORMULATEXT(B378)",
+    "url": "=FORMULATEXT(C378)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3862,
@@ -18161,6 +18919,8 @@
     "storageFilename": "SeedTulipWhite",
     "internalId": 2880,
     "uniqueEntryId": "9JqXDYEJa9M3fGjkX",
+    "url2": "=FORMULATEXT(B379)",
+    "url": "=FORMULATEXT(C379)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2880,
@@ -18207,6 +18967,8 @@
     "storageFilename": "PltTulipWhite3",
     "internalId": 3836,
     "uniqueEntryId": "EPcGhsMb6jQKpbBnC",
+    "url2": "=FORMULATEXT(B380)",
+    "url": "=FORMULATEXT(C380)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3836,
@@ -18253,6 +19015,8 @@
     "storageFilename": "SeedAnemonesWhite",
     "internalId": 3710,
     "uniqueEntryId": "2XmGTkrRQqQbjfEoi",
+    "url2": "=FORMULATEXT(B381)",
+    "url": "=FORMULATEXT(C381)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3710,
@@ -18299,6 +19063,8 @@
     "storageFilename": "PltAnemonesWhite3",
     "internalId": 3898,
     "uniqueEntryId": "5RMyLD5TYyRTzfLdq",
+    "url2": "=FORMULATEXT(B382)",
+    "url": "=FORMULATEXT(C382)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3898,
@@ -18345,6 +19111,8 @@
     "storageFilename": "FlourWheatwhole",
     "internalId": 13996,
     "uniqueEntryId": "HpSZ2zub2kXW92QDX",
+    "url2": "=FORMULATEXT(B383)",
+    "url": "=FORMULATEXT(C383)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 13996,
@@ -18437,6 +19205,8 @@
     "storageFilename": "DIYWoodNormal",
     "internalId": 2768,
     "uniqueEntryId": "NYkn4SWpdNtkSjGMz",
+    "url2": "=FORMULATEXT(B386)",
+    "url": "=FORMULATEXT(C386)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 2768,
@@ -18483,6 +19253,8 @@
     "storageFilename": "EggForest",
     "internalId": 12512,
     "uniqueEntryId": "8adCtThYkk3SrfhhS",
+    "url2": "=FORMULATEXT(B387)",
+    "url": "=FORMULATEXT(C387)",
     "translations": {
       "sourceSheet": "Event Items",
       "id": 12512,
@@ -18529,6 +19301,8 @@
     "storageFilename": "FtrGroundMakerWood",
     "internalId": 8779,
     "uniqueEntryId": "2ASyNJsmZJNm774y5",
+    "url2": "=FORMULATEXT(B388)",
+    "url": "=FORMULATEXT(C388)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 8779,
@@ -18575,6 +19349,8 @@
     "storageFilename": "FlwCosmosYellow",
     "internalId": 2863,
     "uniqueEntryId": "zjAYhjmqMzq3kDBdb",
+    "url2": "=FORMULATEXT(B389)",
+    "url": "=FORMULATEXT(C389)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2863,
@@ -18621,6 +19397,8 @@
     "storageFilename": "FlwHyacinthYellow",
     "internalId": 3734,
     "uniqueEntryId": "4KF7eJpRzonQ585ut",
+    "url2": "=FORMULATEXT(B390)",
+    "url": "=FORMULATEXT(C390)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3734,
@@ -18667,6 +19445,8 @@
     "storageFilename": "FlwYuriYellow",
     "internalId": 2987,
     "uniqueEntryId": "CYNwo9htHodqc52MC",
+    "url2": "=FORMULATEXT(B391)",
+    "url": "=FORMULATEXT(C391)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2987,
@@ -18713,6 +19493,8 @@
     "storageFilename": "FlwMumYellow",
     "internalId": 3758,
     "uniqueEntryId": "5RAPmcCnKxJuTxsD5",
+    "url2": "=FORMULATEXT(B392)",
+    "url": "=FORMULATEXT(C392)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3758,
@@ -18759,6 +19541,8 @@
     "storageFilename": "FlwPansyYellow",
     "internalId": 2915,
     "uniqueEntryId": "s5oZ3HMatfcyLFmb7",
+    "url2": "=FORMULATEXT(B393)",
+    "url": "=FORMULATEXT(C393)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2915,
@@ -18805,6 +19589,8 @@
     "storageFilename": "SquashYellow",
     "internalId": 4526,
     "uniqueEntryId": "EDFNBHxSN2G2bT6w7",
+    "url2": "=FORMULATEXT(B394)",
+    "url": "=FORMULATEXT(C394)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 4526,
@@ -18851,6 +19637,8 @@
     "storageFilename": "FlwRoseYellow",
     "internalId": 2939,
     "uniqueEntryId": "sfweQbaT8mzKykjhk",
+    "url2": "=FORMULATEXT(B395)",
+    "url": "=FORMULATEXT(C395)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2939,
@@ -18897,6 +19685,8 @@
     "storageFilename": "FlwTulipYellow",
     "internalId": 2887,
     "uniqueEntryId": "PdZJXzmx5y6JSLrRD",
+    "url2": "=FORMULATEXT(B396)",
+    "url": "=FORMULATEXT(C396)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2887,
@@ -18943,6 +19733,8 @@
     "storageFilename": "WPaperYellow",
     "internalId": 7683,
     "uniqueEntryId": "DP6esJYrS7WodmWe2",
+    "url2": "=FORMULATEXT(B397)",
+    "url": "=FORMULATEXT(C397)",
     "translations": {
       "sourceSheet": "Etc",
       "id": 7683,
@@ -18989,6 +19781,8 @@
     "storageFilename": "SeedCosmosYellow",
     "internalId": 2864,
     "uniqueEntryId": "uP5p9469CWwJMRTpW",
+    "url2": "=FORMULATEXT(B398)",
+    "url": "=FORMULATEXT(C398)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2864,
@@ -19035,6 +19829,8 @@
     "storageFilename": "PltCosmosYellow3",
     "internalId": 3828,
     "uniqueEntryId": "Bh4zXHCea4eaSgmz9",
+    "url2": "=FORMULATEXT(B399)",
+    "url": "=FORMULATEXT(C399)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3828,
@@ -19081,6 +19877,8 @@
     "storageFilename": "PltHibiscusYellow2",
     "internalId": 3792,
     "uniqueEntryId": "Kb6qYCTJwjNX46xok",
+    "url2": "=FORMULATEXT(B400)",
+    "url": "=FORMULATEXT(C400)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3792,
@@ -19127,6 +19925,8 @@
     "storageFilename": "SeedHibiscusYellow",
     "internalId": 3790,
     "uniqueEntryId": "ZuDtvHRzubPByTeRG",
+    "url2": "=FORMULATEXT(B401)",
+    "url": "=FORMULATEXT(C401)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3790,
@@ -19173,6 +19973,8 @@
     "storageFilename": "SeedHyacinthYellow",
     "internalId": 3735,
     "uniqueEntryId": "5yZ7783u3awJuzvtj",
+    "url2": "=FORMULATEXT(B402)",
+    "url": "=FORMULATEXT(C402)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3735,
@@ -19219,6 +20021,8 @@
     "storageFilename": "PltHyacinthYellow3",
     "internalId": 3912,
     "uniqueEntryId": "TZCvMPvktNmFAFKvP",
+    "url2": "=FORMULATEXT(B403)",
+    "url": "=FORMULATEXT(C403)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3912,
@@ -19265,6 +20069,8 @@
     "storageFilename": "SeedYuriYellow",
     "internalId": 2988,
     "uniqueEntryId": "gQ8rvpd52GD6oPZEB",
+    "url2": "=FORMULATEXT(B404)",
+    "url": "=FORMULATEXT(C404)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2988,
@@ -19311,6 +20117,8 @@
     "storageFilename": "PltYuriYellow3",
     "internalId": 3890,
     "uniqueEntryId": "JmyYGEqKsuXG7YJmx",
+    "url2": "=FORMULATEXT(B405)",
+    "url": "=FORMULATEXT(C405)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3890,
@@ -19357,6 +20165,8 @@
     "storageFilename": "SeedMumYellow",
     "internalId": 3759,
     "uniqueEntryId": "PcvPGssP7xWcncSu8",
+    "url2": "=FORMULATEXT(B406)",
+    "url": "=FORMULATEXT(C406)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3759,
@@ -19403,6 +20213,8 @@
     "storageFilename": "PltMumYellow3",
     "internalId": 3926,
     "uniqueEntryId": "R7rBdJkoAh4Ss5fc7",
+    "url2": "=FORMULATEXT(B407)",
+    "url": "=FORMULATEXT(C407)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3926,
@@ -19449,6 +20261,8 @@
     "storageFilename": "SeedPansyYellow",
     "internalId": 2916,
     "uniqueEntryId": "65A93Q3TDrr2TXe7r",
+    "url2": "=FORMULATEXT(B408)",
+    "url": "=FORMULATEXT(C408)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2916,
@@ -19495,6 +20309,8 @@
     "storageFilename": "PltPansyYellow3",
     "internalId": 3854,
     "uniqueEntryId": "4DaoN5DPRbz3LuGPH",
+    "url2": "=FORMULATEXT(B409)",
+    "url": "=FORMULATEXT(C409)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3854,
@@ -19541,6 +20357,8 @@
     "storageFilename": "SeedRoseYellow",
     "internalId": 2940,
     "uniqueEntryId": "BE6hakXFRTg2qdcPT",
+    "url2": "=FORMULATEXT(B410)",
+    "url": "=FORMULATEXT(C410)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2940,
@@ -19587,6 +20405,8 @@
     "storageFilename": "PltRoseYellow3",
     "internalId": 3866,
     "uniqueEntryId": "zukyGsru7LprL3Nn3",
+    "url2": "=FORMULATEXT(B411)",
+    "url": "=FORMULATEXT(C411)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3866,
@@ -19633,6 +20453,8 @@
     "storageFilename": "PltBushOsmathusYellow2",
     "internalId": 12478,
     "uniqueEntryId": "79ausqrAiPDZqBB7Q",
+    "url2": "=FORMULATEXT(B412)",
+    "url": "=FORMULATEXT(C412)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12478,
@@ -19679,6 +20501,8 @@
     "storageFilename": "SeedBushOsmathusYellow",
     "internalId": 12476,
     "uniqueEntryId": "u9zmBcFHEqkM47dmk",
+    "url2": "=FORMULATEXT(B413)",
+    "url": "=FORMULATEXT(C413)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 12476,
@@ -19725,6 +20549,8 @@
     "storageFilename": "SeedTulipYellow",
     "internalId": 2888,
     "uniqueEntryId": "dK3ZtSLJjdTpT5fxq",
+    "url2": "=FORMULATEXT(B414)",
+    "url": "=FORMULATEXT(C414)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 2888,
@@ -19771,6 +20597,8 @@
     "storageFilename": "PltTulipYellow3",
     "internalId": 3840,
     "uniqueEntryId": "YuRZQh2wgkDnLLK55",
+    "url2": "=FORMULATEXT(B415)",
+    "url": "=FORMULATEXT(C415)",
     "translations": {
       "sourceSheet": "Plants",
       "id": 3840,
@@ -19817,6 +20645,8 @@
     "storageFilename": "DIYBambooSpring",
     "internalId": 5729,
     "uniqueEntryId": "rMwLLdMSqxg3w5gLx",
+    "url2": "=FORMULATEXT(B416)",
+    "url": "=FORMULATEXT(C416)",
     "translations": {
       "sourceSheet": "Crafting Items",
       "id": 5729,

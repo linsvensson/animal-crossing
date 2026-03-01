@@ -25,7 +25,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTile01",
     "Internal ID": 5036,
-    "Unique Entry ID": "JmNGqRhEow3PH7bgk"
+    "Unique Entry ID": "JmNGqRhEow3PH7bgk",
+    "Url": "=FORMULATEXT(B2)"
   },
   {
     "SourceSheet": "Floors",
@@ -53,7 +54,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorArabesque00",
     "Internal ID": 4953,
-    "Unique Entry ID": "4dabyuetmZD5dDdCH"
+    "Unique Entry ID": "4dabyuetmZD5dDdCH",
+    "Url": "=FORMULATEXT(B3)"
   },
   {
     "SourceSheet": "Floors",
@@ -81,7 +83,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorArchBrick00",
     "Internal ID": 4998,
-    "Unique Entry ID": "CSPoYJzCnzWjqWrj5"
+    "Unique Entry ID": "CSPoYJzCnzWjqWrj5",
+    "Url": "=FORMULATEXT(B4)"
   },
   {
     "SourceSheet": "Floors",
@@ -109,7 +112,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTileWood00",
     "Internal ID": 4994,
-    "Unique Entry ID": "BH8PqRSou2XjQ8ppQ"
+    "Unique Entry ID": "BH8PqRSou2XjQ8ppQ",
+    "Url": "=FORMULATEXT(B5)"
   },
   {
     "SourceSheet": "Floors",
@@ -137,7 +141,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorParquetArt00",
     "Internal ID": 5232,
-    "Unique Entry ID": "fbfCzw546bWEF95Aq"
+    "Unique Entry ID": "fbfCzw546bWEF95Aq",
+    "Url": "=FORMULATEXT(B6)"
   },
   {
     "SourceSheet": "Floors",
@@ -165,7 +170,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorLawn00",
     "Internal ID": 4979,
-    "Unique Entry ID": "kANgKb2s4a6pMSjnd"
+    "Unique Entry ID": "kANgKb2s4a6pMSjnd",
+    "Url": "=FORMULATEXT(B7)"
   },
   {
     "SourceSheet": "Floors",
@@ -193,7 +199,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBamboo00",
     "Internal ID": 4964,
-    "Unique Entry ID": "gMeLjZdPobbrt58sT"
+    "Unique Entry ID": "gMeLjZdPobbrt58sT",
+    "Url": "=FORMULATEXT(B8)"
   },
   {
     "SourceSheet": "Floors",
@@ -221,7 +228,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBasement00",
     "Internal ID": 4797,
-    "Unique Entry ID": "DgaMSqGEyko87dD3H"
+    "Unique Entry ID": "DgaMSqGEyko87dD3H",
+    "Url": "=FORMULATEXT(B9)"
   },
   {
     "SourceSheet": "Floors",
@@ -249,7 +257,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMorocco00",
     "Internal ID": 4965,
-    "Unique Entry ID": "yhH3pNWq8L8j48tHW"
+    "Unique Entry ID": "yhH3pNWq8L8j48tHW",
+    "Url": "=FORMULATEXT(B10)"
   },
   {
     "SourceSheet": "Floors",
@@ -277,7 +286,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorChocolate02",
     "Internal ID": 5053,
-    "Unique Entry ID": "E7Mfi6saTnBEgW6o8"
+    "Unique Entry ID": "E7Mfi6saTnBEgW6o8",
+    "Url": "=FORMULATEXT(B11)"
   },
   {
     "SourceSheet": "Floors",
@@ -305,7 +315,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBirch00",
     "Internal ID": 5032,
-    "Unique Entry ID": "2tg7thFuaxAAiDTsv"
+    "Unique Entry ID": "2tg7thFuaxAAiDTsv",
+    "Url": "=FORMULATEXT(B12)"
   },
   {
     "SourceSheet": "Floors",
@@ -333,7 +344,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorParquetIron02",
     "Internal ID": 5066,
-    "Unique Entry ID": "24iNYeWLqkR2juaqx"
+    "Unique Entry ID": "24iNYeWLqkR2juaqx",
+    "Url": "=FORMULATEXT(B13)"
   },
   {
     "SourceSheet": "Floors",
@@ -361,7 +373,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBrick02",
     "Internal ID": 4976,
-    "Unique Entry ID": "9KuQFNKWxmCH4Wmvh"
+    "Unique Entry ID": "9KuQFNKWxmCH4Wmvh",
+    "Url": "=FORMULATEXT(B14)"
   },
   {
     "SourceSheet": "Floors",
@@ -389,7 +402,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMario00",
     "Internal ID": 13804,
-    "Unique Entry ID": "9eBvLr6aCPPym2LFP"
+    "Unique Entry ID": "9eBvLr6aCPPym2LFP",
+    "Url": "=FORMULATEXT(B15)"
   },
   {
     "SourceSheet": "Floors",
@@ -417,7 +431,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCamouflage01",
     "Internal ID": 5016,
-    "Unique Entry ID": "bGQTqfoWhW5TNdLM9"
+    "Unique Entry ID": "bGQTqfoWhW5TNdLM9",
+    "Url": "=FORMULATEXT(B16)"
   },
   {
     "SourceSheet": "Floors",
@@ -445,7 +460,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDot04",
     "Internal ID": 5028,
-    "Unique Entry ID": "cpSuDLw7NNyxB5fCs"
+    "Unique Entry ID": "cpSuDLw7NNyxB5fCs",
+    "Url": "=FORMULATEXT(B17)"
   },
   {
     "SourceSheet": "Floors",
@@ -473,7 +489,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDecoWood01",
     "Internal ID": 5074,
-    "Unique Entry ID": "XMaNPpWPhwfMY6L5G"
+    "Unique Entry ID": "XMaNPpWPhwfMY6L5G",
+    "Url": "=FORMULATEXT(B18)"
   },
   {
     "SourceSheet": "Floors",
@@ -501,7 +518,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHoneycomb01",
     "Internal ID": 5040,
-    "Unique Entry ID": "rYSDNLpsxE2ec3g9W"
+    "Unique Entry ID": "rYSDNLpsxE2ec3g9W",
+    "Url": "=FORMULATEXT(B19)"
   },
   {
     "SourceSheet": "Floors",
@@ -529,7 +547,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMorocco01",
     "Internal ID": 4966,
-    "Unique Entry ID": "zJsrCJgAeFsymNzjq"
+    "Unique Entry ID": "zJsrCJgAeFsymNzjq",
+    "Url": "=FORMULATEXT(B20)"
   },
   {
     "SourceSheet": "Floors",
@@ -557,7 +576,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTile03",
     "Internal ID": 6846,
-    "Unique Entry ID": "y7utgb97MDffD3CWY"
+    "Unique Entry ID": "y7utgb97MDffD3CWY",
+    "Url": "=FORMULATEXT(B21)"
   },
   {
     "SourceSheet": "Floors",
@@ -585,7 +605,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRubber01",
     "Internal ID": 4954,
-    "Unique Entry ID": "4q43QAcimMHbzK76v"
+    "Unique Entry ID": "4q43QAcimMHbzK76v",
+    "Url": "=FORMULATEXT(B22)"
   },
   {
     "SourceSheet": "Floors",
@@ -613,7 +634,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPaintWood00",
     "Internal ID": 5057,
-    "Unique Entry ID": "gNCxEi69JzcmxXbxL"
+    "Unique Entry ID": "gNCxEi69JzcmxXbxL",
+    "Url": "=FORMULATEXT(B23)"
   },
   {
     "SourceSheet": "Floors",
@@ -641,7 +663,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorWrestling00",
     "Internal ID": 4982,
-    "Unique Entry ID": "45uLswcK6NpGkiLNj"
+    "Unique Entry ID": "45uLswcK6NpGkiLNj",
+    "Url": "=FORMULATEXT(B24)"
   },
   {
     "SourceSheet": "Floors",
@@ -669,7 +692,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCemetery00",
     "Internal ID": 13127,
-    "Unique Entry ID": "iWLJxsd4fz8Bdq4eF"
+    "Unique Entry ID": "iWLJxsd4fz8Bdq4eF",
+    "Url": "=FORMULATEXT(B25)"
   },
   {
     "SourceSheet": "Floors",
@@ -697,7 +721,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorArgyleTile01",
     "Internal ID": 5081,
-    "Unique Entry ID": "yBoSKBz6zX8i5upzp"
+    "Unique Entry ID": "yBoSKBz6zX8i5upzp",
+    "Url": "=FORMULATEXT(B26)"
   },
   {
     "SourceSheet": "Floors",
@@ -725,7 +750,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDecoWood02",
     "Internal ID": 5075,
-    "Unique Entry ID": "xY7NHtsvYjKMbACLu"
+    "Unique Entry ID": "xY7NHtsvYjKMbACLu",
+    "Url": "=FORMULATEXT(B27)"
   },
   {
     "SourceSheet": "Floors",
@@ -753,7 +779,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHoneycomb00",
     "Internal ID": 5038,
-    "Unique Entry ID": "ZpkkHEE23YB7QNvHx"
+    "Unique Entry ID": "ZpkkHEE23YB7QNvHx",
+    "Url": "=FORMULATEXT(B28)"
   },
   {
     "SourceSheet": "Floors",
@@ -781,7 +808,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorParquetIron01",
     "Internal ID": 5065,
-    "Unique Entry ID": "n48DyFP2iimp68t9Y"
+    "Unique Entry ID": "n48DyFP2iimp68t9Y",
+    "Url": "=FORMULATEXT(B29)"
   },
   {
     "SourceSheet": "Floors",
@@ -809,7 +837,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMarbleTile01",
     "Internal ID": 12433,
-    "Unique Entry ID": "hmyWP64oXEsMwBPua"
+    "Unique Entry ID": "hmyWP64oXEsMwBPua",
+    "Url": "=FORMULATEXT(B30)"
   },
   {
     "SourceSheet": "Floors",
@@ -837,7 +866,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBrick03",
     "Internal ID": 6849,
-    "Unique Entry ID": "pjTr8dw3cyN8eeZYv"
+    "Unique Entry ID": "pjTr8dw3cyN8eeZYv",
+    "Url": "=FORMULATEXT(B31)"
   },
   {
     "SourceSheet": "Floors",
@@ -865,7 +895,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorEaster00",
     "Internal ID": 12423,
-    "Unique Entry ID": "Q9QJSyTM3AzAWLBvD"
+    "Unique Entry ID": "Q9QJSyTM3AzAWLBvD",
+    "Url": "=FORMULATEXT(B32)"
   },
   {
     "SourceSheet": "Floors",
@@ -893,7 +924,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCamouflage00",
     "Internal ID": 5015,
-    "Unique Entry ID": "DuqT3X6msNdXFvLHi"
+    "Unique Entry ID": "DuqT3X6msNdXFvLHi",
+    "Url": "=FORMULATEXT(B33)"
   },
   {
     "SourceSheet": "Floors",
@@ -921,7 +953,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSakura00",
     "Internal ID": 7204,
-    "Unique Entry ID": "ZhWmRmGQN5gZCao4y"
+    "Unique Entry ID": "ZhWmRmGQN5gZCao4y",
+    "Url": "=FORMULATEXT(B34)"
   },
   {
     "SourceSheet": "Floors",
@@ -949,7 +982,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorLego03",
     "Internal ID": 1296,
-    "Unique Entry ID": "Bymaxz79gL2PkDMJP"
+    "Unique Entry ID": "Bymaxz79gL2PkDMJP",
+    "Url": "=FORMULATEXT(B35)"
   },
   {
     "SourceSheet": "Floors",
@@ -977,7 +1011,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCinnamon00",
     "Internal ID": 10182,
-    "Unique Entry ID": "QoSp6QuNxwN28hdiv"
+    "Unique Entry ID": "QoSp6QuNxwN28hdiv",
+    "Url": "=FORMULATEXT(B36)"
   },
   {
     "SourceSheet": "Floors",
@@ -1005,7 +1040,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorGeek00",
     "Internal ID": 5082,
-    "Unique Entry ID": "mqiB9cY9EEtRXQoFS"
+    "Unique Entry ID": "mqiB9cY9EEtRXQoFS",
+    "Url": "=FORMULATEXT(B37)"
   },
   {
     "SourceSheet": "Floors",
@@ -1033,7 +1069,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSummer00",
     "Internal ID": 12727,
-    "Unique Entry ID": "Dah42cyaRs39uWLQt"
+    "Unique Entry ID": "Dah42cyaRs39uWLQt",
+    "Url": "=FORMULATEXT(B38)"
   },
   {
     "SourceSheet": "Floors",
@@ -1061,7 +1098,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorCloud00",
     "Internal ID": 5267,
-    "Unique Entry ID": "Gp6CWrou6RqPRPLH3"
+    "Unique Entry ID": "Gp6CWrou6RqPRPLH3",
+    "Url": "=FORMULATEXT(B39)"
   },
   {
     "SourceSheet": "Floors",
@@ -1089,7 +1127,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorClub00",
     "Internal ID": 13193,
-    "Unique Entry ID": "Z9BAjTnK4D2FQ2XSb"
+    "Unique Entry ID": "Z9BAjTnK4D2FQ2XSb",
+    "Url": "=FORMULATEXT(B40)"
   },
   {
     "SourceSheet": "Floors",
@@ -1117,7 +1156,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorAutumun00",
     "Internal ID": 4990,
-    "Unique Entry ID": "ZNpkS7gSLvRFR3qv4"
+    "Unique Entry ID": "ZNpkS7gSLvRFR3qv4",
+    "Url": "=FORMULATEXT(B41)"
   },
   {
     "SourceSheet": "Floors",
@@ -1145,7 +1185,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorLego00",
     "Internal ID": 1281,
-    "Unique Entry ID": "fjN2FDrEfdm5Nbkxa"
+    "Unique Entry ID": "fjN2FDrEfdm5Nbkxa",
+    "Url": "=FORMULATEXT(B42)"
   },
   {
     "SourceSheet": "Floors",
@@ -1173,7 +1214,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTile02",
     "Internal ID": 5037,
-    "Unique Entry ID": "FMtGXChPSm2y6edqK"
+    "Unique Entry ID": "FMtGXChPSm2y6edqK",
+    "Url": "=FORMULATEXT(B43)"
   },
   {
     "SourceSheet": "Floors",
@@ -1201,7 +1243,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPuzzleMat01",
     "Internal ID": 4957,
-    "Unique Entry ID": "snnsfZxLf3bLFCmSD"
+    "Unique Entry ID": "snnsfZxLf3bLFCmSD",
+    "Url": "=FORMULATEXT(B44)"
   },
   {
     "SourceSheet": "Floors",
@@ -1229,7 +1272,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPanel01",
     "Internal ID": 5068,
-    "Unique Entry ID": "ANgxpCY6rprKk56wT"
+    "Unique Entry ID": "ANgxpCY6rprKk56wT",
+    "Url": "=FORMULATEXT(B45)"
   },
   {
     "SourceSheet": "Floors",
@@ -1257,7 +1301,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCommon00",
     "Internal ID": 5018,
-    "Unique Entry ID": "GQX6Cd7FiDHBwkfAv"
+    "Unique Entry ID": "GQX6Cd7FiDHBwkfAv",
+    "Url": "=FORMULATEXT(B46)"
   },
   {
     "SourceSheet": "Floors",
@@ -1285,7 +1330,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorConcrete00",
     "Internal ID": 4951,
-    "Unique Entry ID": "r6hpZDG5eaceYuE3x"
+    "Unique Entry ID": "r6hpZDG5eaceYuE3x",
+    "Url": "=FORMULATEXT(B47)"
   },
   {
     "SourceSheet": "Floors",
@@ -1313,7 +1359,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorConstruction00",
     "Internal ID": 5235,
-    "Unique Entry ID": "25pmfNgicXrDwQhZ9"
+    "Unique Entry ID": "25pmfNgicXrDwQhZ9",
+    "Url": "=FORMULATEXT(B48)"
   },
   {
     "SourceSheet": "Floors",
@@ -1341,7 +1388,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTileChecker03",
     "Internal ID": 6844,
-    "Unique Entry ID": "RpwPS8ETt7nPHGTqR"
+    "Unique Entry ID": "RpwPS8ETt7nPHGTqR",
+    "Url": "=FORMULATEXT(B49)"
   },
   {
     "SourceSheet": "Floors",
@@ -1369,7 +1417,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorColorfulWood01",
     "Internal ID": 5071,
-    "Unique Entry ID": "P5vNHW2McCcqGk2Ru"
+    "Unique Entry ID": "P5vNHW2McCcqGk2Ru",
+    "Url": "=FORMULATEXT(B50)"
   },
   {
     "SourceSheet": "Floors",
@@ -1397,7 +1446,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCork00",
     "Internal ID": 4969,
-    "Unique Entry ID": "YSWAiTZFDQXzbH8xM"
+    "Unique Entry ID": "YSWAiTZFDQXzbH8xM",
+    "Url": "=FORMULATEXT(B51)"
   },
   {
     "SourceSheet": "Floors",
@@ -1425,7 +1475,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCropCircles00",
     "Internal ID": 5243,
-    "Unique Entry ID": "zvSD2W9Wsxs2wX82T"
+    "Unique Entry ID": "zvSD2W9Wsxs2wX82T",
+    "Url": "=FORMULATEXT(B52)"
   },
   {
     "SourceSheet": "Floors",
@@ -1453,7 +1504,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSidewalk00",
     "Internal ID": 5007,
-    "Unique Entry ID": "DpkSGAyAuXwcmKcYT"
+    "Unique Entry ID": "DpkSGAyAuXwcmKcYT",
+    "Url": "=FORMULATEXT(B53)"
   },
   {
     "SourceSheet": "Floors",
@@ -1481,7 +1533,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHoneycombWood00",
     "Internal ID": 4987,
-    "Unique Entry ID": "pTqSAheGagvxyCivv"
+    "Unique Entry ID": "pTqSAheGagvxyCivv",
+    "Url": "=FORMULATEXT(B54)"
   },
   {
     "SourceSheet": "Floors",
@@ -1509,7 +1562,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCute02",
     "Internal ID": 7221,
-    "Unique Entry ID": "QsGtuf59hbErv942T"
+    "Unique Entry ID": "QsGtuf59hbErv942T",
+    "Url": "=FORMULATEXT(B55)"
   },
   {
     "SourceSheet": "Floors",
@@ -1537,7 +1591,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorLego02",
     "Internal ID": 1295,
-    "Unique Entry ID": "DQMFu3LMY25FFYeJa"
+    "Unique Entry ID": "DQMFu3LMY25FFYeJa",
+    "Url": "=FORMULATEXT(B56)"
   },
   {
     "SourceSheet": "Floors",
@@ -1565,7 +1620,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCute01",
     "Internal ID": 7220,
-    "Unique Entry ID": "TmfKeSsDh7FMpA6jG"
+    "Unique Entry ID": "TmfKeSsDh7FMpA6jG",
+    "Url": "=FORMULATEXT(B57)"
   },
   {
     "SourceSheet": "Floors",
@@ -1593,7 +1649,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCute00",
     "Internal ID": 7219,
-    "Unique Entry ID": "bXxKjx8AJp7PRKLZA"
+    "Unique Entry ID": "bXxKjx8AJp7PRKLZA",
+    "Url": "=FORMULATEXT(B58)"
   },
   {
     "SourceSheet": "Floors",
@@ -1621,7 +1678,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCute03",
     "Internal ID": 7222,
-    "Unique Entry ID": "CSeg3aQXkhPjwXSJS"
+    "Unique Entry ID": "CSeg3aQXkhPjwXSJS",
+    "Url": "=FORMULATEXT(B59)"
   },
   {
     "SourceSheet": "Floors",
@@ -1649,7 +1707,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorColorfulWood00",
     "Internal ID": 5070,
-    "Unique Entry ID": "W6ohXRHoCKsN4YLB8"
+    "Unique Entry ID": "W6ohXRHoCKsN4YLB8",
+    "Url": "=FORMULATEXT(B60)"
   },
   {
     "SourceSheet": "Floors",
@@ -1677,7 +1736,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorGrassland00",
     "Internal ID": 5005,
-    "Unique Entry ID": "3wxzHxXFvLCZ9CKg2"
+    "Unique Entry ID": "3wxzHxXFvLCZ9CKg2",
+    "Url": "=FORMULATEXT(B61)"
   },
   {
     "SourceSheet": "Floors",
@@ -1705,7 +1765,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHerringbone01",
     "Internal ID": 5062,
-    "Unique Entry ID": "B2ZTCrRr7jnNR2ovs"
+    "Unique Entry ID": "B2ZTCrRr7jnNR2ovs",
+    "Url": "=FORMULATEXT(B62)"
   },
   {
     "SourceSheet": "Floors",
@@ -1733,7 +1794,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCountry01",
     "Internal ID": 5025,
-    "Unique Entry ID": "rco8xXCvWkLSFYCRA"
+    "Unique Entry ID": "rco8xXCvWkLSFYCRA",
+    "Url": "=FORMULATEXT(B63)"
   },
   {
     "SourceSheet": "Floors",
@@ -1761,7 +1823,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSimpleParquet01",
     "Internal ID": 4992,
-    "Unique Entry ID": "XtDikpNN55jn8zrja"
+    "Unique Entry ID": "XtDikpNN55jn8zrja",
+    "Url": "=FORMULATEXT(B64)"
   },
   {
     "SourceSheet": "Floors",
@@ -1789,7 +1852,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorParquet01",
     "Internal ID": 5035,
-    "Unique Entry ID": "Brfw5JnsZKhxqhWYf"
+    "Unique Entry ID": "Brfw5JnsZKhxqhWYf",
+    "Url": "=FORMULATEXT(B65)"
   },
   {
     "SourceSheet": "Floors",
@@ -1817,7 +1881,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorChocolate00",
     "Internal ID": 5050,
-    "Unique Entry ID": "hyLXZQ7stKXetPcQv"
+    "Unique Entry ID": "hyLXZQ7stKXetPcQv",
+    "Url": "=FORMULATEXT(B66)"
   },
   {
     "SourceSheet": "Floors",
@@ -1845,7 +1910,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorStratum00",
     "Internal ID": 5011,
-    "Unique Entry ID": "4niZnD4Hiwrg9tF2G"
+    "Unique Entry ID": "4niZnD4Hiwrg9tF2G",
+    "Url": "=FORMULATEXT(B67)"
   },
   {
     "SourceSheet": "Floors",
@@ -1873,7 +1939,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCottonSoil00",
     "Internal ID": 4981,
-    "Unique Entry ID": "LYgxhvWvyPWAzWieZ"
+    "Unique Entry ID": "LYgxhvWvyPWAzWieZ",
+    "Url": "=FORMULATEXT(B68)"
   },
   {
     "SourceSheet": "Floors",
@@ -1901,7 +1968,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTheater00",
     "Internal ID": 12917,
-    "Unique Entry ID": "4L6GcFvuMqg44ohdS"
+    "Unique Entry ID": "4L6GcFvuMqg44ohdS",
+    "Url": "=FORMULATEXT(B69)"
   },
   {
     "SourceSheet": "Floors",
@@ -1929,7 +1997,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorFarm00",
     "Internal ID": 4980,
-    "Unique Entry ID": "2zmEMZxmYHHNEGTQR"
+    "Unique Entry ID": "2zmEMZxmYHHNEGTQR",
+    "Url": "=FORMULATEXT(B70)"
   },
   {
     "SourceSheet": "Floors",
@@ -1957,7 +2026,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorFlagStone00",
     "Internal ID": 5031,
-    "Unique Entry ID": "NtuoKtiMbKoiY2xoy"
+    "Unique Entry ID": "NtuoKtiMbKoiY2xoy",
+    "Url": "=FORMULATEXT(B71)"
   },
   {
     "SourceSheet": "Floors",
@@ -1985,7 +2055,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMosaicTile00",
     "Internal ID": 4993,
-    "Unique Entry ID": "5wjjJXuu2A9EYJGgf"
+    "Unique Entry ID": "5wjjJXuu2A9EYJGgf",
+    "Url": "=FORMULATEXT(B72)"
   },
   {
     "SourceSheet": "Floors",
@@ -2013,7 +2084,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRush00",
     "Internal ID": 4977,
-    "Unique Entry ID": "f9aYRhv4CwtmsYPNS"
+    "Unique Entry ID": "f9aYRhv4CwtmsYPNS",
+    "Url": "=FORMULATEXT(B73)"
   },
   {
     "SourceSheet": "Floors",
@@ -2041,7 +2113,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorRiver00",
     "Internal ID": 5273,
-    "Unique Entry ID": "2EL3sCGxkgTQj533G"
+    "Unique Entry ID": "2EL3sCGxkgTQj533G",
+    "Url": "=FORMULATEXT(B74)"
   },
   {
     "SourceSheet": "Floors",
@@ -2069,7 +2142,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMushForest00",
     "Internal ID": 7186,
-    "Unique Entry ID": "ec3NaTs5Pk8z6HCC6"
+    "Unique Entry ID": "ec3NaTs5Pk8z6HCC6",
+    "Url": "=FORMULATEXT(B75)"
   },
   {
     "SourceSheet": "Floors",
@@ -2097,7 +2171,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorTechnology00",
     "Internal ID": 5250,
-    "Unique Entry ID": "eZweMfrfieMDtihv7"
+    "Unique Entry ID": "eZweMfrfieMDtihv7",
+    "Url": "=FORMULATEXT(B76)"
   },
   {
     "SourceSheet": "Floors",
@@ -2125,7 +2200,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorGalaxy00",
     "Internal ID": 5269,
-    "Unique Entry ID": "XhFQDs3H9uCdikzkW"
+    "Unique Entry ID": "XhFQDs3H9uCdikzkW",
+    "Url": "=FORMULATEXT(B77)"
   },
   {
     "SourceSheet": "Floors",
@@ -2153,7 +2229,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorGarbage00",
     "Internal ID": 5236,
-    "Unique Entry ID": "iY9f7H5NjXBxxB6HQ"
+    "Unique Entry ID": "iY9f7H5NjXBxxB6HQ",
+    "Url": "=FORMULATEXT(B78)"
   },
   {
     "SourceSheet": "Floors",
@@ -2181,7 +2258,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorAnimal01",
     "Internal ID": 4961,
-    "Unique Entry ID": "umJmHnuMQRMEeXB7Y"
+    "Unique Entry ID": "umJmHnuMQRMEeXB7Y",
+    "Url": "=FORMULATEXT(B79)"
   },
   {
     "SourceSheet": "Floors",
@@ -2209,7 +2287,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorGlowMoss00",
     "Internal ID": 13879,
-    "Unique Entry ID": "uGTqQ89qidnrGWJE7"
+    "Unique Entry ID": "uGTqQ89qidnrGWJE7",
+    "Url": "=FORMULATEXT(B80)"
   },
   {
     "SourceSheet": "Floors",
@@ -2237,7 +2316,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorParquetIron00",
     "Internal ID": 5064,
-    "Unique Entry ID": "R7g62hAfWLaJ2muuy"
+    "Unique Entry ID": "R7g62hAfWLaJ2muuy",
+    "Url": "=FORMULATEXT(B81)"
   },
   {
     "SourceSheet": "Floors",
@@ -2265,7 +2345,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorGold00",
     "Internal ID": 5021,
-    "Unique Entry ID": "YrHA4R4RmkJLeYvJy"
+    "Unique Entry ID": "YrHA4R4RmkJLeYvJy",
+    "Url": "=FORMULATEXT(B82)"
   },
   {
     "SourceSheet": "Floors",
@@ -2293,7 +2374,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorGravel00",
     "Internal ID": 4978,
-    "Unique Entry ID": "9jLaEjCCsiMHGLf9Y"
+    "Unique Entry ID": "9jLaEjCCsiMHGLf9Y",
+    "Url": "=FORMULATEXT(B83)"
   },
   {
     "SourceSheet": "Floors",
@@ -2321,7 +2403,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorArgyleTile00",
     "Internal ID": 5080,
-    "Unique Entry ID": "L5HHMxTjeAv2hLukh"
+    "Unique Entry ID": "L5HHMxTjeAv2hLukh",
+    "Url": "=FORMULATEXT(B84)"
   },
   {
     "SourceSheet": "Floors",
@@ -2349,7 +2432,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTileChecker00",
     "Internal ID": 5046,
-    "Unique Entry ID": "hazZe9YtvTt7T8WJD"
+    "Unique Entry ID": "hazZe9YtvTt7T8WJD",
+    "Url": "=FORMULATEXT(B85)"
   },
   {
     "SourceSheet": "Floors",
@@ -2377,7 +2461,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDecoWood03",
     "Internal ID": 6847,
-    "Unique Entry ID": "AaKjHGFteG5h2GBQn"
+    "Unique Entry ID": "AaKjHGFteG5h2GBQn",
+    "Url": "=FORMULATEXT(B86)"
   },
   {
     "SourceSheet": "Floors",
@@ -2405,7 +2490,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHoneycomb02",
     "Internal ID": 5041,
-    "Unique Entry ID": "3T2nKNCHMxxQXkucQ"
+    "Unique Entry ID": "3T2nKNCHMxxQXkucQ",
+    "Url": "=FORMULATEXT(B87)"
   },
   {
     "SourceSheet": "Floors",
@@ -2433,7 +2519,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorKitchen01",
     "Internal ID": 5045,
-    "Unique Entry ID": "RRFkhjtia4ayJy2cH"
+    "Unique Entry ID": "RRFkhjtia4ayJy2cH",
+    "Url": "=FORMULATEXT(B88)"
   },
   {
     "SourceSheet": "Floors",
@@ -2461,7 +2548,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRubber00",
     "Internal ID": 4952,
-    "Unique Entry ID": "raqdEHfoLLbgfxpcR"
+    "Unique Entry ID": "raqdEHfoLLbgfxpcR",
+    "Url": "=FORMULATEXT(B89)"
   },
   {
     "SourceSheet": "Floors",
@@ -2489,7 +2577,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTileChecker02",
     "Internal ID": 5048,
-    "Unique Entry ID": "zBGakmC9vX4Epuduf"
+    "Unique Entry ID": "zBGakmC9vX4Epuduf",
+    "Url": "=FORMULATEXT(B90)"
   },
   {
     "SourceSheet": "Floors",
@@ -2517,7 +2606,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMarbleTile02",
     "Internal ID": 12434,
-    "Unique Entry ID": "uhmt88jsXSHpkqswZ"
+    "Unique Entry ID": "uhmt88jsXSHpkqswZ",
+    "Url": "=FORMULATEXT(B91)"
   },
   {
     "SourceSheet": "Floors",
@@ -2545,7 +2635,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPaintWood01",
     "Internal ID": 5058,
-    "Unique Entry ID": "ZdsDu7KBmtngBLoe4"
+    "Unique Entry ID": "ZdsDu7KBmtngBLoe4",
+    "Url": "=FORMULATEXT(B92)"
   },
   {
     "SourceSheet": "Floors",
@@ -2573,7 +2664,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSchoolgym00",
     "Internal ID": 12854,
-    "Unique Entry ID": "YWtXprjJARzm8rHEC"
+    "Unique Entry ID": "YWtXprjJARzm8rHEC",
+    "Url": "=FORMULATEXT(B93)"
   },
   {
     "SourceSheet": "Floors",
@@ -2601,7 +2693,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorKitty00",
     "Internal ID": 10183,
-    "Unique Entry ID": "tYjiR9p4ze42heAmo"
+    "Unique Entry ID": "tYjiR9p4ze42heAmo",
+    "Url": "=FORMULATEXT(B94)"
   },
   {
     "SourceSheet": "Floors",
@@ -2629,7 +2722,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHempTile00",
     "Internal ID": 4972,
-    "Unique Entry ID": "6frp588zeZqeDBSvp"
+    "Unique Entry ID": "6frp588zeZqeDBSvp",
+    "Url": "=FORMULATEXT(B95)"
   },
   {
     "SourceSheet": "Floors",
@@ -2657,7 +2751,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHighway00",
     "Internal ID": 5237,
-    "Unique Entry ID": "wrqigm79Kx7xbhPcb"
+    "Unique Entry ID": "wrqigm79Kx7xbhPcb",
+    "Url": "=FORMULATEXT(B96)"
   },
   {
     "SourceSheet": "Floors",
@@ -2685,7 +2780,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHoney00",
     "Internal ID": 4999,
-    "Unique Entry ID": "Yi7YJpRkuc2DYxypg"
+    "Unique Entry ID": "Yi7YJpRkuc2DYxypg",
+    "Url": "=FORMULATEXT(B97)"
   },
   {
     "SourceSheet": "Floors",
@@ -2713,7 +2809,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSchoolyard00",
     "Internal ID": 12853,
-    "Unique Entry ID": "qPip9BWoSumjwR74D"
+    "Unique Entry ID": "qPip9BWoSumjwR74D",
+    "Url": "=FORMULATEXT(B98)"
   },
   {
     "SourceSheet": "Floors",
@@ -2741,7 +2838,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorIce00",
     "Internal ID": 5516,
-    "Unique Entry ID": "J63DSTu7u4tnwgLfR"
+    "Unique Entry ID": "J63DSTu7u4tnwgLfR",
+    "Url": "=FORMULATEXT(B99)"
   },
   {
     "SourceSheet": "Floors",
@@ -2769,7 +2867,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorIceFloe00",
     "Internal ID": 5253,
-    "Unique Entry ID": "7unCfS99xyM3swHCz"
+    "Unique Entry ID": "7unCfS99xyM3swHCz",
+    "Url": "=FORMULATEXT(B100)"
   },
   {
     "SourceSheet": "Floors",
@@ -2797,7 +2896,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDynasty00",
     "Internal ID": 5012,
-    "Unique Entry ID": "n4zrzvMvJmXvpMTCw"
+    "Unique Entry ID": "n4zrzvMvJmXvpMTCw",
+    "Url": "=FORMULATEXT(B101)"
   },
   {
     "SourceSheet": "Floors",
@@ -2825,7 +2925,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorJointMat00",
     "Internal ID": 4955,
-    "Unique Entry ID": "RfPqDKHG6QR5FhwXY"
+    "Unique Entry ID": "RfPqDKHG6QR5FhwXY",
+    "Url": "=FORMULATEXT(B102)"
   },
   {
     "SourceSheet": "Floors",
@@ -2853,7 +2954,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorJungle00",
     "Internal ID": 5515,
-    "Unique Entry ID": "QrdicpjjuY4mBd37e"
+    "Unique Entry ID": "QrdicpjjuY4mBd37e",
+    "Url": "=FORMULATEXT(B103)"
   },
   {
     "SourceSheet": "Floors",
@@ -2881,7 +2983,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorKeroppi00",
     "Internal ID": 10178,
-    "Unique Entry ID": "in4GXgnZCJswgXy3v"
+    "Unique Entry ID": "in4GXgnZCJswgXy3v",
+    "Url": "=FORMULATEXT(B104)"
   },
   {
     "SourceSheet": "Floors",
@@ -2909,7 +3012,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorKikilala00",
     "Internal ID": 10179,
-    "Unique Entry ID": "oNAAEgpYg3CiQhkqq"
+    "Unique Entry ID": "oNAAEgpYg3CiQhkqq",
+    "Url": "=FORMULATEXT(B105)"
   },
   {
     "SourceSheet": "Floors",
@@ -2937,7 +3041,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorKitschTile00",
     "Internal ID": 5076,
-    "Unique Entry ID": "uWKchyhWgNxTxDikd"
+    "Unique Entry ID": "uWKchyhWgNxTxDikd",
+    "Url": "=FORMULATEXT(B106)"
   },
   {
     "SourceSheet": "Floors",
@@ -2965,7 +3070,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorZeldaForest00",
     "Internal ID": 1067,
-    "Unique Entry ID": "t3EDeEyyMugksnpvP"
+    "Unique Entry ID": "t3EDeEyyMugksnpvP",
+    "Url": "=FORMULATEXT(B107)"
   },
   {
     "SourceSheet": "Floors",
@@ -2993,7 +3099,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorVolcano00",
     "Internal ID": 5274,
-    "Unique Entry ID": "uT9YnwivAEZ938FKB"
+    "Unique Entry ID": "uT9YnwivAEZ938FKB",
+    "Url": "=FORMULATEXT(B108)"
   },
   {
     "SourceSheet": "Floors",
@@ -3021,7 +3128,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorAnimal00",
     "Internal ID": 4959,
-    "Unique Entry ID": "GsWLFhWAiRsNrY2XC"
+    "Unique Entry ID": "GsWLFhWAiRsNrY2XC",
+    "Url": "=FORMULATEXT(B109)"
   },
   {
     "SourceSheet": "Floors",
@@ -3049,7 +3157,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHerringbone00",
     "Internal ID": 5061,
-    "Unique Entry ID": "GQXNBcZoQRYRyRYGP"
+    "Unique Entry ID": "GQXNBcZoQRYRyRYGP",
+    "Url": "=FORMULATEXT(B110)"
   },
   {
     "SourceSheet": "Floors",
@@ -3077,7 +3186,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCountry00",
     "Internal ID": 5022,
-    "Unique Entry ID": "HqokjwEnZtgcjNSgH"
+    "Unique Entry ID": "HqokjwEnZtgcjNSgH",
+    "Url": "=FORMULATEXT(B111)"
   },
   {
     "SourceSheet": "Floors",
@@ -3105,7 +3215,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSimpleParquet00",
     "Internal ID": 4991,
-    "Unique Entry ID": "osG5BdoAX86kEitnu"
+    "Unique Entry ID": "osG5BdoAX86kEitnu",
+    "Url": "=FORMULATEXT(B112)"
   },
   {
     "SourceSheet": "Floors",
@@ -3133,7 +3244,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorLobby00",
     "Internal ID": 5034,
-    "Unique Entry ID": "nQCnxLKNXAQ7JqtyB"
+    "Unique Entry ID": "nQCnxLKNXAQ7JqtyB",
+    "Url": "=FORMULATEXT(B113)"
   },
   {
     "SourceSheet": "Floors",
@@ -3161,7 +3273,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorLunar00",
     "Internal ID": 4968,
-    "Unique Entry ID": "n8j4WToan9efgnJDM"
+    "Unique Entry ID": "n8j4WToan9efgnJDM",
+    "Url": "=FORMULATEXT(B114)"
   },
   {
     "SourceSheet": "Floors",
@@ -3189,7 +3302,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorMagic00",
     "Internal ID": 5249,
-    "Unique Entry ID": "FYM36HDEkeCpEfhBa"
+    "Unique Entry ID": "FYM36HDEkeCpEfhBa",
+    "Url": "=FORMULATEXT(B115)"
   },
   {
     "SourceSheet": "Floors",
@@ -3217,7 +3331,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorFishPop00",
     "Internal ID": 5024,
-    "Unique Entry ID": "yajaXefi94Mx32KAy"
+    "Unique Entry ID": "yajaXefi94Mx32KAy",
+    "Url": "=FORMULATEXT(B116)"
   },
   {
     "SourceSheet": "Floors",
@@ -3245,7 +3360,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorMermaid00",
     "Internal ID": 12568,
-    "Unique Entry ID": "XLgLk68xXpgf344N2"
+    "Unique Entry ID": "XLgLk68xXpgf344N2",
+    "Url": "=FORMULATEXT(B117)"
   },
   {
     "SourceSheet": "Floors",
@@ -3273,7 +3389,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDot01",
     "Internal ID": 5026,
-    "Unique Entry ID": "CCEfvKqoZ7TQXWFqM"
+    "Unique Entry ID": "CCEfvKqoZ7TQXWFqM",
+    "Url": "=FORMULATEXT(B118)"
   },
   {
     "SourceSheet": "Floors",
@@ -3301,7 +3418,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorLego01",
     "Internal ID": 1294,
-    "Unique Entry ID": "e5z4rueoCDPf5x8Bq"
+    "Unique Entry ID": "e5z4rueoCDPf5x8Bq",
+    "Url": "=FORMULATEXT(B119)"
   },
   {
     "SourceSheet": "Floors",
@@ -3329,7 +3447,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMixwood00",
     "Internal ID": 5044,
-    "Unique Entry ID": "jBLBPkiSgmkL52L5n"
+    "Unique Entry ID": "jBLBPkiSgmkL52L5n",
+    "Url": "=FORMULATEXT(B120)"
   },
   {
     "SourceSheet": "Floors",
@@ -3357,7 +3476,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBill00",
     "Internal ID": 4986,
-    "Unique Entry ID": "M9tBbGtQcTpPWCGeQ"
+    "Unique Entry ID": "M9tBbGtQcTpPWCGeQ",
+    "Url": "=FORMULATEXT(B121)"
   },
   {
     "SourceSheet": "Floors",
@@ -3385,7 +3505,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDot00",
     "Internal ID": 5023,
-    "Unique Entry ID": "CJ6ukTuEqDXvFx5kM"
+    "Unique Entry ID": "CJ6ukTuEqDXvFx5kM",
+    "Url": "=FORMULATEXT(B122)"
   },
   {
     "SourceSheet": "Floors",
@@ -3413,7 +3534,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPanel00",
     "Internal ID": 5067,
-    "Unique Entry ID": "wyRDyuntjJqsgxEvz"
+    "Unique Entry ID": "wyRDyuntjJqsgxEvz",
+    "Url": "=FORMULATEXT(B123)"
   },
   {
     "SourceSheet": "Floors",
@@ -3441,7 +3563,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMoroccanSquareTile00",
     "Internal ID": 13604,
-    "Unique Entry ID": "ERbAkRNcFf6HTN4qj"
+    "Unique Entry ID": "ERbAkRNcFf6HTN4qj",
+    "Url": "=FORMULATEXT(B124)"
   },
   {
     "SourceSheet": "Floors",
@@ -3469,7 +3592,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMoss00",
     "Internal ID": 5234,
-    "Unique Entry ID": "3KGLDP2eT6i3A7jaw"
+    "Unique Entry ID": "3KGLDP2eT6i3A7jaw",
+    "Url": "=FORMULATEXT(B125)"
   },
   {
     "SourceSheet": "Floors",
@@ -3497,7 +3621,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMymelody00",
     "Internal ID": 10180,
-    "Unique Entry ID": "gQahtXiTawZejarKm"
+    "Unique Entry ID": "gQahtXiTawZejarKm",
+    "Url": "=FORMULATEXT(B126)"
   },
   {
     "SourceSheet": "Floors",
@@ -3525,7 +3650,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorClassroom00",
     "Internal ID": 12852,
-    "Unique Entry ID": "EHNhGbKdG4gM8E6mT"
+    "Unique Entry ID": "EHNhGbKdG4gM8E6mT",
+    "Url": "=FORMULATEXT(B127)"
   },
   {
     "SourceSheet": "Floors",
@@ -3553,7 +3679,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorParquet00",
     "Internal ID": 5033,
-    "Unique Entry ID": "BaHnYrekt2ngfWeCQ"
+    "Unique Entry ID": "BaHnYrekt2ngfWeCQ",
+    "Url": "=FORMULATEXT(B128)"
   },
   {
     "SourceSheet": "Floors",
@@ -3581,7 +3708,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorFirst00",
     "Internal ID": 6005,
-    "Unique Entry ID": "tHvrMW72TDM3ezhRx"
+    "Unique Entry ID": "tHvrMW72TDM3ezhRx",
+    "Url": "=FORMULATEXT(B129)"
   },
   {
     "SourceSheet": "Floors",
@@ -3609,7 +3737,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorOasis00",
     "Internal ID": 5255,
-    "Unique Entry ID": "Apr3HrqodwkiBk5ZQ"
+    "Unique Entry ID": "Apr3HrqodwkiBk5ZQ",
+    "Url": "=FORMULATEXT(B130)"
   },
   {
     "SourceSheet": "Floors",
@@ -3637,7 +3766,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorOldBoard00",
     "Internal ID": 13484,
-    "Unique Entry ID": "YuEieHpCKRmQDpwA4"
+    "Unique Entry ID": "YuEieHpCKRmQDpwA4",
+    "Url": "=FORMULATEXT(B131)"
   },
   {
     "SourceSheet": "Floors",
@@ -3665,7 +3795,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorLabo00",
     "Internal ID": 12730,
-    "Unique Entry ID": "kH7PZmDTJNBXyC8DW"
+    "Unique Entry ID": "kH7PZmDTJNBXyC8DW",
+    "Url": "=FORMULATEXT(B132)"
   },
   {
     "SourceSheet": "Floors",
@@ -3693,7 +3824,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMorocco03",
     "Internal ID": 6928,
-    "Unique Entry ID": "LwaiMzRi8kw2Xw35j"
+    "Unique Entry ID": "LwaiMzRi8kw2Xw35j",
+    "Url": "=FORMULATEXT(B133)"
   },
   {
     "SourceSheet": "Floors",
@@ -3721,7 +3853,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorOperatingRoom00",
     "Internal ID": 12729,
-    "Unique Entry ID": "jbeZwwgpTpcNp4nMB"
+    "Unique Entry ID": "jbeZwwgpTpcNp4nMB",
+    "Url": "=FORMULATEXT(B134)"
   },
   {
     "SourceSheet": "Floors",
@@ -3749,7 +3882,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCamouflage03",
     "Internal ID": 6845,
-    "Unique Entry ID": "e2cw6YYcpWZdfH38F"
+    "Unique Entry ID": "e2cw6YYcpWZdfH38F",
+    "Url": "=FORMULATEXT(B135)"
   },
   {
     "SourceSheet": "Floors",
@@ -3777,7 +3911,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorKitchen00",
     "Internal ID": 5043,
-    "Unique Entry ID": "GpDHr3gHCZSrK5bfx"
+    "Unique Entry ID": "GpDHr3gHCZSrK5bfx",
+    "Url": "=FORMULATEXT(B136)"
   },
   {
     "SourceSheet": "Floors",
@@ -3805,7 +3940,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorAtelier00",
     "Internal ID": 4988,
-    "Unique Entry ID": "vC2oYRMxbZXYazKYW"
+    "Unique Entry ID": "vC2oYRMxbZXYazKYW",
+    "Url": "=FORMULATEXT(B137)"
   },
   {
     "SourceSheet": "Floors",
@@ -3833,7 +3969,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPalace00",
     "Internal ID": 5051,
-    "Unique Entry ID": "ZBN9trZ7YTDgN5z3Y"
+    "Unique Entry ID": "ZBN9trZ7YTDgN5z3Y",
+    "Url": "=FORMULATEXT(B138)"
   },
   {
     "SourceSheet": "Floors",
@@ -3861,7 +3998,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorGoldRich00",
     "Internal ID": 13026,
-    "Unique Entry ID": "r4w8gQhhJty9bm7xR"
+    "Unique Entry ID": "r4w8gQhhJty9bm7xR",
+    "Url": "=FORMULATEXT(B139)"
   },
   {
     "SourceSheet": "Floors",
@@ -3889,7 +4027,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorParking00",
     "Internal ID": 4997,
-    "Unique Entry ID": "Lx2JZuP8F6xS28PPG"
+    "Unique Entry ID": "Lx2JZuP8F6xS28PPG",
+    "Url": "=FORMULATEXT(B140)"
   },
   {
     "SourceSheet": "Floors",
@@ -3917,7 +4056,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorParty00",
     "Internal ID": 5241,
-    "Unique Entry ID": "8vy7YrhEnTpt8GjWT"
+    "Unique Entry ID": "8vy7YrhEnTpt8GjWT",
+    "Url": "=FORMULATEXT(B141)"
   },
   {
     "SourceSheet": "Floors",
@@ -3945,7 +4085,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPuzzleMat00",
     "Internal ID": 4956,
-    "Unique Entry ID": "nGtvPzJvdJb5xmQo8"
+    "Unique Entry ID": "nGtvPzJvdJb5xmQo8",
+    "Url": "=FORMULATEXT(B142)"
   },
   {
     "SourceSheet": "Floors",
@@ -3973,7 +4114,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPatchworkTile00",
     "Internal ID": 4995,
-    "Unique Entry ID": "hCAe3badxv5faWwGE"
+    "Unique Entry ID": "hCAe3badxv5faWwGE",
+    "Url": "=FORMULATEXT(B143)"
   },
   {
     "SourceSheet": "Floors",
@@ -4001,7 +4143,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHospitalRoom00",
     "Internal ID": 12726,
-    "Unique Entry ID": "FErNxHjdPBPz7KarF"
+    "Unique Entry ID": "FErNxHjdPBPz7KarF",
+    "Url": "=FORMULATEXT(B144)"
   },
   {
     "SourceSheet": "Floors",
@@ -4029,7 +4172,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSimple00",
     "Internal ID": 5019,
-    "Unique Entry ID": "B3GmKqXBaKNeugExA"
+    "Unique Entry ID": "B3GmKqXBaKNeugExA",
+    "Url": "=FORMULATEXT(B145)"
   },
   {
     "SourceSheet": "Floors",
@@ -4057,7 +4201,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPaintWood02",
     "Internal ID": 5059,
-    "Unique Entry ID": "wXCN3tKY2rDen6D6s"
+    "Unique Entry ID": "wXCN3tKY2rDen6D6s",
+    "Url": "=FORMULATEXT(B146)"
   },
   {
     "SourceSheet": "Floors",
@@ -4085,7 +4230,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPirates00",
     "Internal ID": 12569,
-    "Unique Entry ID": "RaD6jMvqDehvYkgSg"
+    "Unique Entry ID": "RaD6jMvqDehvYkgSg",
+    "Url": "=FORMULATEXT(B147)"
   },
   {
     "SourceSheet": "Floors",
@@ -4113,7 +4259,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPurin00",
     "Internal ID": 10181,
-    "Unique Entry ID": "cr9Y5i6W3Yk5d6P4K"
+    "Unique Entry ID": "cr9Y5i6W3Yk5d6P4K",
+    "Url": "=FORMULATEXT(B148)"
   },
   {
     "SourceSheet": "Floors",
@@ -4141,7 +4288,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBallroom00",
     "Internal ID": 14253,
-    "Unique Entry ID": "WacHEETZv7joBaD49"
+    "Unique Entry ID": "WacHEETZv7joBaD49",
+    "Url": "=FORMULATEXT(B149)"
   },
   {
     "SourceSheet": "Floors",
@@ -4169,7 +4317,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCamouflage02",
     "Internal ID": 5017,
-    "Unique Entry ID": "JZ5JuDTqYYu8PQZrJ"
+    "Unique Entry ID": "JZ5JuDTqYYu8PQZrJ",
+    "Url": "=FORMULATEXT(B150)"
   },
   {
     "SourceSheet": "Floors",
@@ -4197,7 +4346,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMorocco02",
     "Internal ID": 6927,
-    "Unique Entry ID": "4e7h4ZuzEKJb5ua3v"
+    "Unique Entry ID": "4e7h4ZuzEKJb5ua3v",
+    "Url": "=FORMULATEXT(B151)"
   },
   {
     "SourceSheet": "Floors",
@@ -4225,7 +4375,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPuzzleMat03",
     "Internal ID": 7185,
-    "Unique Entry ID": "xi7QC9EcD34PNSdzt"
+    "Unique Entry ID": "xi7QC9EcD34PNSdzt",
+    "Url": "=FORMULATEXT(B152)"
   },
   {
     "SourceSheet": "Floors",
@@ -4253,7 +4404,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorEgypt00",
     "Internal ID": 5054,
-    "Unique Entry ID": "kcHqZKGAjAwFcQxNg"
+    "Unique Entry ID": "kcHqZKGAjAwFcQxNg",
+    "Url": "=FORMULATEXT(B153)"
   },
   {
     "SourceSheet": "Floors",
@@ -4281,7 +4433,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorAthletics00",
     "Internal ID": 4996,
-    "Unique Entry ID": "QDiAF633q7ohZqqTK"
+    "Unique Entry ID": "QDiAF633q7ohZqqTK",
+    "Url": "=FORMULATEXT(B154)"
   },
   {
     "SourceSheet": "Floors",
@@ -4309,7 +4462,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRuins00",
     "Internal ID": 5240,
-    "Unique Entry ID": "tx4WSnBkFsrJZHe7b"
+    "Unique Entry ID": "tx4WSnBkFsrJZHe7b",
+    "Url": "=FORMULATEXT(B155)"
   },
   {
     "SourceSheet": "Floors",
@@ -4337,7 +4491,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSquareTile00",
     "Internal ID": 4973,
-    "Unique Entry ID": "3GqKtZdottDaNdNvP"
+    "Unique Entry ID": "3GqKtZdottDaNdNvP",
+    "Url": "=FORMULATEXT(B156)"
   },
   {
     "SourceSheet": "Floors",
@@ -4365,7 +4520,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRattan00",
     "Internal ID": 4967,
-    "Unique Entry ID": "C5WxH5ZD5LcXeGL56"
+    "Unique Entry ID": "C5WxH5ZD5LcXeGL56",
+    "Url": "=FORMULATEXT(B157)"
   },
   {
     "SourceSheet": "Floors",
@@ -4393,7 +4549,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDot02",
     "Internal ID": 5027,
-    "Unique Entry ID": "RRjt2eaLkEJv9Hk6W"
+    "Unique Entry ID": "RRjt2eaLkEJv9Hk6W",
+    "Url": "=FORMULATEXT(B158)"
   },
   {
     "SourceSheet": "Floors",
@@ -4421,7 +4578,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTileChecker01",
     "Internal ID": 5047,
-    "Unique Entry ID": "y9Bcpqd5GNvw29DbR"
+    "Unique Entry ID": "y9Bcpqd5GNvw29DbR",
+    "Url": "=FORMULATEXT(B159)"
   },
   {
     "SourceSheet": "Floors",
@@ -4449,7 +4607,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBrick01",
     "Internal ID": 4975,
-    "Unique Entry ID": "tknYxCq8ztLx7Tibi"
+    "Unique Entry ID": "tknYxCq8ztLx7Tibi",
+    "Url": "=FORMULATEXT(B160)"
   },
   {
     "SourceSheet": "Floors",
@@ -4477,7 +4636,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCookery00",
     "Internal ID": 12915,
-    "Unique Entry ID": "HwfcevySwq687Symt"
+    "Unique Entry ID": "HwfcevySwq687Symt",
+    "Url": "=FORMULATEXT(B161)"
   },
   {
     "SourceSheet": "Floors",
@@ -4505,7 +4665,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRobo00",
     "Internal ID": 5072,
-    "Unique Entry ID": "CiGQrSFNxZcfEFtBh"
+    "Unique Entry ID": "CiGQrSFNxZcfEFtBh",
+    "Url": "=FORMULATEXT(B162)"
   },
   {
     "SourceSheet": "Floors",
@@ -4533,7 +4694,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRock00",
     "Internal ID": 5239,
-    "Unique Entry ID": "BKwXAcy5Q9mW2GJkH"
+    "Unique Entry ID": "BKwXAcy5Q9mW2GJkH",
+    "Url": "=FORMULATEXT(B163)"
   },
   {
     "SourceSheet": "Floors",
@@ -4561,7 +4723,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorSketch00",
     "Internal ID": 14897,
-    "Unique Entry ID": "hWZn7wcpwD4BGZw2c"
+    "Unique Entry ID": "hWZn7wcpwD4BGZw2c",
+    "Url": "=FORMULATEXT(B164)"
   },
   {
     "SourceSheet": "Floors",
@@ -4589,7 +4752,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorRopenet00",
     "Internal ID": 13880,
-    "Unique Entry ID": "83n3sq2mysXuXmMju"
+    "Unique Entry ID": "83n3sq2mysXuXmMju",
+    "Url": "=FORMULATEXT(B165)"
   },
   {
     "SourceSheet": "Floors",
@@ -4617,7 +4781,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRoseCarpet00",
     "Internal ID": 4958,
-    "Unique Entry ID": "5vGSvnYMFe4A5LRte"
+    "Unique Entry ID": "5vGSvnYMFe4A5LRte",
+    "Url": "=FORMULATEXT(B166)"
   },
   {
     "SourceSheet": "Floors",
@@ -4645,7 +4810,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRoseWood00",
     "Internal ID": 5063,
-    "Unique Entry ID": "jA7bCaTtZq6Z2r4gr"
+    "Unique Entry ID": "jA7bCaTtZq6Z2r4gr",
+    "Url": "=FORMULATEXT(B167)"
   },
   {
     "SourceSheet": "Floors",
@@ -4673,7 +4839,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorRubberTile00",
     "Internal ID": 5163,
-    "Unique Entry ID": "YiBqEKfe7i4EuseqS"
+    "Unique Entry ID": "YiBqEKfe7i4EuseqS",
+    "Url": "=FORMULATEXT(B168)"
   },
   {
     "SourceSheet": "Floors",
@@ -4701,7 +4868,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTatami01",
     "Internal ID": 5079,
-    "Unique Entry ID": "rnwpHPKqefSS5Hhz8"
+    "Unique Entry ID": "rnwpHPKqefSS5Hhz8",
+    "Url": "=FORMULATEXT(B169)"
   },
   {
     "SourceSheet": "Floors",
@@ -4729,7 +4897,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTatamiPanel01",
     "Internal ID": 5078,
-    "Unique Entry ID": "CYDJXEYacE5fPeLYJ"
+    "Unique Entry ID": "CYDJXEYacE5fPeLYJ",
+    "Url": "=FORMULATEXT(B170)"
   },
   {
     "SourceSheet": "Floors",
@@ -4757,7 +4926,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDesert00",
     "Internal ID": 4983,
-    "Unique Entry ID": "7cH3CsBAarxRhAkZ5"
+    "Unique Entry ID": "7cH3CsBAarxRhAkZ5",
+    "Url": "=FORMULATEXT(B171)"
   },
   {
     "SourceSheet": "Floors",
@@ -4785,7 +4955,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSolidWood00",
     "Internal ID": 5056,
-    "Unique Entry ID": "QB6ZXiQbMQ6iWexQm"
+    "Unique Entry ID": "QB6ZXiQbMQ6iWexQm",
+    "Url": "=FORMULATEXT(B172)"
   },
   {
     "SourceSheet": "Floors",
@@ -4813,7 +4984,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorEmptyLot00",
     "Internal ID": 4985,
-    "Unique Entry ID": "HZM5De52k9N4E3iei"
+    "Unique Entry ID": "HZM5De52k9N4E3iei",
+    "Url": "=FORMULATEXT(B173)"
   },
   {
     "SourceSheet": "Floors",
@@ -4841,7 +5013,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSand00",
     "Internal ID": 4970,
-    "Unique Entry ID": "tDrdWs28RgvnyTMNC"
+    "Unique Entry ID": "tDrdWs28RgvnyTMNC",
+    "Url": "=FORMULATEXT(B174)"
   },
   {
     "SourceSheet": "Floors",
@@ -4869,7 +5042,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorSF00",
     "Internal ID": 5270,
-    "Unique Entry ID": "NAEGL6s5arLj9y2ku"
+    "Unique Entry ID": "NAEGL6s5arLj9y2ku",
+    "Url": "=FORMULATEXT(B175)"
   },
   {
     "SourceSheet": "Floors",
@@ -4897,7 +5071,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorScramble00",
     "Internal ID": 5010,
-    "Unique Entry ID": "EHdRo9mbi9QhCtdYN"
+    "Unique Entry ID": "EHdRo9mbi9QhCtdYN",
+    "Url": "=FORMULATEXT(B176)"
   },
   {
     "SourceSheet": "Floors",
@@ -4925,7 +5100,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPuzzleMat02",
     "Internal ID": 7184,
-    "Unique Entry ID": "ND2rTCs7dZjKiGXjC"
+    "Unique Entry ID": "ND2rTCs7dZjKiGXjC",
+    "Url": "=FORMULATEXT(B177)"
   },
   {
     "SourceSheet": "Floors",
@@ -4953,7 +5129,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSeaView00",
     "Internal ID": 4950,
-    "Unique Entry ID": "X9tRZEzQMKRKd5rnz"
+    "Unique Entry ID": "X9tRZEzQMKRKd5rnz",
+    "Url": "=FORMULATEXT(B178)"
   },
   {
     "SourceSheet": "Floors",
@@ -4981,7 +5158,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSidewalk01",
     "Internal ID": 5008,
-    "Unique Entry ID": "3FteXxettQm7iZF2p"
+    "Unique Entry ID": "3FteXxettQm7iZF2p",
+    "Url": "=FORMULATEXT(B179)"
   },
   {
     "SourceSheet": "Floors",
@@ -5009,7 +5187,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSimpleCarpet01",
     "Internal ID": 5001,
-    "Unique Entry ID": "JKvF62fyqF6Pg9igx"
+    "Unique Entry ID": "JKvF62fyqF6Pg9igx",
+    "Url": "=FORMULATEXT(B180)"
   },
   {
     "SourceSheet": "Floors",
@@ -5037,7 +5216,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSimpleCarpet03",
     "Internal ID": 5003,
-    "Unique Entry ID": "qn6BKtgHm5tmoDtAG"
+    "Unique Entry ID": "qn6BKtgHm5tmoDtAG",
+    "Url": "=FORMULATEXT(B181)"
   },
   {
     "SourceSheet": "Floors",
@@ -5065,7 +5245,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSimpleCarpet00",
     "Internal ID": 5000,
-    "Unique Entry ID": "5WEw368jE8FK9LcPa"
+    "Unique Entry ID": "5WEw368jE8FK9LcPa",
+    "Url": "=FORMULATEXT(B182)"
   },
   {
     "SourceSheet": "Floors",
@@ -5093,7 +5274,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSimpleCarpet04",
     "Internal ID": 5004,
-    "Unique Entry ID": "RwMEDYWk9YBgrtXmY"
+    "Unique Entry ID": "RwMEDYWk9YBgrtXmY",
+    "Url": "=FORMULATEXT(B183)"
   },
   {
     "SourceSheet": "Floors",
@@ -5121,7 +5303,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorGelande00",
     "Internal ID": 4989,
-    "Unique Entry ID": "NpqGszuaZckXifyju"
+    "Unique Entry ID": "NpqGszuaZckXifyju",
+    "Url": "=FORMULATEXT(B184)"
   },
   {
     "SourceSheet": "Floors",
@@ -5149,7 +5332,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSkull00",
     "Internal ID": 5248,
-    "Unique Entry ID": "Ghp5z68RNmKQDDCzz"
+    "Unique Entry ID": "Ghp5z68RNmKQDDCzz",
+    "Url": "=FORMULATEXT(B185)"
   },
   {
     "SourceSheet": "Floors",
@@ -5177,7 +5361,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSlate00",
     "Internal ID": 5233,
-    "Unique Entry ID": "hchG9hWK9Ci3iXzTN"
+    "Unique Entry ID": "hchG9hWK9Ci3iXzTN",
+    "Url": "=FORMULATEXT(B186)"
   },
   {
     "SourceSheet": "Floors",
@@ -5205,7 +5390,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHalloween00",
     "Internal ID": 13225,
-    "Unique Entry ID": "ks8i6hhQTyBktaRoR"
+    "Unique Entry ID": "ks8i6hhQTyBktaRoR",
+    "Url": "=FORMULATEXT(B187)"
   },
   {
     "SourceSheet": "Floors",
@@ -5233,7 +5419,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSandStar00",
     "Internal ID": 7239,
-    "Unique Entry ID": "54Jcui933sPTvdqXY"
+    "Unique Entry ID": "54Jcui933sPTvdqXY",
+    "Url": "=FORMULATEXT(B188)"
   },
   {
     "SourceSheet": "Floors",
@@ -5261,7 +5448,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSteampunk00",
     "Internal ID": 5055,
-    "Unique Entry ID": "SyR2wuY2NxNTGC5Z5"
+    "Unique Entry ID": "SyR2wuY2NxNTGC5Z5",
+    "Url": "=FORMULATEXT(B189)"
   },
   {
     "SourceSheet": "Floors",
@@ -5289,7 +5477,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorSteel00",
     "Internal ID": 4960,
-    "Unique Entry ID": "nYi4jRsp3MXrnPPDR"
+    "Unique Entry ID": "nYi4jRsp3MXrnPPDR",
+    "Url": "=FORMULATEXT(B190)"
   },
   {
     "SourceSheet": "Floors",
@@ -5317,7 +5506,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMarble00",
     "Internal ID": 5069,
-    "Unique Entry ID": "RNMhc9jJApavmhgPC"
+    "Unique Entry ID": "RNMhc9jJApavmhgPC",
+    "Url": "=FORMULATEXT(B191)"
   },
   {
     "SourceSheet": "Floors",
@@ -5345,7 +5535,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorStripe00",
     "Internal ID": 4963,
-    "Unique Entry ID": "5CY9wQTePbYzQTDF2"
+    "Unique Entry ID": "5CY9wQTePbYzQTDF2",
+    "Url": "=FORMULATEXT(B192)"
   },
   {
     "SourceSheet": "Floors",
@@ -5373,7 +5564,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorArena00",
     "Internal ID": 5013,
-    "Unique Entry ID": "qKfY2Nnx5ApBzgGEF"
+    "Unique Entry ID": "qKfY2Nnx5ApBzgGEF",
+    "Url": "=FORMULATEXT(B193)"
   },
   {
     "SourceSheet": "Floors",
@@ -5401,7 +5593,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBog00",
     "Internal ID": 5238,
-    "Unique Entry ID": "vTPvWC9bkZyeP7BxS"
+    "Unique Entry ID": "vTPvWC9bkZyeP7BxS",
+    "Url": "=FORMULATEXT(B194)"
   },
   {
     "SourceSheet": "Floors",
@@ -5429,7 +5622,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTatami00",
     "Internal ID": 5039,
-    "Unique Entry ID": "jdcZQ9LCDoroeYKws"
+    "Unique Entry ID": "jdcZQ9LCDoroeYKws",
+    "Url": "=FORMULATEXT(B195)"
   },
   {
     "SourceSheet": "Floors",
@@ -5457,7 +5651,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTatamiPanel00",
     "Internal ID": 5077,
-    "Unique Entry ID": "Qo5nLhbZ7iD5JLP4Z"
+    "Unique Entry ID": "Qo5nLhbZ7iD5JLP4Z",
+    "Url": "=FORMULATEXT(B196)"
   },
   {
     "SourceSheet": "Floors",
@@ -5485,7 +5680,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorGlamping00",
     "Internal ID": 13485,
-    "Unique Entry ID": "7FeE8tYxwSiqgxZHf"
+    "Unique Entry ID": "7FeE8tYxwSiqgxZHf",
+    "Url": "=FORMULATEXT(B197)"
   },
   {
     "SourceSheet": "Floors",
@@ -5513,7 +5709,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTileTerracotta00",
     "Internal ID": 4971,
-    "Unique Entry ID": "Ec8TrwurFcmQKi4CZ"
+    "Unique Entry ID": "Ec8TrwurFcmQKi4CZ",
+    "Url": "=FORMULATEXT(B198)"
   },
   {
     "SourceSheet": "Floors",
@@ -5541,7 +5738,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorAnimal03",
     "Internal ID": 6848,
-    "Unique Entry ID": "uz5PotSZqNAT5kgtT"
+    "Unique Entry ID": "uz5PotSZqNAT5kgtT",
+    "Url": "=FORMULATEXT(B199)"
   },
   {
     "SourceSheet": "Floors",
@@ -5569,7 +5767,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPlatform00",
     "Internal ID": 5009,
-    "Unique Entry ID": "khwvshrYhvaL9FPsC"
+    "Unique Entry ID": "khwvshrYhvaL9FPsC",
+    "Url": "=FORMULATEXT(B200)"
   },
   {
     "SourceSheet": "Floors",
@@ -5597,7 +5796,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorSplatoon00",
     "Internal ID": 1148,
-    "Unique Entry ID": "Ewj9xw2WErfnZcZw5"
+    "Unique Entry ID": "Ewj9xw2WErfnZcZw5",
+    "Url": "=FORMULATEXT(B201)"
   },
   {
     "SourceSheet": "Floors",
@@ -5625,7 +5825,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHarvest00",
     "Internal ID": 13319,
-    "Unique Entry ID": "J6iDTBzZXQkNMqLTC"
+    "Unique Entry ID": "J6iDTBzZXQkNMqLTC",
+    "Url": "=FORMULATEXT(B202)"
   },
   {
     "SourceSheet": "Floors",
@@ -5653,7 +5854,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorFishTank00",
     "Internal ID": 5268,
-    "Unique Entry ID": "bGowh78amRY7uJsYE"
+    "Unique Entry ID": "bGowh78amRY7uJsYE",
+    "Url": "=FORMULATEXT(B203)"
   },
   {
     "SourceSheet": "Floors",
@@ -5681,7 +5883,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomSpFloorWater00",
     "Internal ID": 5030,
-    "Unique Entry ID": "opJSK2mkCqkBRQTW3"
+    "Unique Entry ID": "opJSK2mkCqkBRQTW3",
+    "Url": "=FORMULATEXT(B204)"
   },
   {
     "SourceSheet": "Floors",
@@ -5709,7 +5912,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorWilderness00",
     "Internal ID": 4984,
-    "Unique Entry ID": "24mkYXzRGCvGibXQ9"
+    "Unique Entry ID": "24mkYXzRGCvGibXQ9",
+    "Url": "=FORMULATEXT(B205)"
   },
   {
     "SourceSheet": "Floors",
@@ -5737,7 +5941,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorHoneycomb03",
     "Internal ID": 5042,
-    "Unique Entry ID": "RKrRAgjoevjYsLwTp"
+    "Unique Entry ID": "RKrRAgjoevjYsLwTp",
+    "Url": "=FORMULATEXT(B206)"
   },
   {
     "SourceSheet": "Floors",
@@ -5765,7 +5970,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorParquetIron03",
     "Internal ID": 6843,
-    "Unique Entry ID": "ZFAq3rRLCCRRgAcF7"
+    "Unique Entry ID": "ZFAq3rRLCCRRgAcF7",
+    "Url": "=FORMULATEXT(B207)"
   },
   {
     "SourceSheet": "Floors",
@@ -5793,7 +5999,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorTile00",
     "Internal ID": 5020,
-    "Unique Entry ID": "23nmmfSJ7pvKyeuFZ"
+    "Unique Entry ID": "23nmmfSJ7pvKyeuFZ",
+    "Url": "=FORMULATEXT(B208)"
   },
   {
     "SourceSheet": "Floors",
@@ -5821,7 +6028,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorMarbleTile00",
     "Internal ID": 12431,
-    "Unique Entry ID": "GYZ8kvbfYK7i2NcvT"
+    "Unique Entry ID": "GYZ8kvbfYK7i2NcvT",
+    "Url": "=FORMULATEXT(B209)"
   },
   {
     "SourceSheet": "Floors",
@@ -5849,7 +6057,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorBrick00",
     "Internal ID": 4974,
-    "Unique Entry ID": "83vQYs26vwE7aa4bZ"
+    "Unique Entry ID": "83vQYs26vwE7aa4bZ",
+    "Url": "=FORMULATEXT(B210)"
   },
   {
     "SourceSheet": "Floors",
@@ -5877,7 +6086,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorChocolate01",
     "Internal ID": 5052,
-    "Unique Entry ID": "b2WBXQkcAqfJ48RH3"
+    "Unique Entry ID": "b2WBXQkcAqfJ48RH3",
+    "Url": "=FORMULATEXT(B211)"
   },
   {
     "SourceSheet": "Floors",
@@ -5905,7 +6115,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorPaintWood03",
     "Internal ID": 5060,
-    "Unique Entry ID": "JdnrGbAMW7FBxrw5P"
+    "Unique Entry ID": "JdnrGbAMW7FBxrw5P",
+    "Url": "=FORMULATEXT(B212)"
   },
   {
     "SourceSheet": "Floors",
@@ -5933,7 +6144,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorGrassland01",
     "Internal ID": 5006,
-    "Unique Entry ID": "dYb6DAfZQJTGN7svs"
+    "Unique Entry ID": "dYb6DAfZQJTGN7svs",
+    "Url": "=FORMULATEXT(B213)"
   },
   {
     "SourceSheet": "Floors",
@@ -5961,7 +6173,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorCedar00",
     "Internal ID": 5049,
-    "Unique Entry ID": "ttyLLQ39Dc3fK32JE"
+    "Unique Entry ID": "ttyLLQ39Dc3fK32JE",
+    "Url": "=FORMULATEXT(B214)"
   },
   {
     "SourceSheet": "Floors",
@@ -5989,7 +6202,8 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorDecoWood00",
     "Internal ID": 5073,
-    "Unique Entry ID": "R69sMEPHQGu7fBzuQ"
+    "Unique Entry ID": "R69sMEPHQGu7fBzuQ",
+    "Url": "=FORMULATEXT(B215)"
   },
   {
     "SourceSheet": "Floors",
@@ -6017,6 +6231,7 @@
     "Unlocked?": "Yes",
     "Filename": "RoomTexFloorAnimal02",
     "Internal ID": 4962,
-    "Unique Entry ID": "9Mdszd5EgwJ6omLPf"
+    "Unique Entry ID": "9Mdszd5EgwJ6omLPf",
+    "Url": "=FORMULATEXT(B216)"
   }
 ]

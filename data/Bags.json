@@ -70,6 +70,8 @@
         "clothGroupId": 1490,
         "internalId": 14859,
         "uniqueEntryId": "JEshZRB4MsJjn6qR7",
+        "url": "=FORMULATEXT(B5)",
+        "url2": "=FORMULATEXT(C5)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -102,6 +104,8 @@
         "clothGroupId": 1490,
         "internalId": 352,
         "uniqueEntryId": "HQ2Lj5h3pYiKavNAp",
+        "url": "=FORMULATEXT(B6)",
+        "url2": "=FORMULATEXT(C6)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -154,6 +158,8 @@
     "clothGroupId": 1203,
     "internalId": 12447,
     "uniqueEntryId": "YGofzAZknSTYWmfWM",
+    "url": "=FORMULATEXT(B23)",
+    "url2": "=FORMULATEXT(C23)",
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -414,6 +420,8 @@
     "clothGroupId": 1185,
     "internalId": 12131,
     "uniqueEntryId": "3mGmqSPj5YPujiDgD",
+    "url": "=FORMULATEXT(B53)",
+    "url2": "=FORMULATEXT(C53)",
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -551,6 +559,8 @@
         "clothGroupId": 999,
         "internalId": 12153,
         "uniqueEntryId": "E3XrB5LbBTu795xbM",
+        "url": "=FORMULATEXT(B140)",
+        "url2": "=FORMULATEXT(C140)",
         "variantTranslations": {
           "eUde": "Wald",
           "eUen": "Forest print",
@@ -583,6 +593,8 @@
         "clothGroupId": 999,
         "internalId": 12148,
         "uniqueEntryId": "gqy4s4zFowLbNKTd2",
+        "url": "=FORMULATEXT(B141)",
+        "url2": "=FORMULATEXT(C141)",
         "variantTranslations": {
           "eUde": "Blumen",
           "eUen": "Flowers",
@@ -615,6 +627,8 @@
         "clothGroupId": 999,
         "internalId": 12149,
         "uniqueEntryId": "Hkju8Bjb8Kaamsu3j",
+        "url": "=FORMULATEXT(B142)",
+        "url2": "=FORMULATEXT(C142)",
         "variantTranslations": {
           "eUde": "Pünktchen",
           "eUen": "Polka dots",
@@ -647,6 +661,8 @@
         "clothGroupId": 999,
         "internalId": 12154,
         "uniqueEntryId": "jCi92aiMtZB92idfQ",
+        "url": "=FORMULATEXT(B143)",
+        "url2": "=FORMULATEXT(C143)",
         "variantTranslations": {
           "eUde": "Küken",
           "eUen": "Chick",
@@ -679,6 +695,8 @@
         "clothGroupId": 999,
         "internalId": 7510,
         "uniqueEntryId": "szhWnj6jpymTsKce8",
+        "url": "=FORMULATEXT(B144)",
+        "url2": "=FORMULATEXT(C144)",
         "variantTranslations": {
           "eUde": "M",
           "eUen": "M",
@@ -711,6 +729,8 @@
         "clothGroupId": 999,
         "internalId": 12151,
         "uniqueEntryId": "46PX3NMjAdrNiRQXb",
+        "url": "=FORMULATEXT(B145)",
+        "url2": "=FORMULATEXT(C145)",
         "variantTranslations": {
           "eUde": "Kirschen",
           "eUen": "Cherries",
@@ -743,6 +763,8 @@
         "clothGroupId": 999,
         "internalId": 12152,
         "uniqueEntryId": "hj8ixCKXNWBnGZSrw",
+        "url": "=FORMULATEXT(B146)",
+        "url2": "=FORMULATEXT(C146)",
         "variantTranslations": {
           "eUde": "Jeans mit Streifen",
           "eUen": "Denim with stripes",
@@ -775,6 +797,8 @@
         "clothGroupId": 999,
         "internalId": 12150,
         "uniqueEntryId": "6uKkNZRz7E8gkSiBF",
+        "url": "=FORMULATEXT(B147)",
+        "url2": "=FORMULATEXT(C147)",
         "variantTranslations": {
           "eUde": "Bunter Quilt",
           "eUen": "Colorful quilt design",
@@ -827,6 +851,8 @@
     "clothGroupId": 1150,
     "internalId": 9761,
     "uniqueEntryId": "zQh6chGG66h4f5JbX",
+    "url": "=FORMULATEXT(B148)",
+    "url2": "=FORMULATEXT(C148)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -903,6 +929,8 @@
     "clothGroupId": 1425,
     "internalId": 14543,
     "uniqueEntryId": "Q3YH8FDKSRfMYmW49",
+    "url": "=FORMULATEXT(B149)",
+    "url2": "=FORMULATEXT(C149)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -996,6 +1024,8 @@
     "clothGroupId": 980,
     "internalId": 7492,
     "uniqueEntryId": "XiC7bNzTBAdb8zWwr",
+    "url": "=FORMULATEXT(B2)",
+    "url2": "=FORMULATEXT(C2)",
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -1158,6 +1188,8 @@
         "clothGroupId": 1510,
         "internalId": 14870,
         "uniqueEntryId": "4ufLamXovvb7SbwKh",
+        "url": "=FORMULATEXT(B3)",
+        "url2": "=FORMULATEXT(C3)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -1190,6 +1222,8 @@
         "clothGroupId": 1510,
         "internalId": 306,
         "uniqueEntryId": "WAxwLb5yJpatBDRrp",
+        "url": "=FORMULATEXT(B4)",
+        "url2": "=FORMULATEXT(C4)",
         "variantTranslations": {
           "eUde": "Hellblau",
           "eUen": "Light blue",
@@ -1303,6 +1337,8 @@
         "clothGroupId": 1503,
         "internalId": 14791,
         "uniqueEntryId": "JgJwc8Wr2evdQxpRi",
+        "url": "=FORMULATEXT(B7)",
+        "url2": "=FORMULATEXT(C7)",
         "variantTranslations": {
           "eUde": "Hellbraun",
           "eUen": "Light brown",
@@ -1335,6 +1371,8 @@
         "clothGroupId": 1503,
         "internalId": 369,
         "uniqueEntryId": "6oX353Da7NJdAsHuo",
+        "url": "=FORMULATEXT(B8)",
+        "url2": "=FORMULATEXT(C8)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -1367,6 +1405,8 @@
         "clothGroupId": 1503,
         "internalId": 368,
         "uniqueEntryId": "7rKZmcoHLonmJD6N3",
+        "url": "=FORMULATEXT(B9)",
+        "url2": "=FORMULATEXT(C9)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -1419,6 +1459,8 @@
     "clothGroupId": 995,
     "internalId": 7506,
     "uniqueEntryId": "BW764rj9aH3QL6GRH",
+    "url": "=FORMULATEXT(B10)",
+    "url2": "=FORMULATEXT(C10)",
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -1600,6 +1642,8 @@
         "clothGroupId": 1492,
         "internalId": 14861,
         "uniqueEntryId": "RLmEKHTmqpSNx3JaH",
+        "url": "=FORMULATEXT(B11)",
+        "url2": "=FORMULATEXT(C11)",
         "variantTranslations": {
           "eUde": "Lila",
           "eUen": "Purple",
@@ -1632,6 +1676,8 @@
         "clothGroupId": 1492,
         "internalId": 355,
         "uniqueEntryId": "yw7dxwmwsqjbPhXvv",
+        "url": "=FORMULATEXT(B12)",
+        "url2": "=FORMULATEXT(C12)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -1664,6 +1710,8 @@
         "clothGroupId": 1492,
         "internalId": 356,
         "uniqueEntryId": "FrNRJhxm9pffD3eG4",
+        "url": "=FORMULATEXT(B13)",
+        "url2": "=FORMULATEXT(C13)",
         "variantTranslations": {
           "eUde": "Marineblau",
           "eUen": "Navy blue",
@@ -1758,6 +1806,8 @@
         "clothGroupId": 1238,
         "internalId": 12877,
         "uniqueEntryId": "yadG76uHehTnHavwc",
+        "url": "=FORMULATEXT(B14)",
+        "url2": "=FORMULATEXT(C14)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -1790,6 +1840,8 @@
         "clothGroupId": 1238,
         "internalId": 339,
         "uniqueEntryId": "QGqP8WkBA4HYaqknA",
+        "url": "=FORMULATEXT(B15)",
+        "url2": "=FORMULATEXT(C15)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -1822,6 +1874,8 @@
         "clothGroupId": 1238,
         "internalId": 714,
         "uniqueEntryId": "QJNEepzqmHiqS28Lp",
+        "url": "=FORMULATEXT(B16)",
+        "url2": "=FORMULATEXT(C16)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -1854,6 +1908,8 @@
         "clothGroupId": 1238,
         "internalId": 718,
         "uniqueEntryId": "GqPuKvErbpXQSjNqL",
+        "url": "=FORMULATEXT(B17)",
+        "url2": "=FORMULATEXT(C17)",
         "variantTranslations": {
           "eUde": "Hellblau",
           "eUen": "Light blue",
@@ -1886,6 +1942,8 @@
         "clothGroupId": 1238,
         "internalId": 719,
         "uniqueEntryId": "xwj7zZQboPT3DDweq",
+        "url": "=FORMULATEXT(B18)",
+        "url2": "=FORMULATEXT(C18)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -1980,6 +2038,8 @@
         "clothGroupId": 1455,
         "internalId": 14782,
         "uniqueEntryId": "9SGwf8R6ZDR2dtc4R",
+        "url": "=FORMULATEXT(B19)",
+        "url2": "=FORMULATEXT(C19)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -2012,6 +2072,8 @@
         "clothGroupId": 1455,
         "internalId": 675,
         "uniqueEntryId": "7kt8r6FMmKMEyTevE",
+        "url": "=FORMULATEXT(B20)",
+        "url2": "=FORMULATEXT(C20)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -2064,6 +2126,8 @@
     "clothGroupId": 1519,
     "internalId": 14813,
     "uniqueEntryId": "6byP9duj2EyL3Sdqe",
+    "url": "=FORMULATEXT(B21)",
+    "url2": "=FORMULATEXT(C21)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -2138,6 +2202,8 @@
     "clothGroupId": 967,
     "internalId": 7479,
     "uniqueEntryId": "nrkEKkL46YsQYcYjp",
+    "url": "=FORMULATEXT(B22)",
+    "url2": "=FORMULATEXT(C22)",
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -2231,6 +2297,8 @@
     "clothGroupId": 991,
     "internalId": 7502,
     "uniqueEntryId": "unsmeHZemRaTnq62z",
+    "url": "=FORMULATEXT(B24)",
+    "url2": "=FORMULATEXT(C24)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -2404,6 +2472,8 @@
         "clothGroupId": 1514,
         "internalId": 14890,
         "uniqueEntryId": "hkENX8rbZFmeCvs3m",
+        "url": "=FORMULATEXT(B25)",
+        "url2": "=FORMULATEXT(C25)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -2436,6 +2506,8 @@
         "clothGroupId": 1514,
         "internalId": 367,
         "uniqueEntryId": "gKdTa28W2bkWRKpEQ",
+        "url": "=FORMULATEXT(B26)",
+        "url2": "=FORMULATEXT(C26)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -2488,6 +2560,8 @@
     "clothGroupId": 998,
     "internalId": 7509,
     "uniqueEntryId": "ZtgYddBwpZfGMjewu",
+    "url": "=FORMULATEXT(B27)",
+    "url2": "=FORMULATEXT(C27)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -2604,6 +2678,8 @@
         "clothGroupId": 1480,
         "internalId": 702,
         "uniqueEntryId": "ygmvdDwEN95Z9zrKv",
+        "url": "=FORMULATEXT(B28)",
+        "url2": "=FORMULATEXT(C28)",
         "variantTranslations": {
           "eUde": "Grau",
           "eUen": "Gray",
@@ -2636,6 +2712,8 @@
         "clothGroupId": 1480,
         "internalId": 703,
         "uniqueEntryId": "XYXcQcweG2G3cg6ok",
+        "url": "=FORMULATEXT(B29)",
+        "url2": "=FORMULATEXT(C29)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -2668,6 +2746,8 @@
         "clothGroupId": 1480,
         "internalId": 701,
         "uniqueEntryId": "vv2SEMWDvGaCRqPqu",
+        "url": "=FORMULATEXT(B30)",
+        "url2": "=FORMULATEXT(C30)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -2700,6 +2780,8 @@
         "clothGroupId": 1480,
         "internalId": 14844,
         "uniqueEntryId": "dj6vtf6XAqYjHEaqs",
+        "url": "=FORMULATEXT(B31)",
+        "url2": "=FORMULATEXT(C31)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -2752,6 +2834,8 @@
     "clothGroupId": 978,
     "internalId": 7490,
     "uniqueEntryId": "wwkZdhj9HzxZiqHys",
+    "url": "=FORMULATEXT(B32)",
+    "url2": "=FORMULATEXT(C32)",
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -2933,6 +3017,8 @@
         "clothGroupId": 1456,
         "internalId": 345,
         "uniqueEntryId": "72Xsfpp7ewaTkzyB5",
+        "url": "=FORMULATEXT(B33)",
+        "url2": "=FORMULATEXT(C33)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -2965,6 +3051,8 @@
         "clothGroupId": 1456,
         "internalId": 346,
         "uniqueEntryId": "6PCNSGwpH6fuCsbfk",
+        "url": "=FORMULATEXT(B34)",
+        "url2": "=FORMULATEXT(C34)",
         "variantTranslations": {
           "eUde": "Aschgrau",
           "eUen": "Ash",
@@ -2997,6 +3085,8 @@
         "clothGroupId": 1456,
         "internalId": 340,
         "uniqueEntryId": "aKBzafbwwNiuAJo8c",
+        "url": "=FORMULATEXT(B35)",
+        "url2": "=FORMULATEXT(C35)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -3029,6 +3119,8 @@
         "clothGroupId": 1456,
         "internalId": 344,
         "uniqueEntryId": "BZadwstw2oGF4PhcD",
+        "url": "=FORMULATEXT(B36)",
+        "url2": "=FORMULATEXT(C36)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -3061,6 +3153,8 @@
         "clothGroupId": 1456,
         "internalId": 342,
         "uniqueEntryId": "9pY8hpFHx8wCTW957",
+        "url": "=FORMULATEXT(B37)",
+        "url2": "=FORMULATEXT(C37)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -3093,6 +3187,8 @@
         "clothGroupId": 1456,
         "internalId": 347,
         "uniqueEntryId": "Rgwvj3weSoA3dHgT8",
+        "url": "=FORMULATEXT(B38)",
+        "url2": "=FORMULATEXT(C38)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -3125,6 +3221,8 @@
         "clothGroupId": 1456,
         "internalId": 14783,
         "uniqueEntryId": "SGiaYqqaRQnTkiY4X",
+        "url": "=FORMULATEXT(B39)",
+        "url2": "=FORMULATEXT(C39)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -3219,6 +3317,8 @@
         "clothGroupId": 975,
         "internalId": 12014,
         "uniqueEntryId": "NfkYKg5NoaWKBEpzN",
+        "url": "=FORMULATEXT(B40)",
+        "url2": "=FORMULATEXT(C40)",
         "variantTranslations": {
           "eUde": "Porzellanfarben",
           "eUen": "Ivory",
@@ -3251,6 +3351,8 @@
         "clothGroupId": 975,
         "internalId": 12013,
         "uniqueEntryId": "dcpCgBwji4QCYAy8k",
+        "url": "=FORMULATEXT(B41)",
+        "url2": "=FORMULATEXT(C41)",
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
@@ -3283,6 +3385,8 @@
         "clothGroupId": 975,
         "internalId": 7487,
         "uniqueEntryId": "DzoRrArWrKtzn6Xzc",
+        "url": "=FORMULATEXT(B42)",
+        "url2": "=FORMULATEXT(C42)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -3415,6 +3519,8 @@
         "clothGroupId": 1512,
         "internalId": 14792,
         "uniqueEntryId": "GpChrXR8j8XRnmxJn",
+        "url": "=FORMULATEXT(B43)",
+        "url2": "=FORMULATEXT(C43)",
         "variantTranslations": {
           "eUde": "Hellbraun",
           "eUen": "Light brown",
@@ -3447,6 +3553,8 @@
         "clothGroupId": 1512,
         "internalId": 309,
         "uniqueEntryId": "wame2CAf7JdS6rpYF",
+        "url": "=FORMULATEXT(B44)",
+        "url2": "=FORMULATEXT(C44)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -3479,6 +3587,8 @@
         "clothGroupId": 1512,
         "internalId": 308,
         "uniqueEntryId": "cmkQMhu3kWCsqu7AM",
+        "url": "=FORMULATEXT(B45)",
+        "url2": "=FORMULATEXT(C45)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -3511,6 +3621,8 @@
         "clothGroupId": 1512,
         "internalId": 307,
         "uniqueEntryId": "ire3uCiNDD8JvsgAe",
+        "url": "=FORMULATEXT(B46)",
+        "url2": "=FORMULATEXT(C46)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -3643,6 +3755,8 @@
         "clothGroupId": 971,
         "internalId": 11982,
         "uniqueEntryId": "FsyHb5QAf8DDvPC7y",
+        "url": "=FORMULATEXT(B47)",
+        "url2": "=FORMULATEXT(C47)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 971,
@@ -3678,6 +3792,8 @@
         "clothGroupId": 971,
         "internalId": 7483,
         "uniqueEntryId": "zXtyCFHwWjnChTami",
+        "url": "=FORMULATEXT(B48)",
+        "url2": "=FORMULATEXT(C48)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -3710,6 +3826,8 @@
         "clothGroupId": 971,
         "internalId": 11981,
         "uniqueEntryId": "zX6ZX4puTojGuJgGj",
+        "url": "=FORMULATEXT(B49)",
+        "url2": "=FORMULATEXT(C49)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -3742,6 +3860,8 @@
         "clothGroupId": 971,
         "internalId": 11980,
         "uniqueEntryId": "tbfNwy8RmGztJdAnn",
+        "url": "=FORMULATEXT(B50)",
+        "url2": "=FORMULATEXT(C50)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -3874,6 +3994,8 @@
         "clothGroupId": 973,
         "internalId": 7485,
         "uniqueEntryId": "8MwDxuHHvYM3XJpmy",
+        "url": "=FORMULATEXT(B51)",
+        "url2": "=FORMULATEXT(C51)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -3906,6 +4028,8 @@
         "clothGroupId": 973,
         "internalId": 12011,
         "uniqueEntryId": "w98ZrTQWiRMHyveaa",
+        "url": "=FORMULATEXT(B52)",
+        "url2": "=FORMULATEXT(C52)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -4000,6 +4124,8 @@
         "clothGroupId": 1410,
         "internalId": 14426,
         "uniqueEntryId": "Hc56JjxXHqmyEN6hX",
+        "url": "=FORMULATEXT(B54)",
+        "url2": "=FORMULATEXT(C54)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -4032,6 +4158,8 @@
         "clothGroupId": 1410,
         "internalId": 495,
         "uniqueEntryId": "5av7fenfkMy3vjn8z",
+        "url": "=FORMULATEXT(B55)",
+        "url2": "=FORMULATEXT(C55)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -4064,6 +4192,8 @@
         "clothGroupId": 1410,
         "internalId": 493,
         "uniqueEntryId": "qSsTErgNMisB4kYiy",
+        "url": "=FORMULATEXT(B56)",
+        "url2": "=FORMULATEXT(C56)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -4096,6 +4226,8 @@
         "clothGroupId": 1410,
         "internalId": 492,
         "uniqueEntryId": "775xLbTPuWMtC75Zw",
+        "url": "=FORMULATEXT(B57)",
+        "url2": "=FORMULATEXT(C57)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -4128,6 +4260,8 @@
         "clothGroupId": 1410,
         "internalId": 491,
         "uniqueEntryId": "rRZTG2WKqmPY6ZkTY",
+        "url": "=FORMULATEXT(B58)",
+        "url2": "=FORMULATEXT(C58)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -4160,6 +4294,8 @@
         "clothGroupId": 1410,
         "internalId": 494,
         "uniqueEntryId": "NnEm5JHQNsaKhFeGt",
+        "url": "=FORMULATEXT(B59)",
+        "url2": "=FORMULATEXT(C59)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -4254,6 +4390,8 @@
         "clothGroupId": 1511,
         "internalId": 14872,
         "uniqueEntryId": "YGdBmWuCmsg8BkBAG",
+        "url": "=FORMULATEXT(B60)",
+        "url2": "=FORMULATEXT(C60)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -4286,6 +4424,8 @@
         "clothGroupId": 1511,
         "internalId": 305,
         "uniqueEntryId": "Zycux4ZrTYM3at2p3",
+        "url": "=FORMULATEXT(B61)",
+        "url2": "=FORMULATEXT(C61)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -4338,6 +4478,8 @@
     "clothGroupId": 1505,
     "internalId": 14854,
     "uniqueEntryId": "Xo3PBCD4pbS7cxwdb",
+    "url": "=FORMULATEXT(B62)",
+    "url2": "=FORMULATEXT(C62)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4511,6 +4653,8 @@
         "clothGroupId": 1483,
         "internalId": 14838,
         "uniqueEntryId": "zcEJv97N6J2k5EPxS",
+        "url": "=FORMULATEXT(B63)",
+        "url2": "=FORMULATEXT(C63)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -4543,6 +4687,8 @@
         "clothGroupId": 1483,
         "internalId": 679,
         "uniqueEntryId": "ub5NmJHDpGyi4QmKq",
+        "url": "=FORMULATEXT(B64)",
+        "url2": "=FORMULATEXT(C64)",
         "variantTranslations": {
           "eUde": "Minzgrün",
           "eUen": "Mint",
@@ -4595,6 +4741,8 @@
     "clothGroupId": 1472,
     "internalId": 14825,
     "uniqueEntryId": "E89nNM59h2SNRBn8x",
+    "url": "=FORMULATEXT(B65)",
+    "url2": "=FORMULATEXT(C65)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4688,6 +4836,8 @@
     "clothGroupId": 1493,
     "internalId": 14883,
     "uniqueEntryId": "S2o8ZDum4FYypwynm",
+    "url": "=FORMULATEXT(B66)",
+    "url2": "=FORMULATEXT(C66)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4781,6 +4931,8 @@
     "clothGroupId": 1494,
     "internalId": 14884,
     "uniqueEntryId": "fbMuddYDB99SAfDuF",
+    "url": "=FORMULATEXT(B67)",
+    "url2": "=FORMULATEXT(C67)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -4935,6 +5087,8 @@
         "clothGroupId": 963,
         "internalId": 7471,
         "uniqueEntryId": "iwTpuxykXjSBi8b9a",
+        "url": "=FORMULATEXT(B68)",
+        "url2": "=FORMULATEXT(C68)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 963,
@@ -4970,6 +5124,8 @@
         "clothGroupId": 963,
         "internalId": 11964,
         "uniqueEntryId": "cMoNDoZx2sdfD6Haz",
+        "url": "=FORMULATEXT(B69)",
+        "url2": "=FORMULATEXT(C69)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 963,
@@ -5067,6 +5223,8 @@
         "clothGroupId": 1509,
         "internalId": 14871,
         "uniqueEntryId": "M65CNMLJZo3LtmqHu",
+        "url": "=FORMULATEXT(B70)",
+        "url2": "=FORMULATEXT(C70)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 1509,
@@ -5102,6 +5260,8 @@
         "clothGroupId": 1509,
         "internalId": 727,
         "uniqueEntryId": "7riTnD4QxLS7mWNEf",
+        "url": "=FORMULATEXT(B71)",
+        "url2": "=FORMULATEXT(C71)",
         "variantTranslations": {
           "eUde": "Hellblau",
           "eUen": "Light blue",
@@ -5134,6 +5294,8 @@
         "clothGroupId": 1509,
         "internalId": 733,
         "uniqueEntryId": "ZadzNjXhQ5Kz7Fk3K",
+        "url": "=FORMULATEXT(B72)",
+        "url2": "=FORMULATEXT(C72)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 1509,
@@ -5169,6 +5331,8 @@
         "clothGroupId": 1509,
         "internalId": 732,
         "uniqueEntryId": "edjyRTLaHPTzWg8ro",
+        "url": "=FORMULATEXT(B73)",
+        "url2": "=FORMULATEXT(C73)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 1509,
@@ -5285,6 +5449,8 @@
         "clothGroupId": 986,
         "internalId": 11977,
         "uniqueEntryId": "x9Z63uLS8cHdsoczj",
+        "url": "=FORMULATEXT(B74)",
+        "url2": "=FORMULATEXT(C74)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -5317,6 +5483,8 @@
         "clothGroupId": 986,
         "internalId": 7305,
         "uniqueEntryId": "tZhGqzKpEeEweTZi7",
+        "url": "=FORMULATEXT(B75)",
+        "url2": "=FORMULATEXT(C75)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -5349,6 +5517,8 @@
         "clothGroupId": 986,
         "internalId": 11976,
         "uniqueEntryId": "SoJkNi7GNiW28tYuG",
+        "url": "=FORMULATEXT(B76)",
+        "url2": "=FORMULATEXT(C76)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -5462,6 +5632,8 @@
         "clothGroupId": 994,
         "internalId": 11972,
         "uniqueEntryId": "HqReXLwGPigWMiJbS",
+        "url": "=FORMULATEXT(B77)",
+        "url2": "=FORMULATEXT(C77)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 994,
@@ -5497,6 +5669,8 @@
         "clothGroupId": 994,
         "internalId": 7505,
         "uniqueEntryId": "sjT2tZJCMpWQNmhTy",
+        "url": "=FORMULATEXT(B78)",
+        "url2": "=FORMULATEXT(C78)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -5529,6 +5703,8 @@
         "clothGroupId": 994,
         "internalId": 11971,
         "uniqueEntryId": "MKeBKrETSTs4tyrg4",
+        "url": "=FORMULATEXT(B79)",
+        "url2": "=FORMULATEXT(C79)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -5561,6 +5737,8 @@
         "clothGroupId": 994,
         "internalId": 11973,
         "uniqueEntryId": "vvEqA5aMBGyycpQFz",
+        "url": "=FORMULATEXT(B80)",
+        "url2": "=FORMULATEXT(C80)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -5674,6 +5852,8 @@
         "clothGroupId": 968,
         "internalId": 7480,
         "uniqueEntryId": "FyneYzGmHW7SyoHn7",
+        "url": "=FORMULATEXT(B81)",
+        "url2": "=FORMULATEXT(C81)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -5706,6 +5886,8 @@
         "clothGroupId": 968,
         "internalId": 12003,
         "uniqueEntryId": "gH3fn5rkmCrekWoJB",
+        "url": "=FORMULATEXT(B82)",
+        "url2": "=FORMULATEXT(C82)",
         "variantTranslations": {
           "eUde": "Lila",
           "eUen": "Purple",
@@ -5763,6 +5945,8 @@
     "clothGroupId": 965,
     "internalId": 7477,
     "uniqueEntryId": "CrFcdF3rXiaiiajEB",
+    "url": "=FORMULATEXT(B83)",
+    "url2": "=FORMULATEXT(C83)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -5856,6 +6040,8 @@
     "clothGroupId": 1518,
     "internalId": 14812,
     "uniqueEntryId": "RscrhCWf5CvRDEnai",
+    "url": "=FORMULATEXT(B84)",
+    "url2": "=FORMULATEXT(C84)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -5930,6 +6116,8 @@
     "clothGroupId": 1520,
     "internalId": 14814,
     "uniqueEntryId": "BAedK8v5HuLFKfJy5",
+    "url": "=FORMULATEXT(B85)",
+    "url2": "=FORMULATEXT(C85)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -6065,6 +6253,8 @@
         "clothGroupId": 996,
         "internalId": 12017,
         "uniqueEntryId": "Z8WFCNZodHtW2DBPB",
+        "url": "=FORMULATEXT(B86)",
+        "url2": "=FORMULATEXT(C86)",
         "variantTranslations": {
           "eUde": "Grau",
           "eUen": "Gray",
@@ -6097,6 +6287,8 @@
         "clothGroupId": 996,
         "internalId": 12018,
         "uniqueEntryId": "nD9TYBr8sw4rhLAyG",
+        "url": "=FORMULATEXT(B87)",
+        "url2": "=FORMULATEXT(C87)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -6129,6 +6321,8 @@
         "clothGroupId": 996,
         "internalId": 7507,
         "uniqueEntryId": "nkXJ2eRThdt4vEpFb",
+        "url": "=FORMULATEXT(B88)",
+        "url2": "=FORMULATEXT(C88)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -6161,6 +6355,8 @@
         "clothGroupId": 996,
         "internalId": 12016,
         "uniqueEntryId": "M8i2DNwxgXKWADAtW",
+        "url": "=FORMULATEXT(B89)",
+        "url2": "=FORMULATEXT(C89)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -6255,6 +6451,8 @@
         "clothGroupId": 1506,
         "internalId": 14788,
         "uniqueEntryId": "td2wyyAvEKwKfCrZv",
+        "url": "=FORMULATEXT(B90)",
+        "url2": "=FORMULATEXT(C90)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -6287,6 +6485,8 @@
         "clothGroupId": 1506,
         "internalId": 559,
         "uniqueEntryId": "MvqQF3sRB3GdHdPfK",
+        "url": "=FORMULATEXT(B91)",
+        "url2": "=FORMULATEXT(C91)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -6319,6 +6519,8 @@
         "clothGroupId": 1506,
         "internalId": 558,
         "uniqueEntryId": "boBJzJaghhDEWiGWM",
+        "url": "=FORMULATEXT(B92)",
+        "url2": "=FORMULATEXT(C92)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -6351,6 +6553,8 @@
         "clothGroupId": 1506,
         "internalId": 557,
         "uniqueEntryId": "HHbiZTGsShYYzTmNe",
+        "url": "=FORMULATEXT(B93)",
+        "url2": "=FORMULATEXT(C93)",
         "variantTranslations": {
           "eUde": "Lila",
           "eUen": "Purple",
@@ -6383,6 +6587,8 @@
         "clothGroupId": 1506,
         "internalId": 556,
         "uniqueEntryId": "m8WYKKKvAr2LYjrPQ",
+        "url": "=FORMULATEXT(B94)",
+        "url2": "=FORMULATEXT(C94)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -6415,6 +6621,8 @@
         "clothGroupId": 1506,
         "internalId": 560,
         "uniqueEntryId": "HhkZdM86Ph5yTe3Go",
+        "url": "=FORMULATEXT(B95)",
+        "url2": "=FORMULATEXT(C95)",
         "variantTranslations": {
           "eUde": "Gold",
           "eUen": "Gold",
@@ -6467,6 +6675,8 @@
     "clothGroupId": 1233,
     "internalId": 12797,
     "uniqueEntryId": "w3sCtnjHaNJwLD3vk",
+    "url": "=FORMULATEXT(B96)",
+    "url2": "=FORMULATEXT(C96)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -6659,6 +6869,8 @@
         "clothGroupId": 974,
         "internalId": 7486,
         "uniqueEntryId": "mQZCwxcr6z3hq5Dgm",
+        "url": "=FORMULATEXT(B97)",
+        "url2": "=FORMULATEXT(C97)",
         "variantTranslations": {
           "eUde": "Pop",
           "eUen": "Pop",
@@ -6691,6 +6903,8 @@
         "clothGroupId": 974,
         "internalId": 12012,
         "uniqueEntryId": "JxHQbqWH73Q3GYKT8",
+        "url": "=FORMULATEXT(B98)",
+        "url2": "=FORMULATEXT(C98)",
         "variantTranslations": {
           "eUde": "Cool",
           "eUen": "Cool",
@@ -6785,6 +6999,8 @@
         "clothGroupId": 970,
         "internalId": 7482,
         "uniqueEntryId": "taTKqY3xif2LhShrf",
+        "url": "=FORMULATEXT(B99)",
+        "url2": "=FORMULATEXT(C99)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -6817,6 +7033,8 @@
         "clothGroupId": 970,
         "internalId": 12004,
         "uniqueEntryId": "GLLrMeJCPd8Xn7fdr",
+        "url": "=FORMULATEXT(B100)",
+        "url2": "=FORMULATEXT(C100)",
         "variantTranslations": {
           "eUde": "Lila",
           "eUen": "Purple",
@@ -6930,6 +7148,8 @@
         "clothGroupId": 1001,
         "internalId": 11946,
         "uniqueEntryId": "yxnDx8JQqzZDM66oR",
+        "url": "=FORMULATEXT(B101)",
+        "url2": "=FORMULATEXT(C101)",
         "variantTranslations": {
           "eUde": "Silber",
           "eUen": "Silver",
@@ -6962,6 +7182,8 @@
         "clothGroupId": 1001,
         "internalId": 10184,
         "uniqueEntryId": "qdP3rmZ7P7HgA2cin",
+        "url": "=FORMULATEXT(B102)",
+        "url2": "=FORMULATEXT(C102)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -6994,6 +7216,8 @@
         "clothGroupId": 1001,
         "internalId": 7512,
         "uniqueEntryId": "LETQjE3yFDKze4ntv",
+        "url": "=FORMULATEXT(B103)",
+        "url2": "=FORMULATEXT(C103)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -7046,6 +7270,8 @@
     "clothGroupId": 1554,
     "internalId": 1044,
     "uniqueEntryId": "S7SxMrJcgrQrMsFS7",
+    "url": "=FORMULATEXT(B104)",
+    "url2": "=FORMULATEXT(C104)",
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -7200,6 +7426,8 @@
         "clothGroupId": 1268,
         "internalId": 13409,
         "uniqueEntryId": "CcDoJoDqXaXyMYBEx",
+        "url": "=FORMULATEXT(B105)",
+        "url2": "=FORMULATEXT(C105)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -7232,6 +7460,8 @@
         "clothGroupId": 1268,
         "internalId": 13412,
         "uniqueEntryId": "8v2gEqEZYuMibTdvv",
+        "url": "=FORMULATEXT(B106)",
+        "url2": "=FORMULATEXT(C106)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -7264,6 +7494,8 @@
         "clothGroupId": 1268,
         "internalId": 13411,
         "uniqueEntryId": "FZZmBDBcsCn9cx29J",
+        "url": "=FORMULATEXT(B107)",
+        "url2": "=FORMULATEXT(C107)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -7296,6 +7528,8 @@
         "clothGroupId": 1268,
         "internalId": 13015,
         "uniqueEntryId": "N5Ydq8EZ3TTsKv34c",
+        "url": "=FORMULATEXT(B108)",
+        "url2": "=FORMULATEXT(C108)",
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
@@ -7328,6 +7562,8 @@
         "clothGroupId": 1268,
         "internalId": 13410,
         "uniqueEntryId": "spWkjYsT4mKfBijAz",
+        "url": "=FORMULATEXT(B109)",
+        "url2": "=FORMULATEXT(C109)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -7360,6 +7596,8 @@
         "clothGroupId": 1268,
         "internalId": 13408,
         "uniqueEntryId": "BqyY8XSWSswej9Lap",
+        "url": "=FORMULATEXT(B110)",
+        "url2": "=FORMULATEXT(C110)",
         "variantTranslations": {
           "eUde": "Lila",
           "eUen": "Purple",
@@ -7412,6 +7650,8 @@
     "clothGroupId": 1550,
     "internalId": 1258,
     "uniqueEntryId": "LRpwTw5vqnRLKpa2W",
+    "url": "=FORMULATEXT(B111)",
+    "url2": "=FORMULATEXT(C111)",
     "themesTranslations": {
       "sporty": {
         "sourceSheet": "Fashion Themes",
@@ -7547,6 +7787,8 @@
         "clothGroupId": 1457,
         "internalId": 14784,
         "uniqueEntryId": "AaKYwCqYye3LTXJ6M",
+        "url": "=FORMULATEXT(B112)",
+        "url2": "=FORMULATEXT(C112)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -7579,6 +7821,8 @@
         "clothGroupId": 1457,
         "internalId": 348,
         "uniqueEntryId": "mRrSwn8HihAiaeAxJ",
+        "url": "=FORMULATEXT(B113)",
+        "url2": "=FORMULATEXT(C113)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -7611,6 +7855,8 @@
         "clothGroupId": 1457,
         "internalId": 350,
         "uniqueEntryId": "Q5ApP3fGfrB5Zs7F2",
+        "url": "=FORMULATEXT(B114)",
+        "url2": "=FORMULATEXT(C114)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -7643,6 +7889,8 @@
         "clothGroupId": 1457,
         "internalId": 351,
         "uniqueEntryId": "HeMTPYQBwfAggepGG",
+        "url": "=FORMULATEXT(B115)",
+        "url2": "=FORMULATEXT(C115)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -7675,6 +7923,8 @@
         "clothGroupId": 1457,
         "internalId": 349,
         "uniqueEntryId": "iYGukvfoTnFPytbwJ",
+        "url": "=FORMULATEXT(B116)",
+        "url2": "=FORMULATEXT(C116)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -7788,6 +8038,8 @@
         "clothGroupId": 1470,
         "internalId": 14823,
         "uniqueEntryId": "ApcpKi5k7KNHhE8NE",
+        "url": "=FORMULATEXT(B117)",
+        "url2": "=FORMULATEXT(C117)",
         "variantTranslations": {
           "eUde": "Grau",
           "eUen": "Gray",
@@ -7820,6 +8072,8 @@
         "clothGroupId": 1470,
         "internalId": 581,
         "uniqueEntryId": "xgMWqfXbs2YEFci2c",
+        "url": "=FORMULATEXT(B118)",
+        "url2": "=FORMULATEXT(C118)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -7852,6 +8106,8 @@
         "clothGroupId": 1470,
         "internalId": 589,
         "uniqueEntryId": "yptTpkTmiziQm6eFo",
+        "url": "=FORMULATEXT(B119)",
+        "url2": "=FORMULATEXT(C119)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -7984,6 +8240,8 @@
         "clothGroupId": 997,
         "internalId": 12019,
         "uniqueEntryId": "Fx4M2zpFTWGww54rw",
+        "url": "=FORMULATEXT(B120)",
+        "url2": "=FORMULATEXT(C120)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -8016,6 +8274,8 @@
         "clothGroupId": 997,
         "internalId": 7508,
         "uniqueEntryId": "XbKqQChpAJXng37Mr",
+        "url": "=FORMULATEXT(B121)",
+        "url2": "=FORMULATEXT(C121)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -8068,6 +8328,8 @@
     "clothGroupId": 1000,
     "internalId": 7511,
     "uniqueEntryId": "xM5iaYn4gbZoR94Qm",
+    "url": "=FORMULATEXT(B122)",
+    "url2": "=FORMULATEXT(C122)",
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -8268,6 +8530,8 @@
         "clothGroupId": 1477,
         "internalId": 14839,
         "uniqueEntryId": "YJu7XMsgEYHbjNspM",
+        "url": "=FORMULATEXT(B123)",
+        "url2": "=FORMULATEXT(C123)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -8300,6 +8564,8 @@
         "clothGroupId": 1477,
         "internalId": 680,
         "uniqueEntryId": "Fu6qbBYTgJ8pvn6Tj",
+        "url": "=FORMULATEXT(B124)",
+        "url2": "=FORMULATEXT(C124)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -8332,6 +8598,8 @@
         "clothGroupId": 1477,
         "internalId": 681,
         "uniqueEntryId": "WWwP55fJkgmz7kKBA",
+        "url": "=FORMULATEXT(B125)",
+        "url2": "=FORMULATEXT(C125)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -8364,6 +8632,8 @@
         "clothGroupId": 1477,
         "internalId": 684,
         "uniqueEntryId": "2LPTCEmfSkEoT3fBC",
+        "url": "=FORMULATEXT(B126)",
+        "url2": "=FORMULATEXT(C126)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -8416,6 +8686,8 @@
     "clothGroupId": 987,
     "internalId": 7498,
     "uniqueEntryId": "rDDM48hSfsSbcp92u",
+    "url": "=FORMULATEXT(B127)",
+    "url2": "=FORMULATEXT(C127)",
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -8635,6 +8907,8 @@
         "clothGroupId": 1508,
         "internalId": 14790,
         "uniqueEntryId": "mChGTKJrJqxkRa66G",
+        "url": "=FORMULATEXT(B128)",
+        "url2": "=FORMULATEXT(C128)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -8667,6 +8941,8 @@
         "clothGroupId": 1508,
         "internalId": 297,
         "uniqueEntryId": "9SGp2QBxdnaimbyRR",
+        "url": "=FORMULATEXT(B129)",
+        "url2": "=FORMULATEXT(C129)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -8699,6 +8975,8 @@
         "clothGroupId": 1508,
         "internalId": 299,
         "uniqueEntryId": "BXPAjZrCmnXCZ9A7X",
+        "url": "=FORMULATEXT(B130)",
+        "url2": "=FORMULATEXT(C130)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -8793,6 +9071,8 @@
         "clothGroupId": 1516,
         "internalId": 14857,
         "uniqueEntryId": "Aphtjjfeg8wRXbSeH",
+        "url": "=FORMULATEXT(B131)",
+        "url2": "=FORMULATEXT(C131)",
         "variantTranslations": {
           "eUde": "Grau",
           "eUen": "Gray",
@@ -8825,6 +9105,8 @@
         "clothGroupId": 1516,
         "internalId": 365,
         "uniqueEntryId": "Q9ADsNb6Tn4gQjkJG",
+        "url": "=FORMULATEXT(B132)",
+        "url2": "=FORMULATEXT(C132)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -8857,6 +9139,8 @@
         "clothGroupId": 1516,
         "internalId": 366,
         "uniqueEntryId": "7Yxsk5TnqAR27QQHK",
+        "url": "=FORMULATEXT(B133)",
+        "url2": "=FORMULATEXT(C133)",
         "variantTranslations": {
           "eUde": "Marineblau",
           "eUen": "Navy blue",
@@ -8909,6 +9193,8 @@
     "clothGroupId": 979,
     "internalId": 7491,
     "uniqueEntryId": "HJDH4dCPMQY9qQanL",
+    "url": "=FORMULATEXT(B134)",
+    "url2": "=FORMULATEXT(C134)",
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -9109,6 +9395,8 @@
         "clothGroupId": 962,
         "internalId": 11979,
         "uniqueEntryId": "ZuwiM4DzJF5Rsg46x",
+        "url": "=FORMULATEXT(B135)",
+        "url2": "=FORMULATEXT(C135)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -9141,6 +9429,8 @@
         "clothGroupId": 962,
         "internalId": 11978,
         "uniqueEntryId": "sgxnCe87EdtdoKved",
+        "url": "=FORMULATEXT(B136)",
+        "url2": "=FORMULATEXT(C136)",
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
@@ -9173,6 +9463,8 @@
         "clothGroupId": 962,
         "internalId": 7470,
         "uniqueEntryId": "7mPZ9PnTd46r65DXx",
+        "url": "=FORMULATEXT(B137)",
+        "url2": "=FORMULATEXT(C137)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -9305,6 +9597,8 @@
         "clothGroupId": 993,
         "internalId": 7504,
         "uniqueEntryId": "FyrYDDhzABDegtZ6n",
+        "url": "=FORMULATEXT(B138)",
+        "url2": "=FORMULATEXT(C138)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -9337,6 +9631,8 @@
         "clothGroupId": 993,
         "internalId": 12015,
         "uniqueEntryId": "hYJk97FFi4zJGQ5cH",
+        "url": "=FORMULATEXT(B139)",
+        "url2": "=FORMULATEXT(C139)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -9450,6 +9746,8 @@
         "clothGroupId": 990,
         "internalId": 11969,
         "uniqueEntryId": "hiF7bqmoudyFJPcWG",
+        "url": "=FORMULATEXT(B150)",
+        "url2": "=FORMULATEXT(C150)",
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
@@ -9482,6 +9780,8 @@
         "clothGroupId": 990,
         "internalId": 7501,
         "uniqueEntryId": "CAsQFPPeo3vBGpHSo",
+        "url": "=FORMULATEXT(B151)",
+        "url2": "=FORMULATEXT(C151)",
         "variantTranslations": {
           "eUde": "Avocado",
           "eUen": "Avocado",
@@ -9514,6 +9814,8 @@
         "clothGroupId": 990,
         "internalId": 11970,
         "uniqueEntryId": "qd8DJb8mX5zhewgyn",
+        "url": "=FORMULATEXT(B152)",
+        "url2": "=FORMULATEXT(C152)",
         "variantTranslations": {
           "eUde": "Marineblau",
           "eUen": "Navy blue",
@@ -9627,6 +9929,8 @@
         "clothGroupId": 1473,
         "internalId": 14830,
         "uniqueEntryId": "to5pzsNMWSdSBqdqG",
+        "url": "=FORMULATEXT(B153)",
+        "url2": "=FORMULATEXT(C153)",
         "variantTranslations": {
           "eUde": "Schwarz-weiß",
           "eUen": "Black & white",
@@ -9659,6 +9963,8 @@
         "clothGroupId": 1473,
         "internalId": 720,
         "uniqueEntryId": "ASduP7XRxy8AWFf2D",
+        "url": "=FORMULATEXT(B154)",
+        "url2": "=FORMULATEXT(C154)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -9772,6 +10078,8 @@
         "clothGroupId": 972,
         "internalId": 12005,
         "uniqueEntryId": "QDPYGrpFNNir49uBe",
+        "url": "=FORMULATEXT(B155)",
+        "url2": "=FORMULATEXT(C155)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -9804,6 +10112,8 @@
         "clothGroupId": 972,
         "internalId": 7484,
         "uniqueEntryId": "YQD8XMuvDbymAeKxt",
+        "url": "=FORMULATEXT(B156)",
+        "url2": "=FORMULATEXT(C156)",
         "variantTranslations": {
           "eUde": "Marineblau",
           "eUen": "Navy blue",
@@ -9936,6 +10246,8 @@
         "clothGroupId": 969,
         "internalId": 12010,
         "uniqueEntryId": "fiM98m9CGgi6iATkQ",
+        "url": "=FORMULATEXT(B157)",
+        "url2": "=FORMULATEXT(C157)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -9968,6 +10280,8 @@
         "clothGroupId": 969,
         "internalId": 7481,
         "uniqueEntryId": "7RYHreaA7o9huubNu",
+        "url": "=FORMULATEXT(B158)",
+        "url2": "=FORMULATEXT(C158)",
         "variantTranslations": {
           "eUde": "Kamelfarben",
           "eUen": "Camel",
@@ -10100,6 +10414,8 @@
         "clothGroupId": 1507,
         "internalId": 14789,
         "uniqueEntryId": "aYEjGMtQ7sT23FTWk",
+        "url": "=FORMULATEXT(B159)",
+        "url2": "=FORMULATEXT(C159)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -10132,6 +10448,8 @@
         "clothGroupId": 1507,
         "internalId": 312,
         "uniqueEntryId": "QbexMfsA232FPFLjA",
+        "url": "=FORMULATEXT(B160)",
+        "url2": "=FORMULATEXT(C160)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -10164,6 +10482,8 @@
         "clothGroupId": 1507,
         "internalId": 310,
         "uniqueEntryId": "Lp2SAmbYkWqZvZp36",
+        "url": "=FORMULATEXT(B161)",
+        "url2": "=FORMULATEXT(C161)",
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
@@ -10196,6 +10516,8 @@
         "clothGroupId": 1507,
         "internalId": 313,
         "uniqueEntryId": "cAjrk2TifJDXjKFG2",
+        "url": "=FORMULATEXT(B162)",
+        "url2": "=FORMULATEXT(C162)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -10228,6 +10550,8 @@
         "clothGroupId": 1507,
         "internalId": 311,
         "uniqueEntryId": "jhGcppcxqnuGzL8Rv",
+        "url": "=FORMULATEXT(B163)",
+        "url2": "=FORMULATEXT(C163)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -10260,6 +10584,8 @@
         "clothGroupId": 1507,
         "internalId": 314,
         "uniqueEntryId": "D6QbZEsb7mtADAGTm",
+        "url": "=FORMULATEXT(B164)",
+        "url2": "=FORMULATEXT(C164)",
         "variantTranslations": {
           "eUde": "Grau",
           "eUen": "Gray",
@@ -10292,6 +10618,8 @@
         "clothGroupId": 1507,
         "internalId": 315,
         "uniqueEntryId": "5g476FdByk9eqhuer",
+        "url": "=FORMULATEXT(B165)",
+        "url2": "=FORMULATEXT(C165)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -10405,6 +10733,8 @@
         "clothGroupId": 964,
         "internalId": 12009,
         "uniqueEntryId": "ZKgcPhGYErHShMrGR",
+        "url": "=FORMULATEXT(B166)",
+        "url2": "=FORMULATEXT(C166)",
         "variantTranslations": {
           "eUde": "Marineblau",
           "eUen": "Navy blue",
@@ -10437,6 +10767,8 @@
         "clothGroupId": 964,
         "internalId": 7476,
         "uniqueEntryId": "9AqRYq83NRMxrEWiD",
+        "url": "=FORMULATEXT(B167)",
+        "url2": "=FORMULATEXT(C167)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -10531,6 +10863,8 @@
         "clothGroupId": 1481,
         "internalId": 695,
         "uniqueEntryId": "NR5n37Afoi2gkBxif",
+        "url": "=FORMULATEXT(B168)",
+        "url2": "=FORMULATEXT(C168)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -10563,6 +10897,8 @@
         "clothGroupId": 1481,
         "internalId": 14842,
         "uniqueEntryId": "HYsnDCWDnPAGDxxgB",
+        "url": "=FORMULATEXT(B169)",
+        "url2": "=FORMULATEXT(C169)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -10595,6 +10931,8 @@
         "clothGroupId": 1481,
         "internalId": 692,
         "uniqueEntryId": "hvjF6KJ34kdwQCS5r",
+        "url": "=FORMULATEXT(B170)",
+        "url2": "=FORMULATEXT(C170)",
         "variantTranslations": {
           "eUde": "Limettengrün",
           "eUen": "Lime",
@@ -10627,6 +10965,8 @@
         "clothGroupId": 1481,
         "internalId": 694,
         "uniqueEntryId": "fufpDHxRBgb9KJSwf",
+        "url": "=FORMULATEXT(B171)",
+        "url2": "=FORMULATEXT(C171)",
         "variantTranslations": {
           "eUde": "Hellblau",
           "eUen": "Light blue",
@@ -10659,6 +10999,8 @@
         "clothGroupId": 1481,
         "internalId": 697,
         "uniqueEntryId": "jZf4WPzrL9SorEnSY",
+        "url": "=FORMULATEXT(B172)",
+        "url2": "=FORMULATEXT(C172)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -10772,6 +11114,8 @@
         "clothGroupId": 1362,
         "internalId": 14398,
         "uniqueEntryId": "FW8Smcrt8BGxf9Ctd",
+        "url": "=FORMULATEXT(B173)",
+        "url2": "=FORMULATEXT(C173)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -10804,6 +11148,8 @@
         "clothGroupId": 1362,
         "internalId": 14399,
         "uniqueEntryId": "9NYe8ov5e89jnZbwX",
+        "url": "=FORMULATEXT(B174)",
+        "url2": "=FORMULATEXT(C174)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -10836,6 +11182,8 @@
         "clothGroupId": 1362,
         "internalId": 14262,
         "uniqueEntryId": "nnRZEztbMkE8W2heC",
+        "url": "=FORMULATEXT(B175)",
+        "url2": "=FORMULATEXT(C175)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -10868,6 +11216,8 @@
         "clothGroupId": 1362,
         "internalId": 14400,
         "uniqueEntryId": "cEnSBEPXFjAxYwCSA",
+        "url": "=FORMULATEXT(B176)",
+        "url2": "=FORMULATEXT(C176)",
         "variantTranslations": {
           "eUde": "Gold",
           "eUen": "Gold",
@@ -10900,6 +11250,8 @@
         "clothGroupId": 1362,
         "internalId": 14396,
         "uniqueEntryId": "4yeToTMfBL93og2df",
+        "url": "=FORMULATEXT(B177)",
+        "url2": "=FORMULATEXT(C177)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -10932,6 +11284,8 @@
         "clothGroupId": 1362,
         "internalId": 14395,
         "uniqueEntryId": "w6X2SpfPsjYWxd9oS",
+        "url": "=FORMULATEXT(B178)",
+        "url2": "=FORMULATEXT(C178)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -10964,6 +11318,8 @@
         "clothGroupId": 1362,
         "internalId": 14397,
         "uniqueEntryId": "3qy9db9JiHZwbkAXr",
+        "url": "=FORMULATEXT(B179)",
+        "url2": "=FORMULATEXT(C179)",
         "variantTranslations": {
           "eUde": "Lila",
           "eUen": "Purple",
@@ -11058,6 +11414,8 @@
         "clothGroupId": 1498,
         "internalId": 14894,
         "uniqueEntryId": "9NPK7cBEw5j2D6mmk",
+        "url": "=FORMULATEXT(B180)",
+        "url2": "=FORMULATEXT(C180)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -11090,6 +11448,8 @@
         "clothGroupId": 1498,
         "internalId": 723,
         "uniqueEntryId": "zrtDTtKwkrMqYEquR",
+        "url": "=FORMULATEXT(B181)",
+        "url2": "=FORMULATEXT(C181)",
         "variantTranslations": {
           "eUde": "Grau",
           "eUen": "Gray",
@@ -11203,6 +11563,8 @@
         "clothGroupId": 1395,
         "internalId": 14366,
         "uniqueEntryId": "96aKMZhRQzgmrhuAj",
+        "url": "=FORMULATEXT(B182)",
+        "url2": "=FORMULATEXT(C182)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -11235,6 +11597,8 @@
         "clothGroupId": 1395,
         "internalId": 254,
         "uniqueEntryId": "NkJ9NsheWMwbNJou8",
+        "url": "=FORMULATEXT(B183)",
+        "url2": "=FORMULATEXT(C183)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -11267,6 +11631,8 @@
         "clothGroupId": 1395,
         "internalId": 259,
         "uniqueEntryId": "FEfyz2CCKv97Ri9z6",
+        "url": "=FORMULATEXT(B184)",
+        "url2": "=FORMULATEXT(C184)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -11299,6 +11665,8 @@
         "clothGroupId": 1395,
         "internalId": 256,
         "uniqueEntryId": "qZ5EAjzT6chzJMgkc",
+        "url": "=FORMULATEXT(B185)",
+        "url2": "=FORMULATEXT(C185)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -11331,6 +11699,8 @@
         "clothGroupId": 1395,
         "internalId": 258,
         "uniqueEntryId": "wyuPQPCeuefxhtidG",
+        "url": "=FORMULATEXT(B186)",
+        "url2": "=FORMULATEXT(C186)",
         "variantTranslations": {
           "eUde": "Hellblau",
           "eUen": "Light blue",
@@ -11363,6 +11733,8 @@
         "clothGroupId": 1395,
         "internalId": 257,
         "uniqueEntryId": "aMGp6FD9TEhJuDvbA",
+        "url": "=FORMULATEXT(B187)",
+        "url2": "=FORMULATEXT(C187)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -11395,6 +11767,8 @@
         "clothGroupId": 1395,
         "internalId": 260,
         "uniqueEntryId": "Eo4fKa4d43eqase4v",
+        "url": "=FORMULATEXT(B188)",
+        "url2": "=FORMULATEXT(C188)",
         "variantTranslations": {
           "eUde": "Lila",
           "eUen": "Purple",
@@ -11427,6 +11801,8 @@
         "clothGroupId": 1395,
         "internalId": 255,
         "uniqueEntryId": "KRCqgD96dNRuvjQh7",
+        "url": "=FORMULATEXT(B189)",
+        "url2": "=FORMULATEXT(C189)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -11540,6 +11916,8 @@
         "clothGroupId": 984,
         "internalId": 12007,
         "uniqueEntryId": "Lqtjq3rWFoy4Dv39C",
+        "url": "=FORMULATEXT(B190)",
+        "url2": "=FORMULATEXT(C190)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -11572,6 +11950,8 @@
         "clothGroupId": 984,
         "internalId": 7302,
         "uniqueEntryId": "vY7qcZFdWb3HgSv7L",
+        "url": "=FORMULATEXT(B191)",
+        "url2": "=FORMULATEXT(C191)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -11604,6 +11984,8 @@
         "clothGroupId": 984,
         "internalId": 12008,
         "uniqueEntryId": "nGhHjk4GEKSQwvARA",
+        "url": "=FORMULATEXT(B192)",
+        "url2": "=FORMULATEXT(C192)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -11717,6 +12099,8 @@
         "clothGroupId": 985,
         "internalId": 11975,
         "uniqueEntryId": "NRYqQLN2Beq4jpDBJ",
+        "url": "=FORMULATEXT(B193)",
+        "url2": "=FORMULATEXT(C193)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 985,
@@ -11752,6 +12136,8 @@
         "clothGroupId": 985,
         "internalId": 11974,
         "uniqueEntryId": "LYnLwBnwTYcMp4fr9",
+        "url": "=FORMULATEXT(B194)",
+        "url2": "=FORMULATEXT(C194)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 985,
@@ -11787,6 +12173,8 @@
         "clothGroupId": 985,
         "internalId": 7304,
         "uniqueEntryId": "n82fhWWNSv8kyFJc2",
+        "url": "=FORMULATEXT(B195)",
+        "url2": "=FORMULATEXT(C195)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 985,
@@ -11903,6 +12291,8 @@
         "clothGroupId": 1471,
         "internalId": 593,
         "uniqueEntryId": "5dHpdP4JSz8oSzzwi",
+        "url": "=FORMULATEXT(B196)",
+        "url2": "=FORMULATEXT(C196)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -11935,6 +12325,8 @@
         "clothGroupId": 1471,
         "internalId": 655,
         "uniqueEntryId": "P26qgJx976qNnTizz",
+        "url": "=FORMULATEXT(B197)",
+        "url2": "=FORMULATEXT(C197)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -11967,6 +12359,8 @@
         "clothGroupId": 1471,
         "internalId": 654,
         "uniqueEntryId": "g6vSGRqY7twi2Xwb7",
+        "url": "=FORMULATEXT(B198)",
+        "url2": "=FORMULATEXT(C198)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -11999,6 +12393,8 @@
         "clothGroupId": 1471,
         "internalId": 14824,
         "uniqueEntryId": "v9ciNcMfwAKxRMpFv",
+        "url": "=FORMULATEXT(B199)",
+        "url2": "=FORMULATEXT(C199)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -12031,6 +12427,8 @@
         "clothGroupId": 1471,
         "internalId": 629,
         "uniqueEntryId": "xjhK3RT8JhG5vgsXa",
+        "url": "=FORMULATEXT(B200)",
+        "url2": "=FORMULATEXT(C200)",
         "variantTranslations": {
           "eUde": "Kamelfarben",
           "eUen": "Camel",
@@ -12144,6 +12542,8 @@
         "clothGroupId": 1396,
         "internalId": 14367,
         "uniqueEntryId": "Eun5adjptXEx583F5",
+        "url": "=FORMULATEXT(B201)",
+        "url2": "=FORMULATEXT(C201)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -12176,6 +12576,8 @@
         "clothGroupId": 1396,
         "internalId": 263,
         "uniqueEntryId": "2yZ9Lwtwy5hi6NkD8",
+        "url": "=FORMULATEXT(B202)",
+        "url2": "=FORMULATEXT(C202)",
         "variantTranslations": {
           "eUde": "Grau",
           "eUen": "Gray",
@@ -12208,6 +12610,8 @@
         "clothGroupId": 1396,
         "internalId": 262,
         "uniqueEntryId": "4whhzLZv4ev8ce8uq",
+        "url": "=FORMULATEXT(B203)",
+        "url2": "=FORMULATEXT(C203)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -12240,6 +12644,8 @@
         "clothGroupId": 1396,
         "internalId": 265,
         "uniqueEntryId": "DuwfdGhZ8xdwNqKXB",
+        "url": "=FORMULATEXT(B204)",
+        "url2": "=FORMULATEXT(C204)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -12272,6 +12678,8 @@
         "clothGroupId": 1396,
         "internalId": 261,
         "uniqueEntryId": "SFupMsosQrxSYCwjN",
+        "url": "=FORMULATEXT(B205)",
+        "url2": "=FORMULATEXT(C205)",
         "variantTranslations": {
           "eUde": "Marineblau",
           "eUen": "Navy blue",
@@ -12304,6 +12712,8 @@
         "clothGroupId": 1396,
         "internalId": 264,
         "uniqueEntryId": "MziaRbziRSrR8XrMC",
+        "url": "=FORMULATEXT(B206)",
+        "url2": "=FORMULATEXT(C206)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -12356,6 +12766,8 @@
     "clothGroupId": 982,
     "internalId": 7494,
     "uniqueEntryId": "XEsQxMf7k9qvjYxPF",
+    "url": "=FORMULATEXT(B207)",
+    "url2": "=FORMULATEXT(C207)",
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -12556,6 +12968,8 @@
         "clothGroupId": 1479,
         "internalId": 14843,
         "uniqueEntryId": "46RJNMzFwzNwqK4BJ",
+        "url": "=FORMULATEXT(B208)",
+        "url2": "=FORMULATEXT(C208)",
         "variantTranslations": {
           "eUde": "Kamelfarben",
           "eUen": "Camel",
@@ -12588,6 +13002,8 @@
         "clothGroupId": 1479,
         "internalId": 699,
         "uniqueEntryId": "5AqHWzzspzWQBrkeJ",
+        "url": "=FORMULATEXT(B209)",
+        "url2": "=FORMULATEXT(C209)",
         "variantTranslations": {
           "eUde": "Grau",
           "eUen": "Gray",
@@ -12620,6 +13036,8 @@
         "clothGroupId": 1479,
         "internalId": 721,
         "uniqueEntryId": "wQXGc6h9AaPKQNkMk",
+        "url": "=FORMULATEXT(B210)",
+        "url2": "=FORMULATEXT(C210)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -12714,6 +13132,8 @@
         "clothGroupId": 1513,
         "internalId": 14787,
         "uniqueEntryId": "TjJmKPSpS5YvWRyLx",
+        "url": "=FORMULATEXT(B211)",
+        "url2": "=FORMULATEXT(C211)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -12746,6 +13166,8 @@
         "clothGroupId": 1513,
         "internalId": 358,
         "uniqueEntryId": "XEhDmxKAguuTnaZ2p",
+        "url": "=FORMULATEXT(B212)",
+        "url2": "=FORMULATEXT(C212)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -12778,6 +13200,8 @@
         "clothGroupId": 1513,
         "internalId": 359,
         "uniqueEntryId": "uqapgkphMr2xSCref",
+        "url": "=FORMULATEXT(B213)",
+        "url2": "=FORMULATEXT(C213)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -12810,6 +13234,8 @@
         "clothGroupId": 1513,
         "internalId": 357,
         "uniqueEntryId": "baKhef2uMjG9u5uew",
+        "url": "=FORMULATEXT(B214)",
+        "url2": "=FORMULATEXT(C214)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -12842,6 +13268,8 @@
         "clothGroupId": 1513,
         "internalId": 361,
         "uniqueEntryId": "QgHjko5EaZJzeTcdo",
+        "url": "=FORMULATEXT(B215)",
+        "url2": "=FORMULATEXT(C215)",
         "variantTranslations": {
           "eUde": "Schwarz-weiß",
           "eUen": "Black & white",
@@ -12874,6 +13302,8 @@
         "clothGroupId": 1513,
         "internalId": 360,
         "uniqueEntryId": "uMP95fiBP86EyCrrq",
+        "url": "=FORMULATEXT(B216)",
+        "url2": "=FORMULATEXT(C216)",
         "variantTranslations": {
           "eUde": "Beige",
           "eUen": "Beige",
@@ -12926,6 +13356,8 @@
     "clothGroupId": 981,
     "internalId": 7493,
     "uniqueEntryId": "gW7R4HX8hjZEHAFtB",
+    "url": "=FORMULATEXT(B217)",
+    "url2": "=FORMULATEXT(C217)",
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -13126,6 +13558,8 @@
         "clothGroupId": 1482,
         "internalId": 687,
         "uniqueEntryId": "j3ekuYNChEzbFwYHi",
+        "url": "=FORMULATEXT(B218)",
+        "url2": "=FORMULATEXT(C218)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -13158,6 +13592,8 @@
         "clothGroupId": 1482,
         "internalId": 686,
         "uniqueEntryId": "TnLKmp7wRGv58oXiH",
+        "url": "=FORMULATEXT(B219)",
+        "url2": "=FORMULATEXT(C219)",
         "variantTranslations": {
           "eUde": "Lila",
           "eUen": "Purple",
@@ -13190,6 +13626,8 @@
         "clothGroupId": 1482,
         "internalId": 14840,
         "uniqueEntryId": "A2HoiTh5o3kZfaPb9",
+        "url": "=FORMULATEXT(B220)",
+        "url2": "=FORMULATEXT(C220)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -13322,6 +13760,8 @@
         "clothGroupId": 989,
         "internalId": 11967,
         "uniqueEntryId": "wN6jaJRRvg6cQZXhk",
+        "url": "=FORMULATEXT(B221)",
+        "url2": "=FORMULATEXT(C221)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -13354,6 +13794,8 @@
         "clothGroupId": 989,
         "internalId": 7500,
         "uniqueEntryId": "2RYepaMxTnXMZ9tXg",
+        "url": "=FORMULATEXT(B222)",
+        "url2": "=FORMULATEXT(C222)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -13386,6 +13828,8 @@
         "clothGroupId": 989,
         "internalId": 11968,
         "uniqueEntryId": "rJain6G9X749mG5p7",
+        "url": "=FORMULATEXT(B223)",
+        "url2": "=FORMULATEXT(C223)",
         "variantTranslations": {
           "eUde": "Grün",
           "eUen": "Green",
@@ -13480,6 +13924,8 @@
         "clothGroupId": 1469,
         "internalId": 14822,
         "uniqueEntryId": "v2YbfRZAxvtYHebQC",
+        "url": "=FORMULATEXT(B224)",
+        "url2": "=FORMULATEXT(C224)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -13512,6 +13958,8 @@
         "clothGroupId": 1469,
         "internalId": 580,
         "uniqueEntryId": "eKaCGGsdoK7RwTEsL",
+        "url": "=FORMULATEXT(B225)",
+        "url2": "=FORMULATEXT(C225)",
         "variantTranslations": {
           "eUde": "Beige",
           "eUen": "Beige",
@@ -13564,6 +14012,8 @@
     "clothGroupId": 977,
     "internalId": 7489,
     "uniqueEntryId": "3WQ8vSWtHMjZ6YPtR",
+    "url": "=FORMULATEXT(B226)",
+    "url2": "=FORMULATEXT(C226)",
     "themesTranslations": {
       "fairy tale": {
         "sourceSheet": "Fashion Themes",
@@ -13722,6 +14172,8 @@
     "clothGroupId": 976,
     "internalId": 7488,
     "uniqueEntryId": "CGs3z4dKEkH82FDyq",
+    "url": "=FORMULATEXT(B227)",
+    "url2": "=FORMULATEXT(C227)",
     "themesTranslations": {
       "comfy": {
         "sourceSheet": "Fashion Themes",
@@ -13895,6 +14347,8 @@
         "clothGroupId": 1504,
         "internalId": 14855,
         "uniqueEntryId": "yb7uitAH93P7rKqNe",
+        "url": "=FORMULATEXT(B228)",
+        "url2": "=FORMULATEXT(C228)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -13927,6 +14381,8 @@
         "clothGroupId": 1504,
         "internalId": 362,
         "uniqueEntryId": "GnEDsggSpDGP9ia7x",
+        "url": "=FORMULATEXT(B229)",
+        "url2": "=FORMULATEXT(C229)",
         "variantTranslations": {
           "eUde": "Schwarz-weiß",
           "eUen": "Black & white",
@@ -14040,6 +14496,8 @@
         "clothGroupId": 992,
         "internalId": 12006,
         "uniqueEntryId": "e6iev2NrSfaxSg5nr",
+        "url": "=FORMULATEXT(B230)",
+        "url2": "=FORMULATEXT(C230)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -14072,6 +14530,8 @@
         "clothGroupId": 992,
         "internalId": 7503,
         "uniqueEntryId": "mTMCDJnwtFJzvQ9rs",
+        "url": "=FORMULATEXT(B231)",
+        "url2": "=FORMULATEXT(C231)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -14185,6 +14645,8 @@
         "clothGroupId": 1458,
         "internalId": 14785,
         "uniqueEntryId": "Ti6Q8jF6RWqZNugdQ",
+        "url": "=FORMULATEXT(B232)",
+        "url2": "=FORMULATEXT(C232)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -14217,6 +14679,8 @@
         "clothGroupId": 1458,
         "internalId": 711,
         "uniqueEntryId": "JPyM7LmhhX5CmMebh",
+        "url": "=FORMULATEXT(B233)",
+        "url2": "=FORMULATEXT(C233)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -14249,6 +14713,8 @@
         "clothGroupId": 1458,
         "internalId": 713,
         "uniqueEntryId": "5gEjmPpj3WFRuhFdf",
+        "url": "=FORMULATEXT(B234)",
+        "url2": "=FORMULATEXT(C234)",
         "variantTranslations": {
           "eUde": "Schwarz",
           "eUen": "Black",
@@ -14306,6 +14772,8 @@
     "clothGroupId": 966,
     "internalId": 7478,
     "uniqueEntryId": "prkWCjgn7gTK4X8QH",
+    "url": "=FORMULATEXT(B235)",
+    "url2": "=FORMULATEXT(C235)",
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -14498,6 +14966,8 @@
         "clothGroupId": 1515,
         "internalId": 14856,
         "uniqueEntryId": "ReXGHBzSxKfbAjPsK",
+        "url": "=FORMULATEXT(B236)",
+        "url2": "=FORMULATEXT(C236)",
         "variantTranslations": {
           "eUde": "Rosa",
           "eUen": "Pink",
@@ -14530,6 +15000,8 @@
         "clothGroupId": 1515,
         "internalId": 364,
         "uniqueEntryId": "qmksHJtPC2wdfyFQk",
+        "url": "=FORMULATEXT(B237)",
+        "url2": "=FORMULATEXT(C237)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -14562,6 +15034,8 @@
         "clothGroupId": 1515,
         "internalId": 363,
         "uniqueEntryId": "xM7mTGXFc8aeesQaq",
+        "url": "=FORMULATEXT(B238)",
+        "url2": "=FORMULATEXT(C238)",
         "variantTranslations": {
           "eUde": "Hellblau",
           "eUen": "Light blue",
@@ -14614,6 +15088,8 @@
     "clothGroupId": 983,
     "internalId": 7497,
     "uniqueEntryId": "KiXvv8fvv7CN5sFDx",
+    "url": "=FORMULATEXT(B239)",
+    "url2": "=FORMULATEXT(C239)",
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -14768,6 +15244,8 @@
         "clothGroupId": 957,
         "internalId": 11945,
         "uniqueEntryId": "wkeZwbrp9BoHTEPRZ",
+        "url": "=FORMULATEXT(B240)",
+        "url2": "=FORMULATEXT(C240)",
         "variantTranslations": {
           "eUde": "Rot",
           "eUen": "Red",
@@ -14800,6 +15278,8 @@
         "clothGroupId": 957,
         "internalId": 6839,
         "uniqueEntryId": "aZasytqebQRikaZZZ",
+        "url": "=FORMULATEXT(B241)",
+        "url2": "=FORMULATEXT(C241)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 957,
@@ -14835,6 +15315,8 @@
         "clothGroupId": 957,
         "internalId": 6838,
         "uniqueEntryId": "sm5eKnwyeNyKGXQLC",
+        "url": "=FORMULATEXT(B242)",
+        "url2": "=FORMULATEXT(C242)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 957,
@@ -14870,6 +15352,8 @@
         "clothGroupId": 957,
         "internalId": 11944,
         "uniqueEntryId": "WGhvofsBw6pFs5c93",
+        "url": "=FORMULATEXT(B243)",
+        "url2": "=FORMULATEXT(C243)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 957,
@@ -14986,6 +15470,8 @@
         "clothGroupId": 958,
         "internalId": 2550,
         "uniqueEntryId": "ygrWBZtknqDLLH8Rn",
+        "url": "=FORMULATEXT(B244)",
+        "url2": "=FORMULATEXT(C244)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 958,
@@ -15021,6 +15507,8 @@
         "clothGroupId": 958,
         "internalId": 12000,
         "uniqueEntryId": "oX3GfBwtMfcQ4STtd",
+        "url": "=FORMULATEXT(B245)",
+        "url2": "=FORMULATEXT(C245)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 958,
@@ -15056,6 +15544,8 @@
         "clothGroupId": 958,
         "internalId": 12001,
         "uniqueEntryId": "SSHDSgfSasCP6AgmW",
+        "url": "=FORMULATEXT(B246)",
+        "url2": "=FORMULATEXT(C246)",
         "variantTranslations": {
           "eUde": "Hellblau",
           "eUen": "Light blue",
@@ -15088,6 +15578,8 @@
         "clothGroupId": 958,
         "internalId": 12002,
         "uniqueEntryId": "HTjXg6MXwPZCwEtmJ",
+        "url": "=FORMULATEXT(B247)",
+        "url2": "=FORMULATEXT(C247)",
         "variantTranslations": {
           "sourceSheet": "Item Variant Names",
           "id": 958,
@@ -15223,6 +15715,8 @@
         "clothGroupId": 988,
         "internalId": 7499,
         "uniqueEntryId": "ag2m7kcBg83aCARGE",
+        "url": "=FORMULATEXT(B248)",
+        "url2": "=FORMULATEXT(C248)",
         "variantTranslations": {
           "eUde": "Orange",
           "eUen": "Orange",
@@ -15255,6 +15749,8 @@
         "clothGroupId": 988,
         "internalId": 11965,
         "uniqueEntryId": "iprTWWTSARJtHTKqF",
+        "url": "=FORMULATEXT(B249)",
+        "url2": "=FORMULATEXT(C249)",
         "variantTranslations": {
           "eUde": "Blau",
           "eUen": "Blue",
@@ -15287,6 +15783,8 @@
         "clothGroupId": 988,
         "internalId": 11966,
         "uniqueEntryId": "ehhBAiZqTHaTExHYP",
+        "url": "=FORMULATEXT(B250)",
+        "url2": "=FORMULATEXT(C250)",
         "variantTranslations": {
           "eUde": "Braun",
           "eUen": "Brown",
@@ -15339,6 +15837,8 @@
     "clothGroupId": 1517,
     "internalId": 14642,
     "uniqueEntryId": "2c3dbi4vXBJ4m93jg",
+    "url": "=FORMULATEXT(B251)",
+    "url2": "=FORMULATEXT(C251)",
     "themesTranslations": {
       "everyday": {
         "sourceSheet": "Fashion Themes",
@@ -15413,6 +15913,8 @@
     "clothGroupId": 1358,
     "internalId": 14249,
     "uniqueEntryId": "9obxvbNYBwWEyCDgG",
+    "url": "=FORMULATEXT(B252)",
+    "url2": "=FORMULATEXT(C252)",
     "themesTranslations": {
       "outdoorsy": {
         "sourceSheet": "Fashion Themes",
@@ -15594,6 +16096,8 @@
         "clothGroupId": 1478,
         "internalId": 14841,
         "uniqueEntryId": "9TBWoimJRRKQAtPLr",
+        "url": "=FORMULATEXT(B253)",
+        "url2": "=FORMULATEXT(C253)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -15626,6 +16130,8 @@
         "clothGroupId": 1478,
         "internalId": 691,
         "uniqueEntryId": "4Z8AEPoYdHBnWKWpP",
+        "url": "=FORMULATEXT(B254)",
+        "url2": "=FORMULATEXT(C254)",
         "variantTranslations": {
           "eUde": "Gelb",
           "eUen": "Yellow",
@@ -15720,6 +16226,8 @@
         "clothGroupId": 1499,
         "internalId": 14895,
         "uniqueEntryId": "Tgs49qZqeCRhwcjXS",
+        "url": "=FORMULATEXT(B255)",
+        "url2": "=FORMULATEXT(C255)",
         "variantTranslations": {
           "eUde": "Weiß",
           "eUen": "White",
@@ -15752,6 +16260,8 @@
         "clothGroupId": 1499,
         "internalId": 726,
         "uniqueEntryId": "iR3Y5q357rdAgJf7R",
+        "url": "=FORMULATEXT(B256)",
+        "url2": "=FORMULATEXT(C256)",
         "variantTranslations": {
           "sourceSheet": "Item Pattern Names",
           "id": 1499,
@@ -15849,6 +16359,8 @@
         "clothGroupId": 1491,
         "internalId": 14860,
         "uniqueEntryId": "j2KQWS8koFrMCfFSB",
+        "url": "=FORMULATEXT(B257)",
+        "url2": "=FORMULATEXT(C257)",
         "variantTranslations": {
           "eUde": "Dunkelblau",
           "eUen": "Dark blue",
@@ -15881,6 +16393,8 @@
         "clothGroupId": 1491,
         "internalId": 353,
         "uniqueEntryId": "JPNKHa4Rj38xrtR6a",
+        "url": "=FORMULATEXT(B258)",
+        "url2": "=FORMULATEXT(C258)",
         "variantTranslations": {
           "eUde": "Wisteria",
           "eUen": "Wisteria",
@@ -15913,6 +16427,8 @@
         "clothGroupId": 1491,
         "internalId": 354,
         "uniqueEntryId": "W6M48fGe9R2XamF9c",
+        "url": "=FORMULATEXT(B259)",
+        "url2": "=FORMULATEXT(C259)",
         "variantTranslations": {
           "eUde": "Himmelblau",
           "eUen": "Sky blue",

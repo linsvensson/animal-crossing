@@ -41,6 +41,7 @@
     "bubbleColor": "#0961f6",
     "filename": "brd09",
     "uniqueEntryId": "cBJxF2eoM4Cymei82",
+    "url": "=FORMULATEXT(C2)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd09",
@@ -124,6 +125,7 @@
     "bubbleColor": "#0ca54a",
     "filename": "brd06",
     "uniqueEntryId": "B3RyfNEqwGmcccRC3",
+    "url": "=FORMULATEXT(C3)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd06",
@@ -208,6 +210,7 @@
     "bubbleColor": "#0961f6",
     "filename": "squ05",
     "uniqueEntryId": "SGMdki6dzpDZyXAw5",
+    "url": "=FORMULATEXT(C4)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ05",
@@ -292,6 +295,7 @@
     "bubbleColor": "#515151",
     "filename": "pig17",
     "uniqueEntryId": "jzWCiDPm9MqtCfecP",
+    "url": "=FORMULATEXT(C5)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig17",
@@ -374,6 +378,7 @@
     "bubbleColor": "#798040",
     "filename": "gor08",
     "uniqueEntryId": "LBifxETQJGEaLhBjC",
+    "url": "=FORMULATEXT(C6)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor08",
@@ -456,6 +461,7 @@
     "bubbleColor": "#e8b010",
     "filename": "crd00",
     "uniqueEntryId": "REpd8KxB8p9aGBRSE",
+    "url": "=FORMULATEXT(C7)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "crd00",
@@ -539,6 +545,7 @@
     "bubbleColor": "#e8b010",
     "filename": "kal01",
     "uniqueEntryId": "wkPJDHMMMTK24eqzC",
+    "url": "=FORMULATEXT(C8)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal01",
@@ -620,6 +627,7 @@
     "bubbleColor": "#3fd8e0",
     "filename": "crd01",
     "uniqueEntryId": "dcB3BpFLtcXHAbt5i",
+    "url": "=FORMULATEXT(C9)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "crd01",
@@ -702,6 +710,7 @@
     "bubbleColor": "#ff4040",
     "filename": "pbr01",
     "uniqueEntryId": "gWpcHhfpuN4MSTdhF",
+    "url": "=FORMULATEXT(C10)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr01",
@@ -787,6 +796,7 @@
     "bubbleColor": "#ff791f",
     "filename": "ant03",
     "uniqueEntryId": "gvdKbp6t9xMtx5swT",
+    "url": "=FORMULATEXT(C11)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ant03",
@@ -869,6 +879,7 @@
     "bubbleColor": "#d86808",
     "filename": "brd02",
     "uniqueEntryId": "T9ya79MPxRxcR4tae",
+    "url": "=FORMULATEXT(C12)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd02",
@@ -951,6 +962,7 @@
     "bubbleColor": "#ff791f",
     "filename": "bul00",
     "uniqueEntryId": "jHQfWetzGf6Zhgt4u",
+    "url": "=FORMULATEXT(C13)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bul00",
@@ -1037,6 +1049,7 @@
     "bubbleColor": "#78dd62",
     "filename": "mus10",
     "uniqueEntryId": "oGr6N9vC3TD9raXbf",
+    "url": "=FORMULATEXT(C14)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus10",
@@ -1117,6 +1130,7 @@
     "bubbleColor": "#fff80d",
     "filename": "cat19",
     "uniqueEntryId": "AWdRRws22EGTxC7vc",
+    "url": "=FORMULATEXT(C15)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat19",
@@ -1198,6 +1212,7 @@
     "bubbleColor": "#ffffff",
     "filename": "ant08",
     "uniqueEntryId": "XTwyzscZPAA8LRdYN",
+    "url": "=FORMULATEXT(C16)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ant08",
@@ -1280,6 +1295,7 @@
     "bubbleColor": "#7c6559",
     "filename": "hrs09",
     "uniqueEntryId": "88YKJKvjin32GeG4H",
+    "url": "=FORMULATEXT(C17)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs09",
@@ -1361,6 +1377,7 @@
     "bubbleColor": "#fff98f",
     "filename": "ant01",
     "uniqueEntryId": "RQNii4nDE2AWswpgE",
+    "url": "=FORMULATEXT(C18)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ant01",
@@ -1442,6 +1459,7 @@
     "bubbleColor": "#ffffff",
     "filename": "pbr00",
     "uniqueEntryId": "25sZq7NjGGADiEXtR",
+    "url": "=FORMULATEXT(C19)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr00",
@@ -1529,6 +1547,7 @@
     "bubbleColor": "#ff6183",
     "filename": "ham01",
     "uniqueEntryId": "bEHwPJ3GBDZaNE4Bd",
+    "url": "=FORMULATEXT(C20)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ham01",
@@ -1610,6 +1629,7 @@
     "bubbleColor": "#ffffff",
     "filename": "kgr05",
     "uniqueEntryId": "qrki2afmbkBQ6DbmZ",
+    "url": "=FORMULATEXT(C21)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kgr05",
@@ -1694,6 +1714,7 @@
     "bubbleColor": "#ff791f",
     "filename": "wol12",
     "uniqueEntryId": "2tufzN7iwjncqLu7Y",
+    "url": "=FORMULATEXT(C22)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol12",
@@ -1778,6 +1799,7 @@
     "bubbleColor": "#ffffff",
     "filename": "pgn00",
     "uniqueEntryId": "CXt3MBoeCZXXSRS7B",
+    "url": "=FORMULATEXT(C23)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn00",
@@ -1861,6 +1883,7 @@
     "bubbleColor": "#e8b010",
     "filename": "chn05",
     "uniqueEntryId": "93emjZzaaLb7BdkSn",
+    "url": "=FORMULATEXT(C24)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "chn05",
@@ -1942,6 +1965,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "pbr05",
     "uniqueEntryId": "SKF5NqPPqzjL7dEng",
+    "url": "=FORMULATEXT(C25)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr05",
@@ -2025,6 +2049,7 @@
     "bubbleColor": "#459aba",
     "filename": "elp06",
     "uniqueEntryId": "K3aj3w7fLcMETyuzf",
+    "url": "=FORMULATEXT(C26)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp06",
@@ -2105,6 +2130,7 @@
     "bubbleColor": "#00d1bd",
     "filename": "rhn05",
     "uniqueEntryId": "2CX2qeoCkm9FQGrZv",
+    "url": "=FORMULATEXT(C27)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rhn05",
@@ -2190,6 +2216,7 @@
     "bubbleColor": "#8bcdea",
     "filename": "shp01",
     "uniqueEntryId": "LAWZdKWcejrkbikco",
+    "url": "=FORMULATEXT(C28)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp01",
@@ -2272,6 +2299,7 @@
     "bubbleColor": "#0961f6",
     "filename": "der01",
     "uniqueEntryId": "2yvPukPn4ZSamngmb",
+    "url": "=FORMULATEXT(C29)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der01",
@@ -2358,6 +2386,7 @@
     "bubbleColor": "#7a2500",
     "filename": "tig03",
     "uniqueEntryId": "DvL5iP2kNCNfwc6Mv",
+    "url": "=FORMULATEXT(C30)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "tig03",
@@ -2447,6 +2476,7 @@
     "bubbleColor": "#bfbfbf",
     "filename": "cbr16",
     "uniqueEntryId": "6qZJQFWqeCHzPNyEZ",
+    "url": "=FORMULATEXT(C31)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr16",
@@ -2559,6 +2589,7 @@
     "bubbleColor": "#a87850",
     "filename": "dog10",
     "uniqueEntryId": "DkqHjENW8fRBE9uxG",
+    "url": "=FORMULATEXT(C32)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog10",
@@ -2640,6 +2671,7 @@
     "bubbleColor": "#3fd8e0",
     "filename": "bea13",
     "uniqueEntryId": "3XoqTm3LW4C4BvLBt",
+    "url": "=FORMULATEXT(C33)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea13",
@@ -2721,6 +2753,7 @@
     "bubbleColor": "#ff791f",
     "filename": "der07",
     "uniqueEntryId": "zbkkW8wWbmyGAZauv",
+    "url": "=FORMULATEXT(C34)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der07",
@@ -2801,6 +2834,7 @@
     "bubbleColor": "#a06fce",
     "filename": "chn09",
     "uniqueEntryId": "D7Atj8BuHK6mgwwvZ",
+    "url": "=FORMULATEXT(C35)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "chn09",
@@ -2887,6 +2921,7 @@
     "bubbleColor": "#ffffff",
     "filename": "mus02",
     "uniqueEntryId": "hu4qewj6YKKmzMpYL",
+    "url": "=FORMULATEXT(C36)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus02",
@@ -2968,6 +3003,7 @@
     "bubbleColor": "#ff4040",
     "filename": "chn01",
     "uniqueEntryId": "BjcoELiTM3m8StExF",
+    "url": "=FORMULATEXT(C37)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "chn01",
@@ -3055,6 +3091,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "dog16",
     "uniqueEntryId": "wgb64Mp6XbFS2CPwj",
+    "url": "=FORMULATEXT(C38)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog16",
@@ -3141,6 +3178,7 @@
     "bubbleColor": "#00d1bd",
     "filename": "hip03",
     "uniqueEntryId": "oMQnY9fuzdtPweuLi",
+    "url": "=FORMULATEXT(C39)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hip03",
@@ -3228,6 +3266,7 @@
     "bubbleColor": "#ff791f",
     "filename": "mus15",
     "uniqueEntryId": "r9JpujcMdgTRABad9",
+    "url": "=FORMULATEXT(C40)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus15",
@@ -3312,6 +3351,7 @@
     "bubbleColor": "#ffffff",
     "filename": "tig06",
     "uniqueEntryId": "KGECko2WSNbQp4oRY",
+    "url": "=FORMULATEXT(C41)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "tig06",
@@ -3391,6 +3431,7 @@
     "bubbleColor": "#7a2500",
     "filename": "hip04",
     "uniqueEntryId": "sT2KXbN2N3dqB6aaN",
+    "url": "=FORMULATEXT(C42)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hip04",
@@ -3471,6 +3512,7 @@
     "bubbleColor": "#78dd62",
     "filename": "elp02",
     "uniqueEntryId": "o2NPbZGfMvTD7Se5i",
+    "url": "=FORMULATEXT(C43)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp02",
@@ -3558,6 +3600,7 @@
     "bubbleColor": "#7a2500",
     "filename": "duk00",
     "uniqueEntryId": "hcnPuswvHJykZw7BX",
+    "url": "=FORMULATEXT(C44)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk00",
@@ -3642,6 +3685,7 @@
     "bubbleColor": "#d86808",
     "filename": "goa02",
     "uniqueEntryId": "dqEHTSBSx5iLhGiSC",
+    "url": "=FORMULATEXT(C45)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "goa02",
@@ -3724,6 +3768,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "dog03",
     "uniqueEntryId": "nfeef6XSSstGwrbWo",
+    "url": "=FORMULATEXT(C46)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog03",
@@ -3812,6 +3857,7 @@
     "bubbleColor": "#f993ce",
     "filename": "hip05",
     "uniqueEntryId": "JGyY83aN4ocBGZs8s",
+    "url": "=FORMULATEXT(C47)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hip05",
@@ -3899,6 +3945,7 @@
     "bubbleColor": "#515151",
     "filename": "squ01",
     "uniqueEntryId": "SjArzqyvbHAbgRz8D",
+    "url": "=FORMULATEXT(C48)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ01",
@@ -3981,6 +4028,7 @@
     "bubbleColor": "#ffffff",
     "filename": "ost08",
     "uniqueEntryId": "2B4NDzz69JKjjqF9o",
+    "url": "=FORMULATEXT(C49)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost08",
@@ -4062,6 +4110,7 @@
     "bubbleColor": "#3fd8e0",
     "filename": "cbr00",
     "uniqueEntryId": "ytYM52sRa4vhWW9cF",
+    "url": "=FORMULATEXT(C50)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr00",
@@ -4143,6 +4192,7 @@
     "bubbleColor": "#a06fce",
     "filename": "cat00",
     "uniqueEntryId": "KijzbrvT4obqCnBTw",
+    "url": "=FORMULATEXT(C51)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat00",
@@ -4225,6 +4275,7 @@
     "bubbleColor": "#7c6559",
     "filename": "rbt17",
     "uniqueEntryId": "yEQijXt6x8kQxdTrD",
+    "url": "=FORMULATEXT(C52)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt17",
@@ -4312,6 +4363,7 @@
     "bubbleColor": "#ffffff",
     "filename": "dog04",
     "uniqueEntryId": "Y3F5fcfjvypECTqSm",
+    "url": "=FORMULATEXT(C53)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog04",
@@ -4392,6 +4444,7 @@
     "bubbleColor": "#798040",
     "filename": "pgn10",
     "uniqueEntryId": "jqR8knKhx3kGYTSSd",
+    "url": "=FORMULATEXT(C54)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn10",
@@ -4474,6 +4527,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "gor02",
     "uniqueEntryId": "ZgTh9dkb3k36EPZ4o",
+    "url": "=FORMULATEXT(C55)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor02",
@@ -4556,6 +4610,7 @@
     "bubbleColor": "#0ca54a",
     "filename": "crd02",
     "uniqueEntryId": "xEt4yY9KCa4KoERfM",
+    "url": "=FORMULATEXT(C56)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "crd02",
@@ -4642,6 +4697,7 @@
     "bubbleColor": "#194c89",
     "filename": "pig09",
     "uniqueEntryId": "KRpDTZHnRjL2jn4H6",
+    "url": "=FORMULATEXT(C57)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig09",
@@ -4728,6 +4784,7 @@
     "bubbleColor": "#7a2500",
     "filename": "gor05",
     "uniqueEntryId": "qmod2zJ2CrQtqzrxw",
+    "url": "=FORMULATEXT(C58)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor05",
@@ -4810,6 +4867,7 @@
     "bubbleColor": "#ffffff",
     "filename": "mus03",
     "uniqueEntryId": "6khpEinhKwWjzZh9S",
+    "url": "=FORMULATEXT(C59)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus03",
@@ -4894,6 +4952,7 @@
     "bubbleColor": "#55cfff",
     "filename": "mus12",
     "uniqueEntryId": "yH5PZX3bdHRRxhCCX",
+    "url": "=FORMULATEXT(C60)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus12",
@@ -4978,6 +5037,7 @@
     "bubbleColor": "#ff791f",
     "filename": "chn12",
     "uniqueEntryId": "XSjgXrChHy9Trd5Pa",
+    "url": "=FORMULATEXT(C61)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "chn12",
@@ -5061,6 +5121,7 @@
     "bubbleColor": "#459aba",
     "filename": "der03",
     "uniqueEntryId": "dzo5NgALeJ73j3sNd",
+    "url": "=FORMULATEXT(C62)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der03",
@@ -5147,6 +5208,7 @@
     "bubbleColor": "#e8b010",
     "filename": "hip02",
     "uniqueEntryId": "K4k5ieRWQieA6Fqm8",
+    "url": "=FORMULATEXT(C63)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hip02",
@@ -5229,6 +5291,7 @@
     "bubbleColor": "#798040",
     "filename": "hrs00",
     "uniqueEntryId": "Xi74RYjLgeBB8vopx",
+    "url": "=FORMULATEXT(C64)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs00",
@@ -5310,6 +5373,7 @@
     "bubbleColor": "#d86808",
     "filename": "lon00",
     "uniqueEntryId": "WhJYGJgSfLF4ySXhh",
+    "url": "=FORMULATEXT(C65)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "lon00",
@@ -5399,6 +5463,7 @@
     "bubbleColor": "#ff791f",
     "filename": "rbt00",
     "uniqueEntryId": "XNBZBNmNXxC5bxz4t",
+    "url": "=FORMULATEXT(C66)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt00",
@@ -5480,6 +5545,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "dog01",
     "uniqueEntryId": "NPbD69TfvJAorLZ9a",
+    "url": "=FORMULATEXT(C67)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog01",
@@ -5560,6 +5626,7 @@
     "bubbleColor": "#d86808",
     "filename": "pbr03",
     "uniqueEntryId": "LWLRkHDisDgGdJ5ju",
+    "url": "=FORMULATEXT(C68)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr03",
@@ -5641,6 +5708,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "squ11",
     "uniqueEntryId": "DvkaYEh9vM2SXJLCc",
+    "url": "=FORMULATEXT(C69)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ11",
@@ -5723,6 +5791,7 @@
     "bubbleColor": "#76b788",
     "filename": "flg03",
     "uniqueEntryId": "5akmmJeoXXhcpdf8e",
+    "url": "=FORMULATEXT(C70)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg03",
@@ -5804,6 +5873,7 @@
     "bubbleColor": "#ff791f",
     "filename": "kal08",
     "uniqueEntryId": "ugiHobiK9QnmA22ym",
+    "url": "=FORMULATEXT(C71)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal08",
@@ -5886,6 +5956,7 @@
     "bubbleColor": "#ff6183",
     "filename": "mus08",
     "uniqueEntryId": "4CimNs6T9nDNQuiYH",
+    "url": "=FORMULATEXT(C72)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus08",
@@ -5975,6 +6046,7 @@
     "bubbleColor": "#7a2500",
     "filename": "rbt16",
     "uniqueEntryId": "pAFu4JyZ333Ysoezk",
+    "url": "=FORMULATEXT(C73)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt16",
@@ -6062,6 +6134,7 @@
     "bubbleColor": "#ff791f",
     "filename": "squ06",
     "uniqueEntryId": "Th3uHvMcYaf9eT2Df",
+    "url": "=FORMULATEXT(C74)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ06",
@@ -6178,6 +6251,7 @@
     "bubbleColor": "#e8b010",
     "filename": "kgr02",
     "uniqueEntryId": "igeZhX3Fqa8LdKEra",
+    "url": "=FORMULATEXT(C75)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kgr02",
@@ -6262,6 +6336,7 @@
     "bubbleColor": "#bff2ff",
     "filename": "shp04",
     "uniqueEntryId": "dnRDXd86NcXDNHyf4",
+    "url": "=FORMULATEXT(C76)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp04",
@@ -6347,6 +6422,7 @@
     "bubbleColor": "#4848d5",
     "filename": "squ19",
     "uniqueEntryId": "9srmBFSvyHuejuAxL",
+    "url": "=FORMULATEXT(C77)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ19",
@@ -6431,6 +6507,7 @@
     "bubbleColor": "#ffffff",
     "filename": "pbr09",
     "uniqueEntryId": "L8cCZBvY4JW4KsDGy",
+    "url": "=FORMULATEXT(C78)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr09",
@@ -6511,6 +6588,7 @@
     "bubbleColor": "#bfbfbf",
     "filename": "ocp04",
     "uniqueEntryId": "XSLfee37XThRe9tzQ",
+    "url": "=FORMULATEXT(C79)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ocp04",
@@ -6623,6 +6701,7 @@
     "bubbleColor": "#ff791f",
     "filename": "gor00",
     "uniqueEntryId": "pDKMq8PfxWLXWrsvT",
+    "url": "=FORMULATEXT(C80)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor00",
@@ -6705,6 +6784,7 @@
     "bubbleColor": "#194c89",
     "filename": "pgn07",
     "uniqueEntryId": "wenQMk8ugpffDGzb8",
+    "url": "=FORMULATEXT(C81)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn07",
@@ -6788,6 +6868,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "mus18",
     "uniqueEntryId": "4BLXuRhdjJ9TzvRyA",
+    "url": "=FORMULATEXT(C82)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus18",
@@ -6871,6 +6952,7 @@
     "bubbleColor": "#cefdff",
     "filename": "elp11",
     "uniqueEntryId": "DRPWaLbA7TZk384XR",
+    "url": "=FORMULATEXT(C83)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp11",
@@ -6952,6 +7034,7 @@
     "bubbleColor": "#78dd62",
     "filename": "bea12",
     "uniqueEntryId": "QqCXo64EBwXSrukSr",
+    "url": "=FORMULATEXT(C84)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea12",
@@ -7036,6 +7119,7 @@
     "bubbleColor": "#feaaaa",
     "filename": "der10",
     "uniqueEntryId": "HuvL3cvb6d7M7TiuA",
+    "url": "=FORMULATEXT(C85)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der10",
@@ -7146,6 +7230,7 @@
     "bubbleColor": "#db6161",
     "filename": "cbr10",
     "uniqueEntryId": "MpumYkzF382cPoRt5",
+    "url": "=FORMULATEXT(C86)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr10",
@@ -7230,6 +7315,7 @@
     "bubbleColor": "#ff6183",
     "filename": "dog17",
     "uniqueEntryId": "tafi3Cfsf4wbwC9LW",
+    "url": "=FORMULATEXT(C87)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog17",
@@ -7311,6 +7397,7 @@
     "bubbleColor": "#ffffff",
     "filename": "cbr15",
     "uniqueEntryId": "46bDn76rBA3hNjFZu",
+    "url": "=FORMULATEXT(C88)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr15",
@@ -7392,6 +7479,7 @@
     "bubbleColor": "#ffffff",
     "filename": "goa00",
     "uniqueEntryId": "XutRmNyAP4NogwPaR",
+    "url": "=FORMULATEXT(C89)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "goa00",
@@ -7479,6 +7567,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "wol00",
     "uniqueEntryId": "d3STnZCPAxLzrEzMd",
+    "url": "=FORMULATEXT(C90)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol00",
@@ -7560,6 +7649,7 @@
     "bubbleColor": "#d8cc39",
     "filename": "pig14",
     "uniqueEntryId": "8t9Bc5vqJ2vbtcjf5",
+    "url": "=FORMULATEXT(C91)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig14",
@@ -7642,6 +7732,7 @@
     "bubbleColor": "#f2bdc7",
     "filename": "bea03",
     "uniqueEntryId": "M3LhuYKZCmR5K9ckA",
+    "url": "=FORMULATEXT(C92)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea03",
@@ -7724,6 +7815,7 @@
     "bubbleColor": "#f993ce",
     "filename": "rbt13",
     "uniqueEntryId": "pYMsB8AHagkRht8RX",
+    "url": "=FORMULATEXT(C93)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt13",
@@ -7807,6 +7899,7 @@
     "bubbleColor": "#d86808",
     "filename": "rbt11",
     "uniqueEntryId": "PPFtt3uWkRQNMg2tZ",
+    "url": "=FORMULATEXT(C94)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt11",
@@ -7891,6 +7984,7 @@
     "bubbleColor": "#ec7efc",
     "filename": "tig05",
     "uniqueEntryId": "xCyuFvwryTntgPgvW",
+    "url": "=FORMULATEXT(C95)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "tig05",
@@ -7973,6 +8067,7 @@
     "bubbleColor": "#7a2500",
     "filename": "ham05",
     "uniqueEntryId": "K9s2bvx54sfHw8mZ8",
+    "url": "=FORMULATEXT(C96)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ham05",
@@ -8060,6 +8155,7 @@
     "bubbleColor": "#a06fce",
     "filename": "hrs07",
     "uniqueEntryId": "XwxskQMt5rJT8EnH5",
+    "url": "=FORMULATEXT(C97)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs07",
@@ -8142,6 +8238,7 @@
     "bubbleColor": "#d8cc39",
     "filename": "hrs10",
     "uniqueEntryId": "2iBqzRfTRaddw2EXi",
+    "url": "=FORMULATEXT(C98)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs10",
@@ -8226,6 +8323,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "bul07",
     "uniqueEntryId": "mYwCLsd8MxLwWALjQ",
+    "url": "=FORMULATEXT(C99)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bul07",
@@ -8314,6 +8412,7 @@
     "bubbleColor": "#a8e989",
     "filename": "pig08",
     "uniqueEntryId": "mTNPvAaoYMmPndYnm",
+    "url": "=FORMULATEXT(C100)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig08",
@@ -8397,6 +8496,7 @@
     "bubbleColor": "#e4b887",
     "filename": "rbt02",
     "uniqueEntryId": "2g7sGcTtHcJeWtwNM",
+    "url": "=FORMULATEXT(C101)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt02",
@@ -8480,6 +8580,7 @@
     "bubbleColor": "#515151",
     "filename": "rbt18",
     "uniqueEntryId": "YaWjP3XtbFqn8YPNd",
+    "url": "=FORMULATEXT(C102)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt18",
@@ -8560,6 +8661,7 @@
     "bubbleColor": "#ffffff",
     "filename": "hrs11",
     "uniqueEntryId": "GgsrLhmh3FL4ZiAPB",
+    "url": "=FORMULATEXT(C103)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs11",
@@ -8642,6 +8744,7 @@
     "bubbleColor": "#f993ce",
     "filename": "dog08",
     "uniqueEntryId": "YvNrsTEJsqkpdRNqL",
+    "url": "=FORMULATEXT(C104)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog08",
@@ -8726,6 +8829,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "flg10",
     "uniqueEntryId": "XPhZym7Wxu926eLD8",
+    "url": "=FORMULATEXT(C105)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg10",
@@ -8811,6 +8915,7 @@
     "bubbleColor": "#ffffff",
     "filename": "ost06",
     "uniqueEntryId": "Wbivs7b7D3NZ7q9y9",
+    "url": "=FORMULATEXT(C106)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost06",
@@ -8892,6 +8997,7 @@
     "bubbleColor": "#ff791f",
     "filename": "flg17",
     "uniqueEntryId": "SqHZjtuNfu7DAXYDE",
+    "url": "=FORMULATEXT(C107)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg17",
@@ -8976,6 +9082,7 @@
     "bubbleColor": "#515151",
     "filename": "pgn02",
     "uniqueEntryId": "YskkqbSnYwCh63Sru",
+    "url": "=FORMULATEXT(C108)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn02",
@@ -9060,6 +9167,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "shp08",
     "uniqueEntryId": "B6tM7dBSpcaMrAGrF",
+    "url": "=FORMULATEXT(C109)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp08",
@@ -9144,6 +9252,7 @@
     "bubbleColor": "#f993ce",
     "filename": "pig00",
     "uniqueEntryId": "kRGwwKyoSLKh9g2Tk",
+    "url": "=FORMULATEXT(C110)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig00",
@@ -9226,6 +9335,7 @@
     "bubbleColor": "#515151",
     "filename": "bea02",
     "uniqueEntryId": "w7y7v3w49B7KkDXbg",
+    "url": "=FORMULATEXT(C111)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea02",
@@ -9308,6 +9418,7 @@
     "bubbleColor": "#ff4040",
     "filename": "elp12",
     "uniqueEntryId": "edCh8EDStBMbyskYa",
+    "url": "=FORMULATEXT(C112)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp12",
@@ -9387,6 +9498,7 @@
     "bubbleColor": "#194c89",
     "filename": "ant00",
     "uniqueEntryId": "JaNDeYdAuiJCYZbAx",
+    "url": "=FORMULATEXT(C113)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ant00",
@@ -9470,6 +9582,7 @@
     "bubbleColor": "#fff98f",
     "filename": "dog07",
     "uniqueEntryId": "2u92atfG2uMg2J8sS",
+    "url": "=FORMULATEXT(C114)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog07",
@@ -9551,6 +9664,7 @@
     "bubbleColor": "#798040",
     "filename": "duk04",
     "uniqueEntryId": "dXBazBPxXu9QGrAzM",
+    "url": "=FORMULATEXT(C115)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk04",
@@ -9633,6 +9747,7 @@
     "bubbleColor": "#ddcdca",
     "filename": "der04",
     "uniqueEntryId": "ibnMhhdYMGHYr9RAZ",
+    "url": "=FORMULATEXT(C116)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der04",
@@ -9722,6 +9837,7 @@
     "bubbleColor": "#6b75ce",
     "filename": "crd04",
     "uniqueEntryId": "Eqn3ZXJtMBrEYtm7u",
+    "url": "=FORMULATEXT(C117)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "crd04",
@@ -9809,6 +9925,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "mnk08",
     "uniqueEntryId": "zh7aML2hmMKy5bbiR",
+    "url": "=FORMULATEXT(C118)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mnk08",
@@ -9889,6 +10006,7 @@
     "bubbleColor": "#0961f6",
     "filename": "duk08",
     "uniqueEntryId": "nBcDHyXheHurcisiL",
+    "url": "=FORMULATEXT(C119)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk08",
@@ -9971,6 +10089,7 @@
     "bubbleColor": "#ffebff",
     "filename": "der08",
     "uniqueEntryId": "QGyW9QJjjxo3jta6j",
+    "url": "=FORMULATEXT(C120)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der08",
@@ -10052,6 +10171,7 @@
     "bubbleColor": "#a06fce",
     "filename": "flg18",
     "uniqueEntryId": "FmQ9x68HncTm8vdsG",
+    "url": "=FORMULATEXT(C121)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg18",
@@ -10133,6 +10253,7 @@
     "bubbleColor": "#7fa9ff",
     "filename": "elp01",
     "uniqueEntryId": "vthzJrsaM6Y7dykA5",
+    "url": "=FORMULATEXT(C122)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp01",
@@ -10222,6 +10343,7 @@
     "bubbleColor": "#798040",
     "filename": "wol04",
     "uniqueEntryId": "YjMXvmH5eovNYShdE",
+    "url": "=FORMULATEXT(C123)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol04",
@@ -10311,6 +10433,7 @@
     "bubbleColor": "#0961f6",
     "filename": "rbt10",
     "uniqueEntryId": "iasth9JRLdRvLzuQ7",
+    "url": "=FORMULATEXT(C124)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt10",
@@ -10396,6 +10519,7 @@
     "bubbleColor": "#feeae7",
     "filename": "shp15",
     "uniqueEntryId": "T6YJZ7vj2X52zmDcp",
+    "url": "=FORMULATEXT(C125)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp15",
@@ -10477,6 +10601,7 @@
     "bubbleColor": "#ffffff",
     "filename": "mus00",
     "uniqueEntryId": "9Qpj5fqp4E8PvGGFw",
+    "url": "=FORMULATEXT(C126)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus00",
@@ -10565,6 +10690,7 @@
     "bubbleColor": "#ffffff",
     "filename": "rbt01",
     "uniqueEntryId": "CRMJaAokcTnrXsQdp",
+    "url": "=FORMULATEXT(C127)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt01",
@@ -10648,6 +10774,7 @@
     "bubbleColor": "#78dd62",
     "filename": "crd08",
     "uniqueEntryId": "qjqzytG4LCEoong4w",
+    "url": "=FORMULATEXT(C128)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "crd08",
@@ -10731,6 +10858,7 @@
     "bubbleColor": "#459aba",
     "filename": "duk09",
     "uniqueEntryId": "CKAsCWnKjfQYG8R7v",
+    "url": "=FORMULATEXT(C129)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk09",
@@ -10812,6 +10940,7 @@
     "bubbleColor": "#ff791f",
     "filename": "flg04",
     "uniqueEntryId": "gf6jM4si5zSEFjf9w",
+    "url": "=FORMULATEXT(C130)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg04",
@@ -10893,6 +11022,7 @@
     "bubbleColor": "#55cfff",
     "filename": "hrs06",
     "uniqueEntryId": "JmHu7aFcqj9hxKupZ",
+    "url": "=FORMULATEXT(C131)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs06",
@@ -10979,6 +11109,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "chn02",
     "uniqueEntryId": "jRwtNxCCWuznSMCZy",
+    "url": "=FORMULATEXT(C132)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "chn02",
@@ -11063,6 +11194,7 @@
     "bubbleColor": "#d8cc39",
     "filename": "mnk05",
     "uniqueEntryId": "taRZ4jRFMGPkxCZo4",
+    "url": "=FORMULATEXT(C133)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mnk05",
@@ -11147,6 +11279,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "elp07",
     "uniqueEntryId": "odt2kdswLHE2YMkQd",
+    "url": "=FORMULATEXT(C134)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp07",
@@ -11228,6 +11361,7 @@
     "bubbleColor": "#d86808",
     "filename": "hrs03",
     "uniqueEntryId": "LcRhQqeH8u7PboJ73",
+    "url": "=FORMULATEXT(C135)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs03",
@@ -11312,6 +11446,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "elp03",
     "uniqueEntryId": "6QughAEZFkYZ5vKpw",
+    "url": "=FORMULATEXT(C136)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp03",
@@ -11394,6 +11529,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "lon01",
     "uniqueEntryId": "4jYpCpw9nooMZHR8s",
+    "url": "=FORMULATEXT(C137)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "lon01",
@@ -11472,6 +11608,7 @@
     "bubbleColor": "#e8b010",
     "filename": "der09",
     "uniqueEntryId": "BJcXu5LtRBo8DdZ2v",
+    "url": "=FORMULATEXT(C138)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der09",
@@ -11559,6 +11696,7 @@
     "bubbleColor": "#4c3317",
     "filename": "kal10",
     "uniqueEntryId": "2XX9mSSzxEhwXMi4f",
+    "url": "=FORMULATEXT(C140)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal10",
@@ -11681,6 +11819,7 @@
     "bubbleColor": "#194c89",
     "filename": "shp02",
     "uniqueEntryId": "dbAfEFetNQpXajtch",
+    "url": "=FORMULATEXT(C141)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp02",
@@ -11760,6 +11899,7 @@
     "bubbleColor": "#ff791f",
     "filename": "kal07",
     "uniqueEntryId": "WXqnimeiEgwpamc7E",
+    "url": "=FORMULATEXT(C142)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal07",
@@ -11841,6 +11981,7 @@
     "bubbleColor": "#ddcdca",
     "filename": "wol06",
     "uniqueEntryId": "PFvvq6NGpsRgCwg2z",
+    "url": "=FORMULATEXT(C143)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol06",
@@ -11927,6 +12068,7 @@
     "bubbleColor": "#7a2500",
     "filename": "der00",
     "uniqueEntryId": "kB5jGQAqkLnh8LxWy",
+    "url": "=FORMULATEXT(C144)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der00",
@@ -12009,6 +12151,7 @@
     "bubbleColor": "#fff98f",
     "filename": "cat17",
     "uniqueEntryId": "ygF99DNm88JRXvKLi",
+    "url": "=FORMULATEXT(C145)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat17",
@@ -12098,6 +12241,7 @@
     "bubbleColor": "#55cfff",
     "filename": "squ02",
     "uniqueEntryId": "ffo6sBoX9fkMB4bem",
+    "url": "=FORMULATEXT(C146)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ02",
@@ -12183,6 +12327,7 @@
     "bubbleColor": "#ff791f",
     "filename": "mnk06",
     "uniqueEntryId": "ADkNZkrRxdSrfGFH8",
+    "url": "=FORMULATEXT(C147)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mnk06",
@@ -12268,6 +12413,7 @@
     "bubbleColor": "#6b75ce",
     "filename": "pgn13",
     "uniqueEntryId": "6cB5T5yZtevY6d2jp",
+    "url": "=FORMULATEXT(C148)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn13",
@@ -12348,6 +12494,7 @@
     "bubbleColor": "#ff6183",
     "filename": "ost09",
     "uniqueEntryId": "eDX52Zi7H7qifrwYm",
+    "url": "=FORMULATEXT(C149)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost09",
@@ -12434,6 +12581,7 @@
     "bubbleColor": "#ffffff",
     "filename": "ham06",
     "uniqueEntryId": "B4cpBYrewfSK3WN6M",
+    "url": "=FORMULATEXT(C150)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ham06",
@@ -12520,6 +12668,7 @@
     "bubbleColor": "#3fd8e0",
     "filename": "rbt12",
     "uniqueEntryId": "eJZX7wDRYqatmKBKr",
+    "url": "=FORMULATEXT(C151)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt12",
@@ -12600,6 +12749,7 @@
     "bubbleColor": "#78dd62",
     "filename": "pbr06",
     "uniqueEntryId": "8BgXtjz2mfGBrZwCm",
+    "url": "=FORMULATEXT(C152)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr06",
@@ -12690,6 +12840,7 @@
     "bubbleColor": "#ff6183",
     "filename": "duk07",
     "uniqueEntryId": "AcYKxih6FpRRyZDs4",
+    "url": "=FORMULATEXT(C153)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk07",
@@ -12773,6 +12924,7 @@
     "bubbleColor": "#fff80d",
     "filename": "dog11",
     "uniqueEntryId": "xN24wihBtxoWpX9ED",
+    "url": "=FORMULATEXT(C154)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog11",
@@ -12857,6 +13009,7 @@
     "bubbleColor": "#ff6183",
     "filename": "wol05",
     "uniqueEntryId": "qyoMuqvPA4Wqp3Ybn",
+    "url": "=FORMULATEXT(C155)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol05",
@@ -12946,6 +13099,7 @@
     "bubbleColor": "#f2bdc7",
     "filename": "pgn04",
     "uniqueEntryId": "uk9DGWqzxRT4TEJbm",
+    "url": "=FORMULATEXT(C156)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn04",
@@ -13028,6 +13182,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "shp11",
     "uniqueEntryId": "79EahCMHHzp3BwH7x",
+    "url": "=FORMULATEXT(C157)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp11",
@@ -13113,6 +13268,7 @@
     "bubbleColor": "#87e0a9",
     "filename": "flg02",
     "uniqueEntryId": "YXidGR87Fi7mov7Po",
+    "url": "=FORMULATEXT(C158)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg02",
@@ -13196,6 +13352,7 @@
     "bubbleColor": "#f993ce",
     "filename": "der06",
     "uniqueEntryId": "Z98WrodjQxXZAACLA",
+    "url": "=FORMULATEXT(C159)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der06",
@@ -13280,6 +13437,7 @@
     "bubbleColor": "#ffffff",
     "filename": "rbt05",
     "uniqueEntryId": "WC97mFMgiZixDfcRZ",
+    "url": "=FORMULATEXT(C160)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt05",
@@ -13369,6 +13527,7 @@
     "bubbleColor": "#feeae7",
     "filename": "pig13",
     "uniqueEntryId": "84NHBxaLCDPy48Xpx",
+    "url": "=FORMULATEXT(C161)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig13",
@@ -13451,6 +13610,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "rbt04",
     "uniqueEntryId": "5TXosg4PLkG4jZ3AD",
+    "url": "=FORMULATEXT(C162)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt04",
@@ -13533,6 +13693,7 @@
     "bubbleColor": "#f993ce",
     "filename": "crd07",
     "uniqueEntryId": "HY5swi9u3np5LyR8Q",
+    "url": "=FORMULATEXT(C163)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "crd07",
@@ -13614,6 +13775,7 @@
     "bubbleColor": "#ffffff",
     "filename": "rbt08",
     "uniqueEntryId": "zFPwakzpAr8fmL4FM",
+    "url": "=FORMULATEXT(C164)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt08",
@@ -13696,6 +13858,7 @@
     "bubbleColor": "#a06fce",
     "filename": "flg16",
     "uniqueEntryId": "QX93pNfztrLZvLxdC",
+    "url": "=FORMULATEXT(C165)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg16",
@@ -13777,6 +13940,7 @@
     "bubbleColor": "#ffffff",
     "filename": "ost01",
     "uniqueEntryId": "ZSLn6jgRc5W4oZA4f",
+    "url": "=FORMULATEXT(C166)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost01",
@@ -13856,6 +14020,7 @@
     "bubbleColor": "#ffffff",
     "filename": "duk15",
     "uniqueEntryId": "7iiegnbmMRDeDaC3t",
+    "url": "=FORMULATEXT(C167)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk15",
@@ -13939,6 +14104,7 @@
     "bubbleColor": "#fff98f",
     "filename": "dog00",
     "uniqueEntryId": "RdpZtkYzLeivKyx7Z",
+    "url": "=FORMULATEXT(C168)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog00",
@@ -14020,6 +14186,7 @@
     "bubbleColor": "#bfbfbf",
     "filename": "kal04",
     "uniqueEntryId": "SFkpDu8Bxgot4ShcP",
+    "url": "=FORMULATEXT(C169)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal04",
@@ -14102,6 +14269,7 @@
     "bubbleColor": "#ffffff",
     "filename": "chn00",
     "uniqueEntryId": "5iSyoeFknLsoYManw",
+    "url": "=FORMULATEXT(C170)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "chn00",
@@ -14189,6 +14357,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "ham02",
     "uniqueEntryId": "D86CPtiT7ssiFexPE",
+    "url": "=FORMULATEXT(C171)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ham02",
@@ -14275,6 +14444,7 @@
     "bubbleColor": "#ffffff",
     "filename": "mus16",
     "uniqueEntryId": "jKZuhKCACcaqpDCNQ",
+    "url": "=FORMULATEXT(C172)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus16",
@@ -14345,6 +14515,7 @@
     "bubbleColor": "#7c6559",
     "filename": "bea09",
     "uniqueEntryId": "ePDrk4wsbfZAu4rA3",
+    "url": "=FORMULATEXT(C173)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea09",
@@ -14429,6 +14600,7 @@
     "bubbleColor": "#194c89",
     "filename": "bea06",
     "uniqueEntryId": "QC3CiJqhhcm9WpAho",
+    "url": "=FORMULATEXT(C174)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea06",
@@ -14508,6 +14680,7 @@
     "bubbleColor": "#78dd62",
     "filename": "goa04",
     "uniqueEntryId": "oTGj76upYyWRcG34C",
+    "url": "=FORMULATEXT(C175)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "goa04",
@@ -14590,6 +14763,7 @@
     "bubbleColor": "#7352e8",
     "filename": "pgn05",
     "uniqueEntryId": "jFBkwJJrXK4mJ2giR",
+    "url": "=FORMULATEXT(C176)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn05",
@@ -14673,6 +14847,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "ham00",
     "uniqueEntryId": "LA2HHrtZ6beHgmKpL",
+    "url": "=FORMULATEXT(C177)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ham00",
@@ -14752,6 +14927,7 @@
     "bubbleColor": "#515151",
     "filename": "ham07",
     "uniqueEntryId": "bp3ns8FmZnYBL7CqD",
+    "url": "=FORMULATEXT(C178)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ham07",
@@ -14837,6 +15013,7 @@
     "bubbleColor": "#ffffff",
     "filename": "gor10",
     "uniqueEntryId": "rAgKSRJPoazkBPS5d",
+    "url": "=FORMULATEXT(C179)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor10",
@@ -14907,6 +15084,7 @@
     "bubbleColor": "#e8b010",
     "filename": "hip08",
     "uniqueEntryId": "dtAkeJzvhPfGXH7pk",
+    "url": "=FORMULATEXT(C180)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hip08",
@@ -14986,6 +15164,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "squ18",
     "uniqueEntryId": "PfTkvEmpjE2HR3SeD",
+    "url": "=FORMULATEXT(C181)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ18",
@@ -15098,6 +15277,7 @@
     "bubbleColor": "#78dd62",
     "filename": "flg19",
     "uniqueEntryId": "RNats2ap2rGvbdcKn",
+    "url": "=FORMULATEXT(C182)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg19",
@@ -15181,6 +15361,7 @@
     "bubbleColor": "#d8cc39",
     "filename": "hip09",
     "uniqueEntryId": "WjAPWpCx6bTjKiZjw",
+    "url": "=FORMULATEXT(C183)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hip09",
@@ -15265,6 +15446,7 @@
     "bubbleColor": "#55cfff",
     "filename": "rbt14",
     "uniqueEntryId": "EeTwHAQeWyShyg7pm",
+    "url": "=FORMULATEXT(C184)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt14",
@@ -15345,6 +15527,7 @@
     "bubbleColor": "#515151",
     "filename": "pgn03",
     "uniqueEntryId": "FP3bdBM2RSjWTXYHK",
+    "url": "=FORMULATEXT(C185)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn03",
@@ -15430,6 +15613,7 @@
     "bubbleColor": "#0961f6",
     "filename": "rhn04",
     "uniqueEntryId": "KuDi35nStc6mtd3F8",
+    "url": "=FORMULATEXT(C186)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rhn04",
@@ -15512,6 +15696,7 @@
     "bubbleColor": "#515151",
     "filename": "flg11",
     "uniqueEntryId": "KWx6zRZpPoaQy2PMD",
+    "url": "=FORMULATEXT(C187)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg11",
@@ -15626,6 +15811,7 @@
     "bubbleColor": "#0961f6",
     "filename": "pig03",
     "uniqueEntryId": "Ko7gAjWQAY3PY5DLi",
+    "url": "=FORMULATEXT(C188)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig03",
@@ -15712,6 +15898,7 @@
     "bubbleColor": "#ffffff",
     "filename": "pgn11",
     "uniqueEntryId": "qZtYZEyzeZv2qhoJD",
+    "url": "=FORMULATEXT(C189)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn11",
@@ -15796,6 +15983,7 @@
     "bubbleColor": "#4c3317",
     "filename": "bea11",
     "uniqueEntryId": "BvhNkdNxf2kJue7kp",
+    "url": "=FORMULATEXT(C190)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea11",
@@ -15884,6 +16072,7 @@
     "bubbleColor": "#8bcdea",
     "filename": "squ21",
     "uniqueEntryId": "7uo4N4LG5xdYoQsRK",
+    "url": "=FORMULATEXT(C191)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ21",
@@ -15964,6 +16153,7 @@
     "bubbleColor": "#ffffff",
     "filename": "brd11",
     "uniqueEntryId": "HBYP4stJTe3eGEepn",
+    "url": "=FORMULATEXT(C192)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd11",
@@ -16050,6 +16240,7 @@
     "bubbleColor": "#194c89",
     "filename": "brd16",
     "uniqueEntryId": "sXDhuuCThhtuQRDAe",
+    "url": "=FORMULATEXT(C193)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd16",
@@ -16131,6 +16322,7 @@
     "bubbleColor": "#0ca54a",
     "filename": "flg13",
     "uniqueEntryId": "9bG8kLsEtaodApHoX",
+    "url": "=FORMULATEXT(C194)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg13",
@@ -16212,6 +16404,7 @@
     "bubbleColor": "#6b75ce",
     "filename": "brd00",
     "uniqueEntryId": "zv7EfaEb2TnPwmQxe",
+    "url": "=FORMULATEXT(C195)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd00",
@@ -16296,6 +16489,7 @@
     "bubbleColor": "#55cfff",
     "filename": "flg07",
     "uniqueEntryId": "Z9mmrgQ578rPeLdjp",
+    "url": "=FORMULATEXT(C196)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg07",
@@ -16366,6 +16560,7 @@
     "bubbleColor": "#78dd62",
     "filename": "brd04",
     "uniqueEntryId": "TksYZm8hEYAeDWD2X",
+    "url": "=FORMULATEXT(C197)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd04",
@@ -16447,6 +16642,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "duk01",
     "uniqueEntryId": "EkpmSi299YR9BP96Y",
+    "url": "=FORMULATEXT(C198)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk01",
@@ -16565,6 +16761,7 @@
     "bubbleColor": "#ffebff",
     "filename": "cbr19",
     "uniqueEntryId": "nEbMBNS4EztR8Ysxv",
+    "url": "=FORMULATEXT(C199)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr19",
@@ -16650,6 +16847,7 @@
     "bubbleColor": "#0ca54a",
     "filename": "ost05",
     "uniqueEntryId": "z8F5zPavZfhe6xqEi",
+    "url": "=FORMULATEXT(C200)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost05",
@@ -16774,6 +16972,7 @@
     "bubbleColor": "#3fd8e0",
     "filename": "hrs13",
     "uniqueEntryId": "CqhXFKr8hdfYSYpRA",
+    "url": "=FORMULATEXT(C201)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs13",
@@ -16844,6 +17043,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "cbr13",
     "uniqueEntryId": "kYaqSE3C2y7EYSXfi",
+    "url": "=FORMULATEXT(C202)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr13",
@@ -16923,6 +17123,7 @@
     "bubbleColor": "#ffffff",
     "filename": "cat09",
     "uniqueEntryId": "d2DY8aRv5AfFtkneg",
+    "url": "=FORMULATEXT(C203)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat09",
@@ -17008,6 +17209,7 @@
     "bubbleColor": "#a87850",
     "filename": "cat21",
     "uniqueEntryId": "6rE8fTRLqKCERS4dQ",
+    "url": "=FORMULATEXT(C204)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat21",
@@ -17091,6 +17293,7 @@
     "bubbleColor": "#3fd8e0",
     "filename": "pbr08",
     "uniqueEntryId": "WRueK9fukhKgMrWZa",
+    "url": "=FORMULATEXT(C205)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr08",
@@ -17172,6 +17375,7 @@
     "bubbleColor": "#6b75ce",
     "filename": "chn13",
     "uniqueEntryId": "gQZ4xwZeRvqmswoGY",
+    "url": "=FORMULATEXT(C206)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "chn13",
@@ -17256,6 +17460,7 @@
     "bubbleColor": "#ff4040",
     "filename": "duk13",
     "uniqueEntryId": "CaQE3xJ4A7tgQXDMW",
+    "url": "=FORMULATEXT(C207)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk13",
@@ -17340,6 +17545,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "pig15",
     "uniqueEntryId": "fGznAwhaxGN66K38Q",
+    "url": "=FORMULATEXT(C208)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig15",
@@ -17420,6 +17626,7 @@
     "bubbleColor": "#ff4040",
     "filename": "cat10",
     "uniqueEntryId": "Jd6z54x98v4uJhubB",
+    "url": "=FORMULATEXT(C209)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat10",
@@ -17503,6 +17710,7 @@
     "bubbleColor": "#d9d9ff",
     "filename": "goa07",
     "uniqueEntryId": "Pv4qNLnQ4NquvddfQ",
+    "url": "=FORMULATEXT(C210)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "goa07",
@@ -17583,6 +17791,7 @@
     "bubbleColor": "#515151",
     "filename": "cat04",
     "uniqueEntryId": "QTwru2TFs99vCznLg",
+    "url": "=FORMULATEXT(C211)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat04",
@@ -17669,6 +17878,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "kgr00",
     "uniqueEntryId": "jjReK7y42rnNZmQe6",
+    "url": "=FORMULATEXT(C212)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kgr00",
@@ -17748,6 +17958,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "cat14",
     "uniqueEntryId": "E6MnPthbMdNSvhHE5",
+    "url": "=FORMULATEXT(C213)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat14",
@@ -17831,6 +18042,7 @@
     "bubbleColor": "#acc8cf",
     "filename": "bea14",
     "uniqueEntryId": "cFgAWnZ4nhq7DfrN7",
+    "url": "=FORMULATEXT(C214)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea14",
@@ -17916,6 +18128,7 @@
     "bubbleColor": "#d8cc39",
     "filename": "chn11",
     "uniqueEntryId": "25GGGSHzwEnKmepJk",
+    "url": "=FORMULATEXT(C215)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "chn11",
@@ -18000,6 +18213,7 @@
     "bubbleColor": "#55cfff",
     "filename": "cbr04",
     "uniqueEntryId": "j9pPANZ9zsm6Mobh2",
+    "url": "=FORMULATEXT(C216)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr04",
@@ -18081,6 +18295,7 @@
     "bubbleColor": "#e8b010",
     "filename": "wol10",
     "uniqueEntryId": "Q68JosFG2FvzG7QC3",
+    "url": "=FORMULATEXT(C217)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol10",
@@ -18166,6 +18381,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "tig04",
     "uniqueEntryId": "bZqAHvDsp82Ptify8",
+    "url": "=FORMULATEXT(C218)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "tig04",
@@ -18250,6 +18466,7 @@
     "bubbleColor": "#e4b887",
     "filename": "lon04",
     "uniqueEntryId": "nn3GdKz434cBryvyC",
+    "url": "=FORMULATEXT(C219)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "lon04",
@@ -18338,6 +18555,7 @@
     "bubbleColor": "#00d1bd",
     "filename": "flg00",
     "uniqueEntryId": "CQG32Qp7hhepeaRbg",
+    "url": "=FORMULATEXT(C220)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg00",
@@ -18416,6 +18634,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "mus01",
     "uniqueEntryId": "BnXXdXegMXE9HmZiy",
+    "url": "=FORMULATEXT(C221)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus01",
@@ -18498,6 +18717,7 @@
     "bubbleColor": "#e4b887",
     "filename": "lon08",
     "uniqueEntryId": "EQYQEL4crTYEN9yJs",
+    "url": "=FORMULATEXT(C222)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "lon08",
@@ -18583,6 +18803,7 @@
     "bubbleColor": "#7352e8",
     "filename": "wol01",
     "uniqueEntryId": "9QsHyDimk75LPvBsn",
+    "url": "=FORMULATEXT(C223)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol01",
@@ -18667,6 +18888,7 @@
     "bubbleColor": "#bff2ff",
     "filename": "cat18",
     "uniqueEntryId": "ucvTsRXewrZsFj64Y",
+    "url": "=FORMULATEXT(C224)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat18",
@@ -18754,6 +18976,7 @@
     "bubbleColor": "#e8b010",
     "filename": "der05",
     "uniqueEntryId": "wBJRdKXMHcPyHDPEj",
+    "url": "=FORMULATEXT(C225)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der05",
@@ -18844,6 +19067,7 @@
     "bubbleColor": "#d86808",
     "filename": "gor04",
     "uniqueEntryId": "emwaesnBa9EmWvW89",
+    "url": "=FORMULATEXT(C226)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor04",
@@ -18914,6 +19138,7 @@
     "bubbleColor": "#ff4040",
     "filename": "brd15",
     "uniqueEntryId": "se8G8LxivnMhgBiRE",
+    "url": "=FORMULATEXT(C227)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd15",
@@ -18994,6 +19219,7 @@
     "bubbleColor": "#ffffff",
     "filename": "dog02",
     "uniqueEntryId": "WtvwKvChcpgZ4WcQB",
+    "url": "=FORMULATEXT(C228)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog02",
@@ -19080,6 +19306,7 @@
     "bubbleColor": "#ffffff",
     "filename": "pig04",
     "uniqueEntryId": "8FpMvE2W6YJtmTpiQ",
+    "url": "=FORMULATEXT(C229)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig04",
@@ -19161,6 +19388,7 @@
     "bubbleColor": "#a8e989",
     "filename": "kal09",
     "uniqueEntryId": "cnByupc7McZQg8sNJ",
+    "url": "=FORMULATEXT(C230)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal09",
@@ -19244,6 +19472,7 @@
     "bubbleColor": "#e8b010",
     "filename": "dog14",
     "uniqueEntryId": "bLyixhvrCHgBYzvoX",
+    "url": "=FORMULATEXT(C231)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog14",
@@ -19327,6 +19556,7 @@
     "bubbleColor": "#e8b010",
     "filename": "dog09",
     "uniqueEntryId": "ebHEDLT4WnnnPtDzK",
+    "url": "=FORMULATEXT(C232)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog09",
@@ -19411,6 +19641,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "duk03",
     "uniqueEntryId": "bHTDLovALeQz9PK4z",
+    "url": "=FORMULATEXT(C233)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk03",
@@ -19491,6 +19722,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "pig10",
     "uniqueEntryId": "ByLM9r2q7mRAMbgXs",
+    "url": "=FORMULATEXT(C234)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig10",
@@ -19572,6 +19804,7 @@
     "bubbleColor": "#a06fce",
     "filename": "duk06",
     "uniqueEntryId": "jhXJGTWpk3ycr6kZC",
+    "url": "=FORMULATEXT(C235)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk06",
@@ -19661,6 +19894,7 @@
     "bubbleColor": "#a87850",
     "filename": "cbr01",
     "uniqueEntryId": "xgPhy4TnDmnzSkZ6o",
+    "url": "=FORMULATEXT(C236)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr01",
@@ -19745,6 +19979,7 @@
     "bubbleColor": "#ffffff",
     "filename": "dog15",
     "uniqueEntryId": "63FsmgrS7QPpFvL3N",
+    "url": "=FORMULATEXT(C237)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog15",
@@ -19830,6 +20065,7 @@
     "bubbleColor": "#f993ce",
     "filename": "kgr10",
     "uniqueEntryId": "mSJuJRK54zTu3BkHr",
+    "url": "=FORMULATEXT(C238)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kgr10",
@@ -19915,6 +20151,7 @@
     "bubbleColor": "#ffffff",
     "filename": "elp04",
     "uniqueEntryId": "rnFzZ3Z4gFAv6ouqG",
+    "url": "=FORMULATEXT(C239)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp04",
@@ -19995,6 +20232,7 @@
     "bubbleColor": "#f993ce",
     "filename": "ocp01",
     "uniqueEntryId": "BQCu2GxBFFTuigDAY",
+    "url": "=FORMULATEXT(C240)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ocp01",
@@ -20077,6 +20315,7 @@
     "bubbleColor": "#515151",
     "filename": "ham09",
     "uniqueEntryId": "NkF5niJf3uPXo2hGw",
+    "url": "=FORMULATEXT(C241)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ham09",
@@ -20167,6 +20406,7 @@
     "bubbleColor": "#ffffff",
     "filename": "squ17",
     "uniqueEntryId": "ZZJJbE5zFrcDXfLEF",
+    "url": "=FORMULATEXT(C242)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ17",
@@ -20249,6 +20489,7 @@
     "bubbleColor": "#f8e880",
     "filename": "cbr18",
     "uniqueEntryId": "MFp6WPLDuq2SKLm5s",
+    "url": "=FORMULATEXT(C243)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr18",
@@ -20333,6 +20574,7 @@
     "bubbleColor": "#515151",
     "filename": "kgr01",
     "uniqueEntryId": "GSsfXWFSF3FEdbcjA",
+    "url": "=FORMULATEXT(C244)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kgr01",
@@ -20419,6 +20661,7 @@
     "bubbleColor": "#ec7efc",
     "filename": "bea15",
     "uniqueEntryId": "tgsKz4BX3wxFRFrFZ",
+    "url": "=FORMULATEXT(C245)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea15",
@@ -20506,6 +20749,7 @@
     "bubbleColor": "#e4b887",
     "filename": "kal02",
     "uniqueEntryId": "sLBs68aveqtjT8HZJ",
+    "url": "=FORMULATEXT(C246)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal02",
@@ -20592,6 +20836,7 @@
     "bubbleColor": "#f2bdc7",
     "filename": "rhn07",
     "uniqueEntryId": "qxaecyD6f6aHuNZKK",
+    "url": "=FORMULATEXT(C247)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rhn07",
@@ -20672,6 +20917,7 @@
     "bubbleColor": "#fff98f",
     "filename": "cat16",
     "uniqueEntryId": "uhd4aEuBudwu9pM6E",
+    "url": "=FORMULATEXT(C248)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat16",
@@ -20754,6 +21000,7 @@
     "bubbleColor": "#ec7efc",
     "filename": "brd08",
     "uniqueEntryId": "WSnecxx3DREYtZ3p3",
+    "url": "=FORMULATEXT(C249)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd08",
@@ -20842,6 +21089,7 @@
     "bubbleColor": "#94a788",
     "filename": "der12",
     "uniqueEntryId": "qRm8BLA3ioJMXBMJ7",
+    "url": "=FORMULATEXT(C250)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der12",
@@ -20925,6 +21173,7 @@
     "bubbleColor": "#87e0a9",
     "filename": "squ09",
     "uniqueEntryId": "TgwEuBB4kt96EXAvt",
+    "url": "=FORMULATEXT(C251)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ09",
@@ -21014,6 +21263,7 @@
     "bubbleColor": "#fff80d",
     "filename": "rbt19",
     "uniqueEntryId": "ycquvbgfbCzktuLvn",
+    "url": "=FORMULATEXT(C252)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt19",
@@ -21095,6 +21345,7 @@
     "bubbleColor": "#ec7efc",
     "filename": "duk12",
     "uniqueEntryId": "9AE7bEWmthdc7kZ4m",
+    "url": "=FORMULATEXT(C253)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk12",
@@ -21175,6 +21426,7 @@
     "bubbleColor": "#7fa9ff",
     "filename": "cat01",
     "uniqueEntryId": "4DpkbYXeoySwonvkS",
+    "url": "=FORMULATEXT(C254)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat01",
@@ -21256,6 +21508,7 @@
     "bubbleColor": "#0961f6",
     "filename": "cat08",
     "uniqueEntryId": "EYRuj39J5cS5eYuPD",
+    "url": "=FORMULATEXT(C255)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat08",
@@ -21341,6 +21594,7 @@
     "bubbleColor": "#e8b010",
     "filename": "duk16",
     "uniqueEntryId": "4RLK74MDFhcXAQeuL",
+    "url": "=FORMULATEXT(C256)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk16",
@@ -21427,6 +21681,7 @@
     "bubbleColor": "#fff98f",
     "filename": "cat11",
     "uniqueEntryId": "6rhSBCp2M4wcM9cRG",
+    "url": "=FORMULATEXT(C257)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat11",
@@ -21506,6 +21761,7 @@
     "bubbleColor": "#acc8cf",
     "filename": "mnk04",
     "uniqueEntryId": "AB2WWajw4nPsxsQ5h",
+    "url": "=FORMULATEXT(C258)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mnk04",
@@ -21586,6 +21842,7 @@
     "bubbleColor": "#7fa9ff",
     "filename": "mus14",
     "uniqueEntryId": "bqireWGDZg56QP8JF",
+    "url": "=FORMULATEXT(C259)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus14",
@@ -21668,6 +21925,7 @@
     "bubbleColor": "#d8cc39",
     "filename": "lon06",
     "uniqueEntryId": "upZ67GQyTzKPGCLm8",
+    "url": "=FORMULATEXT(C260)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "lon06",
@@ -21756,6 +22014,7 @@
     "bubbleColor": "#515151",
     "filename": "shp12",
     "uniqueEntryId": "BMbfDZTTqMr8T4Jvt",
+    "url": "=FORMULATEXT(C261)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp12",
@@ -21836,6 +22095,7 @@
     "bubbleColor": "#78dd62",
     "filename": "cbr07",
     "uniqueEntryId": "Nw4ojqKpHxBQfEqqo",
+    "url": "=FORMULATEXT(C262)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr07",
@@ -21918,6 +22178,7 @@
     "bubbleColor": "#515151",
     "filename": "goa01",
     "uniqueEntryId": "oGFWxL6p7g9Hq5LWK",
+    "url": "=FORMULATEXT(C263)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "goa01",
@@ -22000,6 +22261,7 @@
     "bubbleColor": "#ec7efc",
     "filename": "mnk01",
     "uniqueEntryId": "z95tvdzwWsxjXbpqP",
+    "url": "=FORMULATEXT(C264)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mnk01",
@@ -22081,6 +22343,7 @@
     "bubbleColor": "#3fd8e0",
     "filename": "cow07",
     "uniqueEntryId": "3EXPYiDinngndhDng",
+    "url": "=FORMULATEXT(C265)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cow07",
@@ -22162,6 +22425,7 @@
     "bubbleColor": "#e8b010",
     "filename": "bea05",
     "uniqueEntryId": "h2nAg5RGkR7NEnSQq",
+    "url": "=FORMULATEXT(C266)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea05",
@@ -22246,6 +22510,7 @@
     "bubbleColor": "#00d1bd",
     "filename": "squ04",
     "uniqueEntryId": "Moh8bkfxWaxEa97mG",
+    "url": "=FORMULATEXT(C267)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ04",
@@ -22326,6 +22591,7 @@
     "bubbleColor": "#f2bdc7",
     "filename": "cow06",
     "uniqueEntryId": "fwgBojtt5KTvk3TL5",
+    "url": "=FORMULATEXT(C268)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cow06",
@@ -22410,6 +22676,7 @@
     "bubbleColor": "#7a2500",
     "filename": "rbt15",
     "uniqueEntryId": "WDB4w6DdNpdhCvEuj",
+    "url": "=FORMULATEXT(C269)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt15",
@@ -22480,6 +22747,7 @@
     "bubbleColor": "#ff4040",
     "filename": "ocp00",
     "uniqueEntryId": "nLsc5geQY78JR7j4S",
+    "url": "=FORMULATEXT(C270)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ocp00",
@@ -22561,6 +22829,7 @@
     "bubbleColor": "#ff791f",
     "filename": "ant09",
     "uniqueEntryId": "ar73BhCacgwhTNYnX",
+    "url": "=FORMULATEXT(C271)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ant09",
@@ -22649,6 +22918,7 @@
     "bubbleColor": "#bfbfbf",
     "filename": "cbr09",
     "uniqueEntryId": "7ZynzrsbeH5fMqvLu",
+    "url": "=FORMULATEXT(C272)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr09",
@@ -22729,6 +22999,7 @@
     "bubbleColor": "#ffffff",
     "filename": "cat03",
     "uniqueEntryId": "9TaBZpKSgb9nEWwtH",
+    "url": "=FORMULATEXT(C273)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat03",
@@ -22813,6 +23084,7 @@
     "bubbleColor": "#87e0a9",
     "filename": "elp00",
     "uniqueEntryId": "FYopCfP6LEKMEAP7F",
+    "url": "=FORMULATEXT(C274)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp00",
@@ -22931,6 +23203,7 @@
     "bubbleColor": "#bfbfbf",
     "filename": "kal05",
     "uniqueEntryId": "jn3GZEfXoGm3ahwd3",
+    "url": "=FORMULATEXT(C275)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal05",
@@ -23017,6 +23290,7 @@
     "bubbleColor": "#e2856b",
     "filename": "pig16",
     "uniqueEntryId": "bjvvbcuiiN9pYiZA9",
+    "url": "=FORMULATEXT(C276)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig16",
@@ -23097,6 +23371,7 @@
     "bubbleColor": "#00d1bd",
     "filename": "ant02",
     "uniqueEntryId": "dz29mEXmHc8mM3q7R",
+    "url": "=FORMULATEXT(C277)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ant02",
@@ -23181,6 +23456,7 @@
     "bubbleColor": "#f993ce",
     "filename": "elp05",
     "uniqueEntryId": "jH9AH2BeLRwtsFwHQ",
+    "url": "=FORMULATEXT(C278)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp05",
@@ -23263,6 +23539,7 @@
     "bubbleColor": "#d86808",
     "filename": "hrs12",
     "uniqueEntryId": "miKjvBKFawhzBB8rW",
+    "url": "=FORMULATEXT(C279)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs12",
@@ -23344,6 +23621,7 @@
     "bubbleColor": "#e2856b",
     "filename": "goa08",
     "uniqueEntryId": "hftL8Ep8ffr3PWTuE",
+    "url": "=FORMULATEXT(C280)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "goa08",
@@ -23429,6 +23707,7 @@
     "bubbleColor": "#8bcdea",
     "filename": "duk02",
     "uniqueEntryId": "DHBvGmtvAKgcEQiLx",
+    "url": "=FORMULATEXT(C281)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk02",
@@ -23507,6 +23786,7 @@
     "bubbleColor": "#7a2500",
     "filename": "cow00",
     "uniqueEntryId": "WwWCGiveKwyuntnBe",
+    "url": "=FORMULATEXT(C282)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cow00",
@@ -23588,6 +23868,7 @@
     "bubbleColor": "#e8b010",
     "filename": "bea10",
     "uniqueEntryId": "mt4oJ6k5CJTCGJXAZ",
+    "url": "=FORMULATEXT(C283)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea10",
@@ -23671,6 +23952,7 @@
     "bubbleColor": "#f993ce",
     "filename": "hrs08",
     "uniqueEntryId": "SRuoS7z66df8wdynd",
+    "url": "=FORMULATEXT(C284)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs08",
@@ -23755,6 +24037,7 @@
     "bubbleColor": "#ec7efc",
     "filename": "squ00",
     "uniqueEntryId": "ZcdcgJXwiH4rJg2JK",
+    "url": "=FORMULATEXT(C285)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ00",
@@ -23838,6 +24121,7 @@
     "bubbleColor": "#7a2500",
     "filename": "squ03",
     "uniqueEntryId": "qJmNiqamwRRxHc4fY",
+    "url": "=FORMULATEXT(C286)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ03",
@@ -23921,6 +24205,7 @@
     "bubbleColor": "#4c3317",
     "filename": "brd17",
     "uniqueEntryId": "TC9QnMpcjfskBGzwB",
+    "url": "=FORMULATEXT(C287)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd17",
@@ -24007,6 +24292,7 @@
     "bubbleColor": "#7fa9ff",
     "filename": "gor01",
     "uniqueEntryId": "HAeZAgW5pywjmCBeu",
+    "url": "=FORMULATEXT(C288)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor01",
@@ -24092,6 +24378,7 @@
     "bubbleColor": "#e4b887",
     "filename": "pig11",
     "uniqueEntryId": "YReGwLNQoegR9PhZx",
+    "url": "=FORMULATEXT(C289)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig11",
@@ -24173,6 +24460,7 @@
     "bubbleColor": "#ffffff",
     "filename": "cbr14",
     "uniqueEntryId": "QvWvWxjFtNLCnZES5",
+    "url": "=FORMULATEXT(C290)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr14",
@@ -24256,6 +24544,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "mus17",
     "uniqueEntryId": "L9mYm8tvKg32G85cv",
+    "url": "=FORMULATEXT(C291)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus17",
@@ -24338,6 +24627,7 @@
     "bubbleColor": "#ffebff",
     "filename": "mus19",
     "uniqueEntryId": "fv94KxPps25ukN5RA",
+    "url": "=FORMULATEXT(C292)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus19",
@@ -24424,6 +24714,7 @@
     "bubbleColor": "#7352e8",
     "filename": "ost07",
     "uniqueEntryId": "rCHTjrbTz7pejGT8J",
+    "url": "=FORMULATEXT(C293)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost07",
@@ -24503,6 +24794,7 @@
     "bubbleColor": "#ff791f",
     "filename": "ost10",
     "uniqueEntryId": "HYJxoDdCoLS7uPdz9",
+    "url": "=FORMULATEXT(C294)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost10",
@@ -24585,6 +24877,7 @@
     "bubbleColor": "#55cfff",
     "filename": "pbr02",
     "uniqueEntryId": "aavqm5o5TcTxgrBs6",
+    "url": "=FORMULATEXT(C295)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr02",
@@ -24664,6 +24957,7 @@
     "bubbleColor": "#ff4040",
     "filename": "shp13",
     "uniqueEntryId": "fLBrHLToMTBrc5Was",
+    "url": "=FORMULATEXT(C296)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp13",
@@ -24745,6 +25039,7 @@
     "bubbleColor": "#fff98f",
     "filename": "bea01",
     "uniqueEntryId": "CLQDMiLJYw9de8t7c",
+    "url": "=FORMULATEXT(C297)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea01",
@@ -24827,6 +25122,7 @@
     "bubbleColor": "#ffffff",
     "filename": "brd05",
     "uniqueEntryId": "B9nGDw29C3MeZeiob",
+    "url": "=FORMULATEXT(C298)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd05",
@@ -24912,6 +25208,7 @@
     "bubbleColor": "#fff98f",
     "filename": "rbt06",
     "uniqueEntryId": "zRveogN878Fugd5ga",
+    "url": "=FORMULATEXT(C299)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt06",
@@ -24998,6 +25295,7 @@
     "bubbleColor": "#7c6559",
     "filename": "chn10",
     "uniqueEntryId": "8v54MppXDZwDS2viK",
+    "url": "=FORMULATEXT(C300)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "chn10",
@@ -25081,6 +25379,7 @@
     "bubbleColor": "#ffffff",
     "filename": "duk05",
     "uniqueEntryId": "D4EfZuiFQqxXAaxa5",
+    "url": "=FORMULATEXT(C301)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk05",
@@ -25191,6 +25490,7 @@
     "bubbleColor": "#194c89",
     "filename": "cbr02",
     "uniqueEntryId": "2yyqShsyFuek2xsPq",
+    "url": "=FORMULATEXT(C302)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr02",
@@ -25274,6 +25574,7 @@
     "bubbleColor": "#db6161",
     "filename": "squ15",
     "uniqueEntryId": "NaP65qNMvxYTzTXrs",
+    "url": "=FORMULATEXT(C303)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ15",
@@ -25360,6 +25661,7 @@
     "bubbleColor": "#ffffff",
     "filename": "dog05",
     "uniqueEntryId": "XAP6AcqdXDufCkTAd",
+    "url": "=FORMULATEXT(C304)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog05",
@@ -25442,6 +25744,7 @@
     "bubbleColor": "#78dd62",
     "filename": "flg12",
     "uniqueEntryId": "3YQrrLRvCYt62wMLi",
+    "url": "=FORMULATEXT(C305)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg12",
@@ -25525,6 +25828,7 @@
     "bubbleColor": "#0961f6",
     "filename": "pgn06",
     "uniqueEntryId": "qnejmf3Q7jvCoBvw7",
+    "url": "=FORMULATEXT(C306)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn06",
@@ -25606,6 +25910,7 @@
     "bubbleColor": "#ff6183",
     "filename": "flg06",
     "uniqueEntryId": "TuEiYBT2nG3qNT2RX",
+    "url": "=FORMULATEXT(C307)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg06",
@@ -25689,6 +25994,7 @@
     "bubbleColor": "#ff791f",
     "filename": "cbr03",
     "uniqueEntryId": "QGD2qdJ8oyu4SS7To",
+    "url": "=FORMULATEXT(C308)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr03",
@@ -25770,6 +26076,7 @@
     "bubbleColor": "#ffffff",
     "filename": "cat06",
     "uniqueEntryId": "Q8Qds8CMWMnXTGbqf",
+    "url": "=FORMULATEXT(C309)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat06",
@@ -25850,6 +26157,7 @@
     "bubbleColor": "#ffffff",
     "filename": "cat07",
     "uniqueEntryId": "ZgpbeQ6LW63qq2yok",
+    "url": "=FORMULATEXT(C310)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat07",
@@ -25932,6 +26240,7 @@
     "bubbleColor": "#a06fce",
     "filename": "ost00",
     "uniqueEntryId": "4vYPTrcRBimNwXmcC",
+    "url": "=FORMULATEXT(C311)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost00",
@@ -26013,6 +26322,7 @@
     "bubbleColor": "#76b788",
     "filename": "duk17",
     "uniqueEntryId": "tdfJ4MAeE2pKDxxNd",
+    "url": "=FORMULATEXT(C312)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk17",
@@ -26096,6 +26406,7 @@
     "bubbleColor": "#d9d9ff",
     "filename": "pbr10",
     "uniqueEntryId": "Z5Ho3BA3PT8cumvPK",
+    "url": "=FORMULATEXT(C313)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr10",
@@ -26182,6 +26493,7 @@
     "bubbleColor": "#515151",
     "filename": "flg15",
     "uniqueEntryId": "Xi6NDcp6NptRB9WDz",
+    "url": "=FORMULATEXT(C314)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg15",
@@ -26266,6 +26578,7 @@
     "bubbleColor": "#951d43",
     "filename": "pig02",
     "uniqueEntryId": "vhd6ReEt63uAnpYsq",
+    "url": "=FORMULATEXT(C315)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig02",
@@ -26353,6 +26666,7 @@
     "bubbleColor": "#acc8cf",
     "filename": "cat23",
     "uniqueEntryId": "2nbzgWsuDBSN2LeEj",
+    "url": "=FORMULATEXT(C316)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat23",
@@ -26438,6 +26752,7 @@
     "bubbleColor": "#76494e",
     "filename": "hrs16",
     "uniqueEntryId": "4rRW9HkPYfAWBQvWC",
+    "url": "=FORMULATEXT(C318)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs16",
@@ -26517,6 +26832,7 @@
     "bubbleColor": "#ec7efc",
     "filename": "rhn08",
     "uniqueEntryId": "ZyeqzXyxABEFXsS5c",
+    "url": "=FORMULATEXT(C317)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rhn08",
@@ -26598,6 +26914,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "lon02",
     "uniqueEntryId": "umQmbALHn7dbiMrYL",
+    "url": "=FORMULATEXT(C319)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "lon02",
@@ -26680,6 +26997,7 @@
     "bubbleColor": "#ffffff",
     "filename": "rhn01",
     "uniqueEntryId": "BjYi6hQsSg6sQcxhm",
+    "url": "=FORMULATEXT(C320)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rhn01",
@@ -26766,6 +27084,7 @@
     "bubbleColor": "#bfbfbf",
     "filename": "flg01",
     "uniqueEntryId": "vg2BFTmhyyhbiHtbC",
+    "url": "=FORMULATEXT(C321)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg01",
@@ -26851,6 +27170,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "squ10",
     "uniqueEntryId": "g5JArfBAeNAXb8rFX",
+    "url": "=FORMULATEXT(C322)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ10",
@@ -26931,6 +27251,7 @@
     "bubbleColor": "#ff3339",
     "filename": "gor11",
     "uniqueEntryId": "aDinKd5HbWYhvZzTH",
+    "url": "=FORMULATEXT(C323)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor11",
@@ -27015,6 +27336,7 @@
     "bubbleColor": "#ff4040",
     "filename": "ost04",
     "uniqueEntryId": "tBdjy528eTphL4WyM",
+    "url": "=FORMULATEXT(C324)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost04",
@@ -27095,6 +27417,7 @@
     "bubbleColor": "#8bcdea",
     "filename": "mus09",
     "uniqueEntryId": "vmbvXTtjpswNLkcpi",
+    "url": "=FORMULATEXT(C325)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus09",
@@ -27175,6 +27498,7 @@
     "bubbleColor": "#194c89",
     "filename": "pgn01",
     "uniqueEntryId": "kxpZTdDuacHxQA3An",
+    "url": "=FORMULATEXT(C326)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn01",
@@ -27259,6 +27583,7 @@
     "bubbleColor": "#6b75ce",
     "filename": "brd01",
     "uniqueEntryId": "xK49Rcb2Lnm5P4aLM",
+    "url": "=FORMULATEXT(C327)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd01",
@@ -27344,6 +27669,7 @@
     "bubbleColor": "#87e0a9",
     "filename": "hip00",
     "uniqueEntryId": "vfET6L7B9ruRApyMb",
+    "url": "=FORMULATEXT(C328)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hip00",
@@ -27430,6 +27756,7 @@
     "bubbleColor": "#f993ce",
     "filename": "gor09",
     "uniqueEntryId": "eJNBB5SYzfj5DaWjx",
+    "url": "=FORMULATEXT(C329)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor09",
@@ -27500,6 +27827,7 @@
     "bubbleColor": "#ec7efc",
     "filename": "mus05",
     "uniqueEntryId": "ezLuGMubv35hSamPr",
+    "url": "=FORMULATEXT(C330)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus05",
@@ -27581,6 +27909,7 @@
     "bubbleColor": "#515151",
     "filename": "bul01",
     "uniqueEntryId": "QNT5F2pjZixKpiD4D",
+    "url": "=FORMULATEXT(C331)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bul01",
@@ -27663,6 +27992,7 @@
     "bubbleColor": "#459aba",
     "filename": "ham03",
     "uniqueEntryId": "AnFmctYx65LkTaFGu",
+    "url": "=FORMULATEXT(C332)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ham03",
@@ -27744,6 +28074,7 @@
     "bubbleColor": "#ffffff",
     "filename": "tig00",
     "uniqueEntryId": "MA2wxkE7cEyD4f4hz",
+    "url": "=FORMULATEXT(C333)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "tig00",
@@ -27827,6 +28158,7 @@
     "bubbleColor": "#3fd8e0",
     "filename": "kgr09",
     "uniqueEntryId": "9wnSweJyqfd4izW4M",
+    "url": "=FORMULATEXT(C334)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kgr09",
@@ -27907,6 +28239,7 @@
     "bubbleColor": "#ff791f",
     "filename": "lon07",
     "uniqueEntryId": "hAfSborD4JtyNGFd6",
+    "url": "=FORMULATEXT(C335)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "lon07",
@@ -27993,6 +28326,7 @@
     "bubbleColor": "#515151",
     "filename": "hrs04",
     "uniqueEntryId": "RKAg95c8nosL8fNec",
+    "url": "=FORMULATEXT(C336)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs04",
@@ -28077,6 +28411,7 @@
     "bubbleColor": "#7fa9ff",
     "filename": "cat02",
     "uniqueEntryId": "NTwyXi4RAX4EKTcW6",
+    "url": "=FORMULATEXT(C337)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat02",
@@ -28165,6 +28500,7 @@
     "bubbleColor": "#4c3317",
     "filename": "crd05",
     "uniqueEntryId": "wvmhH9rB4Amhuag5d",
+    "url": "=FORMULATEXT(C338)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "crd05",
@@ -28245,6 +28581,7 @@
     "bubbleColor": "#ff791f",
     "filename": "tig01",
     "uniqueEntryId": "WqtXZv8CLheckbHoF",
+    "url": "=FORMULATEXT(C339)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "tig01",
@@ -28315,6 +28652,7 @@
     "bubbleColor": "#ffffff",
     "filename": "rbt09",
     "uniqueEntryId": "rjbSmp6a8PdsEw9BM",
+    "url": "=FORMULATEXT(C340)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt09",
@@ -28396,6 +28734,7 @@
     "bubbleColor": "#7a2500",
     "filename": "cat20",
     "uniqueEntryId": "TqXTvnySgEac3iEt7",
+    "url": "=FORMULATEXT(C341)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat20",
@@ -28508,6 +28847,7 @@
     "bubbleColor": "#ff791f",
     "filename": "squ07",
     "uniqueEntryId": "jtXMvWWbQ9qN2iw7S",
+    "url": "=FORMULATEXT(C342)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ07",
@@ -28589,6 +28929,7 @@
     "bubbleColor": "#acc8cf",
     "filename": "mus04",
     "uniqueEntryId": "XFzdPqYwq4n98EpuF",
+    "url": "=FORMULATEXT(C343)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mus04",
@@ -28678,6 +29019,7 @@
     "bubbleColor": "#ff791f",
     "filename": "ost02",
     "uniqueEntryId": "6t3MfdfbyRKwjgNPd",
+    "url": "=FORMULATEXT(C344)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost02",
@@ -28788,6 +29130,7 @@
     "bubbleColor": "#00d1bd",
     "filename": "rbt21",
     "uniqueEntryId": "Ak4wDREajbssvwQbJ",
+    "url": "=FORMULATEXT(C345)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt21",
@@ -28871,6 +29214,7 @@
     "bubbleColor": "#ffffff",
     "filename": "hrs02",
     "uniqueEntryId": "Mquwz8gbb3EEmazyF",
+    "url": "=FORMULATEXT(C346)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs02",
@@ -28952,6 +29296,7 @@
     "bubbleColor": "#78dd62",
     "filename": "duk10",
     "uniqueEntryId": "wanb7GiQ9fe6puXe8",
+    "url": "=FORMULATEXT(C347)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk10",
@@ -29034,6 +29379,7 @@
     "bubbleColor": "#bfbfbf",
     "filename": "mnk07",
     "uniqueEntryId": "sR4EndxJk6uqcQKxB",
+    "url": "=FORMULATEXT(C348)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mnk07",
@@ -29117,6 +29463,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "squ16",
     "uniqueEntryId": "KQG9B6Yp57KhnDiZ9",
+    "url": "=FORMULATEXT(C349)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ16",
@@ -29201,6 +29548,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "dog18",
     "uniqueEntryId": "P4FqMoZg2EJQ6EzAb",
+    "url": "=FORMULATEXT(C350)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog18",
@@ -29281,6 +29629,7 @@
     "bubbleColor": "#bff2ff",
     "filename": "goa09",
     "uniqueEntryId": "XaaDkAfHynrEY2YS4",
+    "url": "=FORMULATEXT(C351)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "goa09",
@@ -29362,6 +29711,7 @@
     "bubbleColor": "#ffffff",
     "filename": "der11",
     "uniqueEntryId": "ixDgM7aQxMsBRcEt4",
+    "url": "=FORMULATEXT(C352)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der11",
@@ -29432,6 +29782,7 @@
     "bubbleColor": "#d8cc39",
     "filename": "mnk02",
     "uniqueEntryId": "mTk2qZXe4XwP3WzNT",
+    "url": "=FORMULATEXT(C353)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mnk02",
@@ -29517,6 +29868,7 @@
     "bubbleColor": "#3fd8e0",
     "filename": "wol09",
     "uniqueEntryId": "y8Mi2cSB26qfaxCa3",
+    "url": "=FORMULATEXT(C354)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol09",
@@ -29601,6 +29953,7 @@
     "bubbleColor": "#e8b010",
     "filename": "crd06",
     "uniqueEntryId": "GbXz3ZAtzig3qyKd5",
+    "url": "=FORMULATEXT(C355)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "crd06",
@@ -29680,6 +30033,7 @@
     "bubbleColor": "#f993ce",
     "filename": "rbt03",
     "uniqueEntryId": "LZcGjneEs8xmxNE3q",
+    "url": "=FORMULATEXT(C356)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt03",
@@ -29761,6 +30115,7 @@
     "bubbleColor": "#f2bdc7",
     "filename": "ant06",
     "uniqueEntryId": "hZmkhmRhK7xgM6BhP",
+    "url": "=FORMULATEXT(C357)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ant06",
@@ -29844,6 +30199,7 @@
     "bubbleColor": "#ff791f",
     "filename": "ham04",
     "uniqueEntryId": "EzZzup4KP8t2FvL8f",
+    "url": "=FORMULATEXT(C358)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ham04",
@@ -29914,6 +30270,7 @@
     "bubbleColor": "#7a2500",
     "filename": "brd18",
     "uniqueEntryId": "kyF7bCcryEzaErcTJ",
+    "url": "=FORMULATEXT(C359)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd18",
@@ -29998,6 +30355,7 @@
     "bubbleColor": "#ff791f",
     "filename": "rhn02",
     "uniqueEntryId": "e8bJbKYBcretqhbuR",
+    "url": "=FORMULATEXT(C360)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rhn02",
@@ -30080,6 +30438,7 @@
     "bubbleColor": "#e4b887",
     "filename": "pig05",
     "uniqueEntryId": "NeqP5jCsuLugbA2PW",
+    "url": "=FORMULATEXT(C361)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig05",
@@ -30161,6 +30520,7 @@
     "bubbleColor": "#00d1bd",
     "filename": "pgn14",
     "uniqueEntryId": "5ffTHHjgjsXGAcsb3",
+    "url": "=FORMULATEXT(C362)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn14",
@@ -30241,6 +30601,7 @@
     "bubbleColor": "#0ca54a",
     "filename": "ost03",
     "uniqueEntryId": "mFq536yZgoy7zEbKd",
+    "url": "=FORMULATEXT(C363)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ost03",
@@ -30325,6 +30686,7 @@
     "bubbleColor": "#a06fce",
     "filename": "squ08",
     "uniqueEntryId": "vqPjvoChWTNpj2t6E",
+    "url": "=FORMULATEXT(C364)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ08",
@@ -30412,6 +30774,7 @@
     "bubbleColor": "#951d43",
     "filename": "shp03",
     "uniqueEntryId": "PnrARfxc8picdtvL8",
+    "url": "=FORMULATEXT(C365)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp03",
@@ -30497,6 +30860,7 @@
     "bubbleColor": "#bfbfbf",
     "filename": "pbr07",
     "uniqueEntryId": "u7tJskupjfv3Ejedt",
+    "url": "=FORMULATEXT(C366)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pbr07",
@@ -30578,6 +30942,7 @@
     "bubbleColor": "#d8cc39",
     "filename": "cat13",
     "uniqueEntryId": "daE2wDXCWHDJZBkD4",
+    "url": "=FORMULATEXT(C367)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat13",
@@ -30688,6 +31053,7 @@
     "bubbleColor": "#ffaa3b",
     "filename": "cbr05",
     "uniqueEntryId": "SfGuc8givs3kR8kvM",
+    "url": "=FORMULATEXT(C368)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr05",
@@ -30768,6 +31134,7 @@
     "bubbleColor": "#6b75ce",
     "filename": "bul03",
     "uniqueEntryId": "rcPtvvvscvkEWG7AF",
+    "url": "=FORMULATEXT(C369)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bul03",
@@ -30854,6 +31221,7 @@
     "bubbleColor": "#7352e8",
     "filename": "kal03",
     "uniqueEntryId": "crrWmmqsC9RfmZNCS",
+    "url": "=FORMULATEXT(C370)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal03",
@@ -30937,6 +31305,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "squ14",
     "uniqueEntryId": "MBkrN9pXkoACmfPdE",
+    "url": "=FORMULATEXT(C371)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ14",
@@ -31023,6 +31392,7 @@
     "bubbleColor": "#a06fce",
     "filename": "kgr06",
     "uniqueEntryId": "PZsBTkeYBg5ACE5xB",
+    "url": "=FORMULATEXT(C372)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kgr06",
@@ -31104,6 +31474,7 @@
     "bubbleColor": "#acc8cf",
     "filename": "bul05",
     "uniqueEntryId": "QLPX4QqjhiPwCLcko",
+    "url": "=FORMULATEXT(C373)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bul05",
@@ -31191,6 +31562,7 @@
     "bubbleColor": "#ff791f",
     "filename": "cat12",
     "uniqueEntryId": "P3ouRnR3NRSch3LaC",
+    "url": "=FORMULATEXT(C374)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat12",
@@ -31270,6 +31642,7 @@
     "bubbleColor": "#76b788",
     "filename": "flg09",
     "uniqueEntryId": "v74Hs9XT2zRC6gDjE",
+    "url": "=FORMULATEXT(C375)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg09",
@@ -31354,6 +31727,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "mnk03",
     "uniqueEntryId": "vYWvCyge46SGeHfHH",
+    "url": "=FORMULATEXT(C376)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mnk03",
@@ -31437,6 +31811,7 @@
     "bubbleColor": "#fff80d",
     "filename": "cbr17",
     "uniqueEntryId": "vw7ussv29jkjDdnJ7",
+    "url": "=FORMULATEXT(C377)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr17",
@@ -31526,6 +31901,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "cat05",
     "uniqueEntryId": "eeMEC83wHWmKuHNvh",
+    "url": "=FORMULATEXT(C378)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat05",
@@ -31604,6 +31980,7 @@
     "bubbleColor": "#8bcdea",
     "filename": "rhn00",
     "uniqueEntryId": "tq4TfLyNJx7un4h2m",
+    "url": "=FORMULATEXT(C379)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rhn00",
@@ -31689,6 +32066,7 @@
     "bubbleColor": "#194c89",
     "filename": "squ13",
     "uniqueEntryId": "i3FzxyjfuBzy7Fnv3",
+    "url": "=FORMULATEXT(C380)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ13",
@@ -31769,6 +32147,7 @@
     "bubbleColor": "#ff791f",
     "filename": "bea00",
     "uniqueEntryId": "JhB2GSBmZCpaqRGDv",
+    "url": "=FORMULATEXT(C381)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea00",
@@ -31852,6 +32231,7 @@
     "bubbleColor": "#194c89",
     "filename": "pgn12",
     "uniqueEntryId": "99QcysqkrEZ7ycBWs",
+    "url": "=FORMULATEXT(C382)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn12",
@@ -31937,6 +32317,7 @@
     "bubbleColor": "#ffffff",
     "filename": "elp10",
     "uniqueEntryId": "2SK8tjSB8JvYLgPn9",
+    "url": "=FORMULATEXT(C383)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp10",
@@ -32023,6 +32404,7 @@
     "bubbleColor": "#ff791f",
     "filename": "mnk09",
     "uniqueEntryId": "wZkci5jynMmap9XsX",
+    "url": "=FORMULATEXT(C384)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "mnk09",
@@ -32107,6 +32489,7 @@
     "bubbleColor": "#ffffff",
     "filename": "rbt07",
     "uniqueEntryId": "yhaDSkcEFYP6urwjN",
+    "url": "=FORMULATEXT(C385)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt07",
@@ -32192,6 +32575,7 @@
     "bubbleColor": "#d86808",
     "filename": "shp10",
     "uniqueEntryId": "yafB94xabfKKPPNSp",
+    "url": "=FORMULATEXT(C386)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp10",
@@ -32275,6 +32659,7 @@
     "bubbleColor": "#ffffff",
     "filename": "cow01",
     "uniqueEntryId": "ZWevBdWKRpz7DC7B4",
+    "url": "=FORMULATEXT(C387)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cow01",
@@ -32356,6 +32741,7 @@
     "bubbleColor": "#fce229",
     "filename": "rbt20",
     "uniqueEntryId": "eC62W2PeJ76nzY4Ab",
+    "url": "=FORMULATEXT(C388)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "rbt20",
@@ -32442,6 +32828,7 @@
     "bubbleColor": "#0961f6",
     "filename": "cat15",
     "uniqueEntryId": "2vHKegY3XyX2DBc6G",
+    "url": "=FORMULATEXT(C389)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cat15",
@@ -32523,6 +32910,7 @@
     "bubbleColor": "#f993ce",
     "filename": "pig01",
     "uniqueEntryId": "3oNZnyk4zv3zJD2m5",
+    "url": "=FORMULATEXT(C390)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pig01",
@@ -32604,6 +32992,7 @@
     "bubbleColor": "#e8b010",
     "filename": "elp09",
     "uniqueEntryId": "96HCsK6H2c7J2ARMa",
+    "url": "=FORMULATEXT(C391)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "elp09",
@@ -32689,6 +33078,7 @@
     "bubbleColor": "#ffffff",
     "filename": "brd20",
     "uniqueEntryId": "4RdHK4gPyTSWCdz6e",
+    "url": "=FORMULATEXT(C392)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd20",
@@ -32771,6 +33161,7 @@
     "bubbleColor": "#ffffff",
     "filename": "bea07",
     "uniqueEntryId": "HqboYio5a8bRbKtcL",
+    "url": "=FORMULATEXT(C393)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea07",
@@ -32855,6 +33246,7 @@
     "bubbleColor": "#fff80d",
     "filename": "brd03",
     "uniqueEntryId": "P6sD4cQvXFHHvNcz8",
+    "url": "=FORMULATEXT(C394)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "brd03",
@@ -32938,6 +33330,7 @@
     "bubbleColor": "#ffd00d",
     "filename": "tig02",
     "uniqueEntryId": "Q49mH4FY3BrgFDoyN",
+    "url": "=FORMULATEXT(C395)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "tig02",
@@ -33020,6 +33413,7 @@
     "bubbleColor": "#f2bdc7",
     "filename": "bea08",
     "uniqueEntryId": "zodRh39TrqXPbGW49",
+    "url": "=FORMULATEXT(C396)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bea08",
@@ -33101,6 +33495,7 @@
     "bubbleColor": "#ff6183",
     "filename": "goa06",
     "uniqueEntryId": "PkAYXk745ZHBE69a9",
+    "url": "=FORMULATEXT(C397)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "goa06",
@@ -33190,6 +33585,7 @@
     "bubbleColor": "#ffffff",
     "filename": "shp00",
     "uniqueEntryId": "pkzxW9Pmtd39TMdDH",
+    "url": "=FORMULATEXT(C398)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp00",
@@ -33304,6 +33700,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "bul08",
     "uniqueEntryId": "9ouwtyzDNP65WJv77",
+    "url": "=FORMULATEXT(C399)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "bul08",
@@ -33390,6 +33787,7 @@
     "bubbleColor": "#ffea0a",
     "filename": "squ20",
     "uniqueEntryId": "YAqePw98LCqN9CCZ8",
+    "url": "=FORMULATEXT(C400)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "squ20",
@@ -33504,6 +33902,7 @@
     "bubbleColor": "#d8cc39",
     "filename": "hrs01",
     "uniqueEntryId": "R5zfwZxyxaa6gue4d",
+    "url": "=FORMULATEXT(C401)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs01",
@@ -33587,6 +33986,7 @@
     "bubbleColor": "#ec7efc",
     "filename": "gor07",
     "uniqueEntryId": "z7N6aubfytXa7Z4Me",
+    "url": "=FORMULATEXT(C402)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "gor07",
@@ -33674,6 +34074,7 @@
     "bubbleColor": "#e4b887",
     "filename": "wol08",
     "uniqueEntryId": "tWyG3bE5fwvNNGpWM",
+    "url": "=FORMULATEXT(C403)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol08",
@@ -33756,6 +34157,7 @@
     "bubbleColor": "#ff6183",
     "filename": "cbr06",
     "uniqueEntryId": "Eskwc34f2x6Qx6ZNT",
+    "url": "=FORMULATEXT(C404)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "cbr06",
@@ -33841,6 +34243,7 @@
     "bubbleColor": "#ffffff",
     "filename": "pgn09",
     "uniqueEntryId": "cy2hRtipGaiHEBPd8",
+    "url": "=FORMULATEXT(C405)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "pgn09",
@@ -33925,6 +34328,7 @@
     "bubbleColor": "#ffffff",
     "filename": "dog06",
     "uniqueEntryId": "rh6PGwW3Lg6EFcfo6",
+    "url": "=FORMULATEXT(C406)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "dog06",
@@ -34004,6 +34408,7 @@
     "bubbleColor": "#acc8cf",
     "filename": "kgr08",
     "uniqueEntryId": "wN36ADi7MxiLNJ3Eu",
+    "url": "=FORMULATEXT(C407)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kgr08",
@@ -34089,6 +34494,7 @@
     "bubbleColor": "#d86808",
     "filename": "flg05",
     "uniqueEntryId": "HCbj4RPsBexGWd2Sy",
+    "url": "=FORMULATEXT(C408)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "flg05",
@@ -34171,6 +34577,7 @@
     "bubbleColor": "#a87850",
     "filename": "duk11",
     "uniqueEntryId": "QrbKSTR4H9tFKBofW",
+    "url": "=FORMULATEXT(C409)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "duk11",
@@ -34259,6 +34666,7 @@
     "bubbleColor": "#55cfff",
     "filename": "shp09",
     "uniqueEntryId": "YyW9WdsWe6EgMF4Mq",
+    "url": "=FORMULATEXT(C410)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp09",
@@ -34345,6 +34753,7 @@
     "bubbleColor": "#bff2ff",
     "filename": "wol03",
     "uniqueEntryId": "KbixDxCFpoWTimarv",
+    "url": "=FORMULATEXT(C411)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol03",
@@ -34431,6 +34840,7 @@
     "bubbleColor": "#fff98f",
     "filename": "shp07",
     "uniqueEntryId": "HT58xc2w7ootdCRWb",
+    "url": "=FORMULATEXT(C412)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp07",
@@ -34513,6 +34923,7 @@
     "bubbleColor": "#c0ab72",
     "filename": "hrs05",
     "uniqueEntryId": "b4HwfyvThyipScSAv",
+    "url": "=FORMULATEXT(C413)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "hrs05",
@@ -34602,6 +35013,7 @@
     "bubbleColor": "#194c89",
     "filename": "wol02",
     "uniqueEntryId": "RbF2wcn6jRxtgLDRd",
+    "url": "=FORMULATEXT(C414)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "wol02",
@@ -34683,6 +35095,7 @@
     "bubbleColor": "#194c89",
     "filename": "kal00",
     "uniqueEntryId": "QDcxk3dCNT6yeD9hk",
+    "url": "=FORMULATEXT(C415)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "kal00",
@@ -34765,6 +35178,7 @@
     "bubbleColor": "#4c3317",
     "filename": "der02",
     "uniqueEntryId": "LodBWtdMRZbjFNga9",
+    "url": "=FORMULATEXT(C416)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "der02",
@@ -34851,6 +35265,7 @@
     "bubbleColor": "#00d1bd",
     "filename": "ant05",
     "uniqueEntryId": "oypQcviP2QAkFYFaJ",
+    "url": "=FORMULATEXT(C417)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ant05",
@@ -34937,6 +35352,7 @@
     "bubbleColor": "#e4b887",
     "filename": "ocp02",
     "uniqueEntryId": "2F5tipHqgmWvWXTLC",
+    "url": "=FORMULATEXT(C418)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "ocp02",
@@ -35016,6 +35432,7 @@
     "bubbleColor": "#b99fff",
     "filename": "shp14",
     "uniqueEntryId": "kPqyc2SXYZcapKxSL",
+    "url": "=FORMULATEXT(C139)",
     "catchphrases": {
       "sourceSheet": "Villager Catchphrases",
       "id": "shp14",

@@ -57,6 +57,6 @@
   },
   "dependencies": {
     "@lin/sheets": "github:linsvensson/sheets",
-    "googleapis": "^170.1.0"
+    "googleapis": "^171.4.0"
   }
 }

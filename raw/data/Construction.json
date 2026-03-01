@@ -8,7 +8,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "BridgeBricks",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Rvkrg9tcubTMakcBS"
+    "Unique Entry ID": "Rvkrg9tcubTMakcBS",
+    "Url": "=FORMULATEXT(B2)"
   },
   {
     "SourceSheet": "Construction",
@@ -19,7 +20,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "BridgeIron",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "RmQ6iiKkFf3Sy4iSQ"
+    "Unique Entry ID": "RmQ6iiKkFf3Sy4iSQ",
+    "Url": "=FORMULATEXT(B3)"
   },
   {
     "SourceSheet": "Construction",
@@ -30,7 +32,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "BridgeLog",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Px55sTfjKSbbMtjAK"
+    "Unique Entry ID": "Px55sTfjKSbbMtjAK",
+    "Url": "=FORMULATEXT(B4)"
   },
   {
     "SourceSheet": "Construction",
@@ -41,7 +44,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "BridgeRed",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "jTziEHXkeYaugKDQQ"
+    "Unique Entry ID": "jTziEHXkeYaugKDQQ",
+    "Url": "=FORMULATEXT(B5)"
   },
   {
     "SourceSheet": "Construction",
@@ -52,7 +56,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "BridgeStone",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "JmrwC2tRRCCgbZnrp"
+    "Unique Entry ID": "JmrwC2tRRCCgbZnrp",
+    "Url": "=FORMULATEXT(B6)"
   },
   {
     "SourceSheet": "Construction",
@@ -63,7 +68,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "BridgeSuspension",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "q52JebMTHDqHJKBba"
+    "Unique Entry ID": "q52JebMTHDqHJKBba",
+    "Url": "=FORMULATEXT(B7)"
   },
   {
     "SourceSheet": "Construction",
@@ -74,7 +80,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "BridgeWood",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "7oZ7FMrJEpBLZzsmw"
+    "Unique Entry ID": "7oZ7FMrJEpBLZzsmw",
+    "Url": "=FORMULATEXT(B8)"
   },
   {
     "SourceSheet": "Construction",
@@ -85,7 +92,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "BridgeJapanese",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "TbKbHzJM8j8ezmAEF"
+    "Unique Entry ID": "TbKbHzJM8j8ezmAEF",
+    "Url": "=FORMULATEXT(B9)"
   },
   {
     "SourceSheet": "Construction",
@@ -96,7 +104,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "HrAsZSpm2pRj2u8ad"
+    "Unique Entry ID": "HrAsZSpm2pRj2u8ad",
+    "Url": "=FORMULATEXT(B10)"
   },
   {
     "SourceSheet": "Construction",
@@ -107,7 +116,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "uF4YeCTGBx4Tawcp8"
+    "Unique Entry ID": "uF4YeCTGBx4Tawcp8",
+    "Url": "=FORMULATEXT(B11)"
   },
   {
     "SourceSheet": "Construction",
@@ -118,7 +128,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimpleBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "jQFLgioHYBRbRkBYK"
+    "Unique Entry ID": "jQFLgioHYBRbRkBYK",
+    "Url": "=FORMULATEXT(B12)"
   },
   {
     "SourceSheet": "Construction",
@@ -129,7 +140,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "oMqf22Pf8fZzeoJdY"
+    "Unique Entry ID": "oMqf22Pf8fZzeoJdY",
+    "Url": "=FORMULATEXT(B13)"
   },
   {
     "SourceSheet": "Construction",
@@ -140,7 +152,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "N5LASg9qjhgexBMe7"
+    "Unique Entry ID": "N5LASg9qjhgexBMe7",
+    "Url": "=FORMULATEXT(B14)"
   },
   {
     "SourceSheet": "Construction",
@@ -151,7 +164,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "6mmdmWbK5ZRpbCsWc"
+    "Unique Entry ID": "6mmdmWbK5ZRpbCsWc",
+    "Url": "=FORMULATEXT(B15)"
   },
   {
     "SourceSheet": "Construction",
@@ -162,7 +176,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCarvingBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "3ZahH8gvtHGdkEM68"
+    "Unique Entry ID": "3ZahH8gvtHGdkEM68",
+    "Url": "=FORMULATEXT(B16)"
   },
   {
     "SourceSheet": "Construction",
@@ -173,7 +188,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorChineseHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "qT9ghD7YkZpMDgBDf"
+    "Unique Entry ID": "qT9ghD7YkZpMDgBDf",
+    "Url": "=FORMULATEXT(B17)"
   },
   {
     "SourceSheet": "Construction",
@@ -184,7 +200,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorLatticeHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Kzu4WsZwmSWzLdMC6"
+    "Unique Entry ID": "Kzu4WsZwmSWzLdMC6",
+    "Url": "=FORMULATEXT(B18)"
   },
   {
     "SourceSheet": "Construction",
@@ -195,7 +212,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "TKDhdqyJBdrz8yQt6"
+    "Unique Entry ID": "TKDhdqyJBdrz8yQt6",
+    "Url": "=FORMULATEXT(B19)"
   },
   {
     "SourceSheet": "Construction",
@@ -206,7 +224,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Z4efmoeAjzYLhTsKJ"
+    "Unique Entry ID": "Z4efmoeAjzYLhTsKJ",
+    "Url": "=FORMULATEXT(B20)"
   },
   {
     "SourceSheet": "Construction",
@@ -217,7 +236,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorJapaneseER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "AxrkW9SNKqmh9kX4S"
+    "Unique Entry ID": "AxrkW9SNKqmh9kX4S",
+    "Url": "=FORMULATEXT(B21)"
   },
   {
     "SourceSheet": "Construction",
@@ -228,7 +248,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "BxqZmtEty82NDo8J3"
+    "Unique Entry ID": "BxqZmtEty82NDo8J3",
+    "Url": "=FORMULATEXT(B22)"
   },
   {
     "SourceSheet": "Construction",
@@ -239,7 +260,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "hfWfx4mxev3qjp2zH"
+    "Unique Entry ID": "hfWfx4mxev3qjp2zH",
+    "Url": "=FORMULATEXT(B23)"
   },
   {
     "SourceSheet": "Construction",
@@ -250,7 +272,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCarvingER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "fm6MupiuPAK6HPNNj"
+    "Unique Entry ID": "fm6MupiuPAK6HPNNj",
+    "Url": "=FORMULATEXT(B24)"
   },
   {
     "SourceSheet": "Construction",
@@ -261,7 +284,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "5tgy5p3AE38NBeG9B"
+    "Unique Entry ID": "5tgy5p3AE38NBeG9B",
+    "Url": "=FORMULATEXT(B25)"
   },
   {
     "SourceSheet": "Construction",
@@ -272,7 +296,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorLatticeFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "JwdJLi5HHZe24DmkF"
+    "Unique Entry ID": "JwdJLi5HHZe24DmkF",
+    "Url": "=FORMULATEXT(B26)"
   },
   {
     "SourceSheet": "Construction",
@@ -283,7 +308,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronpartsCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "YB3NZt9RRYJroWRcn"
+    "Unique Entry ID": "YB3NZt9RRYJroWRcn",
+    "Url": "=FORMULATEXT(B27)"
   },
   {
     "SourceSheet": "Construction",
@@ -294,7 +320,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "8k4sCwWWqugmTYuw6"
+    "Unique Entry ID": "8k4sCwWWqugmTYuw6",
+    "Url": "=FORMULATEXT(B28)"
   },
   {
     "SourceSheet": "Construction",
@@ -305,7 +332,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimpleDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "cN2eTBiAPt2Bv8GTK"
+    "Unique Entry ID": "cN2eTBiAPt2Bv8GTK",
+    "Url": "=FORMULATEXT(B29)"
   },
   {
     "SourceSheet": "Construction",
@@ -316,7 +344,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "AJB8xQLjaJR2WrHBv"
+    "Unique Entry ID": "AJB8xQLjaJR2WrHBv",
+    "Url": "=FORMULATEXT(B30)"
   },
   {
     "SourceSheet": "Construction",
@@ -327,7 +356,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "i5JLZk2vdr5jZ9nBC"
+    "Unique Entry ID": "i5JLZk2vdr5jZ9nBC",
+    "Url": "=FORMULATEXT(B31)"
   },
   {
     "SourceSheet": "Construction",
@@ -338,7 +368,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "okXxYSYZ8o2vceKQG"
+    "Unique Entry ID": "okXxYSYZ8o2vceKQG",
+    "Url": "=FORMULATEXT(B32)"
   },
   {
     "SourceSheet": "Construction",
@@ -349,7 +380,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorChineseBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "SN5ik2H7HfGLuG9EN"
+    "Unique Entry ID": "SN5ik2H7HfGLuG9EN",
+    "Url": "=FORMULATEXT(B33)"
   },
   {
     "SourceSheet": "Construction",
@@ -360,7 +392,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorLatticeAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "a4Mft9ihDSpo4jusc"
+    "Unique Entry ID": "a4Mft9ihDSpo4jusc",
+    "Url": "=FORMULATEXT(B34)"
   },
   {
     "SourceSheet": "Construction",
@@ -371,7 +404,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronpartsFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "8eztTyD69pNsq7Eee"
+    "Unique Entry ID": "8eztTyD69pNsq7Eee",
+    "Url": "=FORMULATEXT(B35)"
   },
   {
     "SourceSheet": "Construction",
@@ -382,7 +416,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorJapaneseCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "3bWWrFPG7N5NcAKbS"
+    "Unique Entry ID": "3bWWrFPG7N5NcAKbS",
+    "Url": "=FORMULATEXT(B36)"
   },
   {
     "SourceSheet": "Construction",
@@ -393,7 +428,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "vuSF9u2vtgf95NREh"
+    "Unique Entry ID": "vuSF9u2vtgf95NREh",
+    "Url": "=FORMULATEXT(B37)"
   },
   {
     "SourceSheet": "Construction",
@@ -404,7 +440,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "8Gx8LKMb7ipbF9qKa"
+    "Unique Entry ID": "8Gx8LKMb7ipbF9qKa",
+    "Url": "=FORMULATEXT(B38)"
   },
   {
     "SourceSheet": "Construction",
@@ -415,7 +452,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowJR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "CTyPWnQDRGqMcDEyf"
+    "Unique Entry ID": "CTyPWnQDRGqMcDEyf",
+    "Url": "=FORMULATEXT(B39)"
   },
   {
     "SourceSheet": "Construction",
@@ -426,7 +464,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "CQFAjS99WqxTu4QDJ"
+    "Unique Entry ID": "CQFAjS99WqxTu4QDJ",
+    "Url": "=FORMULATEXT(B40)"
   },
   {
     "SourceSheet": "Construction",
@@ -437,7 +476,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimpleGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Gyibc6G9u5Zv4fMdJ"
+    "Unique Entry ID": "Gyibc6G9u5Zv4fMdJ",
+    "Url": "=FORMULATEXT(B41)"
   },
   {
     "SourceSheet": "Construction",
@@ -448,7 +488,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "mEBW6Y6gLFpBpibwA"
+    "Unique Entry ID": "mEBW6Y6gLFpBpibwA",
+    "Url": "=FORMULATEXT(B42)"
   },
   {
     "SourceSheet": "Construction",
@@ -459,7 +500,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "27cPAfi2DYBEzzgto"
+    "Unique Entry ID": "27cPAfi2DYBEzzgto",
+    "Url": "=FORMULATEXT(B43)"
   },
   {
     "SourceSheet": "Construction",
@@ -470,7 +512,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "uzLEvMD46GzBZQ3mN"
+    "Unique Entry ID": "uzLEvMD46GzBZQ3mN",
+    "Url": "=FORMULATEXT(B44)"
   },
   {
     "SourceSheet": "Construction",
@@ -481,7 +524,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorLatticeER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ZCfMjY9ED5jW87aZY"
+    "Unique Entry ID": "ZCfMjY9ED5jW87aZY",
+    "Url": "=FORMULATEXT(B45)"
   },
   {
     "SourceSheet": "Construction",
@@ -492,7 +536,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimpleCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "QjS2nzSqHCLCcLGKQ"
+    "Unique Entry ID": "QjS2nzSqHCLCcLGKQ",
+    "Url": "=FORMULATEXT(B46)"
   },
   {
     "SourceSheet": "Construction",
@@ -503,7 +548,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Y7W4HKFy49BLvabBD"
+    "Unique Entry ID": "Y7W4HKFy49BLvabBD",
+    "Url": "=FORMULATEXT(B47)"
   },
   {
     "SourceSheet": "Construction",
@@ -514,7 +560,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "C2LhRZFynjh6x5gQB"
+    "Unique Entry ID": "C2LhRZFynjh6x5gQB",
+    "Url": "=FORMULATEXT(B48)"
   },
   {
     "SourceSheet": "Construction",
@@ -525,7 +572,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "jDYnxjeL9zxWFsYM3"
+    "Unique Entry ID": "jDYnxjeL9zxWFsYM3",
+    "Url": "=FORMULATEXT(B49)"
   },
   {
     "SourceSheet": "Construction",
@@ -536,7 +584,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "3xcS4XeYXbi6A4JJc"
+    "Unique Entry ID": "3xcS4XeYXbi6A4JJc",
+    "Url": "=FORMULATEXT(B50)"
   },
   {
     "SourceSheet": "Construction",
@@ -547,7 +596,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorChineseER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "h59gk2epKc9ALPoF9"
+    "Unique Entry ID": "h59gk2epKc9ALPoF9",
+    "Url": "=FORMULATEXT(B51)"
   },
   {
     "SourceSheet": "Construction",
@@ -558,7 +608,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "CH2gZGRicug5TB5nF"
+    "Unique Entry ID": "CH2gZGRicug5TB5nF",
+    "Url": "=FORMULATEXT(B52)"
   },
   {
     "SourceSheet": "Construction",
@@ -569,7 +620,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "fNwKPm8gu5pnoNZ2H"
+    "Unique Entry ID": "fNwKPm8gu5pnoNZ2H",
+    "Url": "=FORMULATEXT(B53)"
   },
   {
     "SourceSheet": "Construction",
@@ -580,7 +632,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronpartsDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "gveHmLcPh9uNLMFB8"
+    "Unique Entry ID": "gveHmLcPh9uNLMFB8",
+    "Url": "=FORMULATEXT(B54)"
   },
   {
     "SourceSheet": "Construction",
@@ -591,7 +644,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityJR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "YyyhicaCZuYCAd4hm"
+    "Unique Entry ID": "YyyhicaCZuYCAd4hm",
+    "Url": "=FORMULATEXT(B55)"
   },
   {
     "SourceSheet": "Construction",
@@ -602,7 +656,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "DAwzGNJimCfi6XuPY"
+    "Unique Entry ID": "DAwzGNJimCfi6XuPY",
+    "Url": "=FORMULATEXT(B56)"
   },
   {
     "SourceSheet": "Construction",
@@ -613,7 +668,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "CHTZZvpsuYP2ZvEtm"
+    "Unique Entry ID": "CHTZZvpsuYP2ZvEtm",
+    "Url": "=FORMULATEXT(B57)"
   },
   {
     "SourceSheet": "Construction",
@@ -624,7 +680,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "qj2PXQwBkjoDPMSDc"
+    "Unique Entry ID": "qj2PXQwBkjoDPMSDc",
+    "Url": "=FORMULATEXT(B58)"
   },
   {
     "SourceSheet": "Construction",
@@ -635,7 +692,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowJR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "mH3kwkiNAW9Tgg5XH"
+    "Unique Entry ID": "mH3kwkiNAW9Tgg5XH",
+    "Url": "=FORMULATEXT(B59)"
   },
   {
     "SourceSheet": "Construction",
@@ -646,7 +704,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefIR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "oe58QsaRvnF9dQ9Eg"
+    "Unique Entry ID": "oe58QsaRvnF9dQ9Eg",
+    "Url": "=FORMULATEXT(B60)"
   },
   {
     "SourceSheet": "Construction",
@@ -657,7 +716,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorChineseAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "BbeW2wNrRMq4PkQB5"
+    "Unique Entry ID": "BbeW2wNrRMq4PkQB5",
+    "Url": "=FORMULATEXT(B61)"
   },
   {
     "SourceSheet": "Construction",
@@ -668,7 +728,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "yE4x5zcn95mcNNf2f"
+    "Unique Entry ID": "yE4x5zcn95mcNNf2f",
+    "Url": "=FORMULATEXT(B62)"
   },
   {
     "SourceSheet": "Construction",
@@ -679,7 +740,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Cgd6XZxLfYLbuRqoC"
+    "Unique Entry ID": "Cgd6XZxLfYLbuRqoC",
+    "Url": "=FORMULATEXT(B63)"
   },
   {
     "SourceSheet": "Construction",
@@ -690,7 +752,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorJapaneseFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "soxZojTeCikxb9q53"
+    "Unique Entry ID": "soxZojTeCikxb9q53",
+    "Url": "=FORMULATEXT(B64)"
   },
   {
     "SourceSheet": "Construction",
@@ -701,7 +764,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorLatticeDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "jexi2bbNCwn2j3JvC"
+    "Unique Entry ID": "jexi2bbNCwn2j3JvC",
+    "Url": "=FORMULATEXT(B65)"
   },
   {
     "SourceSheet": "Construction",
@@ -712,7 +776,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "n5cEgH77z99n3rT8i"
+    "Unique Entry ID": "n5cEgH77z99n3rT8i",
+    "Url": "=FORMULATEXT(B66)"
   },
   {
     "SourceSheet": "Construction",
@@ -723,7 +788,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "FW8NZXxWLT4hY6Nj3"
+    "Unique Entry ID": "FW8NZXxWLT4hY6Nj3",
+    "Url": "=FORMULATEXT(B67)"
   },
   {
     "SourceSheet": "Construction",
@@ -734,7 +800,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "cuDwoeXKD2jdQEPvQ"
+    "Unique Entry ID": "cuDwoeXKD2jdQEPvQ",
+    "Url": "=FORMULATEXT(B68)"
   },
   {
     "SourceSheet": "Construction",
@@ -745,7 +812,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "uKkrQ5yBYWQMmerB7"
+    "Unique Entry ID": "uKkrQ5yBYWQMmerB7",
+    "Url": "=FORMULATEXT(B69)"
   },
   {
     "SourceSheet": "Construction",
@@ -756,7 +824,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "bTb3Quno8Hhs7ASK2"
+    "Unique Entry ID": "bTb3Quno8Hhs7ASK2",
+    "Url": "=FORMULATEXT(B70)"
   },
   {
     "SourceSheet": "Construction",
@@ -767,7 +836,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "zvWtASTxgTYBunTDz"
+    "Unique Entry ID": "zvWtASTxgTYBunTDz",
+    "Url": "=FORMULATEXT(B71)"
   },
   {
     "SourceSheet": "Construction",
@@ -778,7 +848,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronpartsAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "EivvfJTS98tFNbuno"
+    "Unique Entry ID": "EivvfJTS98tFNbuno",
+    "Url": "=FORMULATEXT(B72)"
   },
   {
     "SourceSheet": "Construction",
@@ -789,7 +860,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "LnLiK3nvaaGqMSJbo"
+    "Unique Entry ID": "LnLiK3nvaaGqMSJbo",
+    "Url": "=FORMULATEXT(B73)"
   },
   {
     "SourceSheet": "Construction",
@@ -800,7 +872,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "LGernbHCg8R4Kcs8f"
+    "Unique Entry ID": "LGernbHCg8R4Kcs8f",
+    "Url": "=FORMULATEXT(B74)"
   },
   {
     "SourceSheet": "Construction",
@@ -811,7 +884,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityIR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "HEczAiQ4dHwB5zh5i"
+    "Unique Entry ID": "HEczAiQ4dHwB5zh5i",
+    "Url": "=FORMULATEXT(B75)"
   },
   {
     "SourceSheet": "Construction",
@@ -822,7 +896,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowIR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Xby3xZhQd3dMb4Coe"
+    "Unique Entry ID": "Xby3xZhQd3dMb4Coe",
+    "Url": "=FORMULATEXT(B76)"
   },
   {
     "SourceSheet": "Construction",
@@ -833,7 +908,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCarvingDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "2jbKjqmXXQddSvH26"
+    "Unique Entry ID": "2jbKjqmXXQddSvH26",
+    "Url": "=FORMULATEXT(B77)"
   },
   {
     "SourceSheet": "Construction",
@@ -844,7 +920,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "BLseEGcXhw9dPreLx"
+    "Unique Entry ID": "BLseEGcXhw9dPreLx",
+    "Url": "=FORMULATEXT(B78)"
   },
   {
     "SourceSheet": "Construction",
@@ -855,7 +932,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "sjAoF3vsRF5J8jLdq"
+    "Unique Entry ID": "sjAoF3vsRF5J8jLdq",
+    "Url": "=FORMULATEXT(B79)"
   },
   {
     "SourceSheet": "Construction",
@@ -866,7 +944,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronpartsER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "TB89rf3ccaKip4QRz"
+    "Unique Entry ID": "TB89rf3ccaKip4QRz",
+    "Url": "=FORMULATEXT(B80)"
   },
   {
     "SourceSheet": "Construction",
@@ -877,7 +956,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "GANZwLknoRyyegbLM"
+    "Unique Entry ID": "GANZwLknoRyyegbLM",
+    "Url": "=FORMULATEXT(B81)"
   },
   {
     "SourceSheet": "Construction",
@@ -888,7 +968,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimpleER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "qvNBxg3CEWvEnoNpZ"
+    "Unique Entry ID": "qvNBxg3CEWvEnoNpZ",
+    "Url": "=FORMULATEXT(B82)"
   },
   {
     "SourceSheet": "Construction",
@@ -899,7 +980,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowIR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "svRR2C9PSLt5ef3Su"
+    "Unique Entry ID": "svRR2C9PSLt5ef3Su",
+    "Url": "=FORMULATEXT(B83)"
   },
   {
     "SourceSheet": "Construction",
@@ -910,7 +992,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardIR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "gPykmDtFtSdxotvrk"
+    "Unique Entry ID": "gPykmDtFtSdxotvrk",
+    "Url": "=FORMULATEXT(B84)"
   },
   {
     "SourceSheet": "Construction",
@@ -921,7 +1004,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefJR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "XBquzTWPzAnHcKYBj"
+    "Unique Entry ID": "XBquzTWPzAnHcKYBj",
+    "Url": "=FORMULATEXT(B85)"
   },
   {
     "SourceSheet": "Construction",
@@ -932,7 +1016,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillJR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Q4GLiP3Kmurrk2WSB"
+    "Unique Entry ID": "Q4GLiP3Kmurrk2WSB",
+    "Url": "=FORMULATEXT(B86)"
   },
   {
     "SourceSheet": "Construction",
@@ -943,7 +1028,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronpartsGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "B6NfDDoKJXSTX6nEZ"
+    "Unique Entry ID": "B6NfDDoKJXSTX6nEZ",
+    "Url": "=FORMULATEXT(B87)"
   },
   {
     "SourceSheet": "Construction",
@@ -954,7 +1040,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimpleHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "dmTdoj8NzL2jSKZHu"
+    "Unique Entry ID": "dmTdoj8NzL2jSKZHu",
+    "Url": "=FORMULATEXT(B88)"
   },
   {
     "SourceSheet": "Construction",
@@ -965,7 +1052,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowIR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "JHMuJ2pSXBFsCGThM"
+    "Unique Entry ID": "JHMuJ2pSXBFsCGThM",
+    "Url": "=FORMULATEXT(B89)"
   },
   {
     "SourceSheet": "Construction",
@@ -976,7 +1064,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowJR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "kiK57D48BgFz2LdAh"
+    "Unique Entry ID": "kiK57D48BgFz2LdAh",
+    "Url": "=FORMULATEXT(B90)"
   },
   {
     "SourceSheet": "Construction",
@@ -987,7 +1076,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardJR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "oNx9giXYQZLfuCYq5"
+    "Unique Entry ID": "oNx9giXYQZLfuCYq5",
+    "Url": "=FORMULATEXT(B91)"
   },
   {
     "SourceSheet": "Construction",
@@ -998,7 +1088,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "WmuaHC559AALWH2Bb"
+    "Unique Entry ID": "WmuaHC559AALWH2Bb",
+    "Url": "=FORMULATEXT(B92)"
   },
   {
     "SourceSheet": "Construction",
@@ -1009,7 +1100,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCarvingCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "us8rFY2TSFXCx72kH"
+    "Unique Entry ID": "us8rFY2TSFXCx72kH",
+    "Url": "=FORMULATEXT(B93)"
   },
   {
     "SourceSheet": "Construction",
@@ -1020,7 +1112,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorChineseCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "NtxTaTeTrzghsGS2W"
+    "Unique Entry ID": "NtxTaTeTrzghsGS2W",
+    "Url": "=FORMULATEXT(B94)"
   },
   {
     "SourceSheet": "Construction",
@@ -1031,7 +1124,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Bp9ysH2C4zeiScQXP"
+    "Unique Entry ID": "Bp9ysH2C4zeiScQXP",
+    "Url": "=FORMULATEXT(B95)"
   },
   {
     "SourceSheet": "Construction",
@@ -1042,7 +1136,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillIR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "giywRE5qEmQZC6GAN"
+    "Unique Entry ID": "giywRE5qEmQZC6GAN",
+    "Url": "=FORMULATEXT(B96)"
   },
   {
     "SourceSheet": "Construction",
@@ -1053,7 +1148,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorLatticeCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Nnbfndanco3rvQgWf"
+    "Unique Entry ID": "Nnbfndanco3rvQgWf",
+    "Url": "=FORMULATEXT(B97)"
   },
   {
     "SourceSheet": "Construction",
@@ -1064,7 +1160,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronpartsBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "XvgfNPwfYGffgE24X"
+    "Unique Entry ID": "XvgfNPwfYGffgE24X",
+    "Url": "=FORMULATEXT(B98)"
   },
   {
     "SourceSheet": "Construction",
@@ -1075,7 +1172,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "RddBzpZ8QEcLWD4Gv"
+    "Unique Entry ID": "RddBzpZ8QEcLWD4Gv",
+    "Url": "=FORMULATEXT(B99)"
   },
   {
     "SourceSheet": "Construction",
@@ -1086,7 +1184,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "jtHKujXtSxTwgmgiY"
+    "Unique Entry ID": "jtHKujXtSxTwgmgiY",
+    "Url": "=FORMULATEXT(B100)"
   },
   {
     "SourceSheet": "Construction",
@@ -1097,7 +1196,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Z4oGMDMqpFBdfYXsZ"
+    "Unique Entry ID": "Z4oGMDMqpFBdfYXsZ",
+    "Url": "=FORMULATEXT(B101)"
   },
   {
     "SourceSheet": "Construction",
@@ -1108,7 +1208,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "h4LK4FrT733y64FZz"
+    "Unique Entry ID": "h4LK4FrT733y64FZz",
+    "Url": "=FORMULATEXT(B102)"
   },
   {
     "SourceSheet": "Construction",
@@ -1119,7 +1220,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorJapaneseDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "tdPuvQyRrRFiBEv7z"
+    "Unique Entry ID": "tdPuvQyRrRFiBEv7z",
+    "Url": "=FORMULATEXT(B103)"
   },
   {
     "SourceSheet": "Construction",
@@ -1130,7 +1232,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorChineseFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "2mrsS49vJNZdWDQeD"
+    "Unique Entry ID": "2mrsS49vJNZdWDQeD",
+    "Url": "=FORMULATEXT(B104)"
   },
   {
     "SourceSheet": "Construction",
@@ -1141,7 +1244,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "mbsrSkG43TP7tA6e5"
+    "Unique Entry ID": "mbsrSkG43TP7tA6e5",
+    "Url": "=FORMULATEXT(B105)"
   },
   {
     "SourceSheet": "Construction",
@@ -1152,7 +1256,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "aqhHtKKvCQQpb834t"
+    "Unique Entry ID": "aqhHtKKvCQQpb834t",
+    "Url": "=FORMULATEXT(B106)"
   },
   {
     "SourceSheet": "Construction",
@@ -1163,7 +1268,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorLatticeBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "xtvqjdafPWY4DF4ww"
+    "Unique Entry ID": "xtvqjdafPWY4DF4ww",
+    "Url": "=FORMULATEXT(B107)"
   },
   {
     "SourceSheet": "Construction",
@@ -1174,7 +1280,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "rrazQ4rMyTqvC3G3Y"
+    "Unique Entry ID": "rrazQ4rMyTqvC3G3Y",
+    "Url": "=FORMULATEXT(B108)"
   },
   {
     "SourceSheet": "Construction",
@@ -1185,7 +1292,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "cFZFak2hPc3jBrpv8"
+    "Unique Entry ID": "cFZFak2hPc3jBrpv8",
+    "Url": "=FORMULATEXT(B109)"
   },
   {
     "SourceSheet": "Construction",
@@ -1196,7 +1304,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCarvingAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "r6k9ATzzAKaWMNJnQ"
+    "Unique Entry ID": "r6k9ATzzAKaWMNJnQ",
+    "Url": "=FORMULATEXT(B110)"
   },
   {
     "SourceSheet": "Construction",
@@ -1207,7 +1316,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorChineseGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "bthYBfAjTxo7F5dNi"
+    "Unique Entry ID": "bthYBfAjTxo7F5dNi",
+    "Url": "=FORMULATEXT(B111)"
   },
   {
     "SourceSheet": "Construction",
@@ -1218,7 +1328,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Zi4ndrFTFsEqhQPw9"
+    "Unique Entry ID": "Zi4ndrFTFsEqhQPw9",
+    "Url": "=FORMULATEXT(B112)"
   },
   {
     "SourceSheet": "Construction",
@@ -1229,7 +1340,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronGrillFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "bz47mYutYXduChB3P"
+    "Unique Entry ID": "bz47mYutYXduChB3P",
+    "Url": "=FORMULATEXT(B113)"
   },
   {
     "SourceSheet": "Construction",
@@ -1240,7 +1352,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorLatticeGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ndjhLSHZXG4TrmXNS"
+    "Unique Entry ID": "ndjhLSHZXG4TrmXNS",
+    "Url": "=FORMULATEXT(B114)"
   },
   {
     "SourceSheet": "Construction",
@@ -1251,7 +1364,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronpartsHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "yDBA2qT5sGQAzt7eB"
+    "Unique Entry ID": "yDBA2qT5sGQAzt7eB",
+    "Url": "=FORMULATEXT(B115)"
   },
   {
     "SourceSheet": "Construction",
@@ -1262,7 +1376,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimplicityBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Mu7FQYgoRajRuL5BD"
+    "Unique Entry ID": "Mu7FQYgoRajRuL5BD",
+    "Url": "=FORMULATEXT(B116)"
   },
   {
     "SourceSheet": "Construction",
@@ -1273,7 +1388,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimpleAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "q4CQF3zCDhorZ7fAc"
+    "Unique Entry ID": "q4CQF3zCDhorZ7fAc",
+    "Url": "=FORMULATEXT(B117)"
   },
   {
     "SourceSheet": "Construction",
@@ -1284,7 +1400,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "CxFPdgKzKg2ifRx62"
+    "Unique Entry ID": "CxFPdgKzKg2ifRx62",
+    "Url": "=FORMULATEXT(B118)"
   },
   {
     "SourceSheet": "Construction",
@@ -1295,7 +1412,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ZovDjWHe8YSZZKinn"
+    "Unique Entry ID": "ZovDjWHe8YSZZKinn",
+    "Url": "=FORMULATEXT(B119)"
   },
   {
     "SourceSheet": "Construction",
@@ -1306,7 +1424,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardHR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "h2ja68uKd7TxdEwQE"
+    "Unique Entry ID": "h2ja68uKd7TxdEwQE",
+    "Url": "=FORMULATEXT(B120)"
   },
   {
     "SourceSheet": "Construction",
@@ -1317,7 +1436,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorJapaneseGR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "wY7gy8YD2Y8ojnDnm"
+    "Unique Entry ID": "wY7gy8YD2Y8ojnDnm",
+    "Url": "=FORMULATEXT(B121)"
   },
   {
     "SourceSheet": "Construction",
@@ -1328,7 +1448,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorWindowAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "28wnpfEyGZCvdDsmc"
+    "Unique Entry ID": "28wnpfEyGZCvdDsmc",
+    "Url": "=FORMULATEXT(B122)"
   },
   {
     "SourceSheet": "Construction",
@@ -1339,7 +1460,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorStandardAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "4ovKGY9ZoiujvqkS8"
+    "Unique Entry ID": "4ovKGY9ZoiujvqkS8",
+    "Url": "=FORMULATEXT(B123)"
   },
   {
     "SourceSheet": "Construction",
@@ -1350,7 +1472,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCercleWindowCR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "yoMGH8LhL7mFWZiPD"
+    "Unique Entry ID": "yoMGH8LhL7mFWZiPD",
+    "Url": "=FORMULATEXT(B124)"
   },
   {
     "SourceSheet": "Construction",
@@ -1361,7 +1484,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorReliefER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "5ZKFC4ePpoYDqqJSu"
+    "Unique Entry ID": "5ZKFC4ePpoYDqqJSu",
+    "Url": "=FORMULATEXT(B125)"
   },
   {
     "SourceSheet": "Construction",
@@ -1372,7 +1496,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorCarvingFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "iNTxu4FaB6TC9pjni"
+    "Unique Entry ID": "iNTxu4FaB6TC9pjni",
+    "Url": "=FORMULATEXT(B126)"
   },
   {
     "SourceSheet": "Construction",
@@ -1383,7 +1508,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorChineseDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "dBGXJ8LnHwDZciTRS"
+    "Unique Entry ID": "dBGXJ8LnHwDZciTRS",
+    "Url": "=FORMULATEXT(B127)"
   },
   {
     "SourceSheet": "Construction",
@@ -1394,7 +1520,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorIronDR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "wELe85t5gE9e5fZ7H"
+    "Unique Entry ID": "wELe85t5gE9e5fZ7H",
+    "Url": "=FORMULATEXT(B128)"
   },
   {
     "SourceSheet": "Construction",
@@ -1405,7 +1532,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorSimpleFR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "t8gHx6QjK9tFMmMna"
+    "Unique Entry ID": "t8gHx6QjK9tFMmMna",
+    "Url": "=FORMULATEXT(B129)"
   },
   {
     "SourceSheet": "Construction",
@@ -1416,7 +1544,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorVerticalWindowER",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Aszgp3pAbCC75LNHd"
+    "Unique Entry ID": "Aszgp3pAbCC75LNHd",
+    "Url": "=FORMULATEXT(B130)"
   },
   {
     "SourceSheet": "Construction",
@@ -1427,7 +1556,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorJapaneseBR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "yHJcPMRBWKZofvC4H"
+    "Unique Entry ID": "yHJcPMRBWKZofvC4H",
+    "Url": "=FORMULATEXT(B131)"
   },
   {
     "SourceSheet": "Construction",
@@ -1438,7 +1568,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseDoorJapaneseAR",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "jGJNCRi6kcXXTD67g"
+    "Unique Entry ID": "jGJNCRi6kcXXTD67g",
+    "Url": "=FORMULATEXT(B132)"
   },
   {
     "SourceSheet": "Construction",
@@ -1449,7 +1580,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "SlopeIronStairBlue",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "wEC52Lc5cf8TcamMB"
+    "Unique Entry ID": "wEC52Lc5cf8TcamMB",
+    "Url": "=FORMULATEXT(B133)"
   },
   {
     "SourceSheet": "Construction",
@@ -1460,7 +1592,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "SlopeWoodBlue",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "gHnYrhHS9A7MrPdpr"
+    "Unique Entry ID": "gHnYrhHS9A7MrPdpr",
+    "Url": "=FORMULATEXT(B134)"
   },
   {
     "SourceSheet": "Construction",
@@ -1471,7 +1604,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "SlopeBrickStair",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "A8AfTzxqpvzfcMeC5"
+    "Unique Entry ID": "A8AfTzxqpvzfcMeC5",
+    "Url": "=FORMULATEXT(B135)"
   },
   {
     "SourceSheet": "Construction",
@@ -1482,7 +1616,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "SlopeWoodStair",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "wk6oQREwMmRAmkTWJ"
+    "Unique Entry ID": "wk6oQREwMmRAmkTWJ",
+    "Url": "=FORMULATEXT(B136)"
   },
   {
     "SourceSheet": "Construction",
@@ -1493,7 +1628,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "SlopeNatural",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "m7jAPxsGCRgSWo6Ng"
+    "Unique Entry ID": "m7jAPxsGCRgSWo6Ng",
+    "Url": "=FORMULATEXT(B137)"
   },
   {
     "SourceSheet": "Construction",
@@ -1504,7 +1640,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "SlopeIronStair",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "2nygbmutbmBfuzEXp"
+    "Unique Entry ID": "2nygbmutbmBfuzEXp",
+    "Url": "=FORMULATEXT(B138)"
   },
   {
     "SourceSheet": "Construction",
@@ -1515,7 +1652,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "SlopeStoneStair",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "4zszj8KsBNe2XgeGq"
+    "Unique Entry ID": "4zszj8KsBNe2XgeGq",
+    "Url": "=FORMULATEXT(B139)"
   },
   {
     "SourceSheet": "Construction",
@@ -1526,7 +1664,8 @@
     "Source": "Resident Services Upgrade",
     "Filename": "SlopeWood",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "aR8pTDNtanxDQt7MY"
+    "Unique Entry ID": "aR8pTDNtanxDQt7MY",
+    "Url": "=FORMULATEXT(B140)"
   },
   {
     "SourceSheet": "Construction",
@@ -1537,7 +1676,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostLargeBlack",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "MfwnWmtJuJDAvc2Lz"
+    "Unique Entry ID": "MfwnWmtJuJDAvc2Lz",
+    "Url": "=FORMULATEXT(B141)"
   },
   {
     "SourceSheet": "Construction",
@@ -1548,7 +1688,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostStandardBlack",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "mrnKiTGF6ra4B8X2T"
+    "Unique Entry ID": "mrnKiTGF6ra4B8X2T",
+    "Url": "=FORMULATEXT(B142)"
   },
   {
     "SourceSheet": "Construction",
@@ -1559,7 +1700,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostSquareBlack",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "EePwSJwYCpQZacFqi"
+    "Unique Entry ID": "EePwSJwYCpQZacFqi",
+    "Url": "=FORMULATEXT(B143)"
   },
   {
     "SourceSheet": "Construction",
@@ -1570,7 +1712,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostLargeBlue",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "PXyHoT3WdZxgZNngW"
+    "Unique Entry ID": "PXyHoT3WdZxgZNngW",
+    "Url": "=FORMULATEXT(B144)"
   },
   {
     "SourceSheet": "Construction",
@@ -1581,7 +1724,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostStandardBlue",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "RzqDEHhw3HSGjpavY"
+    "Unique Entry ID": "RzqDEHhw3HSGjpavY",
+    "Url": "=FORMULATEXT(B145)"
   },
   {
     "SourceSheet": "Construction",
@@ -1592,7 +1736,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostSquareBlue",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "cP7bYmszxmrmW2ygL"
+    "Unique Entry ID": "cP7bYmszxmrmW2ygL",
+    "Url": "=FORMULATEXT(B146)"
   },
   {
     "SourceSheet": "Construction",
@@ -1603,7 +1748,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostWoodBlue",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "hc333N34upcNjSabw"
+    "Unique Entry ID": "hc333N34upcNjSabw",
+    "Url": "=FORMULATEXT(B147)"
   },
   {
     "SourceSheet": "Construction",
@@ -1614,7 +1760,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostWoodDark",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "f2YBipw25G8BAxwSt"
+    "Unique Entry ID": "f2YBipw25G8BAxwSt",
+    "Url": "=FORMULATEXT(B148)"
   },
   {
     "SourceSheet": "Construction",
@@ -1625,7 +1772,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostLargeGreen",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "MkQ6G3TQ7YqhQToAi"
+    "Unique Entry ID": "MkQ6G3TQ7YqhQToAi",
+    "Url": "=FORMULATEXT(B149)"
   },
   {
     "SourceSheet": "Construction",
@@ -1636,7 +1784,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostStandardGreen",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ujFMEsLrnERfkwfP9"
+    "Unique Entry ID": "ujFMEsLrnERfkwfP9",
+    "Url": "=FORMULATEXT(B150)"
   },
   {
     "SourceSheet": "Construction",
@@ -1647,7 +1796,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostSquareGreen",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "xuTEi6Do6tN46d3q5"
+    "Unique Entry ID": "xuTEi6Do6tN46d3q5",
+    "Url": "=FORMULATEXT(B151)"
   },
   {
     "SourceSheet": "Construction",
@@ -1658,7 +1808,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostWoodGreen",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "6bxdrutijtpzKv39F"
+    "Unique Entry ID": "6bxdrutijtpzKv39F",
+    "Url": "=FORMULATEXT(B152)"
   },
   {
     "SourceSheet": "Construction",
@@ -1669,7 +1820,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostLarge",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "9mei7SoYtX9WhJqBx"
+    "Unique Entry ID": "9mei7SoYtX9WhJqBx",
+    "Url": "=FORMULATEXT(B153)"
   },
   {
     "SourceSheet": "Construction",
@@ -1680,7 +1832,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostStandard",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "WiXx9pYfimxQTSAuF"
+    "Unique Entry ID": "WiXx9pYfimxQTSAuF",
+    "Url": "=FORMULATEXT(B154)"
   },
   {
     "SourceSheet": "Construction",
@@ -1691,7 +1844,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostLargePink",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "442cvvb6XZ2ykmMy9"
+    "Unique Entry ID": "442cvvb6XZ2ykmMy9",
+    "Url": "=FORMULATEXT(B155)"
   },
   {
     "SourceSheet": "Construction",
@@ -1702,7 +1856,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostStandardPink",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "TimXNFMGAu2gEdSHg"
+    "Unique Entry ID": "TimXNFMGAu2gEdSHg",
+    "Url": "=FORMULATEXT(B156)"
   },
   {
     "SourceSheet": "Construction",
@@ -1713,7 +1868,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostSquarePink",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "wM9frkMp4Bw3j8siW"
+    "Unique Entry ID": "wM9frkMp4Bw3j8siW",
+    "Url": "=FORMULATEXT(B157)"
   },
   {
     "SourceSheet": "Construction",
@@ -1724,7 +1880,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostWoodPink",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "rFbXYtTBoJmXaHs8o"
+    "Unique Entry ID": "rFbXYtTBoJmXaHs8o",
+    "Url": "=FORMULATEXT(B158)"
   },
   {
     "SourceSheet": "Construction",
@@ -1735,7 +1892,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostLargeRed",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "dd7zAjPBuZzeepDg4"
+    "Unique Entry ID": "dd7zAjPBuZzeepDg4",
+    "Url": "=FORMULATEXT(B159)"
   },
   {
     "SourceSheet": "Construction",
@@ -1746,7 +1904,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostStandardRed",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "TBRuBdRZM6YmQPNHp"
+    "Unique Entry ID": "TBRuBdRZM6YmQPNHp",
+    "Url": "=FORMULATEXT(B160)"
   },
   {
     "SourceSheet": "Construction",
@@ -1757,7 +1916,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostSquareRed",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "hnC7jsEoSKbk5RsEy"
+    "Unique Entry ID": "hnC7jsEoSKbk5RsEy",
+    "Url": "=FORMULATEXT(B161)"
   },
   {
     "SourceSheet": "Construction",
@@ -1768,7 +1928,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostWoodRed",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "wuakRPNugQ72t832X"
+    "Unique Entry ID": "wuakRPNugQ72t832X",
+    "Url": "=FORMULATEXT(B162)"
   },
   {
     "SourceSheet": "Construction",
@@ -1779,7 +1940,8 @@
     "Source": "Tent",
     "Filename": "FtrPostSimple",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "vhd8waS64LR47ty8Q"
+    "Unique Entry ID": "vhd8waS64LR47ty8Q",
+    "Url": "=FORMULATEXT(B163)"
   },
   {
     "SourceSheet": "Construction",
@@ -1790,7 +1952,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostSquare",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "BKJKu7xjhMajA2aFy"
+    "Unique Entry ID": "BKJKu7xjhMajA2aFy",
+    "Url": "=FORMULATEXT(B164)"
   },
   {
     "SourceSheet": "Construction",
@@ -1801,7 +1964,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostLargeWhite",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "uEXJbNeCvpXGjCokH"
+    "Unique Entry ID": "uEXJbNeCvpXGjCokH",
+    "Url": "=FORMULATEXT(B165)"
   },
   {
     "SourceSheet": "Construction",
@@ -1812,7 +1976,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostStandardWhite",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "QYJ4Xh4GSSi4iYzMb"
+    "Unique Entry ID": "QYJ4Xh4GSSi4iYzMb",
+    "Url": "=FORMULATEXT(B166)"
   },
   {
     "SourceSheet": "Construction",
@@ -1823,7 +1988,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostSquareWhite",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "62DZnrMMYjrk5jbS5"
+    "Unique Entry ID": "62DZnrMMYjrk5jbS5",
+    "Url": "=FORMULATEXT(B167)"
   },
   {
     "SourceSheet": "Construction",
@@ -1834,7 +2000,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostWoodWhite",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "hs8QMbn7caa6z85ha"
+    "Unique Entry ID": "hs8QMbn7caa6z85ha",
+    "Url": "=FORMULATEXT(B168)"
   },
   {
     "SourceSheet": "Construction",
@@ -1845,7 +2012,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostWood",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "iqx2M7qtMQjSr73dq"
+    "Unique Entry ID": "iqx2M7qtMQjSr73dq",
+    "Url": "=FORMULATEXT(B169)"
   },
   {
     "SourceSheet": "Construction",
@@ -1856,7 +2024,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostLargeYellow",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Ed6P9B4Y7y6TA99YS"
+    "Unique Entry ID": "Ed6P9B4Y7y6TA99YS",
+    "Url": "=FORMULATEXT(B170)"
   },
   {
     "SourceSheet": "Construction",
@@ -1867,7 +2036,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostStandardYellow",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "egLw54yP3orauEyFd"
+    "Unique Entry ID": "egLw54yP3orauEyFd",
+    "Url": "=FORMULATEXT(B171)"
   },
   {
     "SourceSheet": "Construction",
@@ -1878,7 +2048,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostSquareYellow",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Me97eMZ28yf3j8S8v"
+    "Unique Entry ID": "Me97eMZ28yf3j8S8v",
+    "Url": "=FORMULATEXT(B172)"
   },
   {
     "SourceSheet": "Construction",
@@ -1889,7 +2060,8 @@
     "Source": "3rd House Upgrade (Left Room)",
     "Filename": "FtrPostWoodYellow",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ZDcPaCBz24tNYiGe4"
+    "Unique Entry ID": "ZDcPaCBz24tNYiGe4",
+    "Url": "=FORMULATEXT(B173)"
   },
   {
     "SourceSheet": "Construction",
@@ -1900,7 +2072,8 @@
     "Source": "Initial House",
     "Filename": "HouseRoofPA04StandardE",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Qnx2RexRkQSfFnLuB"
+    "Unique Entry ID": "Qnx2RexRkQSfFnLuB",
+    "Url": "=FORMULATEXT(B174)"
   },
   {
     "SourceSheet": "Construction",
@@ -1911,7 +2084,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04WesterntileF",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "jX9sAaudmHztd6WoQ"
+    "Unique Entry ID": "jX9sAaudmHztd6WoQ",
+    "Url": "=FORMULATEXT(B175)"
   },
   {
     "SourceSheet": "Construction",
@@ -1922,7 +2096,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04StoneB",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "rJ4yqFWLmk6ykB5Et"
+    "Unique Entry ID": "rJ4yqFWLmk6ykB5Et",
+    "Url": "=FORMULATEXT(B176)"
   },
   {
     "SourceSheet": "Construction",
@@ -1933,7 +2108,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04WesterntileH",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "BdGehD5vw6WxG8efX"
+    "Unique Entry ID": "BdGehD5vw6WxG8efX",
+    "Url": "=FORMULATEXT(B177)"
   },
   {
     "SourceSheet": "Construction",
@@ -1944,7 +2120,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04StoneH",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "hyshRxYSTue2YG2zE"
+    "Unique Entry ID": "hyshRxYSTue2YG2zE",
+    "Url": "=FORMULATEXT(B178)"
   },
   {
     "SourceSheet": "Construction",
@@ -1955,7 +2132,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04ThatchedH",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "53msS63AkP5L46Bq7"
+    "Unique Entry ID": "53msS63AkP5L46Bq7",
+    "Url": "=FORMULATEXT(B179)"
   },
   {
     "SourceSheet": "Construction",
@@ -1966,7 +2144,8 @@
     "Source": "Initial House",
     "Filename": "HouseRoofPA04StandardH",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "aEXiJy3tnSJWNTBkv"
+    "Unique Entry ID": "aEXiJy3tnSJWNTBkv",
+    "Url": "=FORMULATEXT(B180)"
   },
   {
     "SourceSheet": "Construction",
@@ -1977,7 +2156,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04WesterntileE",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "mprPiQG9puuaCguod"
+    "Unique Entry ID": "mprPiQG9puuaCguod",
+    "Url": "=FORMULATEXT(B181)"
   },
   {
     "SourceSheet": "Construction",
@@ -1988,7 +2168,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04StoneE",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "2q8sqokbgGi3mebNb"
+    "Unique Entry ID": "2q8sqokbgGi3mebNb",
+    "Url": "=FORMULATEXT(B182)"
   },
   {
     "SourceSheet": "Construction",
@@ -1999,7 +2180,8 @@
     "Source": "Initial House",
     "Filename": "HouseRoofPA04StandardF",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "B7gS5WW3ksnrfNeXK"
+    "Unique Entry ID": "B7gS5WW3ksnrfNeXK",
+    "Url": "=FORMULATEXT(B183)"
   },
   {
     "SourceSheet": "Construction",
@@ -2010,7 +2192,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04WesterntileG",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "zKQZJpWoGzgw7orRW"
+    "Unique Entry ID": "zKQZJpWoGzgw7orRW",
+    "Url": "=FORMULATEXT(B184)"
   },
   {
     "SourceSheet": "Construction",
@@ -2021,7 +2204,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04StoneG",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "mapwfPNGnhg62uQkt"
+    "Unique Entry ID": "mapwfPNGnhg62uQkt",
+    "Url": "=FORMULATEXT(B185)"
   },
   {
     "SourceSheet": "Construction",
@@ -2032,7 +2216,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04ThatchedB",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "N9gATxvMvWX5HLEhS"
+    "Unique Entry ID": "N9gATxvMvWX5HLEhS",
+    "Url": "=FORMULATEXT(B186)"
   },
   {
     "SourceSheet": "Construction",
@@ -2043,7 +2228,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04ThatchedG",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "vc6xgYJWGgA9cTkB7"
+    "Unique Entry ID": "vc6xgYJWGgA9cTkB7",
+    "Url": "=FORMULATEXT(B187)"
   },
   {
     "SourceSheet": "Construction",
@@ -2054,7 +2240,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04ThatchedD",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Z5NELbfAsKrPcwy5L"
+    "Unique Entry ID": "Z5NELbfAsKrPcwy5L",
+    "Url": "=FORMULATEXT(B188)"
   },
   {
     "SourceSheet": "Construction",
@@ -2065,7 +2252,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04ThatchedA",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "roxKGs7uRQw2pw8to"
+    "Unique Entry ID": "roxKGs7uRQw2pw8to",
+    "Url": "=FORMULATEXT(B189)"
   },
   {
     "SourceSheet": "Construction",
@@ -2076,7 +2264,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04StoneA",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ab33Skrb5b7oeha7y"
+    "Unique Entry ID": "ab33Skrb5b7oeha7y",
+    "Url": "=FORMULATEXT(B190)"
   },
   {
     "SourceSheet": "Construction",
@@ -2087,7 +2276,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04ThatchedE",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "PpodDcgiEgAJiDiSS"
+    "Unique Entry ID": "PpodDcgiEgAJiDiSS",
+    "Url": "=FORMULATEXT(B191)"
   },
   {
     "SourceSheet": "Construction",
@@ -2098,7 +2288,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04WesterntileD",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "zH9xBNwrWkv4JfBH3"
+    "Unique Entry ID": "zH9xBNwrWkv4JfBH3",
+    "Url": "=FORMULATEXT(B192)"
   },
   {
     "SourceSheet": "Construction",
@@ -2109,7 +2300,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04StoneF",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "T85hEMqZDuz32hnS2"
+    "Unique Entry ID": "T85hEMqZDuz32hnS2",
+    "Url": "=FORMULATEXT(B193)"
   },
   {
     "SourceSheet": "Construction",
@@ -2120,7 +2312,8 @@
     "Source": "Initial House",
     "Filename": "HouseRoofPA04StandardD",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "pEWWGqpXPdLucubvS"
+    "Unique Entry ID": "pEWWGqpXPdLucubvS",
+    "Url": "=FORMULATEXT(B194)"
   },
   {
     "SourceSheet": "Construction",
@@ -2131,7 +2324,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04WesterntileA",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "yfLcN39wQrmNt8WHH"
+    "Unique Entry ID": "yfLcN39wQrmNt8WHH",
+    "Url": "=FORMULATEXT(B195)"
   },
   {
     "SourceSheet": "Construction",
@@ -2142,7 +2336,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04StoneC",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ifhZHe9jHujeiSgAu"
+    "Unique Entry ID": "ifhZHe9jHujeiSgAu",
+    "Url": "=FORMULATEXT(B196)"
   },
   {
     "SourceSheet": "Construction",
@@ -2153,7 +2348,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04ThatchedC",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "KehTqxnW4g25qgMzj"
+    "Unique Entry ID": "KehTqxnW4g25qgMzj",
+    "Url": "=FORMULATEXT(B197)"
   },
   {
     "SourceSheet": "Construction",
@@ -2164,7 +2360,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04WesterntileB",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Pcg6fSeBJ5C92kLPs"
+    "Unique Entry ID": "Pcg6fSeBJ5C92kLPs",
+    "Url": "=FORMULATEXT(B198)"
   },
   {
     "SourceSheet": "Construction",
@@ -2175,7 +2372,8 @@
     "Source": "Initial House",
     "Filename": "HouseRoofPA04StandardB",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ve7xChDBdMDgb6nTS"
+    "Unique Entry ID": "ve7xChDBdMDgb6nTS",
+    "Url": "=FORMULATEXT(B199)"
   },
   {
     "SourceSheet": "Construction",
@@ -2186,7 +2384,8 @@
     "Source": "Initial House",
     "Filename": "HouseRoofPA04StandardG",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "3dBXpZsj6tD2dBzwj"
+    "Unique Entry ID": "3dBXpZsj6tD2dBzwj",
+    "Url": "=FORMULATEXT(B200)"
   },
   {
     "SourceSheet": "Construction",
@@ -2197,7 +2396,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04StoneD",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "zPrrQagfzwkhtnAZT"
+    "Unique Entry ID": "zPrrQagfzwkhtnAZT",
+    "Url": "=FORMULATEXT(B201)"
   },
   {
     "SourceSheet": "Construction",
@@ -2208,7 +2408,8 @@
     "Source": "Initial House",
     "Filename": "HouseRoofPA04StandardA",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "uifwByFWdDXnTJ4vp"
+    "Unique Entry ID": "uifwByFWdDXnTJ4vp",
+    "Url": "=FORMULATEXT(B202)"
   },
   {
     "SourceSheet": "Construction",
@@ -2219,7 +2420,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04ThatchedF",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "CGCfToQFCeeeMkRWc"
+    "Unique Entry ID": "CGCfToQFCeeeMkRWc",
+    "Url": "=FORMULATEXT(B203)"
   },
   {
     "SourceSheet": "Construction",
@@ -2230,7 +2432,8 @@
     "Source": "4th House Upgrade (Right Room)",
     "Filename": "HouseRoofPA04WesterntileC",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "n5Gc39GsgiLg4ofb2"
+    "Unique Entry ID": "n5Gc39GsgiLg4ofb2",
+    "Url": "=FORMULATEXT(B204)"
   },
   {
     "SourceSheet": "Construction",
@@ -2241,7 +2444,8 @@
     "Source": "Initial House",
     "Filename": "HouseRoofPA04StandardC",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "2aQvQYwCsSQyRGyvF"
+    "Unique Entry ID": "2aQvQYwCsSQyRGyvF",
+    "Url": "=FORMULATEXT(B205)"
   },
   {
     "SourceSheet": "Construction",
@@ -2252,7 +2456,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBLogF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "agcGhdCB4SMtDAhW5"
+    "Unique Entry ID": "agcGhdCB4SMtDAhW5",
+    "Url": "=FORMULATEXT(B206)"
   },
   {
     "SourceSheet": "Construction",
@@ -2263,7 +2468,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04LogF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "hzkYgksv2Thc29DPH"
+    "Unique Entry ID": "hzkYgksv2Thc29DPH",
+    "Url": "=FORMULATEXT(B207)"
   },
   {
     "SourceSheet": "Construction",
@@ -2274,7 +2480,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCJapaneseE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "v5hSQEnvqgvnMxNf6"
+    "Unique Entry ID": "v5hSQEnvqgvnMxNf6",
+    "Url": "=FORMULATEXT(B208)"
   },
   {
     "SourceSheet": "Construction",
@@ -2285,7 +2492,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04JapaneseE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "kap6r2JcTCR6pk2xB"
+    "Unique Entry ID": "kap6r2JcTCR6pk2xB",
+    "Url": "=FORMULATEXT(B209)"
   },
   {
     "SourceSheet": "Construction",
@@ -2296,7 +2504,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDWoodE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "2wGaRW2eSYHCGjQo5"
+    "Unique Entry ID": "2wGaRW2eSYHCGjQo5",
+    "Url": "=FORMULATEXT(B210)"
   },
   {
     "SourceSheet": "Construction",
@@ -2307,7 +2516,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04WoodE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Ytum7hzNR2CoPJuxs"
+    "Unique Entry ID": "Ytum7hzNR2CoPJuxs",
+    "Url": "=FORMULATEXT(B211)"
   },
   {
     "SourceSheet": "Construction",
@@ -2318,7 +2528,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04BrickF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "LS7badPhZ8J7y5geJ"
+    "Unique Entry ID": "LS7badPhZ8J7y5geJ",
+    "Url": "=FORMULATEXT(B212)"
   },
   {
     "SourceSheet": "Construction",
@@ -2329,7 +2540,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDSoilC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Nfhad3MKWWEYfgYbd"
+    "Unique Entry ID": "Nfhad3MKWWEYfgYbd",
+    "Url": "=FORMULATEXT(B213)"
   },
   {
     "SourceSheet": "Construction",
@@ -2340,7 +2552,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStoneB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "5cGobyNcFy94sRxr3"
+    "Unique Entry ID": "5cGobyNcFy94sRxr3",
+    "Url": "=FORMULATEXT(B214)"
   },
   {
     "SourceSheet": "Construction",
@@ -2351,7 +2564,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAMetalB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "XEGM8kgj83EXZGces"
+    "Unique Entry ID": "XEGM8kgj83EXZGces",
+    "Url": "=FORMULATEXT(B215)"
   },
   {
     "SourceSheet": "Construction",
@@ -2362,7 +2576,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StuccoB",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "qbKmPn2exhSsqLCw5"
+    "Unique Entry ID": "qbKmPn2exhSsqLCw5",
+    "Url": "=FORMULATEXT(B216)"
   },
   {
     "SourceSheet": "Construction",
@@ -2373,7 +2588,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDStuccoB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "XXRmNQ6rGhkh5AMAa"
+    "Unique Entry ID": "XXRmNQ6rGhkh5AMAa",
+    "Url": "=FORMULATEXT(B217)"
   },
   {
     "SourceSheet": "Construction",
@@ -2384,7 +2600,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04StuccoB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "7rumCEEPaziHSSRLX"
+    "Unique Entry ID": "7rumCEEPaziHSSRLX",
+    "Url": "=FORMULATEXT(B218)"
   },
   {
     "SourceSheet": "Construction",
@@ -2395,7 +2612,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04SoilC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "iZkEyFJnxZhPFKuQ2"
+    "Unique Entry ID": "iZkEyFJnxZhPFKuQ2",
+    "Url": "=FORMULATEXT(B219)"
   },
   {
     "SourceSheet": "Construction",
@@ -2406,7 +2624,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDWoodH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "RaWKak29F7NfxGA3A"
+    "Unique Entry ID": "RaWKak29F7NfxGA3A",
+    "Url": "=FORMULATEXT(B220)"
   },
   {
     "SourceSheet": "Construction",
@@ -2417,7 +2636,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04WoodH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "fjh8WedLELC3jPeap"
+    "Unique Entry ID": "fjh8WedLELC3jPeap",
+    "Url": "=FORMULATEXT(B221)"
   },
   {
     "SourceSheet": "Construction",
@@ -2428,7 +2648,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCOrientalH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "LQBASL33D4MonSqYw"
+    "Unique Entry ID": "LQBASL33D4MonSqYw",
+    "Url": "=FORMULATEXT(B222)"
   },
   {
     "SourceSheet": "Construction",
@@ -2439,7 +2660,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04OrientalH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Ctd337LzqYesoqjw4"
+    "Unique Entry ID": "Ctd337LzqYesoqjw4",
+    "Url": "=FORMULATEXT(B223)"
   },
   {
     "SourceSheet": "Construction",
@@ -2450,7 +2672,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "z2w7oAQd7wfWfzfzN"
+    "Unique Entry ID": "z2w7oAQd7wfWfzfzN",
+    "Url": "=FORMULATEXT(B224)"
   },
   {
     "SourceSheet": "Construction",
@@ -2461,7 +2684,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNABrickH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "h5FGYpsGfxEYvpwyt"
+    "Unique Entry ID": "h5FGYpsGfxEYvpwyt",
+    "Url": "=FORMULATEXT(B225)"
   },
   {
     "SourceSheet": "Construction",
@@ -2472,7 +2696,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04StoneB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "TZ2mm8TQzyythG5YH"
+    "Unique Entry ID": "TZ2mm8TQzyythG5YH",
+    "Url": "=FORMULATEXT(B226)"
   },
   {
     "SourceSheet": "Construction",
@@ -2483,7 +2708,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04WoodframeH",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "kYAfpnwSRtZfZs4SG"
+    "Unique Entry ID": "kYAfpnwSRtZfZs4SG",
+    "Url": "=FORMULATEXT(B227)"
   },
   {
     "SourceSheet": "Construction",
@@ -2494,7 +2720,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStoneH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "rPxNkakgwQ5rkg7jq"
+    "Unique Entry ID": "rPxNkakgwQ5rkg7jq",
+    "Url": "=FORMULATEXT(B228)"
   },
   {
     "SourceSheet": "Construction",
@@ -2505,7 +2732,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StandardH",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "di7Pmwx9aDN4v4Xfc"
+    "Unique Entry ID": "di7Pmwx9aDN4v4Xfc",
+    "Url": "=FORMULATEXT(B229)"
   },
   {
     "SourceSheet": "Construction",
@@ -2516,7 +2744,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBLogH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "HBduEun9nEfa43fdJ"
+    "Unique Entry ID": "HBduEun9nEfa43fdJ",
+    "Url": "=FORMULATEXT(B230)"
   },
   {
     "SourceSheet": "Construction",
@@ -2527,7 +2756,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04LogH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "piKD5D7LQPLkMHiTN"
+    "Unique Entry ID": "piKD5D7LQPLkMHiTN",
+    "Url": "=FORMULATEXT(B231)"
   },
   {
     "SourceSheet": "Construction",
@@ -2538,7 +2768,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCWoodH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "gFWvG2DuFfXAFqsuo"
+    "Unique Entry ID": "gFWvG2DuFfXAFqsuo",
+    "Url": "=FORMULATEXT(B232)"
   },
   {
     "SourceSheet": "Construction",
@@ -2549,7 +2780,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAMetalH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "8ezwCcMzih4cP6S34"
+    "Unique Entry ID": "8ezwCcMzih4cP6S34",
+    "Url": "=FORMULATEXT(B233)"
   },
   {
     "SourceSheet": "Construction",
@@ -2560,7 +2792,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StuccoH",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "gJeYNSQ4cBQuMiJXS"
+    "Unique Entry ID": "gJeYNSQ4cBQuMiJXS",
+    "Url": "=FORMULATEXT(B234)"
   },
   {
     "SourceSheet": "Construction",
@@ -2571,7 +2804,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAStuccoH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "FboEwmNMpyRN7zET2"
+    "Unique Entry ID": "FboEwmNMpyRN7zET2",
+    "Url": "=FORMULATEXT(B235)"
   },
   {
     "SourceSheet": "Construction",
@@ -2582,7 +2816,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04WoodsidngC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "cQ5Kat5xj9t3e57an"
+    "Unique Entry ID": "cQ5Kat5xj9t3e57an",
+    "Url": "=FORMULATEXT(B236)"
   },
   {
     "SourceSheet": "Construction",
@@ -2593,7 +2828,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04WoodG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "ZtTX4WXtduwizR5a4"
+    "Unique Entry ID": "ZtTX4WXtduwizR5a4",
+    "Url": "=FORMULATEXT(B237)"
   },
   {
     "SourceSheet": "Construction",
@@ -2604,7 +2840,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDWoodG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "YumxsZgapdBAaDQi6"
+    "Unique Entry ID": "YumxsZgapdBAaDQi6",
+    "Url": "=FORMULATEXT(B238)"
   },
   {
     "SourceSheet": "Construction",
@@ -2615,7 +2852,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "xMG6H4mPRsQ45vHqX"
+    "Unique Entry ID": "xMG6H4mPRsQ45vHqX",
+    "Url": "=FORMULATEXT(B239)"
   },
   {
     "SourceSheet": "Construction",
@@ -2626,7 +2864,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04BrickG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "EPQBZs37HWgd2W2Lf"
+    "Unique Entry ID": "EPQBZs37HWgd2W2Lf",
+    "Url": "=FORMULATEXT(B240)"
   },
   {
     "SourceSheet": "Construction",
@@ -2637,7 +2876,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04StoneE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "nYogCLCgq65Mh76me"
+    "Unique Entry ID": "nYogCLCgq65Mh76me",
+    "Url": "=FORMULATEXT(B241)"
   },
   {
     "SourceSheet": "Construction",
@@ -2648,7 +2888,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StoneF",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "eTg7RcPdjkGPBeWL4"
+    "Unique Entry ID": "eTg7RcPdjkGPBeWL4",
+    "Url": "=FORMULATEXT(B242)"
   },
   {
     "SourceSheet": "Construction",
@@ -2659,7 +2900,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCWoodD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "T95FhcWw9umLm3Jnp"
+    "Unique Entry ID": "T95FhcWw9umLm3Jnp",
+    "Url": "=FORMULATEXT(B243)"
   },
   {
     "SourceSheet": "Construction",
@@ -2670,7 +2912,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAMetalE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "kK26gaagd9nDGWtJo"
+    "Unique Entry ID": "kK26gaagd9nDGWtJo",
+    "Url": "=FORMULATEXT(B244)"
   },
   {
     "SourceSheet": "Construction",
@@ -2681,7 +2924,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StuccoE",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "g6d8pc3feddvfd3wm"
+    "Unique Entry ID": "g6d8pc3feddvfd3wm",
+    "Url": "=FORMULATEXT(B245)"
   },
   {
     "SourceSheet": "Construction",
@@ -2692,7 +2936,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStuccoE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "vao77AKRbiSCKLLPH"
+    "Unique Entry ID": "vao77AKRbiSCKLLPH",
+    "Url": "=FORMULATEXT(B246)"
   },
   {
     "SourceSheet": "Construction",
@@ -2703,7 +2948,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDStuccoH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "azyK8onQ9GwkRA6ex"
+    "Unique Entry ID": "azyK8onQ9GwkRA6ex",
+    "Url": "=FORMULATEXT(B247)"
   },
   {
     "SourceSheet": "Construction",
@@ -2714,7 +2960,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04StuccoH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "KakS3oHuNipYfpujt"
+    "Unique Entry ID": "KakS3oHuNipYfpujt",
+    "Url": "=FORMULATEXT(B248)"
   },
   {
     "SourceSheet": "Construction",
@@ -2725,7 +2972,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAStuccoE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "28mC6z7b8pZfPeTvs"
+    "Unique Entry ID": "28mC6z7b8pZfPeTvs",
+    "Url": "=FORMULATEXT(B249)"
   },
   {
     "SourceSheet": "Construction",
@@ -2736,7 +2984,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StandardC",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "9gtBjJE4tYb6wQczz"
+    "Unique Entry ID": "9gtBjJE4tYb6wQczz",
+    "Url": "=FORMULATEXT(B250)"
   },
   {
     "SourceSheet": "Construction",
@@ -2747,7 +2996,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04BrickB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "8bEGpsoBoFsZr3i4p"
+    "Unique Entry ID": "8bEGpsoBoFsZr3i4p",
+    "Url": "=FORMULATEXT(B251)"
   },
   {
     "SourceSheet": "Construction",
@@ -2758,7 +3008,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04WoodframeB",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "xAmRhhZacLmi3ySCm"
+    "Unique Entry ID": "xAmRhhZacLmi3ySCm",
+    "Url": "=FORMULATEXT(B252)"
   },
   {
     "SourceSheet": "Construction",
@@ -2769,7 +3020,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDSoilH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "cMuyGzRWprwsFruor"
+    "Unique Entry ID": "cMuyGzRWprwsFruor",
+    "Url": "=FORMULATEXT(B253)"
   },
   {
     "SourceSheet": "Construction",
@@ -2780,7 +3032,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StoneC",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "NL3LEQdCu2TtcE9eW"
+    "Unique Entry ID": "NL3LEQdCu2TtcE9eW",
+    "Url": "=FORMULATEXT(B254)"
   },
   {
     "SourceSheet": "Construction",
@@ -2791,7 +3044,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStoneF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "n2R7SMBY4CyMMx9mn"
+    "Unique Entry ID": "n2R7SMBY4CyMMx9mn",
+    "Url": "=FORMULATEXT(B255)"
   },
   {
     "SourceSheet": "Construction",
@@ -2802,7 +3056,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCWoodB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "rioZpHGa2GY5sDugy"
+    "Unique Entry ID": "rioZpHGa2GY5sDugy",
+    "Url": "=FORMULATEXT(B256)"
   },
   {
     "SourceSheet": "Construction",
@@ -2813,7 +3068,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "xGNS9qrkubzXHyo7X"
+    "Unique Entry ID": "xGNS9qrkubzXHyo7X",
+    "Url": "=FORMULATEXT(B257)"
   },
   {
     "SourceSheet": "Construction",
@@ -2824,7 +3080,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04StuccoD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "jWELhm74YSRfpKTuW"
+    "Unique Entry ID": "jWELhm74YSRfpKTuW",
+    "Url": "=FORMULATEXT(B258)"
   },
   {
     "SourceSheet": "Construction",
@@ -2835,7 +3092,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDStuccoD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "sGD4DTjq4TcLwpMnu"
+    "Unique Entry ID": "sGD4DTjq4TcLwpMnu",
+    "Url": "=FORMULATEXT(B259)"
   },
   {
     "SourceSheet": "Construction",
@@ -2846,7 +3104,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04SoilH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "KjCmBEn6DtkwCmNjA"
+    "Unique Entry ID": "KjCmBEn6DtkwCmNjA",
+    "Url": "=FORMULATEXT(B260)"
   },
   {
     "SourceSheet": "Construction",
@@ -2857,7 +3116,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04WoodframeA",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "RBTZCSQfgD2vQH3Ze"
+    "Unique Entry ID": "RBTZCSQfgD2vQH3Ze",
+    "Url": "=FORMULATEXT(B261)"
   },
   {
     "SourceSheet": "Construction",
@@ -2868,7 +3128,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StoneB",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Lms2QszBWsfaCCxGf"
+    "Unique Entry ID": "Lms2QszBWsfaCCxGf",
+    "Url": "=FORMULATEXT(B262)"
   },
   {
     "SourceSheet": "Construction",
@@ -2879,7 +3140,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCJapaneseH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "wDY4RfZ7j2rtyDf5r"
+    "Unique Entry ID": "wDY4RfZ7j2rtyDf5r",
+    "Url": "=FORMULATEXT(B263)"
   },
   {
     "SourceSheet": "Construction",
@@ -2890,7 +3152,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04JapaneseH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "KMxDjNZDirGaGCqiE"
+    "Unique Entry ID": "KMxDjNZDirGaGCqiE",
+    "Url": "=FORMULATEXT(B264)"
   },
   {
     "SourceSheet": "Construction",
@@ -2901,7 +3164,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04JapaneseD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "D4HRimNjSCs3MacMS"
+    "Unique Entry ID": "D4HRimNjSCs3MacMS",
+    "Url": "=FORMULATEXT(B265)"
   },
   {
     "SourceSheet": "Construction",
@@ -2912,7 +3176,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCJapaneseD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "p6P4N76nkGpzgTeYY"
+    "Unique Entry ID": "p6P4N76nkGpzgTeYY",
+    "Url": "=FORMULATEXT(B266)"
   },
   {
     "SourceSheet": "Construction",
@@ -2923,7 +3188,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StandardA",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "tvSkijt9ictdZ5haB"
+    "Unique Entry ID": "tvSkijt9ictdZ5haB",
+    "Url": "=FORMULATEXT(B267)"
   },
   {
     "SourceSheet": "Construction",
@@ -2934,7 +3200,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04WoodsidngG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "43fZsai5kuZCeRyf2"
+    "Unique Entry ID": "43fZsai5kuZCeRyf2",
+    "Url": "=FORMULATEXT(B268)"
   },
   {
     "SourceSheet": "Construction",
@@ -2945,7 +3212,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04WoodframeG",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "KAwpDuD4BQAodaghb"
+    "Unique Entry ID": "KAwpDuD4BQAodaghb",
+    "Url": "=FORMULATEXT(B269)"
   },
   {
     "SourceSheet": "Construction",
@@ -2956,7 +3224,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "qSAYK7KRYjZ8ejbCh"
+    "Unique Entry ID": "qSAYK7KRYjZ8ejbCh",
+    "Url": "=FORMULATEXT(B270)"
   },
   {
     "SourceSheet": "Construction",
@@ -2967,7 +3236,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBLogG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "kvvCDgujneJJ7xeY4"
+    "Unique Entry ID": "kvvCDgujneJJ7xeY4",
+    "Url": "=FORMULATEXT(B271)"
   },
   {
     "SourceSheet": "Construction",
@@ -2978,7 +3248,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04LogG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "9Smq3cNo7NBxDemnp"
+    "Unique Entry ID": "9Smq3cNo7NBxDemnp",
+    "Url": "=FORMULATEXT(B272)"
   },
   {
     "SourceSheet": "Construction",
@@ -2989,7 +3260,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "P8GtnqAu2gsrcbcK2"
+    "Unique Entry ID": "P8GtnqAu2gsrcbcK2",
+    "Url": "=FORMULATEXT(B273)"
   },
   {
     "SourceSheet": "Construction",
@@ -3000,7 +3272,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04StoneG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "QEoZTPE83uQqaoNGv"
+    "Unique Entry ID": "QEoZTPE83uQqaoNGv",
+    "Url": "=FORMULATEXT(B274)"
   },
   {
     "SourceSheet": "Construction",
@@ -3011,7 +3284,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04WoodsidngH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "5rpWDknseFb9uZWbS"
+    "Unique Entry ID": "5rpWDknseFb9uZWbS",
+    "Url": "=FORMULATEXT(B275)"
   },
   {
     "SourceSheet": "Construction",
@@ -3022,7 +3296,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04BrickC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "pdA7Jb66DBuj4FCTE"
+    "Unique Entry ID": "pdA7Jb66DBuj4FCTE",
+    "Url": "=FORMULATEXT(B276)"
   },
   {
     "SourceSheet": "Construction",
@@ -3033,7 +3308,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StoneH",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "8GYy5WLx9jCpap6uY"
+    "Unique Entry ID": "8GYy5WLx9jCpap6uY",
+    "Url": "=FORMULATEXT(B277)"
   },
   {
     "SourceSheet": "Construction",
@@ -3044,7 +3320,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStoneG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "E6fbKkKbHAAy5LePJ"
+    "Unique Entry ID": "E6fbKkKbHAAy5LePJ",
+    "Url": "=FORMULATEXT(B278)"
   },
   {
     "SourceSheet": "Construction",
@@ -3055,7 +3332,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "JBns8QjhTJpRe56W4"
+    "Unique Entry ID": "JBns8QjhTJpRe56W4",
+    "Url": "=FORMULATEXT(B279)"
   },
   {
     "SourceSheet": "Construction",
@@ -3066,7 +3344,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StuccoC",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "niRaBvHzn59TEuTtu"
+    "Unique Entry ID": "niRaBvHzn59TEuTtu",
+    "Url": "=FORMULATEXT(B280)"
   },
   {
     "SourceSheet": "Construction",
@@ -3077,7 +3356,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStuccoC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "r2DWjrbR34FwRRNZL"
+    "Unique Entry ID": "r2DWjrbR34FwRRNZL",
+    "Url": "=FORMULATEXT(B281)"
   },
   {
     "SourceSheet": "Construction",
@@ -3088,7 +3368,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDStuccoE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "QHsrt84KFH5RP4W2J"
+    "Unique Entry ID": "QHsrt84KFH5RP4W2J",
+    "Url": "=FORMULATEXT(B282)"
   },
   {
     "SourceSheet": "Construction",
@@ -3099,7 +3380,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAStuccoG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "ajZsKgrvwxqj8FdCG"
+    "Unique Entry ID": "ajZsKgrvwxqj8FdCG",
+    "Url": "=FORMULATEXT(B283)"
   },
   {
     "SourceSheet": "Construction",
@@ -3110,7 +3392,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04StuccoE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "znu62t8nrf7tYTBkz"
+    "Unique Entry ID": "znu62t8nrf7tYTBkz",
+    "Url": "=FORMULATEXT(B284)"
   },
   {
     "SourceSheet": "Construction",
@@ -3121,7 +3404,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StandardD",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "JfXXtqNSk5D2jYMYf"
+    "Unique Entry ID": "JfXXtqNSk5D2jYMYf",
+    "Url": "=FORMULATEXT(B285)"
   },
   {
     "SourceSheet": "Construction",
@@ -3132,7 +3416,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04OrientalG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Bd9kJXQKcMvGGHg3t"
+    "Unique Entry ID": "Bd9kJXQKcMvGGHg3t",
+    "Url": "=FORMULATEXT(B286)"
   },
   {
     "SourceSheet": "Construction",
@@ -3143,7 +3428,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCOrientalG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "ukYJn8MXADYFSbEK6"
+    "Unique Entry ID": "ukYJn8MXADYFSbEK6",
+    "Url": "=FORMULATEXT(B287)"
   },
   {
     "SourceSheet": "Construction",
@@ -3154,7 +3440,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04WoodsidngF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "rLyeE59wcGNj63kxc"
+    "Unique Entry ID": "rLyeE59wcGNj63kxc",
+    "Url": "=FORMULATEXT(B288)"
   },
   {
     "SourceSheet": "Construction",
@@ -3165,7 +3452,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04WoodC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "X5J7BiDDeGX8e4ovC"
+    "Unique Entry ID": "X5J7BiDDeGX8e4ovC",
+    "Url": "=FORMULATEXT(B289)"
   },
   {
     "SourceSheet": "Construction",
@@ -3176,7 +3464,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDWoodC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "ijSD8ucXhRsvpDkhm"
+    "Unique Entry ID": "ijSD8ucXhRsvpDkhm",
+    "Url": "=FORMULATEXT(B290)"
   },
   {
     "SourceSheet": "Construction",
@@ -3187,7 +3476,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04WoodF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "HCgSntTapsbjqvP2w"
+    "Unique Entry ID": "HCgSntTapsbjqvP2w",
+    "Url": "=FORMULATEXT(B291)"
   },
   {
     "SourceSheet": "Construction",
@@ -3198,7 +3488,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDWoodF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Mso24dF3RAyQSzihs"
+    "Unique Entry ID": "Mso24dF3RAyQSzihs",
+    "Url": "=FORMULATEXT(B292)"
   },
   {
     "SourceSheet": "Construction",
@@ -3209,7 +3500,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04BrickH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "DWfEiB2GJ9y6JR8s2"
+    "Unique Entry ID": "DWfEiB2GJ9y6JR8s2",
+    "Url": "=FORMULATEXT(B293)"
   },
   {
     "SourceSheet": "Construction",
@@ -3220,7 +3512,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNABrickG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "TwzGfbBAjLJ8cq8Qm"
+    "Unique Entry ID": "TwzGfbBAjLJ8cq8Qm",
+    "Url": "=FORMULATEXT(B294)"
   },
   {
     "SourceSheet": "Construction",
@@ -3231,7 +3524,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04StoneF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "zhGtAZB89xtfyrnvm"
+    "Unique Entry ID": "zhGtAZB89xtfyrnvm",
+    "Url": "=FORMULATEXT(B295)"
   },
   {
     "SourceSheet": "Construction",
@@ -3242,7 +3536,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDSoilG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "SrRuBietDPv5QarSz"
+    "Unique Entry ID": "SrRuBietDPv5QarSz",
+    "Url": "=FORMULATEXT(B296)"
   },
   {
     "SourceSheet": "Construction",
@@ -3253,7 +3548,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StoneG",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Jiy9DpvuhLX6skBrR"
+    "Unique Entry ID": "Jiy9DpvuhLX6skBrR",
+    "Url": "=FORMULATEXT(B297)"
   },
   {
     "SourceSheet": "Construction",
@@ -3264,7 +3560,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCWoodE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "nL6sJ5fRNcg7P8npw"
+    "Unique Entry ID": "nL6sJ5fRNcg7P8npw",
+    "Url": "=FORMULATEXT(B298)"
   },
   {
     "SourceSheet": "Construction",
@@ -3275,7 +3572,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAMetalG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "ngqgTxENDENDu2v7y"
+    "Unique Entry ID": "ngqgTxENDENDu2v7y",
+    "Url": "=FORMULATEXT(B299)"
   },
   {
     "SourceSheet": "Construction",
@@ -3286,7 +3584,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAStuccoF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "vChjafXsrdRBkTxbk"
+    "Unique Entry ID": "vChjafXsrdRBkTxbk",
+    "Url": "=FORMULATEXT(B300)"
   },
   {
     "SourceSheet": "Construction",
@@ -3297,7 +3596,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStuccoG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "KJFFvxnH6cxfPr74G"
+    "Unique Entry ID": "KJFFvxnH6cxfPr74G",
+    "Url": "=FORMULATEXT(B301)"
   },
   {
     "SourceSheet": "Construction",
@@ -3308,7 +3608,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04SoilG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "mvFPXSD8sac4E6QNh"
+    "Unique Entry ID": "mvFPXSD8sac4E6QNh",
+    "Url": "=FORMULATEXT(B302)"
   },
   {
     "SourceSheet": "Construction",
@@ -3319,7 +3620,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04WoodframeD",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "9SCJMuao7JJBS3iry"
+    "Unique Entry ID": "9SCJMuao7JJBS3iry",
+    "Url": "=FORMULATEXT(B303)"
   },
   {
     "SourceSheet": "Construction",
@@ -3330,7 +3632,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStoneC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "YrGKk3uFZ5GA4Mx5L"
+    "Unique Entry ID": "YrGKk3uFZ5GA4Mx5L",
+    "Url": "=FORMULATEXT(B304)"
   },
   {
     "SourceSheet": "Construction",
@@ -3341,7 +3644,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStoneD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Aa7FWnHaZ6mpCdipJ"
+    "Unique Entry ID": "Aa7FWnHaZ6mpCdipJ",
+    "Url": "=FORMULATEXT(B305)"
   },
   {
     "SourceSheet": "Construction",
@@ -3352,7 +3656,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04LogC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "e75K3EMygFAArxDDX"
+    "Unique Entry ID": "e75K3EMygFAArxDDX",
+    "Url": "=FORMULATEXT(B306)"
   },
   {
     "SourceSheet": "Construction",
@@ -3363,7 +3668,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBLogC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "43G7yna6392MAJvqo"
+    "Unique Entry ID": "43G7yna6392MAJvqo",
+    "Url": "=FORMULATEXT(B307)"
   },
   {
     "SourceSheet": "Construction",
@@ -3374,7 +3680,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "xuGe4uvN7v6tkWH3P"
+    "Unique Entry ID": "xuGe4uvN7v6tkWH3P",
+    "Url": "=FORMULATEXT(B308)"
   },
   {
     "SourceSheet": "Construction",
@@ -3385,7 +3692,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStuccoB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "2QegXP8oQWqKN4kSn"
+    "Unique Entry ID": "2QegXP8oQWqKN4kSn",
+    "Url": "=FORMULATEXT(B309)"
   },
   {
     "SourceSheet": "Construction",
@@ -3396,7 +3704,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StoneA",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ZH4zSM5t8CkRN6WL7"
+    "Unique Entry ID": "ZH4zSM5t8CkRN6WL7",
+    "Url": "=FORMULATEXT(B310)"
   },
   {
     "SourceSheet": "Construction",
@@ -3407,7 +3716,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStoneE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "HFpwxjZokzm92XR5t"
+    "Unique Entry ID": "HFpwxjZokzm92XR5t",
+    "Url": "=FORMULATEXT(B311)"
   },
   {
     "SourceSheet": "Construction",
@@ -3418,7 +3728,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAStuccoB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "8KaQYBJxWggZzkJGS"
+    "Unique Entry ID": "8KaQYBJxWggZzkJGS",
+    "Url": "=FORMULATEXT(B312)"
   },
   {
     "SourceSheet": "Construction",
@@ -3429,7 +3740,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStuccoH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "NWbw4muaEMp7egxST"
+    "Unique Entry ID": "NWbw4muaEMp7egxST",
+    "Url": "=FORMULATEXT(B313)"
   },
   {
     "SourceSheet": "Construction",
@@ -3440,7 +3752,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04StuccoF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "n7xsWtKc9caDeRhqH"
+    "Unique Entry ID": "n7xsWtKc9caDeRhqH",
+    "Url": "=FORMULATEXT(B314)"
   },
   {
     "SourceSheet": "Construction",
@@ -3451,7 +3764,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDStuccoF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "tuFwLBPyQSqZPcnT8"
+    "Unique Entry ID": "tuFwLBPyQSqZPcnT8",
+    "Url": "=FORMULATEXT(B315)"
   },
   {
     "SourceSheet": "Construction",
@@ -3462,7 +3776,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04LogA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "sdeaNfBhNoDMX69pj"
+    "Unique Entry ID": "sdeaNfBhNoDMX69pj",
+    "Url": "=FORMULATEXT(B316)"
   },
   {
     "SourceSheet": "Construction",
@@ -3473,7 +3788,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBLogA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "oz9vcn3haXFxT7GH8"
+    "Unique Entry ID": "oz9vcn3haXFxT7GH8",
+    "Url": "=FORMULATEXT(B317)"
   },
   {
     "SourceSheet": "Construction",
@@ -3484,7 +3800,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04WoodsidngA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "KNQHAFN4mQ3EGJRou"
+    "Unique Entry ID": "KNQHAFN4mQ3EGJRou",
+    "Url": "=FORMULATEXT(B318)"
   },
   {
     "SourceSheet": "Construction",
@@ -3495,7 +3812,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04WoodA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "tdoxZcRhxYhFMtMD2"
+    "Unique Entry ID": "tdoxZcRhxYhFMtMD2",
+    "Url": "=FORMULATEXT(B319)"
   },
   {
     "SourceSheet": "Construction",
@@ -3506,7 +3824,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDWoodA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "uR25vwZFbwdFKap9f"
+    "Unique Entry ID": "uR25vwZFbwdFKap9f",
+    "Url": "=FORMULATEXT(B320)"
   },
   {
     "SourceSheet": "Construction",
@@ -3517,7 +3836,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCJapaneseA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "HzZZRy4wfMv4EdbYK"
+    "Unique Entry ID": "HzZZRy4wfMv4EdbYK",
+    "Url": "=FORMULATEXT(B321)"
   },
   {
     "SourceSheet": "Construction",
@@ -3528,7 +3848,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04JapaneseA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "fhnuLatWR3BawC2bp"
+    "Unique Entry ID": "fhnuLatWR3BawC2bp",
+    "Url": "=FORMULATEXT(B322)"
   },
   {
     "SourceSheet": "Construction",
@@ -3539,7 +3860,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04WoodframeF",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ug4QTydifE3YXJqHR"
+    "Unique Entry ID": "ug4QTydifE3YXJqHR",
+    "Url": "=FORMULATEXT(B323)"
   },
   {
     "SourceSheet": "Construction",
@@ -3550,7 +3872,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDSoilD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "xDw86YCeCnBuPBX6v"
+    "Unique Entry ID": "xDw86YCeCnBuPBX6v",
+    "Url": "=FORMULATEXT(B324)"
   },
   {
     "SourceSheet": "Construction",
@@ -3561,7 +3884,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StoneE",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "Xs4kXRbnMnnkzzdGm"
+    "Unique Entry ID": "Xs4kXRbnMnnkzzdGm",
+    "Url": "=FORMULATEXT(B325)"
   },
   {
     "SourceSheet": "Construction",
@@ -3572,7 +3896,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStuccoF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "crt2gKoFQwerNHfuD"
+    "Unique Entry ID": "crt2gKoFQwerNHfuD",
+    "Url": "=FORMULATEXT(B326)"
   },
   {
     "SourceSheet": "Construction",
@@ -3583,7 +3908,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAStuccoA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Ld8FWPkGFByYvHwBa"
+    "Unique Entry ID": "Ld8FWPkGFByYvHwBa",
+    "Url": "=FORMULATEXT(B327)"
   },
   {
     "SourceSheet": "Construction",
@@ -3594,7 +3920,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04SoilD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "pxrCfEzS4S8yoqmPe"
+    "Unique Entry ID": "pxrCfEzS4S8yoqmPe",
+    "Url": "=FORMULATEXT(B328)"
   },
   {
     "SourceSheet": "Construction",
@@ -3605,7 +3932,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04BrickD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "pmoDuJDLoxqDLmDrM"
+    "Unique Entry ID": "pmoDuJDLoxqDLmDrM",
+    "Url": "=FORMULATEXT(B329)"
   },
   {
     "SourceSheet": "Construction",
@@ -3616,7 +3944,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDWoodD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "jXCPAqfP4CM8Pazmj"
+    "Unique Entry ID": "jXCPAqfP4CM8Pazmj",
+    "Url": "=FORMULATEXT(B330)"
   },
   {
     "SourceSheet": "Construction",
@@ -3627,7 +3956,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04WoodD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "tp52iHmLaPZbfZTcE"
+    "Unique Entry ID": "tp52iHmLaPZbfZTcE",
+    "Url": "=FORMULATEXT(B331)"
   },
   {
     "SourceSheet": "Construction",
@@ -3638,7 +3968,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04WoodsidngB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "LBzSEticEDLRdyGpE"
+    "Unique Entry ID": "LBzSEticEDLRdyGpE",
+    "Url": "=FORMULATEXT(B332)"
   },
   {
     "SourceSheet": "Construction",
@@ -3649,7 +3980,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04WoodsidngE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "ZLFPNXCdxM2mCexTQ"
+    "Unique Entry ID": "ZLFPNXCdxM2mCexTQ",
+    "Url": "=FORMULATEXT(B333)"
   },
   {
     "SourceSheet": "Construction",
@@ -3660,7 +3992,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04OrientalF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "PABW6hziCXkqQKWqu"
+    "Unique Entry ID": "PABW6hziCXkqQKWqu",
+    "Url": "=FORMULATEXT(B334)"
   },
   {
     "SourceSheet": "Construction",
@@ -3671,7 +4004,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCOrientalF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "X8WwpdPonWE5cn6zi"
+    "Unique Entry ID": "X8WwpdPonWE5cn6zi",
+    "Url": "=FORMULATEXT(B335)"
   },
   {
     "SourceSheet": "Construction",
@@ -3682,7 +4016,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingJ",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Mirnta8rgXYuBfHNo"
+    "Unique Entry ID": "Mirnta8rgXYuBfHNo",
+    "Url": "=FORMULATEXT(B336)"
   },
   {
     "SourceSheet": "Construction",
@@ -3693,7 +4028,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04BrickE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "xr7hcs8eiGaeYCG7E"
+    "Unique Entry ID": "xr7hcs8eiGaeYCG7E",
+    "Url": "=FORMULATEXT(B337)"
   },
   {
     "SourceSheet": "Construction",
@@ -3704,7 +4040,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDSoilE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "baDmBTzvFSMedHSsZ"
+    "Unique Entry ID": "baDmBTzvFSMedHSsZ",
+    "Url": "=FORMULATEXT(B338)"
   },
   {
     "SourceSheet": "Construction",
@@ -3715,7 +4052,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StandardF",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ceKL4XwfZzkGoYpg9"
+    "Unique Entry ID": "ceKL4XwfZzkGoYpg9",
+    "Url": "=FORMULATEXT(B339)"
   },
   {
     "SourceSheet": "Construction",
@@ -3726,7 +4064,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBLogD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "bfWX3tzhwSLhxMAd4"
+    "Unique Entry ID": "bfWX3tzhwSLhxMAd4",
+    "Url": "=FORMULATEXT(B340)"
   },
   {
     "SourceSheet": "Construction",
@@ -3737,7 +4076,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04LogD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "F2GxTFDQSC3KXPR5o"
+    "Unique Entry ID": "F2GxTFDQSC3KXPR5o",
+    "Url": "=FORMULATEXT(B341)"
   },
   {
     "SourceSheet": "Construction",
@@ -3748,7 +4088,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCWoodF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "AzqnNFfYq4bNhnyEf"
+    "Unique Entry ID": "AzqnNFfYq4bNhnyEf",
+    "Url": "=FORMULATEXT(B342)"
   },
   {
     "SourceSheet": "Construction",
@@ -3759,7 +4100,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAMetalD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "W9RLxtwXnRCjeXwYC"
+    "Unique Entry ID": "W9RLxtwXnRCjeXwYC",
+    "Url": "=FORMULATEXT(B343)"
   },
   {
     "SourceSheet": "Construction",
@@ -3770,7 +4112,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StuccoG",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "xmPeJk2bKkAWYtF64"
+    "Unique Entry ID": "xmPeJk2bKkAWYtF64",
+    "Url": "=FORMULATEXT(B344)"
   },
   {
     "SourceSheet": "Construction",
@@ -3781,7 +4124,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAStuccoC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "KDAhNBGwQLcCjXC3r"
+    "Unique Entry ID": "KDAhNBGwQLcCjXC3r",
+    "Url": "=FORMULATEXT(B345)"
   },
   {
     "SourceSheet": "Construction",
@@ -3792,7 +4136,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04SoilE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "eibQLwBJTJQSLN7fY"
+    "Unique Entry ID": "eibQLwBJTJQSLN7fY",
+    "Url": "=FORMULATEXT(B346)"
   },
   {
     "SourceSheet": "Construction",
@@ -3803,7 +4148,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCJapaneseG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "GraQmcPMnRydx7DJ4"
+    "Unique Entry ID": "GraQmcPMnRydx7DJ4",
+    "Url": "=FORMULATEXT(B347)"
   },
   {
     "SourceSheet": "Construction",
@@ -3814,7 +4160,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04JapaneseG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "PKFr3hM9cKs3n86s7"
+    "Unique Entry ID": "PKFr3hM9cKs3n86s7",
+    "Url": "=FORMULATEXT(B348)"
   },
   {
     "SourceSheet": "Construction",
@@ -3825,7 +4172,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCJapaneseC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "55aQmqfJyGJAXKSbW"
+    "Unique Entry ID": "55aQmqfJyGJAXKSbW",
+    "Url": "=FORMULATEXT(B349)"
   },
   {
     "SourceSheet": "Construction",
@@ -3836,7 +4184,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04JapaneseC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "4n7v3CbSNMmvbaXKm"
+    "Unique Entry ID": "4n7v3CbSNMmvbaXKm",
+    "Url": "=FORMULATEXT(B350)"
   },
   {
     "SourceSheet": "Construction",
@@ -3847,7 +4196,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingI",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "moRCgCDGDDFEeBrfR"
+    "Unique Entry ID": "moRCgCDGDDFEeBrfR",
+    "Url": "=FORMULATEXT(B351)"
   },
   {
     "SourceSheet": "Construction",
@@ -3858,7 +4208,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04StoneD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "XuYf9HFidxss8w4oy"
+    "Unique Entry ID": "XuYf9HFidxss8w4oy",
+    "Url": "=FORMULATEXT(B352)"
   },
   {
     "SourceSheet": "Construction",
@@ -3869,7 +4220,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04OrientalB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "D8fabk22gSJzacdHh"
+    "Unique Entry ID": "D8fabk22gSJzacdHh",
+    "Url": "=FORMULATEXT(B353)"
   },
   {
     "SourceSheet": "Construction",
@@ -3880,7 +4232,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCOrientalB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "69koFkRDMabasrrEe"
+    "Unique Entry ID": "69koFkRDMabasrrEe",
+    "Url": "=FORMULATEXT(B354)"
   },
   {
     "SourceSheet": "Construction",
@@ -3891,7 +4244,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04BrickA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "kGXCqHaQbSJ4H8vkx"
+    "Unique Entry ID": "kGXCqHaQbSJ4H8vkx",
+    "Url": "=FORMULATEXT(B355)"
   },
   {
     "SourceSheet": "Construction",
@@ -3902,7 +4256,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04StoneC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Xp3QhTcH6nGEx84Mx"
+    "Unique Entry ID": "Xp3QhTcH6nGEx84Mx",
+    "Url": "=FORMULATEXT(B356)"
   },
   {
     "SourceSheet": "Construction",
@@ -3913,7 +4268,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04WoodframeC",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "cA9eF8iCxf8nJhZMy"
+    "Unique Entry ID": "cA9eF8iCxf8nJhZMy",
+    "Url": "=FORMULATEXT(B357)"
   },
   {
     "SourceSheet": "Construction",
@@ -3924,7 +4280,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StoneD",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "xXRQfdAGyLJCXSbY6"
+    "Unique Entry ID": "xXRQfdAGyLJCXSbY6",
+    "Url": "=FORMULATEXT(B358)"
   },
   {
     "SourceSheet": "Construction",
@@ -3935,7 +4292,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StandardG",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "cwEx7XyAwefNQJ8Rr"
+    "Unique Entry ID": "cwEx7XyAwefNQJ8Rr",
+    "Url": "=FORMULATEXT(B359)"
   },
   {
     "SourceSheet": "Construction",
@@ -3946,7 +4304,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAMetalC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "cvFqhzYySPfNpGaQ9"
+    "Unique Entry ID": "cvFqhzYySPfNpGaQ9",
+    "Url": "=FORMULATEXT(B360)"
   },
   {
     "SourceSheet": "Construction",
@@ -3957,7 +4316,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StuccoD",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "c27kqMPWnha8RjEki"
+    "Unique Entry ID": "c27kqMPWnha8RjEki",
+    "Url": "=FORMULATEXT(B361)"
   },
   {
     "SourceSheet": "Construction",
@@ -3968,7 +4328,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStuccoD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Aim6T9TrmipdQQBas"
+    "Unique Entry ID": "Aim6T9TrmipdQQBas",
+    "Url": "=FORMULATEXT(B362)"
   },
   {
     "SourceSheet": "Construction",
@@ -3979,7 +4340,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDStuccoG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "gyxHNDN2Gr3QoQCbG"
+    "Unique Entry ID": "gyxHNDN2Gr3QoQCbG",
+    "Url": "=FORMULATEXT(B363)"
   },
   {
     "SourceSheet": "Construction",
@@ -3990,7 +4352,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04StuccoG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "cdqd3rEsWqfHXdYjH"
+    "Unique Entry ID": "cdqd3rEsWqfHXdYjH",
+    "Url": "=FORMULATEXT(B364)"
   },
   {
     "SourceSheet": "Construction",
@@ -4001,7 +4364,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StandardB",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "ckT8w7sPNqY2aRMcH"
+    "Unique Entry ID": "ckT8w7sPNqY2aRMcH",
+    "Url": "=FORMULATEXT(B365)"
   },
   {
     "SourceSheet": "Construction",
@@ -4012,7 +4376,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDSoilF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "zmRnFRYnYQqiwZbj6"
+    "Unique Entry ID": "zmRnFRYnYQqiwZbj6",
+    "Url": "=FORMULATEXT(B366)"
   },
   {
     "SourceSheet": "Construction",
@@ -4023,7 +4388,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04SoilF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "344Xu4durvD6gLYQH"
+    "Unique Entry ID": "344Xu4durvD6gLYQH",
+    "Url": "=FORMULATEXT(B367)"
   },
   {
     "SourceSheet": "Construction",
@@ -4034,7 +4400,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04StoneH",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "hZdJZvySwnwFFPgJk"
+    "Unique Entry ID": "hZdJZvySwnwFFPgJk",
+    "Url": "=FORMULATEXT(B368)"
   },
   {
     "SourceSheet": "Construction",
@@ -4045,7 +4412,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNABrickB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Wu5L8rZytQ8Msw5R2"
+    "Unique Entry ID": "Wu5L8rZytQ8Msw5R2",
+    "Url": "=FORMULATEXT(B369)"
   },
   {
     "SourceSheet": "Construction",
@@ -4056,7 +4424,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNABrickF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "vQeA4vyuXmx4yyhpw"
+    "Unique Entry ID": "vQeA4vyuXmx4yyhpw",
+    "Url": "=FORMULATEXT(B370)"
   },
   {
     "SourceSheet": "Construction",
@@ -4067,7 +4436,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNABrickA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "osbinqGeRWD6aT5zg"
+    "Unique Entry ID": "osbinqGeRWD6aT5zg",
+    "Url": "=FORMULATEXT(B371)"
   },
   {
     "SourceSheet": "Construction",
@@ -4078,7 +4448,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNABrickD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "GNWYodDYkeFKcvg2m"
+    "Unique Entry ID": "GNWYodDYkeFKcvg2m",
+    "Url": "=FORMULATEXT(B372)"
   },
   {
     "SourceSheet": "Construction",
@@ -4089,7 +4460,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNABrickC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "3xiDTaNBb5Doq53yy"
+    "Unique Entry ID": "3xiDTaNBb5Doq53yy",
+    "Url": "=FORMULATEXT(B373)"
   },
   {
     "SourceSheet": "Construction",
@@ -4100,7 +4472,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNABrickE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "s9LDqHL4MCxcH454B"
+    "Unique Entry ID": "s9LDqHL4MCxcH454B",
+    "Url": "=FORMULATEXT(B374)"
   },
   {
     "SourceSheet": "Construction",
@@ -4111,7 +4484,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04JapaneseF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "aQEwQzPQfqGZkcZ9n"
+    "Unique Entry ID": "aQEwQzPQfqGZkcZ9n",
+    "Url": "=FORMULATEXT(B375)"
   },
   {
     "SourceSheet": "Construction",
@@ -4122,7 +4496,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCJapaneseF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "jJCMZiZSutXLCjEAc"
+    "Unique Entry ID": "jJCMZiZSutXLCjEAc",
+    "Url": "=FORMULATEXT(B376)"
   },
   {
     "SourceSheet": "Construction",
@@ -4133,7 +4508,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCJapaneseB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "HyzzRrfudwfFnxiHT"
+    "Unique Entry ID": "HyzzRrfudwfFnxiHT",
+    "Url": "=FORMULATEXT(B377)"
   },
   {
     "SourceSheet": "Construction",
@@ -4144,7 +4520,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04JapaneseB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "5qr2mkABSq3nv4NBD"
+    "Unique Entry ID": "5qr2mkABSq3nv4NBD",
+    "Url": "=FORMULATEXT(B378)"
   },
   {
     "SourceSheet": "Construction",
@@ -4155,7 +4532,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCWoodA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "yQW28dXnqS8KAbMMo"
+    "Unique Entry ID": "yQW28dXnqS8KAbMMo",
+    "Url": "=FORMULATEXT(B379)"
   },
   {
     "SourceSheet": "Construction",
@@ -4166,7 +4544,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCWoodC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "JQHgLTMS6Ca92uxeJ"
+    "Unique Entry ID": "JQHgLTMS6Ca92uxeJ",
+    "Url": "=FORMULATEXT(B380)"
   },
   {
     "SourceSheet": "Construction",
@@ -4177,7 +4556,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCOrientalD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "kNDBEjxazTjoMnkaj"
+    "Unique Entry ID": "kNDBEjxazTjoMnkaj",
+    "Url": "=FORMULATEXT(B381)"
   },
   {
     "SourceSheet": "Construction",
@@ -4188,7 +4568,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04OrientalD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "b4CM3MSzrJDQSDyDs"
+    "Unique Entry ID": "b4CM3MSzrJDQSDyDs",
+    "Url": "=FORMULATEXT(B382)"
   },
   {
     "SourceSheet": "Construction",
@@ -4199,7 +4580,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCOrientalE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "n2ZJ7tZJhapDMW8e7"
+    "Unique Entry ID": "n2ZJ7tZJhapDMW8e7",
+    "Url": "=FORMULATEXT(B383)"
   },
   {
     "SourceSheet": "Construction",
@@ -4210,7 +4592,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04OrientalE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "iGZTvtqtZdgDTK6Hz"
+    "Unique Entry ID": "iGZTvtqtZdgDTK6Hz",
+    "Url": "=FORMULATEXT(B384)"
   },
   {
     "SourceSheet": "Construction",
@@ -4221,7 +4604,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04OrientalA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "d2QmygGP4CqmJ3aRp"
+    "Unique Entry ID": "d2QmygGP4CqmJ3aRp",
+    "Url": "=FORMULATEXT(B385)"
   },
   {
     "SourceSheet": "Construction",
@@ -4232,7 +4616,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCOrientalA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "HvmS5DH5BfMNyPjPP"
+    "Unique Entry ID": "HvmS5DH5BfMNyPjPP",
+    "Url": "=FORMULATEXT(B386)"
   },
   {
     "SourceSheet": "Construction",
@@ -4243,7 +4628,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAWoodsidingC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "958t3sG7S6bGsv636"
+    "Unique Entry ID": "958t3sG7S6bGsv636",
+    "Url": "=FORMULATEXT(B387)"
   },
   {
     "SourceSheet": "Construction",
@@ -4254,7 +4640,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04StoneA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "8Es45bW3RHZRFLhmz"
+    "Unique Entry ID": "8Es45bW3RHZRFLhmz",
+    "Url": "=FORMULATEXT(B388)"
   },
   {
     "SourceSheet": "Construction",
@@ -4265,7 +4652,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDSoilB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "SHXXSozrkbX579ofe"
+    "Unique Entry ID": "SHXXSozrkbX579ofe",
+    "Url": "=FORMULATEXT(B389)"
   },
   {
     "SourceSheet": "Construction",
@@ -4276,7 +4664,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStoneA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "mzEQGfjjeo2mJHain"
+    "Unique Entry ID": "mzEQGfjjeo2mJHain",
+    "Url": "=FORMULATEXT(B390)"
   },
   {
     "SourceSheet": "Construction",
@@ -4287,7 +4676,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBLogB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "nMQa7rPp2Ft866nMa"
+    "Unique Entry ID": "nMQa7rPp2Ft866nMa",
+    "Url": "=FORMULATEXT(B391)"
   },
   {
     "SourceSheet": "Construction",
@@ -4298,7 +4688,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04LogB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "ApQ35h6mnmdi25iW4"
+    "Unique Entry ID": "ApQ35h6mnmdi25iW4",
+    "Url": "=FORMULATEXT(B392)"
   },
   {
     "SourceSheet": "Construction",
@@ -4309,7 +4700,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCWoodG",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "gWaWehTzbBqz5tS7T"
+    "Unique Entry ID": "gWaWehTzbBqz5tS7T",
+    "Url": "=FORMULATEXT(B393)"
   },
   {
     "SourceSheet": "Construction",
@@ -4320,7 +4712,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAMetalA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "j3zWLuerp3mcWhr4a"
+    "Unique Entry ID": "j3zWLuerp3mcWhr4a",
+    "Url": "=FORMULATEXT(B394)"
   },
   {
     "SourceSheet": "Construction",
@@ -4331,7 +4724,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StuccoA",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "QkWc3tQAiWrNhewAw"
+    "Unique Entry ID": "QkWc3tQAiWrNhewAw",
+    "Url": "=FORMULATEXT(B395)"
   },
   {
     "SourceSheet": "Construction",
@@ -4342,7 +4736,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBStuccoA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "ENGNAgCSrnAz8ecq6"
+    "Unique Entry ID": "ENGNAgCSrnAz8ecq6",
+    "Url": "=FORMULATEXT(B396)"
   },
   {
     "SourceSheet": "Construction",
@@ -4353,7 +4748,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04StuccoA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "cfWMYhEY5RaRDLcuN"
+    "Unique Entry ID": "cfWMYhEY5RaRDLcuN",
+    "Url": "=FORMULATEXT(B397)"
   },
   {
     "SourceSheet": "Construction",
@@ -4364,7 +4760,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDStuccoA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "bz4gXLXyCwCT8H7Sk"
+    "Unique Entry ID": "bz4gXLXyCwCT8H7Sk",
+    "Url": "=FORMULATEXT(B398)"
   },
   {
     "SourceSheet": "Construction",
@@ -4375,7 +4772,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04SoilB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "6dwacA4gLfamai6jk"
+    "Unique Entry ID": "6dwacA4gLfamai6jk",
+    "Url": "=FORMULATEXT(B399)"
   },
   {
     "SourceSheet": "Construction",
@@ -4386,7 +4784,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDWoodB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "xQ5Q5RKZ5DMufgfjm"
+    "Unique Entry ID": "xQ5Q5RKZ5DMufgfjm",
+    "Url": "=FORMULATEXT(B400)"
   },
   {
     "SourceSheet": "Construction",
@@ -4397,7 +4796,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04WoodB",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "A3ZJ7JzrrjsXZZF9m"
+    "Unique Entry ID": "A3ZJ7JzrrjsXZZF9m",
+    "Url": "=FORMULATEXT(B401)"
   },
   {
     "SourceSheet": "Construction",
@@ -4408,7 +4808,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04WoodsidngD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "yCa5Tur8a2669hopn"
+    "Unique Entry ID": "yCa5Tur8a2669hopn",
+    "Url": "=FORMULATEXT(B402)"
   },
   {
     "SourceSheet": "Construction",
@@ -4419,7 +4820,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNCOrientalC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "E9ReAMTNmxtSr8SpE"
+    "Unique Entry ID": "E9ReAMTNmxtSr8SpE",
+    "Url": "=FORMULATEXT(B403)"
   },
   {
     "SourceSheet": "Construction",
@@ -4430,7 +4832,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPC04OrientalC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "Fi2WahXNxBjJwadcy"
+    "Unique Entry ID": "Fi2WahXNxBjJwadcy",
+    "Url": "=FORMULATEXT(B404)"
   },
   {
     "SourceSheet": "Construction",
@@ -4441,7 +4844,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04WoodframeE",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "t7eP9mfhqemhFXnBh"
+    "Unique Entry ID": "t7eP9mfhqemhFXnBh",
+    "Url": "=FORMULATEXT(B405)"
   },
   {
     "SourceSheet": "Construction",
@@ -4452,7 +4856,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDSoilA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "sGghant9wMantXqw7"
+    "Unique Entry ID": "sGghant9wMantXqw7",
+    "Url": "=FORMULATEXT(B406)"
   },
   {
     "SourceSheet": "Construction",
@@ -4463,7 +4868,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StandardE",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "BGfRq5YPPAt93qsms"
+    "Unique Entry ID": "BGfRq5YPPAt93qsms",
+    "Url": "=FORMULATEXT(B407)"
   },
   {
     "SourceSheet": "Construction",
@@ -4474,7 +4880,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPB04LogE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "QotP3o6f54HD8fujT"
+    "Unique Entry ID": "QotP3o6f54HD8fujT",
+    "Url": "=FORMULATEXT(B408)"
   },
   {
     "SourceSheet": "Construction",
@@ -4485,7 +4892,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNBLogE",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "qWFo5ESr4YiSRwjLk"
+    "Unique Entry ID": "qWFo5ESr4YiSRwjLk",
+    "Url": "=FORMULATEXT(B409)"
   },
   {
     "SourceSheet": "Construction",
@@ -4496,7 +4904,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAMetalF",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "5gsDfPeZdQ6HaXLEJ"
+    "Unique Entry ID": "5gsDfPeZdQ6HaXLEJ",
+    "Url": "=FORMULATEXT(B410)"
   },
   {
     "SourceSheet": "Construction",
@@ -4507,7 +4916,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA04StuccoF",
     "Version Added": "1.0.0",
-    "Unique Entry ID": "78XQwM8DMwK8YsJig"
+    "Unique Entry ID": "78XQwM8DMwK8YsJig",
+    "Url": "=FORMULATEXT(B411)"
   },
   {
     "SourceSheet": "Construction",
@@ -4518,7 +4928,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNAStuccoD",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "BuyDh6eoYjsKAv9QQ"
+    "Unique Entry ID": "BuyDh6eoYjsKAv9QQ",
+    "Url": "=FORMULATEXT(B412)"
   },
   {
     "SourceSheet": "Construction",
@@ -4529,7 +4940,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04StuccoC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "dgeqhkzf9RFR3MHqP"
+    "Unique Entry ID": "dgeqhkzf9RFR3MHqP",
+    "Url": "=FORMULATEXT(B413)"
   },
   {
     "SourceSheet": "Construction",
@@ -4540,7 +4952,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallNDStuccoC",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "ThkLS9YC4NaJrzkgv"
+    "Unique Entry ID": "ThkLS9YC4NaJrzkgv",
+    "Url": "=FORMULATEXT(B414)"
   },
   {
     "SourceSheet": "Construction",
@@ -4551,7 +4964,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPD04SoilA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "dXR67qxGi2AmwNHcD"
+    "Unique Entry ID": "dXR67qxGi2AmwNHcD",
+    "Url": "=FORMULATEXT(B415)"
   },
   {
     "SourceSheet": "Construction",
@@ -4562,7 +4976,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA02StandardA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "DH8rXHLs2pDdLijtp"
+    "Unique Entry ID": "DH8rXHLs2pDdLijtp",
+    "Url": "=FORMULATEXT(B416)"
   },
   {
     "SourceSheet": "Construction",
@@ -4573,7 +4988,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA03StandardA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "xQsbC7idyLeaaLDfC"
+    "Unique Entry ID": "xQsbC7idyLeaaLDfC",
+    "Url": "=FORMULATEXT(B417)"
   },
   {
     "SourceSheet": "Construction",
@@ -4584,7 +5000,8 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA00StandardA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "mjqvXbH7cr3A6TDF5"
+    "Unique Entry ID": "mjqvXbH7cr3A6TDF5",
+    "Url": "=FORMULATEXT(B418)"
   },
   {
     "SourceSheet": "Construction",
@@ -4595,6 +5012,7 @@
     "Source": "5th House Upgrade (2nd Floor)",
     "Filename": "HouseWallPA01StandardA",
     "Version Added": "2.0.0",
-    "Unique Entry ID": "KzhwPpG4X5fLN9Tfx"
+    "Unique Entry ID": "KzhwPpG4X5fLN9Tfx",
+    "Url": "=FORMULATEXT(B419)"
   }
 ]

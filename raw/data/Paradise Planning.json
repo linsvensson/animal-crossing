@@ -826,6 +826,17 @@
   },
   {
     "SourceSheet": "Paradise Planning",
+    "Name": "Cece",
+    "Filename": "squ19",
+    "Request": "Splatfest Festival Fun",
+    "Thought bubble": "I wanna have a blast at a nice place for a music festival!",
+    "Song": "K.K. Rally",
+    "Furniture List": "961;960;959",
+    "Furniture Name List": "splatfest sign left panel;splatfest sign center panel;splatfest sign right panel",
+    "Unique Entry ID": null
+  },
+  {
+    "SourceSheet": "Paradise Planning",
     "Name": "Celia",
     "Filename": "pbr09",
     "Request": "A Refined Reading Residence",
@@ -2718,6 +2729,17 @@
   },
   {
     "SourceSheet": "Paradise Planning",
+    "Name": "Mineru",
+    "Filename": "der12",
+    "Request": "Peaceful Spirit",
+    "Thought bubble": "I wonder if there's a nice spot where I can rest my soul...",
+    "Song": "Only Me",
+    "Furniture List": "926;913;916",
+    "Furniture Name List": "heart container;fairy bottle;goddess statue",
+    "Unique Entry ID": null
+  },
+  {
+    "SourceSheet": "Paradise Planning",
     "Name": "Mint",
     "Filename": "squ09",
     "Request": "The Ice-Cream Shoppe",
@@ -4269,6 +4291,17 @@
   },
   {
     "SourceSheet": "Paradise Planning",
+    "Name": "Tulin",
+    "Filename": "brd20",
+    "Request": "Where Legends Are Born",
+    "Thought bubble": "I'm going to live like a legend in a place that has everything.",
+    "Song": "K.K. Bashment",
+    "Furniture List": "921;923;924",
+    "Furniture Name List": "master sword;triforce;silent princess",
+    "Unique Entry ID": null
+  },
+  {
+    "SourceSheet": "Paradise Planning",
     "Name": "Tutu",
     "Filename": "bea07",
     "Request": "A Place to Literally Chill",
@@ -4343,6 +4376,17 @@
     "Furniture List": "13362;1266;14017",
     "Furniture Name List": "double-edged sword;barrel;cave",
     "Unique Entry ID": "sQk2rucTdwgJtL4QC"
+  },
+  {
+    "SourceSheet": "Paradise Planning",
+    "Name": "Viché",
+    "Filename": "squ20",
+    "Request": "Splatastic Studio",
+    "Thought bubble": "I wish I had a studio where I can air squid-tacular shows...",
+    "Song": "K.K. Disco",
+    "Furniture List": "951;7047;1412",
+    "Furniture Name List": "big man bench;zen cushion;tv camera",
+    "Unique Entry ID": null
   },
   {
     "SourceSheet": "Paradise Planning",
