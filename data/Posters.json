@@ -19,7 +19,6 @@
     "filename": "PosterNpcNmlBrd09",
     "internalId": 13044,
     "uniqueEntryId": "6dbxo8yShZQk36uXj",
-    "url": "=FORMULATEXT(B2)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13044,
@@ -62,7 +61,6 @@
     "filename": "PosterNpcNmlBrd06",
     "internalId": 10814,
     "uniqueEntryId": "3LW8HyqLZTJRaGQT9",
-    "url": "=FORMULATEXT(B3)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10814,
@@ -105,7 +103,6 @@
     "filename": "PosterNpcNmlSqu05",
     "internalId": 10425,
     "uniqueEntryId": "bZu92nbNfGmQvp54D",
-    "url": "=FORMULATEXT(B4)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10425,
@@ -148,7 +145,6 @@
     "filename": "PosterNpcNmlPig17",
     "internalId": 10401,
     "uniqueEntryId": "2wZBfe8Ed7QMvQ8tX",
-    "url": "=FORMULATEXT(B5)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10401,
@@ -191,7 +187,6 @@
     "filename": "PosterNpcNmlGor08",
     "internalId": 10590,
     "uniqueEntryId": "sat2PG8L97DymZbQw",
-    "url": "=FORMULATEXT(B6)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10590,
@@ -234,7 +229,6 @@
     "filename": "PosterNpcNmlCrd00",
     "internalId": 10382,
     "uniqueEntryId": "NjW35Zc7MnTipYZbg",
-    "url": "=FORMULATEXT(B7)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10382,
@@ -277,7 +271,6 @@
     "filename": "PosterNpcNmlKal01",
     "internalId": 10411,
     "uniqueEntryId": "M89MiTg6MwBt38bYC",
-    "url": "=FORMULATEXT(B8)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10411,
@@ -320,7 +313,6 @@
     "filename": "PosterNpcNmlCrd01",
     "internalId": 10655,
     "uniqueEntryId": "6yDr388PQngpmfKyw",
-    "url": "=FORMULATEXT(B9)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10655,
@@ -363,7 +355,6 @@
     "filename": "PosterNpcNmlPbr01",
     "internalId": 10687,
     "uniqueEntryId": "xDPzyfpuH42GzRP25",
-    "url": "=FORMULATEXT(B10)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10687,
@@ -406,7 +397,6 @@
     "filename": "PosterNpcNmlAnt03",
     "internalId": 10800,
     "uniqueEntryId": "BpX27retKhbmi8f3F",
-    "url": "=FORMULATEXT(B11)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10800,
@@ -449,7 +439,6 @@
     "filename": "PosterNpcNmlBrd02",
     "internalId": 10782,
     "uniqueEntryId": "fNnTbreeuJ9AxCA6M",
-    "url": "=FORMULATEXT(B12)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10782,
@@ -492,7 +481,6 @@
     "filename": "PosterNpcNmlBul00",
     "internalId": 10807,
     "uniqueEntryId": "wGwxFH8nwYXuDj8Mv",
-    "url": "=FORMULATEXT(B13)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10807,
@@ -535,7 +523,6 @@
     "filename": "PosterNpcNmlMus10",
     "internalId": 10413,
     "uniqueEntryId": "YFQoYdCCWf74rHXxX",
-    "url": "=FORMULATEXT(B14)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10413,
@@ -578,7 +565,6 @@
     "filename": "PosterNpcNmlCat19",
     "internalId": 10416,
     "uniqueEntryId": "YNxQgR8caq9EAvm8b",
-    "url": "=FORMULATEXT(B15)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10416,
@@ -621,7 +607,6 @@
     "filename": "PosterNpcNmlAnt08",
     "internalId": 10824,
     "uniqueEntryId": "QLhdJiM4EPJBdZvZD",
-    "url": "=FORMULATEXT(B16)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10824,
@@ -664,7 +649,6 @@
     "filename": "PosterNpcNmlHrs09",
     "internalId": 10573,
     "uniqueEntryId": "KeP7vMfGPMihtEeRN",
-    "url": "=FORMULATEXT(B17)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10573,
@@ -707,7 +691,6 @@
     "filename": "PosterNpcNmlAnt01",
     "internalId": 10795,
     "uniqueEntryId": "TeuSXPWPNyvqpWyF7",
-    "url": "=FORMULATEXT(B18)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10795,
@@ -750,7 +733,6 @@
     "filename": "PosterNpcNmlPbr00",
     "internalId": 10512,
     "uniqueEntryId": "SiD2CXoom2ufiKaHY",
-    "url": "=FORMULATEXT(B19)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10512,
@@ -793,7 +775,6 @@
     "filename": "PosterNpcNmlHam01",
     "internalId": 10565,
     "uniqueEntryId": "fqWJTtNBSXH4JTa4W",
-    "url": "=FORMULATEXT(B20)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10565,
@@ -836,7 +817,6 @@
     "filename": "PosterNpcNmlKgr05",
     "internalId": 10493,
     "uniqueEntryId": "ha3PS72Re4aZznfPB",
-    "url": "=FORMULATEXT(B21)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10493,
@@ -879,7 +859,6 @@
     "filename": "PosterNpcNmlWol12",
     "internalId": 10859,
     "uniqueEntryId": "ji4EcitFLpu8pxguu",
-    "url": "=FORMULATEXT(B22)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10859,
@@ -922,7 +901,6 @@
     "filename": "PosterNpcNmlPgn00",
     "internalId": 10563,
     "uniqueEntryId": "iPnQ3k2KAts6ZohZu",
-    "url": "=FORMULATEXT(B23)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10563,
@@ -965,7 +943,6 @@
     "filename": "PosterNpcNmlChn05",
     "internalId": 10467,
     "uniqueEntryId": "XuCCq3DgwaAREjgnY",
-    "url": "=FORMULATEXT(B24)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10467,
@@ -1008,7 +985,6 @@
     "filename": "PosterNpcNmlPbr05",
     "internalId": 10370,
     "uniqueEntryId": "5aP6GoQ2YiTHaN523",
-    "url": "=FORMULATEXT(B25)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10370,
@@ -1051,7 +1027,6 @@
     "filename": "PosterNpcNmlElp06",
     "internalId": 10319,
     "uniqueEntryId": "5BGYmdDam5ddHkktX",
-    "url": "=FORMULATEXT(B26)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10319,
@@ -1094,7 +1069,6 @@
     "filename": "PosterNpcNmlRhn05",
     "internalId": 13041,
     "uniqueEntryId": "8wFw4jSNhERRikv7d",
-    "url": "=FORMULATEXT(B27)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13041,
@@ -1137,7 +1111,6 @@
     "filename": "PosterNpcNmlShp01",
     "internalId": 10508,
     "uniqueEntryId": "hmmcqfFiWWoWNQfre",
-    "url": "=FORMULATEXT(B28)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10508,
@@ -1180,7 +1153,6 @@
     "filename": "PosterNpcNmlDer01",
     "internalId": 10456,
     "uniqueEntryId": "N5FWLxwNYM2Qb4CsD",
-    "url": "=FORMULATEXT(B29)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10456,
@@ -1223,7 +1195,6 @@
     "filename": "PosterNpcNmlTig03",
     "internalId": 10672,
     "uniqueEntryId": "waGuCcp47Jd8riQgL",
-    "url": "=FORMULATEXT(B30)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10672,
@@ -1266,7 +1237,6 @@
     "filename": "PosterNpcNmlCbr16",
     "internalId": 10583,
     "uniqueEntryId": "F9dscB8bM2NRt4DHz",
-    "url": "=FORMULATEXT(B31)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10583,
@@ -1309,7 +1279,6 @@
     "filename": "PosterNpcNmlDog10",
     "internalId": 10632,
     "uniqueEntryId": "QANup429jzLZ9RtGw",
-    "url": "=FORMULATEXT(B32)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10632,
@@ -1352,7 +1321,6 @@
     "filename": "PosterNpcNmlBea13",
     "internalId": 10788,
     "uniqueEntryId": "oDTLWzHGazre6rf2d",
-    "url": "=FORMULATEXT(B33)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10788,
@@ -1395,7 +1363,6 @@
     "filename": "PosterNpcNmlDer07",
     "internalId": 10396,
     "uniqueEntryId": "akpHWn6ftgCh2DkQn",
-    "url": "=FORMULATEXT(B34)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10396,
@@ -1438,7 +1405,6 @@
     "filename": "PosterNpcNmlChn09",
     "internalId": 10580,
     "uniqueEntryId": "FKSnKjqAcon3Xnsbh",
-    "url": "=FORMULATEXT(B35)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10580,
@@ -1481,7 +1447,6 @@
     "filename": "PosterNpcNmlMus02",
     "internalId": 10681,
     "uniqueEntryId": "2ZzkQFMSyPpDWBFwN",
-    "url": "=FORMULATEXT(B36)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10681,
@@ -1524,7 +1489,6 @@
     "filename": "PosterNpcNmlChn01",
     "internalId": 10400,
     "uniqueEntryId": "LW8FbZ42R53sf8Gmr",
-    "url": "=FORMULATEXT(B37)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10400,
@@ -1567,7 +1531,6 @@
     "filename": "PosterNpcNmlDog16",
     "internalId": 10695,
     "uniqueEntryId": "4gXWSoNbnL5ejGPbe",
-    "url": "=FORMULATEXT(B38)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10695,
@@ -1610,7 +1573,6 @@
     "filename": "PosterNpcNmlHip03",
     "internalId": 10322,
     "uniqueEntryId": "NLbdnzL9z9rAsyDLi",
-    "url": "=FORMULATEXT(B39)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10322,
@@ -1653,7 +1615,6 @@
     "filename": "PosterNpcNmlMus15",
     "internalId": 10403,
     "uniqueEntryId": "SCYyGPKpf7aK3PXD7",
-    "url": "=FORMULATEXT(B40)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10403,
@@ -1696,7 +1657,6 @@
     "filename": "PosterNpcNmlTig06",
     "internalId": 10393,
     "uniqueEntryId": "odXRHQpFx3rB3QGTQ",
-    "url": "=FORMULATEXT(B41)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10393,
@@ -1739,7 +1699,6 @@
     "filename": "PosterNpcNmlHip04",
     "internalId": 10682,
     "uniqueEntryId": "qhFwx4ArLikXPrHa8",
-    "url": "=FORMULATEXT(B42)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10682,
@@ -1782,7 +1741,6 @@
     "filename": "PosterNpcNmlElp02",
     "internalId": 10426,
     "uniqueEntryId": "mkPhKXgL5CiHPjWRt",
-    "url": "=FORMULATEXT(B43)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10426,
@@ -1825,7 +1783,6 @@
     "filename": "PosterNpcNmlDuk00",
     "internalId": 10653,
     "uniqueEntryId": "sYPGCn8NjP6R9byDv",
-    "url": "=FORMULATEXT(B44)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10653,
@@ -1868,7 +1825,6 @@
     "filename": "PosterNpcNmlGoa02",
     "internalId": 10620,
     "uniqueEntryId": "NGA6CZqcPu5H3NXbn",
-    "url": "=FORMULATEXT(B45)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10620,
@@ -1911,7 +1867,6 @@
     "filename": "PosterNpcNmlDog03",
     "internalId": 10496,
     "uniqueEntryId": "RsGh3NwxT4szECdgL",
-    "url": "=FORMULATEXT(B46)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10496,
@@ -1954,7 +1909,6 @@
     "filename": "PosterNpcNmlHip05",
     "internalId": 10622,
     "uniqueEntryId": "cAuB9k5uSv46zLv9t",
-    "url": "=FORMULATEXT(B47)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10622,
@@ -1997,7 +1951,6 @@
     "filename": "PosterNpcNmlSqu01",
     "internalId": 10369,
     "uniqueEntryId": "dZZxMyzvStPjj2snD",
-    "url": "=FORMULATEXT(B48)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10369,
@@ -2040,7 +1993,6 @@
     "filename": "PosterNpcSpMka",
     "internalId": 10343,
     "uniqueEntryId": "HGSmXooFFtwAMcxHX",
-    "url": "=FORMULATEXT(B49)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10343,
@@ -2083,7 +2035,6 @@
     "filename": "PosterNpcNmlOst08",
     "internalId": 10478,
     "uniqueEntryId": "R6Rw4ctwjDY9e28et",
-    "url": "=FORMULATEXT(B50)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10478,
@@ -2126,7 +2077,6 @@
     "filename": "PosterNpcSpOwl",
     "internalId": 10324,
     "uniqueEntryId": "gaPCze5wML6Qug2jZ",
-    "url": "=FORMULATEXT(B51)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10324,
@@ -2169,7 +2119,6 @@
     "filename": "PosterNpcNmlCbr00",
     "internalId": 10652,
     "uniqueEntryId": "3xyh2F9XMHniXeMPj",
-    "url": "=FORMULATEXT(B52)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10652,
@@ -2212,7 +2161,6 @@
     "filename": "PosterNpcNmlCat00",
     "internalId": 10797,
     "uniqueEntryId": "z2W6hsJ38PNXr5JBS",
-    "url": "=FORMULATEXT(B53)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10797,
@@ -2255,7 +2203,6 @@
     "filename": "PosterNpcNmlRbt17",
     "internalId": 10666,
     "uniqueEntryId": "9bjNfEmfXHogQLLy9",
-    "url": "=FORMULATEXT(B54)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10666,
@@ -2298,7 +2245,6 @@
     "filename": "PosterNpcNmlDog04",
     "internalId": 10548,
     "uniqueEntryId": "gCMMRqr89tRzSDsfi",
-    "url": "=FORMULATEXT(B55)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10548,
@@ -2341,7 +2287,6 @@
     "filename": "PosterNpcSpDgb",
     "internalId": 10336,
     "uniqueEntryId": "iLRZ2sLsR5JpnstFW",
-    "url": "=FORMULATEXT(B56)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10336,
@@ -2384,7 +2329,6 @@
     "filename": "PosterNpcNmlPgn10",
     "internalId": 10506,
     "uniqueEntryId": "AaTWfB3HwMLdb66oj",
-    "url": "=FORMULATEXT(B57)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10506,
@@ -2427,7 +2371,6 @@
     "filename": "PosterNpcNmlGor02",
     "internalId": 10534,
     "uniqueEntryId": "x73G2vr9yLgmGFkAz",
-    "url": "=FORMULATEXT(B58)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10534,
@@ -2470,7 +2413,6 @@
     "filename": "PosterNpcNmlCrd02",
     "internalId": 10634,
     "uniqueEntryId": "sx9Msn3pFgbL797cq",
-    "url": "=FORMULATEXT(B59)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10634,
@@ -2513,7 +2455,6 @@
     "filename": "PosterNpcNmlPig09",
     "internalId": 10613,
     "uniqueEntryId": "jWhj4NpRxCTr6448J",
-    "url": "=FORMULATEXT(B60)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10613,
@@ -2556,7 +2497,6 @@
     "filename": "PosterNpcNmlGor05",
     "internalId": 10621,
     "uniqueEntryId": "ZLgQCoaTBm2ampuyF",
-    "url": "=FORMULATEXT(B61)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10621,
@@ -2599,7 +2539,6 @@
     "filename": "PosterNpcNmlMus03",
     "internalId": 10486,
     "uniqueEntryId": "hwiRhRj9ns5DYLxh4",
-    "url": "=FORMULATEXT(B62)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10486,
@@ -2642,7 +2581,6 @@
     "filename": "PosterNpcSpPge",
     "internalId": 10516,
     "uniqueEntryId": "MvWLaRvLhvzFLL33M",
-    "url": "=FORMULATEXT(B63)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10516,
@@ -2685,7 +2623,6 @@
     "filename": "PosterNpcNmlMus12",
     "internalId": 10378,
     "uniqueEntryId": "jtgSXuiFeXrhqcndu",
-    "url": "=FORMULATEXT(B64)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10378,
@@ -2728,7 +2665,6 @@
     "filename": "PosterNpcNmlChn12",
     "internalId": 10535,
     "uniqueEntryId": "CPcRxGMpcoM7eJDED",
-    "url": "=FORMULATEXT(B65)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10535,
@@ -2771,7 +2707,6 @@
     "filename": "PosterNpcNmlDer03",
     "internalId": 10594,
     "uniqueEntryId": "Avb77qhMp3B6QgAXm",
-    "url": "=FORMULATEXT(B66)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10594,
@@ -2814,7 +2749,6 @@
     "filename": "PosterNpcNmlHip02",
     "internalId": 10447,
     "uniqueEntryId": "pbKEfdRSQB6aLq8KK",
-    "url": "=FORMULATEXT(B67)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10447,
@@ -2857,7 +2791,6 @@
     "filename": "PosterNpcNmlHrs00",
     "internalId": 10485,
     "uniqueEntryId": "j2RuomkgYQHRXvyMr",
-    "url": "=FORMULATEXT(B68)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10485,
@@ -2900,7 +2833,6 @@
     "filename": "PosterNpcNmlLon00",
     "internalId": 10398,
     "uniqueEntryId": "CLSFvYYxsYPxWZ46r",
-    "url": "=FORMULATEXT(B69)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10398,
@@ -2943,7 +2875,6 @@
     "filename": "PosterNpcNmlRbt00",
     "internalId": 10316,
     "uniqueEntryId": "SLfwmbskgPWmkKZyz",
-    "url": "=FORMULATEXT(B70)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10316,
@@ -2986,7 +2917,6 @@
     "filename": "PosterNpcNmlDog01",
     "internalId": 10385,
     "uniqueEntryId": "MeC9zFBwnNcMr6aaA",
-    "url": "=FORMULATEXT(B71)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10385,
@@ -3029,7 +2959,6 @@
     "filename": "PosterNpcNmlPbr03",
     "internalId": 10648,
     "uniqueEntryId": "ooxssY2sNRY35R7Tj",
-    "url": "=FORMULATEXT(B72)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10648,
@@ -3072,7 +3001,6 @@
     "filename": "PosterNpcSpBey",
     "internalId": 14869,
     "uniqueEntryId": "7eS8a9yY8fyavKGbL",
-    "url": "=FORMULATEXT(B73)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 14869,
@@ -3115,7 +3043,6 @@
     "filename": "PosterNpcNmlSqu11",
     "internalId": 10600,
     "uniqueEntryId": "9C75xv9doaZLWpnKt",
-    "url": "=FORMULATEXT(B74)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10600,
@@ -3158,7 +3085,6 @@
     "filename": "PosterNpcNmlFlg03",
     "internalId": 10412,
     "uniqueEntryId": "BB9Jwomm4GExvnoTE",
-    "url": "=FORMULATEXT(B75)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10412,
@@ -3201,7 +3127,6 @@
     "filename": "PosterNpcNmlKal08",
     "internalId": 10451,
     "uniqueEntryId": "E9tQeMSWQKoNgSxvo",
-    "url": "=FORMULATEXT(B76)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10451,
@@ -3244,7 +3169,6 @@
     "filename": "PosterNpcNmlMus08",
     "internalId": 10637,
     "uniqueEntryId": "YgLmQYuHf259anCYZ",
-    "url": "=FORMULATEXT(B77)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10637,
@@ -3287,7 +3211,6 @@
     "filename": "PosterNpcNmlRbt16",
     "internalId": 10374,
     "uniqueEntryId": "RFRW8GSsCgM66CgLP",
-    "url": "=FORMULATEXT(B78)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10374,
@@ -3330,7 +3253,6 @@
     "filename": "PosterNpcNmlSqu06",
     "internalId": 10507,
     "uniqueEntryId": "wkEbaPiiNzejEB4zE",
-    "url": "=FORMULATEXT(B79)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10507,
@@ -3373,7 +3295,6 @@
     "filename": "PosterNpcNmlKgr02",
     "internalId": 10615,
     "uniqueEntryId": "zgkHz6cjBecbyqG3F",
-    "url": "=FORMULATEXT(B80)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10615,
@@ -3416,7 +3337,6 @@
     "filename": "PosterNpcNmlShp04",
     "internalId": 10640,
     "uniqueEntryId": "8GcwQ4DCdGddLw7mr",
-    "url": "=FORMULATEXT(B81)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10640,
@@ -3459,7 +3379,6 @@
     "filename": "PosterNpcNmlSqu19",
     "internalId": 1270,
     "uniqueEntryId": "KCyRjCJ3LLs4eZJf9",
-    "url": "=FORMULATEXT(B82)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 1270,
@@ -3502,7 +3421,6 @@
     "filename": "PosterNpcSpOws",
     "internalId": 10334,
     "uniqueEntryId": "QiRLGPEKXAy9CnsnD",
-    "url": "=FORMULATEXT(B83)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10334,
@@ -3545,7 +3463,6 @@
     "filename": "PosterNpcNmlPbr09",
     "internalId": 10568,
     "uniqueEntryId": "dt9NAEkoWCwzwPEdc",
-    "url": "=FORMULATEXT(B84)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10568,
@@ -3588,7 +3505,6 @@
     "filename": "PosterNpcNmlOcp04",
     "internalId": 13052,
     "uniqueEntryId": "L75s9AJxGNCT687gi",
-    "url": "=FORMULATEXT(B85)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13052,
@@ -3631,7 +3547,6 @@
     "filename": "PosterNpcNmlGor00",
     "internalId": 10373,
     "uniqueEntryId": "e4KkHQ82KgXQTCABf",
-    "url": "=FORMULATEXT(B86)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10373,
@@ -3674,7 +3589,6 @@
     "filename": "PosterNpcNmlPgn07",
     "internalId": 13043,
     "uniqueEntryId": "YfbyBQFw3LwuAR6WX",
-    "url": "=FORMULATEXT(B87)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13043,
@@ -3717,7 +3631,6 @@
     "filename": "PosterNpcNmlMus18",
     "internalId": 10501,
     "uniqueEntryId": "EASeGQP4RzhCSeruR",
-    "url": "=FORMULATEXT(B88)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10501,
@@ -3760,7 +3673,6 @@
     "filename": "PosterNpcNmlElp11_2",
     "internalId": 13036,
     "uniqueEntryId": "T4vAKnnS9rYXybYgM",
-    "url": "=FORMULATEXT(B89)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13036,
@@ -3803,7 +3715,6 @@
     "filename": "PosterNpcNmlBea12",
     "internalId": 10778,
     "uniqueEntryId": "Y84YAXuwcwTW6E58c",
-    "url": "=FORMULATEXT(B90)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10778,
@@ -3846,7 +3757,6 @@
     "filename": "PosterNpcNmlDer10_2",
     "internalId": 13037,
     "uniqueEntryId": "x2oSm2abvhyXsGBtA",
-    "url": "=FORMULATEXT(B91)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13037,
@@ -3889,7 +3799,6 @@
     "filename": "PosterNpcNmlCbr10",
     "internalId": 10570,
     "uniqueEntryId": "CYXPqX7QRipEbNadc",
-    "url": "=FORMULATEXT(B92)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10570,
@@ -3932,7 +3841,6 @@
     "filename": "PosterNpcNmlDog17",
     "internalId": 10689,
     "uniqueEntryId": "AHm3qpXemG6uwXER6",
-    "url": "=FORMULATEXT(B93)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10689,
@@ -3975,7 +3883,6 @@
     "filename": "PosterNpcNmlCbr15",
     "internalId": 10468,
     "uniqueEntryId": "rx2AJ8Pyk3RCEgPYE",
-    "url": "=FORMULATEXT(B94)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10468,
@@ -4018,7 +3925,6 @@
     "filename": "PosterNpcNmlGoa00",
     "internalId": 10461,
     "uniqueEntryId": "QE6gma6op497WQszD",
-    "url": "=FORMULATEXT(B95)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10461,
@@ -4061,7 +3967,6 @@
     "filename": "PosterNpcNmlWol00",
     "internalId": 10315,
     "uniqueEntryId": "pdozFdt9MCk7zkAF7",
-    "url": "=FORMULATEXT(B96)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10315,
@@ -4104,7 +4009,6 @@
     "filename": "PosterNpcSpBev",
     "internalId": 10345,
     "uniqueEntryId": "dMPLdh2gpsxvQBynf",
-    "url": "=FORMULATEXT(B97)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10345,
@@ -4147,7 +4051,6 @@
     "filename": "PosterNpcNmlPig14",
     "internalId": 10414,
     "uniqueEntryId": "bXDLH8xnxjJBEnsG4",
-    "url": "=FORMULATEXT(B98)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10414,
@@ -4190,7 +4093,6 @@
     "filename": "PosterNpcNmlBea03",
     "internalId": 10803,
     "uniqueEntryId": "NE5kjZejyKSehbjE5",
-    "url": "=FORMULATEXT(B99)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10803,
@@ -4233,7 +4135,6 @@
     "filename": "PosterNpcNmlRbt13",
     "internalId": 10515,
     "uniqueEntryId": "99G5xnagWg9EMz8Ye",
-    "url": "=FORMULATEXT(B100)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10515,
@@ -4276,7 +4177,6 @@
     "filename": "PosterNpcNmlElp11",
     "internalId": 11124,
     "uniqueEntryId": "EFHuxMqC34e4se2EB",
-    "url": "=FORMULATEXT(B101)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 11124,
@@ -4319,7 +4219,6 @@
     "filename": "PosterNpcNmlRbt11",
     "internalId": 10628,
     "uniqueEntryId": "FooozdRN5X7cNudTB",
-    "url": "=FORMULATEXT(B102)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10628,
@@ -4362,7 +4261,6 @@
     "filename": "PosterNpcNmlTig05",
     "internalId": 10504,
     "uniqueEntryId": "qFn6XSJerSuZzBZ69",
-    "url": "=FORMULATEXT(B103)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10504,
@@ -4405,7 +4303,6 @@
     "filename": "PosterNpcNmlHam05",
     "internalId": 10317,
     "uniqueEntryId": "w2ZH8ZhMikGXAkpt3",
-    "url": "=FORMULATEXT(B104)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10317,
@@ -4448,7 +4345,6 @@
     "filename": "PosterNpcNmlHrs07",
     "internalId": 10649,
     "uniqueEntryId": "GRzGAf4uCmStEdeKs",
-    "url": "=FORMULATEXT(B105)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10649,
@@ -4491,7 +4387,6 @@
     "filename": "PosterNpcNmlHrs10",
     "internalId": 10680,
     "uniqueEntryId": "fk9cqFYGfCkxsSHnp",
-    "url": "=FORMULATEXT(B106)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10680,
@@ -4534,7 +4429,6 @@
     "filename": "PosterNpcNmlBul07",
     "internalId": 10356,
     "uniqueEntryId": "4qKaNfyw4Rf3Ppg3D",
-    "url": "=FORMULATEXT(B107)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10356,
@@ -4577,7 +4471,6 @@
     "filename": "PosterNpcNmlPig08",
     "internalId": 10686,
     "uniqueEntryId": "YqhHWLz3MD2kSXySK",
-    "url": "=FORMULATEXT(B108)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10686,
@@ -4620,7 +4513,6 @@
     "filename": "PosterNpcNmlRbt02",
     "internalId": 10379,
     "uniqueEntryId": "mxYiTvmbSJvvYyBZr",
-    "url": "=FORMULATEXT(B109)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10379,
@@ -4663,7 +4555,6 @@
     "filename": "PosterNpcNmlRbt18",
     "internalId": 10326,
     "uniqueEntryId": "uNXPqK69E4SJAcu5H",
-    "url": "=FORMULATEXT(B110)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10326,
@@ -4706,7 +4597,6 @@
     "filename": "PosterNpcNmlHrs11",
     "internalId": 10452,
     "uniqueEntryId": "NAj8Rbq9ZBeZno8Mf",
-    "url": "=FORMULATEXT(B111)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10452,
@@ -4749,7 +4639,6 @@
     "filename": "PosterNpcNmlDog08",
     "internalId": 10367,
     "uniqueEntryId": "NjkN3PbZeCLH2bHrS",
-    "url": "=FORMULATEXT(B112)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10367,
@@ -4792,7 +4681,6 @@
     "filename": "PosterNpcSpDga",
     "internalId": 10335,
     "uniqueEntryId": "cCGcZbrAb3qzbFcwi",
-    "url": "=FORMULATEXT(B113)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10335,
@@ -4835,7 +4723,6 @@
     "filename": "PosterNpcNmlFlg10",
     "internalId": 10448,
     "uniqueEntryId": "YaoyrgwiKWhTDzpMT",
-    "url": "=FORMULATEXT(B114)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10448,
@@ -4878,7 +4765,6 @@
     "filename": "PosterNpcNmlOst06",
     "internalId": 10597,
     "uniqueEntryId": "vpsfDyXTLmmKHScbh",
-    "url": "=FORMULATEXT(B115)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10597,
@@ -4921,7 +4807,6 @@
     "filename": "PosterNpcNmlFlg17",
     "internalId": 10536,
     "uniqueEntryId": "dRTnqq9pYTtLGmZZt",
-    "url": "=FORMULATEXT(B116)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10536,
@@ -4964,7 +4849,6 @@
     "filename": "PosterNpcNmlPgn02",
     "internalId": 10503,
     "uniqueEntryId": "RHnvrKdMWPGmgQuRL",
-    "url": "=FORMULATEXT(B117)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10503,
@@ -5007,7 +4891,6 @@
     "filename": "PosterNpcNmlShp08",
     "internalId": 10488,
     "uniqueEntryId": "LGBtFiwyq2dDaBbAH",
-    "url": "=FORMULATEXT(B118)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10488,
@@ -5050,7 +4933,6 @@
     "filename": "PosterNpcNmlPig00",
     "internalId": 10505,
     "uniqueEntryId": "t96aFDvs7vvawzpxw",
-    "url": "=FORMULATEXT(B119)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10505,
@@ -5093,7 +4975,6 @@
     "filename": "PosterNpcNmlBea02",
     "internalId": 10799,
     "uniqueEntryId": "fxp5q9KEbJyawPHJh",
-    "url": "=FORMULATEXT(B120)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10799,
@@ -5136,7 +5017,6 @@
     "filename": "PosterNpcNmlElp12",
     "internalId": 10862,
     "uniqueEntryId": "fMqS7p25Ce7AeNHQu",
-    "url": "=FORMULATEXT(B121)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10862,
@@ -5179,7 +5059,6 @@
     "filename": "PosterNpcNmlAnt00",
     "internalId": 10323,
     "uniqueEntryId": "8gtoycLmDBmekNKT4",
-    "url": "=FORMULATEXT(B122)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10323,
@@ -5222,7 +5101,6 @@
     "filename": "PosterNpcSpAlp",
     "internalId": 10435,
     "uniqueEntryId": "bXFWNkhRXNDK4xrZb",
-    "url": "=FORMULATEXT(B123)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10435,
@@ -5265,7 +5143,6 @@
     "filename": "PosterNpcSpTkkB",
     "internalId": 10776,
     "uniqueEntryId": "KEcLDYnnCo7vK5q8e",
-    "url": "=FORMULATEXT(B135)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10776,
@@ -5308,7 +5185,6 @@
     "filename": "PosterNpcSpBoc",
     "internalId": 14866,
     "uniqueEntryId": "PQr3ScgWjQLSc4ScQ",
-    "url": "=FORMULATEXT(B124)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 14866,
@@ -5351,7 +5227,6 @@
     "filename": "PosterNpcNmlDog07",
     "internalId": 10474,
     "uniqueEntryId": "i6JsESCdxf5zwviyq",
-    "url": "=FORMULATEXT(B125)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10474,
@@ -5394,7 +5269,6 @@
     "filename": "PosterNpcNmlDuk04",
     "internalId": 10670,
     "uniqueEntryId": "D3h6EQjsNAztjCRfe",
-    "url": "=FORMULATEXT(B126)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10670,
@@ -5437,7 +5311,6 @@
     "filename": "PosterNpcNmlDer04",
     "internalId": 10459,
     "uniqueEntryId": "GMyyD2RjAEy2zZmQA",
-    "url": "=FORMULATEXT(B127)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10459,
@@ -5480,7 +5353,6 @@
     "filename": "PosterNpcNmlCrd04",
     "internalId": 10444,
     "uniqueEntryId": "vcDvoY9rJnC3otJJ5",
-    "url": "=FORMULATEXT(B128)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10444,
@@ -5523,7 +5395,6 @@
     "filename": "PosterNpcNmlMnk08",
     "internalId": 10654,
     "uniqueEntryId": "ihA8W7QC64yvcX4Dd",
-    "url": "=FORMULATEXT(B129)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10654,
@@ -5566,7 +5437,6 @@
     "filename": "PosterNpcNmlDuk08",
     "internalId": 10513,
     "uniqueEntryId": "kW78nMBfHq8gMESeW",
-    "url": "=FORMULATEXT(B130)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10513,
@@ -5609,7 +5479,6 @@
     "filename": "PosterNpcNmlDer08",
     "internalId": 10318,
     "uniqueEntryId": "DCsydZ2kDaQboP2cH",
-    "url": "=FORMULATEXT(B131)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10318,
@@ -5652,7 +5521,6 @@
     "filename": "PosterNpcSpSzo",
     "internalId": 10438,
     "uniqueEntryId": "DDnrdkrKS3gydwXFg",
-    "url": "=FORMULATEXT(B132)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10438,
@@ -5695,7 +5563,6 @@
     "filename": "PosterNpcNmlFlg18",
     "internalId": 10473,
     "uniqueEntryId": "DFaoZCfhCAoDfJeL3",
-    "url": "=FORMULATEXT(B133)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10473,
@@ -5738,7 +5605,6 @@
     "filename": "PosterNpcNmlElp01",
     "internalId": 10532,
     "uniqueEntryId": "iS3siYo7R4GHfMueZ",
-    "url": "=FORMULATEXT(B134)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10532,
@@ -5781,7 +5647,6 @@
     "filename": "PosterNpcNmlWol04",
     "internalId": 10647,
     "uniqueEntryId": "sFtyFkaMTWLEK8pBe",
-    "url": "=FORMULATEXT(B136)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10647,
@@ -5824,7 +5689,6 @@
     "filename": "PosterNpcNmlRbt10",
     "internalId": 10576,
     "uniqueEntryId": "urZhQYJooL9z5brAp",
-    "url": "=FORMULATEXT(B137)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10576,
@@ -5867,7 +5731,6 @@
     "filename": "PosterNpcNmlShp15",
     "internalId": 10864,
     "uniqueEntryId": "hyZvWM6kXL5S7qcbN",
-    "url": "=FORMULATEXT(B138)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10864,
@@ -5910,7 +5773,6 @@
     "filename": "PosterNpcSpMob",
     "internalId": 10342,
     "uniqueEntryId": "Zmv4J7T7MzrA3BiiL",
-    "url": "=FORMULATEXT(B139)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10342,
@@ -5953,7 +5815,6 @@
     "filename": "PosterNpcNmlMus00",
     "internalId": 10495,
     "uniqueEntryId": "dQNwh3KfyjgWh7zcX",
-    "url": "=FORMULATEXT(B140)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10495,
@@ -5996,7 +5857,6 @@
     "filename": "PosterNpcNmlRbt01",
     "internalId": 10541,
     "uniqueEntryId": "ZE7NejHgbNbWwKet3",
-    "url": "=FORMULATEXT(B141)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10541,
@@ -6039,7 +5899,6 @@
     "filename": "PosterNpcNmlCrd08",
     "internalId": 10462,
     "uniqueEntryId": "PMHRAgvrXSzeCTxAG",
-    "url": "=FORMULATEXT(B142)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10462,
@@ -6082,7 +5941,6 @@
     "filename": "PosterNpcNmlDuk09",
     "internalId": 10410,
     "uniqueEntryId": "b8KDfw2FJSSKW9RZ2",
-    "url": "=FORMULATEXT(B143)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10410,
@@ -6125,7 +5983,6 @@
     "filename": "PosterNpcNmlFlg04",
     "internalId": 10417,
     "uniqueEntryId": "njaJzwtZqaysdEp27",
-    "url": "=FORMULATEXT(B144)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10417,
@@ -6168,7 +6025,6 @@
     "filename": "PosterNpcNmlHrs06",
     "internalId": 10392,
     "uniqueEntryId": "eWCrXdE8WLNmzCpt5",
-    "url": "=FORMULATEXT(B145)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10392,
@@ -6211,7 +6067,6 @@
     "filename": "PosterNpcNmlChn02",
     "internalId": 10366,
     "uniqueEntryId": "fAjaNGHS6ifysow2A",
-    "url": "=FORMULATEXT(B146)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10366,
@@ -6254,7 +6109,6 @@
     "filename": "PosterNpcNmlMnk05",
     "internalId": 10558,
     "uniqueEntryId": "psyxsd4TSQqTpqCF3",
-    "url": "=FORMULATEXT(B147)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10558,
@@ -6297,7 +6151,6 @@
     "filename": "PosterNpcNmlElp07",
     "internalId": 10633,
     "uniqueEntryId": "ikYj9syTrveaneTpH",
-    "url": "=FORMULATEXT(B148)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10633,
@@ -6340,7 +6193,6 @@
     "filename": "PosterNpcNmlHrs03",
     "internalId": 10555,
     "uniqueEntryId": "C9q7EjfE7yngzLfDZ",
-    "url": "=FORMULATEXT(B149)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10555,
@@ -6383,7 +6235,6 @@
     "filename": "PosterNpcNmlElp03",
     "internalId": 10464,
     "uniqueEntryId": "qkGmSWAZucgyicJX4",
-    "url": "=FORMULATEXT(B150)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10464,
@@ -6426,7 +6277,6 @@
     "filename": "PosterNpcNmlLon01",
     "internalId": 10450,
     "uniqueEntryId": "zSZ2PjrMqbi92ouyo",
-    "url": "=FORMULATEXT(B151)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10450,
@@ -6469,7 +6319,6 @@
     "filename": "PosterNpcNmlDer09",
     "internalId": 10540,
     "uniqueEntryId": "SZQ5fL8at72ix4sFe",
-    "url": "=FORMULATEXT(B152)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10540,
@@ -6512,7 +6361,6 @@
     "filename": "PosterNpcNmlKal10",
     "internalId": 10692,
     "uniqueEntryId": "wirdymvTF7KDZstQc",
-    "url": "=FORMULATEXT(B154)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10692,
@@ -6555,7 +6403,6 @@
     "filename": "PosterNpcNmlShp02",
     "internalId": 10693,
     "uniqueEntryId": "p8r2YdqbnvwNeQG22",
-    "url": "=FORMULATEXT(B155)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10693,
@@ -6598,7 +6445,6 @@
     "filename": "PosterNpcNmlKal07",
     "internalId": 13042,
     "uniqueEntryId": "pX84E7MR5uHSDn9gZ",
-    "url": "=FORMULATEXT(B156)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13042,
@@ -6641,7 +6487,6 @@
     "filename": "PosterNpcNmlWol06",
     "internalId": 10544,
     "uniqueEntryId": "PBezp9kgWwgQGrYfk",
-    "url": "=FORMULATEXT(B157)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10544,
@@ -6684,7 +6529,6 @@
     "filename": "PosterNpcNmlDer00",
     "internalId": 10530,
     "uniqueEntryId": "fKGHGAmtfWncvkHgo",
-    "url": "=FORMULATEXT(B158)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10530,
@@ -6727,7 +6571,6 @@
     "filename": "PosterNpcNmlCat17",
     "internalId": 10348,
     "uniqueEntryId": "bXCSRi4tYQ3BLSvTg",
-    "url": "=FORMULATEXT(B159)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10348,
@@ -6770,7 +6613,6 @@
     "filename": "PosterNpcNmlSqu02",
     "internalId": 10394,
     "uniqueEntryId": "384yubdrdXXGpPsXg",
-    "url": "=FORMULATEXT(B160)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10394,
@@ -6813,7 +6655,6 @@
     "filename": "PosterNpcSpChy",
     "internalId": 14865,
     "uniqueEntryId": "MFPgMABSxAzJE7GkD",
-    "url": "=FORMULATEXT(B161)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 14865,
@@ -6856,7 +6697,6 @@
     "filename": "PosterNpcNmlMnk06",
     "internalId": 10406,
     "uniqueEntryId": "4FoyuaAPfghooYopD",
-    "url": "=FORMULATEXT(B162)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10406,
@@ -6899,7 +6739,6 @@
     "filename": "PosterNpcNmlPgn13",
     "internalId": 10685,
     "uniqueEntryId": "JTHTByp4hhTaNnkE6",
-    "url": "=FORMULATEXT(B163)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10685,
@@ -6942,7 +6781,6 @@
     "filename": "PosterNpcNmlOst09",
     "internalId": 10490,
     "uniqueEntryId": "AowHdppMsbs5tSftb",
-    "url": "=FORMULATEXT(B164)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10490,
@@ -6985,7 +6823,6 @@
     "filename": "PosterNpcNmlHam06",
     "internalId": 10679,
     "uniqueEntryId": "CKMDibMPGaRz57jtP",
-    "url": "=FORMULATEXT(B165)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10679,
@@ -7028,7 +6865,6 @@
     "filename": "PosterNpcNmlRbt12",
     "internalId": 10514,
     "uniqueEntryId": "HnqwJ8ky62DNrPd3K",
-    "url": "=FORMULATEXT(B166)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10514,
@@ -7071,7 +6907,6 @@
     "filename": "PosterNpcNmlPbr06",
     "internalId": 10500,
     "uniqueEntryId": "oxZPqqFSJ92BLhCSE",
-    "url": "=FORMULATEXT(B167)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10500,
@@ -7114,7 +6949,6 @@
     "filename": "PosterNpcSpTuk",
     "internalId": 10781,
     "uniqueEntryId": "K8zKZgXpTJcmS2iGf",
-    "url": "=FORMULATEXT(B168)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10781,
@@ -7157,7 +6991,6 @@
     "filename": "PosterNpcNmlDuk07",
     "internalId": 10455,
     "uniqueEntryId": "dNbWn5557KTKt6a6x",
-    "url": "=FORMULATEXT(B169)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10455,
@@ -7200,7 +7033,6 @@
     "filename": "PosterNpcNmlDog11",
     "internalId": 13045,
     "uniqueEntryId": "zReP6n5EQgkvzh6za",
-    "url": "=FORMULATEXT(B170)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13045,
@@ -7243,7 +7075,6 @@
     "filename": "PosterNpcNmlWol05",
     "internalId": 10424,
     "uniqueEntryId": "3r5iQhh4MzddN57i3",
-    "url": "=FORMULATEXT(B171)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10424,
@@ -7286,7 +7117,6 @@
     "filename": "PosterNpcNmlPgn04",
     "internalId": 10457,
     "uniqueEntryId": "S67mk3TaAorCcg2B6",
-    "url": "=FORMULATEXT(B172)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10457,
@@ -7329,7 +7159,6 @@
     "filename": "PosterNpcNmlShp11",
     "internalId": 10545,
     "uniqueEntryId": "ZgbE94Tvoiyw4S6r6",
-    "url": "=FORMULATEXT(B173)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10545,
@@ -7372,7 +7201,6 @@
     "filename": "PosterNpcNmlFlg02",
     "internalId": 10598,
     "uniqueEntryId": "3YkQ5ondJhSiryAG3",
-    "url": "=FORMULATEXT(B174)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10598,
@@ -7415,7 +7243,6 @@
     "filename": "PosterNpcNmlDer06",
     "internalId": 10352,
     "uniqueEntryId": "snoGJLXmKAWAi95kK",
-    "url": "=FORMULATEXT(B175)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10352,
@@ -7458,7 +7285,6 @@
     "filename": "PosterNpcNmlRbt05",
     "internalId": 10386,
     "uniqueEntryId": "YWu8D8TPSnTPkxErM",
-    "url": "=FORMULATEXT(B176)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10386,
@@ -7501,7 +7327,6 @@
     "filename": "PosterNpcNmlPig13",
     "internalId": 10482,
     "uniqueEntryId": "rYCrunBXnTNteRv5N",
-    "url": "=FORMULATEXT(B177)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10482,
@@ -7544,7 +7369,6 @@
     "filename": "PosterNpcNmlRbt04",
     "internalId": 10479,
     "uniqueEntryId": "Nqq3fo795gkfaZvZr",
-    "url": "=FORMULATEXT(B178)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10479,
@@ -7587,7 +7411,6 @@
     "filename": "PosterNpcNmlCrd07",
     "internalId": 10596,
     "uniqueEntryId": "ahyNZuX8jmHBwcH52",
-    "url": "=FORMULATEXT(B179)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10596,
@@ -7630,7 +7453,6 @@
     "filename": "PosterNpcNmlRbt08",
     "internalId": 10469,
     "uniqueEntryId": "fMsQxgbfPwD43s8j6",
-    "url": "=FORMULATEXT(B180)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10469,
@@ -7673,7 +7495,6 @@
     "filename": "PosterNpcNmlFlg16",
     "internalId": 10657,
     "uniqueEntryId": "z6HWKytucT8RBny2S",
-    "url": "=FORMULATEXT(B181)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10657,
@@ -7716,7 +7537,6 @@
     "filename": "PosterNpcNmlOst01",
     "internalId": 10422,
     "uniqueEntryId": "fZsAotKPAiq3s8CyY",
-    "url": "=FORMULATEXT(B182)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10422,
@@ -7759,7 +7579,6 @@
     "filename": "PosterNpcNmlDuk15",
     "internalId": 10586,
     "uniqueEntryId": "vABPw4w3gtosGofsb",
-    "url": "=FORMULATEXT(B183)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10586,
@@ -7802,7 +7621,6 @@
     "filename": "PosterNpcNmlDog00",
     "internalId": 10523,
     "uniqueEntryId": "6joFrAvxYe2TP6mMu",
-    "url": "=FORMULATEXT(B184)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10523,
@@ -7845,7 +7663,6 @@
     "filename": "PosterNpcNmlKal04",
     "internalId": 10643,
     "uniqueEntryId": "SnFZm46JXpmXvBLxB",
-    "url": "=FORMULATEXT(B185)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10643,
@@ -7888,7 +7705,6 @@
     "filename": "PosterNpcNmlChn00",
     "internalId": 10694,
     "uniqueEntryId": "fSckhCuP8uD8X2STZ",
-    "url": "=FORMULATEXT(B186)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10694,
@@ -7931,7 +7747,6 @@
     "filename": "PosterNpcSpGrf",
     "internalId": 10518,
     "uniqueEntryId": "t4J7Xm9f6hF3pTQqy",
-    "url": "=FORMULATEXT(B187)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10518,
@@ -7974,7 +7789,6 @@
     "filename": "PosterNpcNmlHam02",
     "internalId": 10529,
     "uniqueEntryId": "fREmTL9CRpggrRWj6",
-    "url": "=FORMULATEXT(B188)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10529,
@@ -8017,7 +7831,6 @@
     "filename": "PosterNpcSpKpg",
     "internalId": 10436,
     "uniqueEntryId": "aggbrSpzGBPoiLHmB",
-    "url": "=FORMULATEXT(B189)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10436,
@@ -8060,7 +7873,6 @@
     "filename": "PosterNpcNmlMus16",
     "internalId": 10470,
     "uniqueEntryId": "YANGzo2FSNuKcSQSR",
-    "url": "=FORMULATEXT(B190)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10470,
@@ -8103,7 +7915,6 @@
     "filename": "PosterNpcNmlBea09",
     "internalId": 10806,
     "uniqueEntryId": "DvhjJCJdQqyhfh5tp",
-    "url": "=FORMULATEXT(B191)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10806,
@@ -8146,7 +7957,6 @@
     "filename": "PosterNpcNmlBea06",
     "internalId": 10380,
     "uniqueEntryId": "dgztdN3egmnWSBLHZ",
-    "url": "=FORMULATEXT(B192)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10380,
@@ -8189,7 +7999,6 @@
     "filename": "PosterNpcNmlGoa04",
     "internalId": 10678,
     "uniqueEntryId": "qDhcumxg5aKZtJGYX",
-    "url": "=FORMULATEXT(B193)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10678,
@@ -8232,7 +8041,6 @@
     "filename": "PosterNpcSpGul",
     "internalId": 10521,
     "uniqueEntryId": "tK8BZwPuX6kK9ahM2",
-    "url": "=FORMULATEXT(B194)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10521,
@@ -8275,7 +8083,6 @@
     "filename": "PosterNpcNmlPgn05",
     "internalId": 10355,
     "uniqueEntryId": "vFkmrjEsPRLXSBhoB",
-    "url": "=FORMULATEXT(B195)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10355,
@@ -8318,7 +8125,6 @@
     "filename": "PosterNpcNmlHam00",
     "internalId": 10492,
     "uniqueEntryId": "PHQtpu28bZDRwBDem",
-    "url": "=FORMULATEXT(B196)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10492,
@@ -8361,7 +8167,6 @@
     "filename": "PosterNpcNmlHam07",
     "internalId": 10423,
     "uniqueEntryId": "PCqd56FbktaoxvdCg",
-    "url": "=FORMULATEXT(B197)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10423,
@@ -8404,7 +8209,6 @@
     "filename": "PosterNpcNmlGor10",
     "internalId": 10460,
     "uniqueEntryId": "To3etNrQ66SeLdGsh",
-    "url": "=FORMULATEXT(B198)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10460,
@@ -8447,7 +8251,6 @@
     "filename": "PosterNpcSpPoo",
     "internalId": 10787,
     "uniqueEntryId": "5rRqR67vrGQNbCB2Z",
-    "url": "=FORMULATEXT(B199)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10787,
@@ -8490,7 +8293,6 @@
     "filename": "PosterNpcNmlHip08",
     "internalId": 10353,
     "uniqueEntryId": "8xncZd9cASERiBkoQ",
-    "url": "=FORMULATEXT(B200)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10353,
@@ -8533,7 +8335,6 @@
     "filename": "PosterNpcSpSpn",
     "internalId": 14867,
     "uniqueEntryId": "k2iwQAMrx7GtpKYWT",
-    "url": "=FORMULATEXT(B201)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 14867,
@@ -8576,7 +8377,6 @@
     "filename": "PosterNpcNmlSqu18",
     "internalId": 10466,
     "uniqueEntryId": "GY2G9ZAupjDsGh9ny",
-    "url": "=FORMULATEXT(B202)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10466,
@@ -8619,7 +8419,6 @@
     "filename": "PosterNpcNmlGor11",
     "internalId": 11121,
     "uniqueEntryId": "JLBPLz28yBaZibFnP",
-    "url": "=FORMULATEXT(B203)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 11121,
@@ -8662,7 +8461,6 @@
     "filename": "PosterNpcNmlFlg19",
     "internalId": 10321,
     "uniqueEntryId": "PxJd3Np97eRxSi4cw",
-    "url": "=FORMULATEXT(B204)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10321,
@@ -8705,7 +8503,6 @@
     "filename": "PosterNpcNmlHip09",
     "internalId": 10588,
     "uniqueEntryId": "r8HHxXv35HYJZLgBX",
-    "url": "=FORMULATEXT(B205)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10588,
@@ -8748,7 +8545,6 @@
     "filename": "PosterNpcNmlRbt14",
     "internalId": 10604,
     "uniqueEntryId": "vwubp2G98EwG9wQn5",
-    "url": "=FORMULATEXT(B206)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10604,
@@ -8791,7 +8587,6 @@
     "filename": "PosterNpcNmlPgn03",
     "internalId": 10408,
     "uniqueEntryId": "Wr67dnC9ES4CBQWsg",
-    "url": "=FORMULATEXT(B207)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10408,
@@ -8834,7 +8629,6 @@
     "filename": "PosterNpcNmlRhn04",
     "internalId": 10608,
     "uniqueEntryId": "SotA8rs7xafgCN9GC",
-    "url": "=FORMULATEXT(B208)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10608,
@@ -8877,7 +8671,6 @@
     "filename": "PosterNpcNmlFlg11",
     "internalId": 10611,
     "uniqueEntryId": "WyWCjNW35s8sfGCmG",
-    "url": "=FORMULATEXT(B209)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10611,
@@ -8920,7 +8713,6 @@
     "filename": "PosterNpcNmlPig03",
     "internalId": 10407,
     "uniqueEntryId": "nBHB3KxJo2M7rvvpa",
-    "url": "=FORMULATEXT(B210)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10407,
@@ -8963,7 +8755,6 @@
     "filename": "PosterNpcNmlPgn11",
     "internalId": 10602,
     "uniqueEntryId": "jXmkSynB9wbbLAGeN",
-    "url": "=FORMULATEXT(B211)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10602,
@@ -9006,7 +8797,6 @@
     "filename": "PosterNpcNmlBea11",
     "internalId": 10650,
     "uniqueEntryId": "BvyHkZkFkZQBXo6hP",
-    "url": "=FORMULATEXT(B212)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10650,
@@ -9049,7 +8839,6 @@
     "filename": "PosterNpcNmlSqu21",
     "internalId": 13047,
     "uniqueEntryId": "h8eGQBBmqH5HcFovG",
-    "url": "=FORMULATEXT(B213)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13047,
@@ -9092,7 +8881,6 @@
     "filename": "PosterNpcSpSza",
     "internalId": 10312,
     "uniqueEntryId": "JZskBPpfNn2j8Y4ez",
-    "url": "=FORMULATEXT(B214)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10312,
@@ -9135,7 +8923,6 @@
     "filename": "PosterNpcSpPkn",
     "internalId": 10346,
     "uniqueEntryId": "eHe9eJNzzhnz8qM7E",
-    "url": "=FORMULATEXT(B215)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10346,
@@ -9178,7 +8965,6 @@
     "filename": "PosterNpcNmlBrd11",
     "internalId": 10813,
     "uniqueEntryId": "kLbJPxa42uuBeWkEh",
-    "url": "=FORMULATEXT(B216)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10813,
@@ -9221,7 +9007,6 @@
     "filename": "PosterNpcNmlBrd16",
     "internalId": 10804,
     "uniqueEntryId": "tLzEPfsxDk4GdPCXn",
-    "url": "=FORMULATEXT(B217)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10804,
@@ -9264,7 +9049,6 @@
     "filename": "PosterNpcNmlFlg13",
     "internalId": 10617,
     "uniqueEntryId": "C6J6e7YNdwnWm2xQD",
-    "url": "=FORMULATEXT(B218)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10617,
@@ -9307,7 +9091,6 @@
     "filename": "PosterNpcNmlBrd00",
     "internalId": 10404,
     "uniqueEntryId": "S5uNxrc9PWrQSGGM9",
-    "url": "=FORMULATEXT(B219)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10404,
@@ -9350,7 +9133,6 @@
     "filename": "PosterNpcNmlFlg07",
     "internalId": 10688,
     "uniqueEntryId": "492Z37sKbLhpW3E2Q",
-    "url": "=FORMULATEXT(B220)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10688,
@@ -9393,7 +9175,6 @@
     "filename": "PosterNpcSpRei",
     "internalId": 10439,
     "uniqueEntryId": "i82Sovcj8NNADYKFQ",
-    "url": "=FORMULATEXT(B221)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10439,
@@ -9436,7 +9217,6 @@
     "filename": "PosterNpcNmlBrd04",
     "internalId": 10818,
     "uniqueEntryId": "ntewDyTP3NHyPBpky",
-    "url": "=FORMULATEXT(B222)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10818,
@@ -9479,7 +9259,6 @@
     "filename": "PosterNpcSpBoa",
     "internalId": 10430,
     "uniqueEntryId": "STBLD9MdjEcDLEtQA",
-    "url": "=FORMULATEXT(B223)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10430,
@@ -9522,7 +9301,6 @@
     "filename": "PosterNpcNmlDuk01",
     "internalId": 10483,
     "uniqueEntryId": "9wGk3RWRqvbADAThJ",
-    "url": "=FORMULATEXT(B224)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10483,
@@ -9565,7 +9343,6 @@
     "filename": "PosterNpcNmlCbr19",
     "internalId": 10858,
     "uniqueEntryId": "BSZxPAtc9wijEHjY3",
-    "url": "=FORMULATEXT(B225)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10858,
@@ -9608,7 +9385,6 @@
     "filename": "PosterNpcNmlOst05",
     "internalId": 10630,
     "uniqueEntryId": "xTdmhyg8DfCRFE3Gt",
-    "url": "=FORMULATEXT(B226)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10630,
@@ -9651,7 +9427,6 @@
     "filename": "PosterNpcNmlHrs13",
     "internalId": 10402,
     "uniqueEntryId": "H67skvQkXRDP6ysBQ",
-    "url": "=FORMULATEXT(B227)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10402,
@@ -9694,7 +9469,6 @@
     "filename": "PosterNpcNmlCbr13",
     "internalId": 10605,
     "uniqueEntryId": "8PepBgrbB9RE592ey",
-    "url": "=FORMULATEXT(B228)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10605,
@@ -9737,7 +9511,6 @@
     "filename": "PosterNpcSpTkkA",
     "internalId": 10331,
     "uniqueEntryId": "2uh73fgYt64x8qHcf",
-    "url": "=FORMULATEXT(B229)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10331,
@@ -9780,7 +9553,6 @@
     "filename": "PosterNpcNmlCat09",
     "internalId": 10817,
     "uniqueEntryId": "ka78h2ybyfwgzorrY",
-    "url": "=FORMULATEXT(B230)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10817,
@@ -9823,7 +9595,6 @@
     "filename": "PosterNpcSpKpp",
     "internalId": 10354,
     "uniqueEntryId": "jsRtBGxBgxxkZgfS6",
-    "url": "=FORMULATEXT(B231)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10354,
@@ -9866,7 +9637,6 @@
     "filename": "PosterNpcSpLom",
     "internalId": 10337,
     "uniqueEntryId": "PjrtRLSi74NhGXivc",
-    "url": "=FORMULATEXT(B232)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10337,
@@ -9909,7 +9679,6 @@
     "filename": "PosterNpcSpBpt",
     "internalId": 10517,
     "uniqueEntryId": "oYNatxRpaQL2NcDZJ",
-    "url": "=FORMULATEXT(B233)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10517,
@@ -9952,7 +9721,6 @@
     "filename": "PosterNpcNmlCat21",
     "internalId": 10528,
     "uniqueEntryId": "XwMjDn6KyDjrLwk2b",
-    "url": "=FORMULATEXT(B234)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10528,
@@ -9995,7 +9763,6 @@
     "filename": "PosterNpcNmlPbr08",
     "internalId": 10421,
     "uniqueEntryId": "TWDjx79bak89KucSR",
-    "url": "=FORMULATEXT(B235)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10421,
@@ -10038,7 +9805,6 @@
     "filename": "PosterNpcNmlChn13",
     "internalId": 10445,
     "uniqueEntryId": "5mPnzbgfKfeC8aWbN",
-    "url": "=FORMULATEXT(B236)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10445,
@@ -10081,7 +9847,6 @@
     "filename": "PosterNpcNmlRbt20",
     "internalId": 11126,
     "uniqueEntryId": "nDtn6gnAxCiP8eLC8",
-    "url": "=FORMULATEXT(B237)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 11126,
@@ -10124,7 +9889,6 @@
     "filename": "PosterNpcNmlDuk13",
     "internalId": 10616,
     "uniqueEntryId": "uEKpxhL4J8JTxxvZo",
-    "url": "=FORMULATEXT(B238)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10616,
@@ -10167,7 +9931,6 @@
     "filename": "PosterNpcNmlPig15",
     "internalId": 10585,
     "uniqueEntryId": "zpvLH5kgqZHDF8rP4",
-    "url": "=FORMULATEXT(B239)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10585,
@@ -10210,7 +9973,6 @@
     "filename": "PosterNpcSpSkk",
     "internalId": 10332,
     "uniqueEntryId": "L7pqyXuw7FQJqKE6B",
-    "url": "=FORMULATEXT(B240)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10332,
@@ -10253,7 +10015,6 @@
     "filename": "PosterNpcNmlCat10",
     "internalId": 10779,
     "uniqueEntryId": "uRRKypDsFvkrGterg",
-    "url": "=FORMULATEXT(B241)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10779,
@@ -10296,7 +10057,6 @@
     "filename": "PosterNpcNmlGoa07",
     "internalId": 10364,
     "uniqueEntryId": "sYX45oaDEBt2sPDgQ",
-    "url": "=FORMULATEXT(B242)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10364,
@@ -10339,7 +10099,6 @@
     "filename": "PosterNpcNmlShp14",
     "internalId": 11123,
     "uniqueEntryId": "wCjEFxMEQM2zNicuu",
-    "url": "=FORMULATEXT(B243)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 11123,
@@ -10382,7 +10141,6 @@
     "filename": "PosterNpcNmlCat04",
     "internalId": 10816,
     "uniqueEntryId": "Dk5BzAKu8N9LQnYkZ",
-    "url": "=FORMULATEXT(B244)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10816,
@@ -10425,7 +10183,6 @@
     "filename": "PosterNpcNmlKgr00",
     "internalId": 10357,
     "uniqueEntryId": "NovHZTsrhXq6MKxZP",
-    "url": "=FORMULATEXT(B245)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10357,
@@ -10468,7 +10225,6 @@
     "filename": "PosterNpcNmlCat14",
     "internalId": 10395,
     "uniqueEntryId": "2ghKna6PJ3mLc5G6J",
-    "url": "=FORMULATEXT(B246)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10395,
@@ -10511,7 +10267,6 @@
     "filename": "PosterNpcNmlBea14",
     "internalId": 10790,
     "uniqueEntryId": "wgdvS7m85WBiRGYxC",
-    "url": "=FORMULATEXT(B247)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10790,
@@ -10554,7 +10309,6 @@
     "filename": "PosterNpcNmlChn11",
     "internalId": 10664,
     "uniqueEntryId": "iqCi67XSDF7jsbh9n",
-    "url": "=FORMULATEXT(B248)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10664,
@@ -10597,7 +10351,6 @@
     "filename": "PosterNpcNmlCbr04",
     "internalId": 10442,
     "uniqueEntryId": "M8dvRxXvbF4pwG6K5",
-    "url": "=FORMULATEXT(B249)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10442,
@@ -10640,7 +10393,6 @@
     "filename": "PosterNpcNmlWol10",
     "internalId": 10579,
     "uniqueEntryId": "7tsLLFWjXFSEiZKNj",
-    "url": "=FORMULATEXT(B250)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10579,
@@ -10683,7 +10435,6 @@
     "filename": "PosterNpcSpHgc",
     "internalId": 10333,
     "uniqueEntryId": "bouR8wqhxWdWxcozP",
-    "url": "=FORMULATEXT(B251)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10333,
@@ -10726,7 +10477,6 @@
     "filename": "PosterNpcSpSlo",
     "internalId": 10433,
     "uniqueEntryId": "479Jpj2rKt3krSWKr",
-    "url": "=FORMULATEXT(B252)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10433,
@@ -10769,7 +10519,6 @@
     "filename": "PosterNpcSpKps",
     "internalId": 10340,
     "uniqueEntryId": "T8K5ssfqGcMFeK4jD",
-    "url": "=FORMULATEXT(B253)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10340,
@@ -10812,7 +10561,6 @@
     "filename": "PosterNpcSpKpm",
     "internalId": 10519,
     "uniqueEntryId": "mD9exPhssPLzi9LMy",
-    "url": "=FORMULATEXT(B254)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10519,
@@ -10855,7 +10603,6 @@
     "filename": "PosterNpcNmlTig04",
     "internalId": 10560,
     "uniqueEntryId": "W8XgJpunYdkimw3iY",
-    "url": "=FORMULATEXT(B255)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10560,
@@ -10898,7 +10645,6 @@
     "filename": "PosterNpcNmlLon04",
     "internalId": 10638,
     "uniqueEntryId": "T6mqtmyyx8dfkaEPi",
-    "url": "=FORMULATEXT(B256)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10638,
@@ -10941,7 +10687,6 @@
     "filename": "PosterNpcNmlFlg00",
     "internalId": 10440,
     "uniqueEntryId": "qNPEPEhfRWjR9JGaH",
-    "url": "=FORMULATEXT(B257)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10440,
@@ -10984,7 +10729,6 @@
     "filename": "PosterNpcNmlMus01",
     "internalId": 10669,
     "uniqueEntryId": "aTKk5z6FNKmKcteHm",
-    "url": "=FORMULATEXT(B258)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10669,
@@ -11027,7 +10771,6 @@
     "filename": "PosterNpcNmlLon08",
     "internalId": 10684,
     "uniqueEntryId": "h2eipZxGcXQMGcute",
-    "url": "=FORMULATEXT(B259)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10684,
@@ -11070,7 +10813,6 @@
     "filename": "PosterNpcNmlWol01",
     "internalId": 10587,
     "uniqueEntryId": "JsHp9N7tK7EYew9cY",
-    "url": "=FORMULATEXT(B260)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10587,
@@ -11113,7 +10855,6 @@
     "filename": "PosterNpcNmlCat18",
     "internalId": 10539,
     "uniqueEntryId": "DCjmNrKoSdezosC7L",
-    "url": "=FORMULATEXT(B261)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10539,
@@ -11156,7 +10897,6 @@
     "filename": "PosterNpcNmlDer05",
     "internalId": 10606,
     "uniqueEntryId": "c2T2ffzJiDzkDDgkX",
-    "url": "=FORMULATEXT(B262)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10606,
@@ -11199,7 +10939,6 @@
     "filename": "PosterNpcSpOtg",
     "internalId": 10773,
     "uniqueEntryId": "NeBr9m39gZWTE67ip",
-    "url": "=FORMULATEXT(B263)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10773,
@@ -11242,7 +10981,6 @@
     "filename": "PosterNpcNmlGor04",
     "internalId": 10631,
     "uniqueEntryId": "YGocvEr5xSrwEyyBr",
-    "url": "=FORMULATEXT(B264)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10631,
@@ -11285,7 +11023,6 @@
     "filename": "PosterNpcNmlBrd15",
     "internalId": 10351,
     "uniqueEntryId": "FuMAySGGdRpceCHmF",
-    "url": "=FORMULATEXT(B265)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10351,
@@ -11328,7 +11065,6 @@
     "filename": "PosterNpcNmlDog02",
     "internalId": 10591,
     "uniqueEntryId": "NBwMT64cTiBGWfHzi",
-    "url": "=FORMULATEXT(B266)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10591,
@@ -11371,7 +11107,6 @@
     "filename": "PosterNpcNmlPig04",
     "internalId": 10554,
     "uniqueEntryId": "gQCvrkNodW2dadvxS",
-    "url": "=FORMULATEXT(B267)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10554,
@@ -11414,7 +11149,6 @@
     "filename": "PosterNpcSpTap",
     "internalId": 10491,
     "uniqueEntryId": "QNtzysxx2y7vh9i5z",
-    "url": "=FORMULATEXT(B268)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10491,
@@ -11457,7 +11191,6 @@
     "filename": "PosterNpcSpOtt",
     "internalId": 10794,
     "uniqueEntryId": "mF38B4FfLioAGckf3",
-    "url": "=FORMULATEXT(B269)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10794,
@@ -11500,7 +11233,6 @@
     "filename": "PosterNpcNmlKal09",
     "internalId": 10498,
     "uniqueEntryId": "ym9m653hvKttEvzbz",
-    "url": "=FORMULATEXT(B270)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10498,
@@ -11543,7 +11275,6 @@
     "filename": "PosterNpcSpHgh",
     "internalId": 10432,
     "uniqueEntryId": "jDspKzfjL4ifqKKGN",
-    "url": "=FORMULATEXT(B271)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10432,
@@ -11586,7 +11317,6 @@
     "filename": "PosterNpcNmlDog14",
     "internalId": 10463,
     "uniqueEntryId": "BGAMF9xCCvvNSNoL3",
-    "url": "=FORMULATEXT(B272)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10463,
@@ -11629,7 +11359,6 @@
     "filename": "PosterNpcNmlDog09",
     "internalId": 10619,
     "uniqueEntryId": "qx2FcWFxYukgoijJC",
-    "url": "=FORMULATEXT(B273)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10619,
@@ -11672,7 +11401,6 @@
     "filename": "PosterNpcNmlDuk03",
     "internalId": 10593,
     "uniqueEntryId": "cCbb4GL6gwDwxDfns",
-    "url": "=FORMULATEXT(B274)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10593,
@@ -11715,7 +11443,6 @@
     "filename": "PosterNpcNmlPig10",
     "internalId": 10623,
     "uniqueEntryId": "TyJ2wNNQEJCT8HjBf",
-    "url": "=FORMULATEXT(B275)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10623,
@@ -11758,7 +11485,6 @@
     "filename": "PosterNpcNmlDuk06",
     "internalId": 10526,
     "uniqueEntryId": "S9s8sRyu3gj2vbETW",
-    "url": "=FORMULATEXT(B276)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10526,
@@ -11801,7 +11527,6 @@
     "filename": "PosterNpcNmlCbr01",
     "internalId": 10510,
     "uniqueEntryId": "2yp9tMysLezkZCqYX",
-    "url": "=FORMULATEXT(B277)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10510,
@@ -11844,7 +11569,6 @@
     "filename": "PosterNpcNmlDog15",
     "internalId": 10419,
     "uniqueEntryId": "mndThbsdHgzuK5TQA",
-    "url": "=FORMULATEXT(B278)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10419,
@@ -11887,7 +11611,6 @@
     "filename": "PosterNpcNmlKgr10",
     "internalId": 10659,
     "uniqueEntryId": "YnNMaDEdXcjPf4kXE",
-    "url": "=FORMULATEXT(B279)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10659,
@@ -11930,7 +11653,6 @@
     "filename": "PosterNpcNmlElp04",
     "internalId": 10589,
     "uniqueEntryId": "PJALmLKxsy2CSaJqk",
-    "url": "=FORMULATEXT(B280)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10589,
@@ -11973,7 +11695,6 @@
     "filename": "PosterNpcNmlOcp01",
     "internalId": 10453,
     "uniqueEntryId": "abCC5BwJ3zZwHotvW",
-    "url": "=FORMULATEXT(B281)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10453,
@@ -12016,7 +11737,6 @@
     "filename": "PosterNpcNmlHam09",
     "internalId": 13053,
     "uniqueEntryId": "4L4YgCzpcrr5NK9PR",
-    "url": "=FORMULATEXT(B282)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13053,
@@ -12059,7 +11779,6 @@
     "filename": "PosterNpcNmlSqu17",
     "internalId": 10480,
     "uniqueEntryId": "yjbhaKJkeukwqBwb5",
-    "url": "=FORMULATEXT(B283)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10480,
@@ -12102,7 +11821,6 @@
     "filename": "PosterNpcNmlCbr18_2",
     "internalId": 13034,
     "uniqueEntryId": "cizPSD2SBPq2Wi3qz",
-    "url": "=FORMULATEXT(B284)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13034,
@@ -12145,7 +11863,6 @@
     "filename": "PosterNpcNmlKgr01",
     "internalId": 10391,
     "uniqueEntryId": "ARneKZJqgYgpuWBrd",
-    "url": "=FORMULATEXT(B285)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10391,
@@ -12188,7 +11905,6 @@
     "filename": "PosterNpcNmlBea15",
     "internalId": 10860,
     "uniqueEntryId": "JqFWTY4AQnzyw7SSG",
-    "url": "=FORMULATEXT(B286)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10860,
@@ -12231,7 +11947,6 @@
     "filename": "PosterNpcNmlKal02",
     "internalId": 10547,
     "uniqueEntryId": "mCdW2huGBG2GQah4s",
-    "url": "=FORMULATEXT(B287)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10547,
@@ -12274,7 +11989,6 @@
     "filename": "PosterNpcNmlRhn07",
     "internalId": 10502,
     "uniqueEntryId": "sjAtXqX3cdmfH7LR2",
-    "url": "=FORMULATEXT(B288)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10502,
@@ -12317,7 +12031,6 @@
     "filename": "PosterNpcNmlCat16",
     "internalId": 10789,
     "uniqueEntryId": "SmQM4CpTYTjgA2QPA",
-    "url": "=FORMULATEXT(B289)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10789,
@@ -12360,7 +12073,6 @@
     "filename": "PosterNpcNmlBrd08",
     "internalId": 10677,
     "uniqueEntryId": "AkRpzPF7F2EjAbhKp",
-    "url": "=FORMULATEXT(B290)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10677,
@@ -12403,7 +12115,6 @@
     "filename": "PosterNpcNmlDer12",
     "internalId": 1267,
     "uniqueEntryId": "WZGQLkNSrGrzCk3Qi",
-    "url": "=FORMULATEXT(B291)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 1267,
@@ -12446,7 +12157,6 @@
     "filename": "PosterNpcNmlSqu09",
     "internalId": 10675,
     "uniqueEntryId": "3Qs2gxtaysBLdZhj3",
-    "url": "=FORMULATEXT(B292)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10675,
@@ -12489,7 +12199,6 @@
     "filename": "PosterNpcNmlRbt19",
     "internalId": 10561,
     "uniqueEntryId": "5wZA5i2WExoGgEDMT",
-    "url": "=FORMULATEXT(B293)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10561,
@@ -12532,7 +12241,6 @@
     "filename": "PosterNpcNmlDuk12",
     "internalId": 10443,
     "uniqueEntryId": "3jAJ84iWwQgDZuowy",
-    "url": "=FORMULATEXT(B294)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10443,
@@ -12575,7 +12283,6 @@
     "filename": "PosterNpcNmlCat01",
     "internalId": 10784,
     "uniqueEntryId": "Gzbym5uhofgDe5vcb",
-    "url": "=FORMULATEXT(B295)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10784,
@@ -12618,7 +12325,6 @@
     "filename": "PosterNpcNmlCat08",
     "internalId": 10791,
     "uniqueEntryId": "NJimB4NJGeZvqduBS",
-    "url": "=FORMULATEXT(B296)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10791,
@@ -12661,7 +12367,6 @@
     "filename": "PosterNpcNmlDuk16",
     "internalId": 10329,
     "uniqueEntryId": "insQsxRd2CxfM4Bwn",
-    "url": "=FORMULATEXT(B297)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10329,
@@ -12704,7 +12409,6 @@
     "filename": "PosterNpcNmlCat11",
     "internalId": 10820,
     "uniqueEntryId": "fk94HYBhoFD43dyg6",
-    "url": "=FORMULATEXT(B298)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10820,
@@ -12747,7 +12451,6 @@
     "filename": "PosterNpcNmlMnk04",
     "internalId": 10494,
     "uniqueEntryId": "oB66Qn8dJXynGwSq2",
-    "url": "=FORMULATEXT(B299)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10494,
@@ -12790,7 +12493,6 @@
     "filename": "PosterNpcNmlMus14",
     "internalId": 10387,
     "uniqueEntryId": "NffRTDwwk9ZgHxPfr",
-    "url": "=FORMULATEXT(B300)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10387,
@@ -12833,7 +12535,6 @@
     "filename": "PosterNpcNmlLon06",
     "internalId": 10525,
     "uniqueEntryId": "8D7rDprK2wPhDrqXX",
-    "url": "=FORMULATEXT(B301)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10525,
@@ -12876,7 +12577,6 @@
     "filename": "PosterNpcNmlShp12",
     "internalId": 10320,
     "uniqueEntryId": "nSY846smvcW8njJWb",
-    "url": "=FORMULATEXT(B302)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10320,
@@ -12919,7 +12619,6 @@
     "filename": "PosterNpcNmlCbr07",
     "internalId": 10624,
     "uniqueEntryId": "sAN9iY3CkvTgBZNSf",
-    "url": "=FORMULATEXT(B303)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10624,
@@ -12962,7 +12661,6 @@
     "filename": "PosterNpcNmlDer10",
     "internalId": 11125,
     "uniqueEntryId": "NkGhj9wEKEz9WDn4r",
-    "url": "=FORMULATEXT(B304)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 11125,
@@ -13005,7 +12703,6 @@
     "filename": "PosterNpcNmlGoa01",
     "internalId": 10397,
     "uniqueEntryId": "kDef5hy9Jwpp78TwA",
-    "url": "=FORMULATEXT(B305)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10397,
@@ -13048,7 +12745,6 @@
     "filename": "PosterNpcNmlMnk01",
     "internalId": 10371,
     "uniqueEntryId": "wXtLJdh96jjfk3qAr",
-    "url": "=FORMULATEXT(B306)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10371,
@@ -13091,7 +12787,6 @@
     "filename": "PosterNpcNmlCow07",
     "internalId": 10551,
     "uniqueEntryId": "CYQTwqw2jD7m4hqDo",
-    "url": "=FORMULATEXT(B307)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10551,
@@ -13134,7 +12829,6 @@
     "filename": "PosterNpcSpChm",
     "internalId": 10344,
     "uniqueEntryId": "GatATgRPew2fbhLqZ",
-    "url": "=FORMULATEXT(B308)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10344,
@@ -13177,7 +12871,6 @@
     "filename": "PosterNpcNmlBea05",
     "internalId": 10821,
     "uniqueEntryId": "3ba3633qemEjrp6Gr",
-    "url": "=FORMULATEXT(B309)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10821,
@@ -13220,7 +12913,6 @@
     "filename": "PosterNpcNmlSqu04",
     "internalId": 10584,
     "uniqueEntryId": "dh87Y3CghjDFEyC5g",
-    "url": "=FORMULATEXT(B310)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10584,
@@ -13263,7 +12955,6 @@
     "filename": "PosterNpcSpMnc",
     "internalId": 13055,
     "uniqueEntryId": "4W3hte2gmN5g2Bge5",
-    "url": "=FORMULATEXT(B311)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13055,
@@ -13306,7 +12997,6 @@
     "filename": "PosterNpcNmlCow06",
     "internalId": 10642,
     "uniqueEntryId": "TnzkjhqiNBJNt52fB",
-    "url": "=FORMULATEXT(B312)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10642,
@@ -13349,7 +13039,6 @@
     "filename": "PosterNpcNmlRbt15",
     "internalId": 10595,
     "uniqueEntryId": "69E4TGxBfYuFSZ3HW",
-    "url": "=FORMULATEXT(B313)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10595,
@@ -13392,7 +13081,6 @@
     "filename": "PosterNpcNmlOcp00",
     "internalId": 10662,
     "uniqueEntryId": "xt366zvNGkh9k8RRq",
-    "url": "=FORMULATEXT(B314)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10662,
@@ -13435,7 +13123,6 @@
     "filename": "PosterNpcNmlAnt09",
     "internalId": 10801,
     "uniqueEntryId": "rQRn8zwk8TYt74wEj",
-    "url": "=FORMULATEXT(B315)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10801,
@@ -13478,7 +13165,6 @@
     "filename": "PosterNpcNmlCbr09",
     "internalId": 10646,
     "uniqueEntryId": "QbAbpgX27ZiwGpHfg",
-    "url": "=FORMULATEXT(B316)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10646,
@@ -13521,7 +13207,6 @@
     "filename": "PosterNpcNmlCat03",
     "internalId": 10774,
     "uniqueEntryId": "BJ36te5Fi3TLg7up8",
-    "url": "=FORMULATEXT(B317)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10774,
@@ -13564,7 +13249,6 @@
     "filename": "PosterNpcNmlElp00",
     "internalId": 10667,
     "uniqueEntryId": "pfSG4h38oqXXjX75y",
-    "url": "=FORMULATEXT(B318)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10667,
@@ -13607,7 +13291,6 @@
     "filename": "PosterNpcSpDod",
     "internalId": 14862,
     "uniqueEntryId": "gvNPqaL3YSDavp38Z",
-    "url": "=FORMULATEXT(B319)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 14862,
@@ -13650,7 +13333,6 @@
     "filename": "PosterNpcNmlKal05",
     "internalId": 10349,
     "uniqueEntryId": "Bxtk7wH46nTdfoDm2",
-    "url": "=FORMULATEXT(B320)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10349,
@@ -13693,7 +13375,6 @@
     "filename": "PosterNpcNmlPig16",
     "internalId": 10314,
     "uniqueEntryId": "cqmJyPDrG3zphjDmw",
-    "url": "=FORMULATEXT(B321)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10314,
@@ -13736,7 +13417,6 @@
     "filename": "PosterNpcNmlAnt02",
     "internalId": 10420,
     "uniqueEntryId": "T74Khp6MHyMZz7wQR",
-    "url": "=FORMULATEXT(B322)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10420,
@@ -13779,7 +13459,6 @@
     "filename": "PosterNpcNmlElp05",
     "internalId": 10607,
     "uniqueEntryId": "9RXWnBpXqP69P29Am",
-    "url": "=FORMULATEXT(B323)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10607,
@@ -13822,7 +13501,6 @@
     "filename": "PosterNpcNmlHrs12",
     "internalId": 10564,
     "uniqueEntryId": "gFuSpPgzK3qhRxpMd",
-    "url": "=FORMULATEXT(B324)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10564,
@@ -13865,7 +13543,6 @@
     "filename": "PosterNpcSpSeo",
     "internalId": 10785,
     "uniqueEntryId": "s9gsDeXpBZko5dC7N",
-    "url": "=FORMULATEXT(B325)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10785,
@@ -13908,7 +13585,6 @@
     "filename": "PosterNpcNmlGoa08",
     "internalId": 10537,
     "uniqueEntryId": "EoFDGNWh6MQ3fQk8x",
-    "url": "=FORMULATEXT(B326)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10537,
@@ -13951,7 +13627,6 @@
     "filename": "PosterNpcNmlDuk02",
     "internalId": 10361,
     "uniqueEntryId": "BCSDAP6Thy2j27rWW",
-    "url": "=FORMULATEXT(B327)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10361,
@@ -13994,7 +13669,6 @@
     "filename": "PosterNpcNmlCow00",
     "internalId": 10656,
     "uniqueEntryId": "9Stwami7PmDiaDtXv",
-    "url": "=FORMULATEXT(B328)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10656,
@@ -14037,7 +13711,6 @@
     "filename": "PosterNpcNmlBea10",
     "internalId": 10783,
     "uniqueEntryId": "Xys5WuR7EDrCAkse9",
-    "url": "=FORMULATEXT(B329)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10783,
@@ -14080,7 +13753,6 @@
     "filename": "PosterNpcSpPck",
     "internalId": 10520,
     "uniqueEntryId": "DrPiaDYcC2uPzdFei",
-    "url": "=FORMULATEXT(B330)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10520,
@@ -14123,7 +13795,6 @@
     "filename": "PosterNpcNmlHrs08",
     "internalId": 10531,
     "uniqueEntryId": "ngwv63CtqKcs8Kg7b",
-    "url": "=FORMULATEXT(B331)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10531,
@@ -14166,7 +13837,6 @@
     "filename": "PosterNpcNmlSqu00",
     "internalId": 10325,
     "uniqueEntryId": "MnZfv6fnwEvz3sZ99",
-    "url": "=FORMULATEXT(B332)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10325,
@@ -14209,7 +13879,6 @@
     "filename": "PosterNpcNmlSqu03",
     "internalId": 10409,
     "uniqueEntryId": "RhbivX9ib8qNhm8c2",
-    "url": "=FORMULATEXT(B333)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10409,
@@ -14252,7 +13921,6 @@
     "filename": "PosterNpcNmlBrd17",
     "internalId": 10372,
     "uniqueEntryId": "EaufFcRYaYiRuXW2T",
-    "url": "=FORMULATEXT(B334)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10372,
@@ -14295,7 +13963,6 @@
     "filename": "PosterNpcNmlGor01",
     "internalId": 10552,
     "uniqueEntryId": "4FNjRX8d3sJHbZNtH",
-    "url": "=FORMULATEXT(B335)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10552,
@@ -14338,7 +14005,6 @@
     "filename": "PosterNpcNmlPig11",
     "internalId": 10571,
     "uniqueEntryId": "7mnXGKHRhZ3tERd83",
-    "url": "=FORMULATEXT(B336)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10571,
@@ -14381,7 +14047,6 @@
     "filename": "PosterNpcNmlCbr14",
     "internalId": 10390,
     "uniqueEntryId": "hy3xDEftPwdwtewzn",
-    "url": "=FORMULATEXT(B337)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10390,
@@ -14424,7 +14089,6 @@
     "filename": "PosterNpcSpPlk",
     "internalId": 10429,
     "uniqueEntryId": "rx7vSdNA8cptMnTKt",
-    "url": "=FORMULATEXT(B338)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10429,
@@ -14467,7 +14131,6 @@
     "filename": "PosterNpcNmlMus17",
     "internalId": 10533,
     "uniqueEntryId": "doWPazS5bS3wBFgGY",
-    "url": "=FORMULATEXT(B339)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10533,
@@ -14510,7 +14173,6 @@
     "filename": "PosterNpcSpPlo",
     "internalId": 10780,
     "uniqueEntryId": "iqAmPpqw5nTuuxBA2",
-    "url": "=FORMULATEXT(B340)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10780,
@@ -14553,7 +14215,6 @@
     "filename": "PosterNpcNmlMus19",
     "internalId": 13049,
     "uniqueEntryId": "nnt6mgYzX9LCyo4yN",
-    "url": "=FORMULATEXT(B341)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13049,
@@ -14596,7 +14257,6 @@
     "filename": "PosterNpcNmlOst07",
     "internalId": 10673,
     "uniqueEntryId": "2tD5bDewsDvAr8paW",
-    "url": "=FORMULATEXT(B342)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10673,
@@ -14639,7 +14299,6 @@
     "filename": "PosterNpcSpFsl",
     "internalId": 10796,
     "uniqueEntryId": "dFmiXS9mNaiWGtraj",
-    "url": "=FORMULATEXT(B343)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10796,
@@ -14682,7 +14341,6 @@
     "filename": "PosterNpcNmlOst10",
     "internalId": 10365,
     "uniqueEntryId": "b5BRkBoBabQWQfDFB",
-    "url": "=FORMULATEXT(B344)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10365,
@@ -14725,7 +14383,6 @@
     "filename": "PosterNpcSpPlm",
     "internalId": 10431,
     "uniqueEntryId": "EDke5sFz22n6piqGc",
-    "url": "=FORMULATEXT(B345)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10431,
@@ -14768,7 +14425,6 @@
     "filename": "PosterNpcNmlPbr02",
     "internalId": 10542,
     "uniqueEntryId": "q57YsxdMrBCg9dqih",
-    "url": "=FORMULATEXT(B346)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10542,
@@ -14811,7 +14467,6 @@
     "filename": "PosterNpcNmlShp13",
     "internalId": 10562,
     "uniqueEntryId": "usRJPn5nKEnttEiEA",
-    "url": "=FORMULATEXT(B347)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10562,
@@ -14854,7 +14509,6 @@
     "filename": "PosterNpcNmlBea01",
     "internalId": 10798,
     "uniqueEntryId": "mF7EBZdy7jHJEuxdy",
-    "url": "=FORMULATEXT(B348)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10798,
@@ -14897,7 +14551,6 @@
     "filename": "PosterNpcNmlBrd05",
     "internalId": 10810,
     "uniqueEntryId": "tJZikjCbpYe3qudyM",
-    "url": "=FORMULATEXT(B349)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10810,
@@ -14940,7 +14593,6 @@
     "filename": "PosterNpcNmlRbt06",
     "internalId": 10484,
     "uniqueEntryId": "r3nnNRwtnx4Ph3JRg",
-    "url": "=FORMULATEXT(B350)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10484,
@@ -14983,7 +14635,6 @@
     "filename": "PosterNpcNmlChn10",
     "internalId": 10626,
     "uniqueEntryId": "DXzghL3rjAHowzXv5",
-    "url": "=FORMULATEXT(B351)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10626,
@@ -15026,7 +14677,6 @@
     "filename": "PosterNpcNmlDuk05",
     "internalId": 10577,
     "uniqueEntryId": "CjL8Pai95uENFwfvE",
-    "url": "=FORMULATEXT(B352)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10577,
@@ -15069,7 +14719,6 @@
     "filename": "PosterNpcNmlCbr18",
     "internalId": 11122,
     "uniqueEntryId": "4mfRv2QWJ4fdX5ffm",
-    "url": "=FORMULATEXT(B353)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 11122,
@@ -15112,7 +14761,6 @@
     "filename": "PosterNpcNmlCbr02",
     "internalId": 10347,
     "uniqueEntryId": "axATkjYgRYfJayEco",
-    "url": "=FORMULATEXT(B354)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10347,
@@ -15155,7 +14803,6 @@
     "filename": "PosterNpcNmlSqu15",
     "internalId": 10668,
     "uniqueEntryId": "FNNpWdBszy5ehyWkh",
-    "url": "=FORMULATEXT(B355)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10668,
@@ -15198,7 +14845,6 @@
     "filename": "PosterNpcSpMnk",
     "internalId": 10339,
     "uniqueEntryId": "gqADp6MHop7Y5re8B",
-    "url": "=FORMULATEXT(B356)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10339,
@@ -15241,7 +14887,6 @@
     "filename": "PosterNpcNmlDog05",
     "internalId": 10550,
     "uniqueEntryId": "hYpzBnyy6CvMP2YYn",
-    "url": "=FORMULATEXT(B357)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10550,
@@ -15284,7 +14929,6 @@
     "filename": "PosterNpcNmlFlg12",
     "internalId": 10360,
     "uniqueEntryId": "68H5r3uMwggsc2kmJ",
-    "url": "=FORMULATEXT(B358)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10360,
@@ -15327,7 +14971,6 @@
     "filename": "PosterNpcNmlPgn06",
     "internalId": 10660,
     "uniqueEntryId": "6Se2MqCNcHdGWqeC5",
-    "url": "=FORMULATEXT(B359)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10660,
@@ -15370,7 +15013,6 @@
     "filename": "PosterNpcNmlFlg06",
     "internalId": 10556,
     "uniqueEntryId": "tunDgBMtwSifLLdN3",
-    "url": "=FORMULATEXT(B360)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10556,
@@ -15413,7 +15055,6 @@
     "filename": "PosterNpcNmlCbr03",
     "internalId": 10676,
     "uniqueEntryId": "dDSKfTya3QTyh8Gjy",
-    "url": "=FORMULATEXT(B361)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10676,
@@ -15456,7 +15097,6 @@
     "filename": "PosterNpcNmlCat06",
     "internalId": 10819,
     "uniqueEntryId": "3r4vhGwkYtLyEqwJA",
-    "url": "=FORMULATEXT(B362)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10819,
@@ -15499,7 +15139,6 @@
     "filename": "PosterNpcNmlCat07",
     "internalId": 10802,
     "uniqueEntryId": "BjNrvZWnP5PC6iNLH",
-    "url": "=FORMULATEXT(B363)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10802,
@@ -15542,7 +15181,6 @@
     "filename": "PosterNpcNmlOst00",
     "internalId": 10543,
     "uniqueEntryId": "n3Gdn5yw4h82w5op8",
-    "url": "=FORMULATEXT(B364)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10543,
@@ -15585,7 +15223,6 @@
     "filename": "PosterNpcNmlDuk17",
     "internalId": 10658,
     "uniqueEntryId": "6YBcYo6SHaAauLbig",
-    "url": "=FORMULATEXT(B365)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10658,
@@ -15628,7 +15265,6 @@
     "filename": "PosterNpcNmlPbr10",
     "internalId": 13050,
     "uniqueEntryId": "sZSyK6oJafdoQPuYT",
-    "url": "=FORMULATEXT(B366)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13050,
@@ -15671,7 +15307,6 @@
     "filename": "PosterNpcNmlFlg15",
     "internalId": 10629,
     "uniqueEntryId": "MeqY2RNGciids5NpS",
-    "url": "=FORMULATEXT(B367)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10629,
@@ -15714,7 +15349,6 @@
     "filename": "PosterNpcNmlPig02",
     "internalId": 10625,
     "uniqueEntryId": "nrLJn9e3mYfWpDBEJ",
-    "url": "=FORMULATEXT(B368)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10625,
@@ -15757,7 +15391,6 @@
     "filename": "PosterNpcNmlCat23",
     "internalId": 10861,
     "uniqueEntryId": "dgpJWYgReKo6wz4ze",
-    "url": "=FORMULATEXT(B369)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10861,
@@ -15800,7 +15433,6 @@
     "filename": "PosterNpcSpFox",
     "internalId": 10471,
     "uniqueEntryId": "Qcucx9kPNCvZi3rgn",
-    "url": "=FORMULATEXT(B370)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10471,
@@ -15843,7 +15475,6 @@
     "filename": "PosterNpcSpAlw",
     "internalId": 10772,
     "uniqueEntryId": "MHeBTtcqpeMayYKRP",
-    "url": "=FORMULATEXT(B371)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10772,
@@ -15886,7 +15517,6 @@
     "filename": "PosterNpcNmlHrs16",
     "internalId": 10857,
     "uniqueEntryId": "j2Wy2BRT84wYdjwRq",
-    "url": "=FORMULATEXT(B373)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10857,
@@ -15929,7 +15559,6 @@
     "filename": "PosterNpcNmlRhn08",
     "internalId": 10599,
     "uniqueEntryId": "99uKcRHczGSMYQyKR",
-    "url": "=FORMULATEXT(B372)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10599,
@@ -15972,7 +15601,6 @@
     "filename": "PosterNpcSpMol",
     "internalId": 10313,
     "uniqueEntryId": "7Jx8EuSDuPkB7dGRe",
-    "url": "=FORMULATEXT(B374)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10313,
@@ -16015,7 +15643,6 @@
     "filename": "PosterNpcNmlLon02",
     "internalId": 10618,
     "uniqueEntryId": "pbnFnNJW6Skb7ApeN",
-    "url": "=FORMULATEXT(B375)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10618,
@@ -16058,7 +15685,6 @@
     "filename": "PosterNpcNmlRhn01",
     "internalId": 10383,
     "uniqueEntryId": "rDPrwQyncvtAkXSaW",
-    "url": "=FORMULATEXT(B376)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10383,
@@ -16101,7 +15727,6 @@
     "filename": "PosterNpcNmlFlg01",
     "internalId": 10572,
     "uniqueEntryId": "4Zx8Z4oBos9JWo2Nk",
-    "url": "=FORMULATEXT(B377)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10572,
@@ -16144,7 +15769,6 @@
     "filename": "PosterNpcNmlSqu10",
     "internalId": 10458,
     "uniqueEntryId": "8g74W8PLgPxTjHQfC",
-    "url": "=FORMULATEXT(B378)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10458,
@@ -16187,7 +15811,6 @@
     "filename": "PosterNpcNmlGor11_2",
     "internalId": 13033,
     "uniqueEntryId": "vJuhaDKmtTLaYBwjC",
-    "url": "=FORMULATEXT(B379)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13033,
@@ -16230,7 +15853,6 @@
     "filename": "PosterNpcNmlOst04",
     "internalId": 13040,
     "uniqueEntryId": "rADzRadhWX9dCfGNX",
-    "url": "=FORMULATEXT(B380)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13040,
@@ -16273,7 +15895,6 @@
     "filename": "PosterNpcNmlMus09",
     "internalId": 10581,
     "uniqueEntryId": "2Wfu27tu8sW7yhtXh",
-    "url": "=FORMULATEXT(B381)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10581,
@@ -16316,7 +15937,6 @@
     "filename": "PosterNpcNmlPgn01",
     "internalId": 10328,
     "uniqueEntryId": "2JqzTaAK3zFcYXsmd",
-    "url": "=FORMULATEXT(B382)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10328,
@@ -16359,7 +15979,6 @@
     "filename": "PosterNpcNmlBrd01",
     "internalId": 10809,
     "uniqueEntryId": "fkMnRaekK68Dkb82F",
-    "url": "=FORMULATEXT(B383)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10809,
@@ -16402,7 +16021,6 @@
     "filename": "PosterNpcNmlHip00",
     "internalId": 10527,
     "uniqueEntryId": "GFFmrGWEBDXG9J828",
-    "url": "=FORMULATEXT(B384)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10527,
@@ -16445,7 +16063,6 @@
     "filename": "PosterNpcNmlGor09",
     "internalId": 10427,
     "uniqueEntryId": "oK3iva4CM3NjutKsv",
-    "url": "=FORMULATEXT(B385)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10427,
@@ -16488,7 +16105,6 @@
     "filename": "PosterNpcNmlMus05",
     "internalId": 10566,
     "uniqueEntryId": "vj7Kd8rRxkczdCxd8",
-    "url": "=FORMULATEXT(B386)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10566,
@@ -16531,7 +16147,6 @@
     "filename": "PosterNpcNmlBul01",
     "internalId": 10446,
     "uniqueEntryId": "GoRjEdZ8NAYvJgLCx",
-    "url": "=FORMULATEXT(B387)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10446,
@@ -16574,7 +16189,6 @@
     "filename": "PosterNpcNmlHam03",
     "internalId": 10375,
     "uniqueEntryId": "8eytJgiTY3dfE3fET",
-    "url": "=FORMULATEXT(B388)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10375,
@@ -16617,7 +16231,6 @@
     "filename": "PosterNpcNmlTig00",
     "internalId": 10509,
     "uniqueEntryId": "LSD8WgchGo9wgNK3J",
-    "url": "=FORMULATEXT(B389)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10509,
@@ -16660,7 +16273,6 @@
     "filename": "PosterNpcNmlKgr09",
     "internalId": 10487,
     "uniqueEntryId": "dhMJ7rW6LBEJSjMLL",
-    "url": "=FORMULATEXT(B390)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10487,
@@ -16703,7 +16315,6 @@
     "filename": "PosterNpcNmlLon07",
     "internalId": 10557,
     "uniqueEntryId": "hGEuTdFLSTDctRfQP",
-    "url": "=FORMULATEXT(B391)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10557,
@@ -16746,7 +16357,6 @@
     "filename": "PosterNpcNmlHrs04",
     "internalId": 10690,
     "uniqueEntryId": "YgRqmquNZSJoSD77K",
-    "url": "=FORMULATEXT(B392)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10690,
@@ -16789,7 +16399,6 @@
     "filename": "PosterNpcNmlCat02",
     "internalId": 10805,
     "uniqueEntryId": "p4q894fdXqasrD3F6",
-    "url": "=FORMULATEXT(B393)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10805,
@@ -16832,7 +16441,6 @@
     "filename": "PosterNpcNmlCrd05",
     "internalId": 13046,
     "uniqueEntryId": "FDsaDwGgS4Y9oin3a",
-    "url": "=FORMULATEXT(B394)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13046,
@@ -16875,7 +16483,6 @@
     "filename": "PosterNpcSpXct",
     "internalId": 10428,
     "uniqueEntryId": "RciiC2AtWQhwFrmj2",
-    "url": "=FORMULATEXT(B395)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10428,
@@ -16918,7 +16525,6 @@
     "filename": "PosterNpcNmlTig01",
     "internalId": 10592,
     "uniqueEntryId": "zAH4Wk9Sjoc5ne3mE",
-    "url": "=FORMULATEXT(B396)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10592,
@@ -16961,7 +16567,6 @@
     "filename": "PosterNpcNmlRbt09",
     "internalId": 10399,
     "uniqueEntryId": "EhTjGy9tKqa7BRcNH",
-    "url": "=FORMULATEXT(B397)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10399,
@@ -17004,7 +16609,6 @@
     "filename": "PosterNpcNmlCat20",
     "internalId": 10549,
     "uniqueEntryId": "GjGb4j72Sk8TopGDX",
-    "url": "=FORMULATEXT(B398)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10549,
@@ -17047,7 +16651,6 @@
     "filename": "PosterNpcSpHgs",
     "internalId": 10777,
     "uniqueEntryId": "NepqxHJBZ64HNhvvk",
-    "url": "=FORMULATEXT(B399)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10777,
@@ -17090,7 +16693,6 @@
     "filename": "PosterNpcSpCml",
     "internalId": 10481,
     "uniqueEntryId": "DZXW3BBTPajvAKHuM",
-    "url": "=FORMULATEXT(B400)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10481,
@@ -17133,7 +16735,6 @@
     "filename": "PosterNpcNmlSqu07",
     "internalId": 10575,
     "uniqueEntryId": "LZoFLnj6X9CieDhBu",
-    "url": "=FORMULATEXT(B401)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10575,
@@ -17176,7 +16777,6 @@
     "filename": "PosterNpcNmlMus04",
     "internalId": 10674,
     "uniqueEntryId": "pn9B8vsw4LemWmLJX",
-    "url": "=FORMULATEXT(B402)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10674,
@@ -17219,7 +16819,6 @@
     "filename": "PosterNpcNmlOst02",
     "internalId": 10627,
     "uniqueEntryId": "4ZWauJWaoKwmnoLf4",
-    "url": "=FORMULATEXT(B403)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10627,
@@ -17262,7 +16861,6 @@
     "filename": "PosterNpcNmlRbt21",
     "internalId": 13051,
     "uniqueEntryId": "YtFMc8EPyRo4xeuZx",
-    "url": "=FORMULATEXT(B404)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13051,
@@ -17305,7 +16903,6 @@
     "filename": "PosterNpcNmlHrs02",
     "internalId": 10363,
     "uniqueEntryId": "6X7oQFBzeo7eduLSt",
-    "url": "=FORMULATEXT(B405)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10363,
@@ -17348,7 +16945,6 @@
     "filename": "PosterNpcNmlDuk10",
     "internalId": 10376,
     "uniqueEntryId": "SPvZRZRT9rvK6WxWD",
-    "url": "=FORMULATEXT(B406)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10376,
@@ -17391,7 +16987,6 @@
     "filename": "PosterNpcNmlMnk07",
     "internalId": 10661,
     "uniqueEntryId": "XiPaZJCqNPyayrvjD",
-    "url": "=FORMULATEXT(B407)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10661,
@@ -17434,7 +17029,6 @@
     "filename": "PosterNpcNmlSqu16",
     "internalId": 10645,
     "uniqueEntryId": "H9QQe5uwwacHR2af8",
-    "url": "=FORMULATEXT(B408)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10645,
@@ -17477,7 +17071,6 @@
     "filename": "PosterNpcNmlDog18",
     "internalId": 10538,
     "uniqueEntryId": "X2eFhNeeTmrgiBAYm",
-    "url": "=FORMULATEXT(B409)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10538,
@@ -17520,7 +17113,6 @@
     "filename": "PosterNpcNmlGoa09",
     "internalId": 10863,
     "uniqueEntryId": "MtpEJs8aWA7FjyMdR",
-    "url": "=FORMULATEXT(B410)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10863,
@@ -17563,7 +17155,6 @@
     "filename": "PosterNpcNmlDer11",
     "internalId": 13048,
     "uniqueEntryId": "ahbm5diXf685srMfw",
-    "url": "=FORMULATEXT(B411)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13048,
@@ -17606,7 +17197,6 @@
     "filename": "PosterNpcSpUpa",
     "internalId": 10341,
     "uniqueEntryId": "b59v7Q9atMaXQHQ2m",
-    "url": "=FORMULATEXT(B412)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10341,
@@ -17649,7 +17239,6 @@
     "filename": "PosterNpcNmlMnk02",
     "internalId": 10601,
     "uniqueEntryId": "KBpcAwebS8hqjKt55",
-    "url": "=FORMULATEXT(B413)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10601,
@@ -17692,7 +17281,6 @@
     "filename": "PosterNpcNmlWol09",
     "internalId": 10489,
     "uniqueEntryId": "Bndg4QmkodaMZK3Xy",
-    "url": "=FORMULATEXT(B414)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10489,
@@ -17735,7 +17323,6 @@
     "filename": "PosterNpcNmlCrd06",
     "internalId": 10368,
     "uniqueEntryId": "WjYc2DZzXggCBJAhP",
-    "url": "=FORMULATEXT(B415)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10368,
@@ -17778,7 +17365,6 @@
     "filename": "PosterNpcNmlRbt03",
     "internalId": 10671,
     "uniqueEntryId": "hspZqPbmbMm6sBz4u",
-    "url": "=FORMULATEXT(B416)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10671,
@@ -17821,7 +17407,6 @@
     "filename": "PosterNpcNmlAnt06",
     "internalId": 10815,
     "uniqueEntryId": "fyBvdEE3vBQZchZEF",
-    "url": "=FORMULATEXT(B417)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10815,
@@ -17864,7 +17449,6 @@
     "filename": "PosterNpcNmlHam04",
     "internalId": 10511,
     "uniqueEntryId": "hXSKWWGwXrqx8j2Ge",
-    "url": "=FORMULATEXT(B418)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10511,
@@ -17907,7 +17491,6 @@
     "filename": "PosterNpcNmlBrd18",
     "internalId": 10793,
     "uniqueEntryId": "39i5FbPrnb6Lmswnt",
-    "url": "=FORMULATEXT(B419)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10793,
@@ -17950,7 +17533,6 @@
     "filename": "PosterNpcNmlRhn02",
     "internalId": 10639,
     "uniqueEntryId": "Koz4P4HPBqaGQGoc6",
-    "url": "=FORMULATEXT(B420)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10639,
@@ -17993,7 +17575,6 @@
     "filename": "PosterNpcNmlPig05",
     "internalId": 10454,
     "uniqueEntryId": "uro5Da2XjsZbBkpu9",
-    "url": "=FORMULATEXT(B421)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10454,
@@ -18036,7 +17617,6 @@
     "filename": "PosterNpcNmlPgn14",
     "internalId": 10405,
     "uniqueEntryId": "Fy44A4HLgaEE7FzZ5",
-    "url": "=FORMULATEXT(B422)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10405,
@@ -18079,7 +17659,6 @@
     "filename": "PosterNpcNmlOst03",
     "internalId": 10644,
     "uniqueEntryId": "ZKuhJykkuAPgQMFQ5",
-    "url": "=FORMULATEXT(B423)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10644,
@@ -18122,7 +17701,6 @@
     "filename": "PosterNpcNmlSqu08",
     "internalId": 10567,
     "uniqueEntryId": "Bnb2HgCH9uGMZ6AKE",
-    "url": "=FORMULATEXT(B424)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10567,
@@ -18165,7 +17743,6 @@
     "filename": "PosterNpcNmlShp03",
     "internalId": 10609,
     "uniqueEntryId": "SRT6BKWnwc6anR6R2",
-    "url": "=FORMULATEXT(B425)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10609,
@@ -18208,7 +17785,6 @@
     "filename": "PosterNpcNmlPbr07",
     "internalId": 10665,
     "uniqueEntryId": "LLGB3Bpi7ogwfkTTQ",
-    "url": "=FORMULATEXT(B426)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10665,
@@ -18251,7 +17827,6 @@
     "filename": "PosterNpcNmlCat13",
     "internalId": 10475,
     "uniqueEntryId": "skv2ujAkXaTzzzibE",
-    "url": "=FORMULATEXT(B427)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10475,
@@ -18294,7 +17869,6 @@
     "filename": "PosterNpcNmlCbr05",
     "internalId": 10524,
     "uniqueEntryId": "zQfw76eKCFPrsTifN",
-    "url": "=FORMULATEXT(B428)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10524,
@@ -18337,7 +17911,6 @@
     "filename": "PosterNpcNmlBul03",
     "internalId": 10811,
     "uniqueEntryId": "wXjvXJe2zahfKnCPo",
-    "url": "=FORMULATEXT(B429)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10811,
@@ -18380,7 +17953,6 @@
     "filename": "PosterNpcNmlKal03",
     "internalId": 10582,
     "uniqueEntryId": "sJWRfm2jKjDnRL34G",
-    "url": "=FORMULATEXT(B430)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10582,
@@ -18423,7 +17995,6 @@
     "filename": "PosterNpcNmlSqu14",
     "internalId": 10612,
     "uniqueEntryId": "4rGhkCXbsJjcGfDBi",
-    "url": "=FORMULATEXT(B431)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10612,
@@ -18466,7 +18037,6 @@
     "filename": "PosterNpcNmlKgr06",
     "internalId": 10574,
     "uniqueEntryId": "vYpAatEfgag85wdWu",
-    "url": "=FORMULATEXT(B432)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10574,
@@ -18509,7 +18079,6 @@
     "filename": "PosterNpcNmlBul05",
     "internalId": 10823,
     "uniqueEntryId": "LkP5AroMHJ74fGFCc",
-    "url": "=FORMULATEXT(B433)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10823,
@@ -18552,7 +18121,6 @@
     "filename": "PosterNpcNmlCat12",
     "internalId": 10441,
     "uniqueEntryId": "CcGQqRYaXDYm5HNsT",
-    "url": "=FORMULATEXT(B434)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10441,
@@ -18595,7 +18163,6 @@
     "filename": "PosterNpcNmlFlg09",
     "internalId": 10641,
     "uniqueEntryId": "RQdREf3jMXN3N8K9S",
-    "url": "=FORMULATEXT(B435)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10641,
@@ -18638,7 +18205,6 @@
     "filename": "PosterNpcNmlMnk03",
     "internalId": 10476,
     "uniqueEntryId": "SP6kTCmaurLMan4om",
-    "url": "=FORMULATEXT(B436)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10476,
@@ -18681,7 +18247,6 @@
     "filename": "PosterNpcNmlCbr17",
     "internalId": 10553,
     "uniqueEntryId": "nEhjF7QncKCaM9p4h",
-    "url": "=FORMULATEXT(B437)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10553,
@@ -18724,7 +18289,6 @@
     "filename": "PosterNpcNmlCat05",
     "internalId": 10786,
     "uniqueEntryId": "6uuJaHwede2mokjHe",
-    "url": "=FORMULATEXT(B438)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10786,
@@ -18767,7 +18331,6 @@
     "filename": "PosterNpcNmlRhn00",
     "internalId": 10578,
     "uniqueEntryId": "MDBKhCriuHzaE5AgG",
-    "url": "=FORMULATEXT(B439)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10578,
@@ -18810,7 +18373,6 @@
     "filename": "PosterNpcNmlSqu13",
     "internalId": 10651,
     "uniqueEntryId": "dMoK3ABwTdz23zXci",
-    "url": "=FORMULATEXT(B440)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10651,
@@ -18853,7 +18415,6 @@
     "filename": "PosterNpcNmlBea00",
     "internalId": 10775,
     "uniqueEntryId": "ixTvEwsDwk6Ds3GEP",
-    "url": "=FORMULATEXT(B441)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10775,
@@ -18896,7 +18457,6 @@
     "filename": "PosterNpcNmlPgn12",
     "internalId": 10546,
     "uniqueEntryId": "Hboyp3aaRPYnz2oRS",
-    "url": "=FORMULATEXT(B442)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10546,
@@ -18939,7 +18499,6 @@
     "filename": "PosterNpcNmlElp10",
     "internalId": 10350,
     "uniqueEntryId": "fuMQLKHZknMec5QCE",
-    "url": "=FORMULATEXT(B443)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10350,
@@ -18982,7 +18541,6 @@
     "filename": "PosterNpcNmlMnk09",
     "internalId": 13054,
     "uniqueEntryId": "zfAEiDRNvWTyYoosY",
-    "url": "=FORMULATEXT(B444)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13054,
@@ -19025,7 +18583,6 @@
     "filename": "PosterNpcNmlRbt07",
     "internalId": 10635,
     "uniqueEntryId": "jXww4iHeKwHfSdEFm",
-    "url": "=FORMULATEXT(B445)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10635,
@@ -19068,7 +18625,6 @@
     "filename": "PosterNpcNmlShp10",
     "internalId": 10388,
     "uniqueEntryId": "fAvLHWtjGMqQspwo9",
-    "url": "=FORMULATEXT(B446)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10388,
@@ -19111,7 +18667,6 @@
     "filename": "PosterNpcSpRcm",
     "internalId": 10437,
     "uniqueEntryId": "9HKZ7Yobdm8uzLi7P",
-    "url": "=FORMULATEXT(B447)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10437,
@@ -19154,7 +18709,6 @@
     "filename": "PosterNpcNmlCow01",
     "internalId": 10359,
     "uniqueEntryId": "2NfZ7Lyaf3h6KQm9m",
-    "url": "=FORMULATEXT(B448)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10359,
@@ -19197,7 +18751,6 @@
     "filename": "PosterNpcNmlRbt20_2",
     "internalId": 13038,
     "uniqueEntryId": "pNv8tSPLHYQBtneYQ",
-    "url": "=FORMULATEXT(B449)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13038,
@@ -19240,7 +18793,6 @@
     "filename": "PosterNpcSpRco",
     "internalId": 10384,
     "uniqueEntryId": "LoA9QSgWvDs9swufc",
-    "url": "=FORMULATEXT(B450)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10384,
@@ -19283,7 +18835,6 @@
     "filename": "PosterNpcNmlCat15",
     "internalId": 10358,
     "uniqueEntryId": "486Hm28f8Lhf7hKrR",
-    "url": "=FORMULATEXT(B451)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10358,
@@ -19326,7 +18877,6 @@
     "filename": "PosterNpcSpRct",
     "internalId": 10338,
     "uniqueEntryId": "PsfADt3JFH9hgjwH2",
-    "url": "=FORMULATEXT(B452)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10338,
@@ -19369,7 +18919,6 @@
     "filename": "PosterNpcSpTtlA",
     "internalId": 10792,
     "uniqueEntryId": "grE9hynn8SMezzhzp",
-    "url": "=FORMULATEXT(B453)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10792,
@@ -19412,7 +18961,6 @@
     "filename": "PosterNpcNmlPig01",
     "internalId": 10691,
     "uniqueEntryId": "aLBvsBuFd4keRH5hy",
-    "url": "=FORMULATEXT(B454)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10691,
@@ -19455,7 +19003,6 @@
     "filename": "PosterNpcNmlElp09",
     "internalId": 10477,
     "uniqueEntryId": "jawmneAPTuqjCAa4c",
-    "url": "=FORMULATEXT(B455)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10477,
@@ -19498,7 +19045,6 @@
     "filename": "PosterNpcNmlBrd20",
     "internalId": 1289,
     "uniqueEntryId": "NjKTPgHzE3hkE43cB",
-    "url": "=FORMULATEXT(B456)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 1289,
@@ -19541,7 +19087,6 @@
     "filename": "PosterNpcNmlBea07",
     "internalId": 10822,
     "uniqueEntryId": "LgubGXNTTf3BP3aLN",
-    "url": "=FORMULATEXT(B457)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10822,
@@ -19584,7 +19129,6 @@
     "filename": "PosterNpcNmlBrd03",
     "internalId": 10808,
     "uniqueEntryId": "vEZEfxNrygmD65jCr",
-    "url": "=FORMULATEXT(B458)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10808,
@@ -19627,7 +19171,6 @@
     "filename": "PosterNpcNmlTig02",
     "internalId": 10610,
     "uniqueEntryId": "7XvykMJkTtZWSatzZ",
-    "url": "=FORMULATEXT(B459)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10610,
@@ -19670,7 +19213,6 @@
     "filename": "PosterNpcNmlBea08",
     "internalId": 10812,
     "uniqueEntryId": "96m3vKMmkCcXDZiQe",
-    "url": "=FORMULATEXT(B460)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10812,
@@ -19713,7 +19255,6 @@
     "filename": "PosterNpcNmlGoa06",
     "internalId": 10449,
     "uniqueEntryId": "B9RkWdsytySCKWFqD",
-    "url": "=FORMULATEXT(B461)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10449,
@@ -19756,7 +19297,6 @@
     "filename": "PosterNpcNmlShp00",
     "internalId": 10418,
     "uniqueEntryId": "ScsCTZ4iJAAs8bpZA",
-    "url": "=FORMULATEXT(B462)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10418,
@@ -19799,7 +19339,6 @@
     "filename": "PosterNpcNmlBul08",
     "internalId": 10415,
     "uniqueEntryId": "KwZBqFXpduKCuoDhp",
-    "url": "=FORMULATEXT(B463)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10415,
@@ -19842,7 +19381,6 @@
     "filename": "PosterNpcNmlSqu20",
     "internalId": 1271,
     "uniqueEntryId": "AwcRd3uxCBe4JE9LS",
-    "url": "=FORMULATEXT(B464)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 1271,
@@ -19885,7 +19423,6 @@
     "filename": "PosterNpcNmlHrs01",
     "internalId": 10497,
     "uniqueEntryId": "Bv2eZ9NBpWmwSFjgx",
-    "url": "=FORMULATEXT(B465)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10497,
@@ -19928,7 +19465,6 @@
     "filename": "PosterVillager",
     "internalId": 10741,
     "uniqueEntryId": "N6qEa462dfQ3kM2kv",
-    "url": "=FORMULATEXT(B466)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10741,
@@ -19971,7 +19507,6 @@
     "filename": "PosterNpcNmlGor07",
     "internalId": 10499,
     "uniqueEntryId": "fsjvirmWruvYmPq8c",
-    "url": "=FORMULATEXT(B467)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10499,
@@ -20014,7 +19549,6 @@
     "filename": "PosterNpcNmlWol08",
     "internalId": 10603,
     "uniqueEntryId": "hkAe3oJA89HzDobh3",
-    "url": "=FORMULATEXT(B468)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10603,
@@ -20057,7 +19591,6 @@
     "filename": "PosterNpcNmlCbr06",
     "internalId": 10362,
     "uniqueEntryId": "PTTctzp4KtCAceqkJ",
-    "url": "=FORMULATEXT(B469)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10362,
@@ -20100,7 +19633,6 @@
     "filename": "PosterNpcNmlPgn09",
     "internalId": 10614,
     "uniqueEntryId": "DypctyNoZp6NcNTRH",
-    "url": "=FORMULATEXT(B470)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10614,
@@ -20143,7 +19675,6 @@
     "filename": "PosterNpcNmlDog06",
     "internalId": 10330,
     "uniqueEntryId": "iA3PhsCuMmX8K4gLQ",
-    "url": "=FORMULATEXT(B471)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10330,
@@ -20186,7 +19717,6 @@
     "filename": "PosterNpcNmlKgr08",
     "internalId": 10559,
     "uniqueEntryId": "QFKnT3NvdbZDwus4R",
-    "url": "=FORMULATEXT(B472)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10559,
@@ -20229,7 +19759,6 @@
     "filename": "PosterNpcSpMan",
     "internalId": 13056,
     "uniqueEntryId": "eCRgmWBKbxMZNCrQg",
-    "url": "=FORMULATEXT(B473)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13056,
@@ -20272,7 +19801,6 @@
     "filename": "PosterNpcNmlFlg05",
     "internalId": 10465,
     "uniqueEntryId": "d2v37bvLF2HWXcB7R",
-    "url": "=FORMULATEXT(B474)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10465,
@@ -20315,7 +19843,6 @@
     "filename": "PosterNpcNmlDuk11",
     "internalId": 10636,
     "uniqueEntryId": "6SgMa63zsFYoe7x3n",
-    "url": "=FORMULATEXT(B475)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10636,
@@ -20358,7 +19885,6 @@
     "filename": "PosterNpcSpWrl",
     "internalId": 10434,
     "uniqueEntryId": "k6zcPwQCXoL4ACve9",
-    "url": "=FORMULATEXT(B476)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10434,
@@ -20401,7 +19927,6 @@
     "filename": "PosterNpcNmlShp09",
     "internalId": 10381,
     "uniqueEntryId": "4JqnDBARuzDahPbcZ",
-    "url": "=FORMULATEXT(B477)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10381,
@@ -20444,7 +19969,6 @@
     "filename": "PosterNpcNmlWol03",
     "internalId": 10377,
     "uniqueEntryId": "NxQfGWG5374SZkjZd",
-    "url": "=FORMULATEXT(B478)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10377,
@@ -20487,7 +20011,6 @@
     "filename": "PosterNpcSpDoc",
     "internalId": 14864,
     "uniqueEntryId": "KpiD65sNqm57kWdzD",
-    "url": "=FORMULATEXT(B479)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 14864,
@@ -20530,7 +20053,6 @@
     "filename": "PosterNpcNmlShp07",
     "internalId": 10327,
     "uniqueEntryId": "rZJ77yhzuexaKnAkx",
-    "url": "=FORMULATEXT(B480)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10327,
@@ -20573,7 +20095,6 @@
     "filename": "PosterNpcNmlHrs05",
     "internalId": 10663,
     "uniqueEntryId": "F9weeZH5Ey8sZ374Q",
-    "url": "=FORMULATEXT(B481)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10663,
@@ -20616,7 +20137,6 @@
     "filename": "PosterNpcSpGst",
     "internalId": 14868,
     "uniqueEntryId": "HfS6E4c8gDMdiAYDv",
-    "url": "=FORMULATEXT(B482)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 14868,
@@ -20659,7 +20179,6 @@
     "filename": "PosterNpcNmlWol02",
     "internalId": 10472,
     "uniqueEntryId": "GEC2nn8JwSHd78hS7",
-    "url": "=FORMULATEXT(B483)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10472,
@@ -20702,7 +20221,6 @@
     "filename": "PosterNpcNmlKal00",
     "internalId": 10683,
     "uniqueEntryId": "q9j4d7zAyk9Ttuuof",
-    "url": "=FORMULATEXT(B484)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10683,
@@ -20745,7 +20263,6 @@
     "filename": "PosterNpcNmlDer02",
     "internalId": 10389,
     "uniqueEntryId": "GuP3qy2DdzFTTEfGA",
-    "url": "=FORMULATEXT(B485)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10389,
@@ -20788,7 +20305,6 @@
     "filename": "PosterNpcSpPyn",
     "internalId": 10522,
     "uniqueEntryId": "vcwdyjBMkEpp4S5HR",
-    "url": "=FORMULATEXT(B486)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10522,
@@ -20831,7 +20347,6 @@
     "filename": "PosterNpcNmlAnt05",
     "internalId": 13039,
     "uniqueEntryId": "DeoajS2uw2Mvt4NKW",
-    "url": "=FORMULATEXT(B487)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13039,
@@ -20874,7 +20389,6 @@
     "filename": "PosterNpcNmlOcp02",
     "internalId": 10569,
     "uniqueEntryId": "8u8XbGvQuj8HbbEyy",
-    "url": "=FORMULATEXT(B488)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 10569,
@@ -20917,7 +20431,6 @@
     "filename": "PosterNpcNmlShp14_2",
     "internalId": 13035,
     "uniqueEntryId": "ezuy2hiWZux6skWFy",
-    "url": "=FORMULATEXT(B153)",
     "translations": {
       "sourceSheet": "Posters",
       "id": 13035,

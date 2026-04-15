@@ -34,8 +34,7 @@
     "Filename": "TopsTexMarinesuitNormalNGreco3",
     "ClothGroup ID": 1260,
     "Internal ID": 13103,
-    "Unique Entry ID": "6L2xDvYdeFstLHY86",
-    "Url": "=FORMULATEXT(B2)"
+    "Unique Entry ID": "6L2xDvYdeFstLHY86"
   },
   {
     "SourceSheet": "Clothing Other",
@@ -72,8 +71,7 @@
     "Filename": "TopsTexMarinesuitNormalNGreco0",
     "ClothGroup ID": 1260,
     "Internal ID": 12986,
-    "Unique Entry ID": "3TDPbxuAzdDjSSHyA",
-    "Url": "=FORMULATEXT(B3)"
+    "Unique Entry ID": "3TDPbxuAzdDjSSHyA"
   },
   {
     "SourceSheet": "Clothing Other",
@@ -110,8 +108,7 @@
     "Filename": "TopsTexMarinesuitNormalNGreco2",
     "ClothGroup ID": 1260,
     "Internal ID": 13102,
-    "Unique Entry ID": "ngqeKA7GqE55ezKww",
-    "Url": "=FORMULATEXT(B4)"
+    "Unique Entry ID": "ngqeKA7GqE55ezKww"
   },
   {
     "SourceSheet": "Clothing Other",
@@ -148,8 +145,7 @@
     "Filename": "TopsTexMarinesuitNormalNGreco1",
     "ClothGroup ID": 1260,
     "Internal ID": 13101,
-    "Unique Entry ID": "hSJxcwRHv7qnKp93f",
-    "Url": "=FORMULATEXT(B5)"
+    "Unique Entry ID": "hSJxcwRHv7qnKp93f"
   },
   {
     "SourceSheet": "Clothing Other",
@@ -186,8 +182,7 @@
     "Filename": "TopsTexMarinesuitNormalLRashguard2",
     "ClothGroup ID": 1259,
     "Internal ID": 13099,
-    "Unique Entry ID": "dzprxbw5CzvxNWHt7",
-    "Url": "=FORMULATEXT(B6)"
+    "Unique Entry ID": "dzprxbw5CzvxNWHt7"
   },
   {
     "SourceSheet": "Clothing Other",
@@ -224,8 +219,7 @@
     "Filename": "TopsTexMarinesuitNormalLRashguard3",
     "ClothGroup ID": 1259,
     "Internal ID": 13100,
-    "Unique Entry ID": "3qhdPQngftbrtWgHM",
-    "Url": "=FORMULATEXT(B7)"
+    "Unique Entry ID": "3qhdPQngftbrtWgHM"
   },
   {
     "SourceSheet": "Clothing Other",
@@ -262,8 +256,7 @@
     "Filename": "TopsTexMarinesuitNormalLRashguard0",
     "ClothGroup ID": 1259,
     "Internal ID": 12981,
-    "Unique Entry ID": "mCuc5u3XpnyQqcR8G",
-    "Url": "=FORMULATEXT(B8)"
+    "Unique Entry ID": "mCuc5u3XpnyQqcR8G"
   },
   {
     "SourceSheet": "Clothing Other",
@@ -300,8 +293,7 @@
     "Filename": "TopsTexMarinesuitNormalLRashguard1",
     "ClothGroup ID": 1259,
     "Internal ID": 13098,
-    "Unique Entry ID": "GZwvXzEMwCfhuNTHe",
-    "Url": "=FORMULATEXT(B9)"
+    "Unique Entry ID": "GZwvXzEMwCfhuNTHe"
   },
   {
     "SourceSheet": "Clothing Other",
@@ -338,7 +330,6 @@
     "Filename": "TopsTexMarinesuitNormalLNook0",
     "ClothGroup ID": 1258,
     "Internal ID": 12970,
-    "Unique Entry ID": "jjwdLhmb3X42fvtHa",
-    "Url": "=FORMULATEXT(B10)"
+    "Unique Entry ID": "jjwdLhmb3X42fvtHa"
   }
 ]

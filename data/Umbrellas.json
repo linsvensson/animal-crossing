@@ -23,7 +23,6 @@
     "filename": "UmbrellaDoc0",
     "internalId": 9560,
     "uniqueEntryId": "vTdEjywjFjr8AkePD",
-    "url": "=FORMULATEXT(B16)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9560,
@@ -70,7 +69,6 @@
     "filename": "UmbrellaRco0",
     "internalId": 9561,
     "uniqueEntryId": "GX9s8tDymkHYHztY3",
-    "url": "=FORMULATEXT(B41)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9561,
@@ -117,7 +115,6 @@
     "filename": "UmbrellaTakumi0",
     "internalId": 14464,
     "uniqueEntryId": "RGq2nBQy9M3REEbrt",
-    "url": "=FORMULATEXT(B45)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 14464,
@@ -164,7 +161,6 @@
     "filename": "UmbrellaPolkadotRed",
     "internalId": 5861,
     "uniqueEntryId": "HnmPeaovKNwg7ZuBL",
-    "url": "=FORMULATEXT(B66)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 5861,
@@ -211,7 +207,6 @@
     "filename": "UmbrellaApple0",
     "internalId": 9948,
     "uniqueEntryId": "FPxdw28z9s2gYgjmr",
-    "url": "=FORMULATEXT(B2)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9948,
@@ -304,7 +299,6 @@
     "filename": "UmbrellaBat0",
     "internalId": 6919,
     "uniqueEntryId": "EZnRx49foq3M36yQ4",
-    "url": "=FORMULATEXT(B3)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6919,
@@ -351,7 +345,6 @@
     "filename": "UmbrellaBeach0",
     "internalId": 9957,
     "uniqueEntryId": "3SSFuv6LiH63jych3",
-    "url": "=FORMULATEXT(B4)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9957,
@@ -398,7 +391,6 @@
     "filename": "UmbrellaBear0",
     "internalId": 7167,
     "uniqueEntryId": "s7KoPpysn27AeC5zi",
-    "url": "=FORMULATEXT(B5)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7167,
@@ -445,7 +437,6 @@
     "filename": "UmbrellaPacodarace5",
     "internalId": 12137,
     "uniqueEntryId": "p8yg9xiFwPscNDJNg",
-    "url": "=FORMULATEXT(B6)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 12137,
@@ -492,7 +483,6 @@
     "filename": "UmbrellaRace0",
     "internalId": 6915,
     "uniqueEntryId": "7vuSb5AutpNQA573q",
-    "url": "=FORMULATEXT(B7)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6915,
@@ -539,7 +529,6 @@
     "filename": "UmbrellaPolkadot2",
     "internalId": 9956,
     "uniqueEntryId": "SwKuBi2vT7K365A3p",
-    "url": "=FORMULATEXT(B8)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9956,
@@ -586,7 +575,6 @@
     "filename": "UmbrellaPacodarace2",
     "internalId": 12134,
     "uniqueEntryId": "BxZ4XdtfJEyWyBPFe",
-    "url": "=FORMULATEXT(B9)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 12134,
@@ -633,7 +621,6 @@
     "filename": "UmbrellaStandard2",
     "internalId": 9959,
     "uniqueEntryId": "XyJaqSLnBjh5J6vLp",
-    "url": "=FORMULATEXT(B10)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9959,
@@ -680,7 +667,6 @@
     "filename": "UmbrellaBroken0",
     "internalId": 7182,
     "uniqueEntryId": "gkHD9GKJT9eAekxWQ",
-    "url": "=FORMULATEXT(B11)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7182,
@@ -727,7 +713,6 @@
     "filename": "UmbrellaOutdoor0",
     "internalId": 6923,
     "uniqueEntryId": "RJYB5itM7mDdtWHpv",
-    "url": "=FORMULATEXT(B12)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6923,
@@ -774,7 +759,6 @@
     "filename": "UmbrellaGingham0",
     "internalId": 6926,
     "uniqueEntryId": "F6KFg5Yhzgf78pudR",
-    "url": "=FORMULATEXT(B13)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6926,
@@ -821,7 +805,6 @@
     "filename": "UmbrellaCherry0",
     "internalId": 9949,
     "uniqueEntryId": "YwHY3LQXsDeM2iosy",
-    "url": "=FORMULATEXT(B14)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9949,
@@ -914,7 +897,6 @@
     "filename": "UmbrellaCherryblossom0",
     "internalId": 9945,
     "uniqueEntryId": "vTu5kLPipRb69vJA3",
-    "url": "=FORMULATEXT(B15)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9945,
@@ -1007,7 +989,6 @@
     "filename": "UmbrellaPolkadot1",
     "internalId": 9955,
     "uniqueEntryId": "qf7Hn5CKMDMBpge9r",
-    "url": "=FORMULATEXT(B17)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9955,
@@ -1054,7 +1035,6 @@
     "filename": "UmbrellaChina0",
     "internalId": 7171,
     "uniqueEntryId": "tFFuizXunsrHcMbEj",
-    "url": "=FORMULATEXT(B18)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7171,
@@ -1101,7 +1081,6 @@
     "filename": "UmbrellaFairytale0",
     "internalId": 7175,
     "uniqueEntryId": "xKBGNFJd2qpWeDWjo",
-    "url": "=FORMULATEXT(B19)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7175,
@@ -1153,7 +1132,6 @@
     "filename": "UmbrellaFish0",
     "internalId": 8768,
     "uniqueEntryId": "bvwaqJav8wmjPj2RC",
-    "url": "=FORMULATEXT(B20)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 8768,
@@ -1200,7 +1178,6 @@
     "filename": "UmbrellaFrog0",
     "internalId": 6925,
     "uniqueEntryId": "nDBiFvLtf5KeStQNv",
-    "url": "=FORMULATEXT(B21)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6925,
@@ -1247,7 +1224,6 @@
     "filename": "UmbrellaTricolor0",
     "internalId": 7180,
     "uniqueEntryId": "tupHZa6zDdFvobTEt",
-    "url": "=FORMULATEXT(B22)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7180,
@@ -1294,7 +1270,6 @@
     "filename": "UmbrellaTeruteru0",
     "internalId": 6924,
     "uniqueEntryId": "83zEbSL3S3dty4YjN",
-    "url": "=FORMULATEXT(B23)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6924,
@@ -1341,7 +1316,6 @@
     "filename": "UmbrellaGrape0",
     "internalId": 6911,
     "uniqueEntryId": "TJ9cw4XSj64u3uEsx",
-    "url": "=FORMULATEXT(B24)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6911,
@@ -1388,7 +1362,6 @@
     "filename": "UmbrellaPacodarace4",
     "internalId": 12136,
     "uniqueEntryId": "u2YWae8oz23XcT4u9",
-    "url": "=FORMULATEXT(B25)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 12136,
@@ -1435,7 +1408,6 @@
     "filename": "UmbrellaStandard3",
     "internalId": 9960,
     "uniqueEntryId": "8Hf4oRy3cQdundDJK",
-    "url": "=FORMULATEXT(B26)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9960,
@@ -1482,7 +1454,6 @@
     "filename": "UmbrellaHotel0",
     "internalId": 1260,
     "uniqueEntryId": "aJygjHmzii5SEbhEo",
-    "url": "=FORMULATEXT(B27)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 1260,
@@ -1529,7 +1500,6 @@
     "filename": "UmbrellaHydrangea0",
     "internalId": 6906,
     "uniqueEntryId": "dmFbrs5ALCJG4KpzB",
-    "url": "=FORMULATEXT(B28)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6906,
@@ -1576,7 +1546,6 @@
     "filename": "UmbrellaKabuki0",
     "internalId": 7177,
     "uniqueEntryId": "QenZWqPCSZr9ZCrRh",
-    "url": "=FORMULATEXT(B29)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7177,
@@ -1623,7 +1592,6 @@
     "filename": "UmbrellaKiwi0",
     "internalId": 6908,
     "uniqueEntryId": "R9WBMjgoqLwiR3h76",
-    "url": "=FORMULATEXT(B30)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6908,
@@ -1670,7 +1638,6 @@
     "filename": "UmbrellaLace0",
     "internalId": 9946,
     "uniqueEntryId": "8ND7Jkfb2fxLJaR7n",
-    "url": "=FORMULATEXT(B31)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9946,
@@ -1717,7 +1684,6 @@
     "filename": "UmbrellaLadybug0",
     "internalId": 8767,
     "uniqueEntryId": "rHNt3mx5hEEDRSRiD",
-    "url": "=FORMULATEXT(B32)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 8767,
@@ -1764,7 +1730,6 @@
     "filename": "UmbrellaLeaf0",
     "internalId": 6840,
     "uniqueEntryId": "ZpYcNAofgCtnPfLj5",
-    "url": "=FORMULATEXT(B33)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6840,
@@ -1857,7 +1822,6 @@
     "filename": "UmbrellaGingham4",
     "internalId": 9954,
     "uniqueEntryId": "yKb3LfnWDwptRPAWK",
-    "url": "=FORMULATEXT(B34)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9954,
@@ -1904,7 +1868,6 @@
     "filename": "UmbrellaLogo0",
     "internalId": 7172,
     "uniqueEntryId": "sFtYCcv9wy78ujaZr",
-    "url": "=FORMULATEXT(B35)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7172,
@@ -1951,7 +1914,6 @@
     "filename": "UmbrellaAutumn0",
     "internalId": 7169,
     "uniqueEntryId": "b5gL4xdKJPZPjhYZM",
-    "url": "=FORMULATEXT(B36)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7169,
@@ -2044,7 +2006,6 @@
     "filename": "UmbrellaGingham1",
     "internalId": 9951,
     "uniqueEntryId": "oFFjNfN2G5BxasAem",
-    "url": "=FORMULATEXT(B37)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9951,
@@ -2091,7 +2052,6 @@
     "filename": "UmbrellaFlorets0",
     "internalId": 6914,
     "uniqueEntryId": "G9dRhHQxBzYJB5mmE",
-    "url": "=FORMULATEXT(B38)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6914,
@@ -2138,7 +2098,6 @@
     "filename": "UmbrellaGingham2",
     "internalId": 9952,
     "uniqueEntryId": "F6fPRcpqGqhQ5oq7F",
-    "url": "=FORMULATEXT(B39)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9952,
@@ -2185,7 +2144,6 @@
     "filename": "UmbrellaMushroom0",
     "internalId": 7174,
     "uniqueEntryId": "LLSQNPiMBWXXdTYFo",
-    "url": "=FORMULATEXT(B40)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7174,
@@ -2278,7 +2236,6 @@
     "filename": "UmbrellaOrange0",
     "internalId": 6912,
     "uniqueEntryId": "ovb5ZxHTXJtBWQQxF",
-    "url": "=FORMULATEXT(B42)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6912,
@@ -2371,7 +2328,6 @@
     "filename": "UmbrellaPanda0",
     "internalId": 7170,
     "uniqueEntryId": "AJkrWywbkBfFpke5b",
-    "url": "=FORMULATEXT(B43)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7170,
@@ -2418,7 +2374,6 @@
     "filename": "UmbrellaBangasa0",
     "internalId": 7178,
     "uniqueEntryId": "Brvfu2wmEsgfpsfe6",
-    "url": "=FORMULATEXT(B44)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7178,
@@ -2465,7 +2420,6 @@
     "filename": "UmbrellaBoundary0",
     "internalId": 6918,
     "uniqueEntryId": "KzFYhiwG4WmgGuewi",
-    "url": "=FORMULATEXT(B46)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6918,
@@ -2512,7 +2466,6 @@
     "filename": "UmbrellaPeach0",
     "internalId": 9947,
     "uniqueEntryId": "e7KPGj99m2g9dvYfe",
-    "url": "=FORMULATEXT(B47)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9947,
@@ -2605,7 +2558,6 @@
     "filename": "UmbrellaPear0",
     "internalId": 9950,
     "uniqueEntryId": "2kKFs5wG5ioHGbGda",
-    "url": "=FORMULATEXT(B48)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9950,
@@ -2698,7 +2650,6 @@
     "filename": "UmbrellaMargaret0",
     "internalId": 7181,
     "uniqueEntryId": "5qqATjxvMpMHmcDns",
-    "url": "=FORMULATEXT(B49)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7181,
@@ -2745,7 +2696,6 @@
     "filename": "UmbrellaGingham3",
     "internalId": 9953,
     "uniqueEntryId": "hvv9Bz2ey3iRvSnAL",
-    "url": "=FORMULATEXT(B50)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9953,
@@ -2792,7 +2742,6 @@
     "filename": "UmbrellaPineapple0",
     "internalId": 6910,
     "uniqueEntryId": "ohMyh5kSBGg8Zayyh",
-    "url": "=FORMULATEXT(B51)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6910,
@@ -2839,7 +2788,6 @@
     "filename": "UmbrellaPacodarace0",
     "internalId": 7176,
     "uniqueEntryId": "PTvmPPNiXMZ4jhBKX",
-    "url": "=FORMULATEXT(B52)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7176,
@@ -2886,7 +2834,6 @@
     "filename": "UmbrellaSchool0",
     "internalId": 7164,
     "uniqueEntryId": "Cg8DXnxz3AtYJvdPE",
-    "url": "=FORMULATEXT(B53)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7164,
@@ -2933,7 +2880,6 @@
     "filename": "UmbrellaPacoda0",
     "internalId": 7183,
     "uniqueEntryId": "2dXt6F6XwMf346Zbv",
-    "url": "=FORMULATEXT(B54)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7183,
@@ -2980,7 +2926,6 @@
     "filename": "UmbrellaPacodarace1",
     "internalId": 12133,
     "uniqueEntryId": "J6FrqXxBPqGNBs4sC",
-    "url": "=FORMULATEXT(B55)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 12133,
@@ -3027,7 +2972,6 @@
     "filename": "UmbrellaRainbow0",
     "internalId": 7179,
     "uniqueEntryId": "P9bMZJY3n2dtooq5X",
-    "url": "=FORMULATEXT(B56)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7179,
@@ -3074,7 +3018,6 @@
     "filename": "UmbrellaRain0",
     "internalId": 6913,
     "uniqueEntryId": "Djdj6KiSLh82BHzqB",
-    "url": "=FORMULATEXT(B57)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6913,
@@ -3121,7 +3064,6 @@
     "filename": "UmbrellaPacodarace6",
     "internalId": 12138,
     "uniqueEntryId": "kKoJtAcxMDNKq7tNu",
-    "url": "=FORMULATEXT(B58)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 12138,
@@ -3168,7 +3110,6 @@
     "filename": "UmbrellaStandard1",
     "internalId": 9958,
     "uniqueEntryId": "Z9yCA3wawXdQsbLSs",
-    "url": "=FORMULATEXT(B59)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 9958,
@@ -3215,7 +3156,6 @@
     "filename": "UmbrellaCrystal0",
     "internalId": 6905,
     "uniqueEntryId": "r5RwHucDKWJPg7dkv",
-    "url": "=FORMULATEXT(B60)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6905,
@@ -3262,7 +3202,6 @@
     "filename": "UmbrellaSpider0",
     "internalId": 7173,
     "uniqueEntryId": "aaQhimbednGniK4NF",
-    "url": "=FORMULATEXT(B61)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7173,
@@ -3309,7 +3248,6 @@
     "filename": "UmbrellaStrawberry0",
     "internalId": 6907,
     "uniqueEntryId": "kKQHooYToACDqoqBm",
-    "url": "=FORMULATEXT(B62)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6907,
@@ -3356,7 +3294,6 @@
     "filename": "UmbrellaStripe0",
     "internalId": 6916,
     "uniqueEntryId": "hF2THDnHbEJWTDT8L",
-    "url": "=FORMULATEXT(B63)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6916,
@@ -3403,7 +3340,6 @@
     "filename": "UmbrellaSunflower0",
     "internalId": 6904,
     "uniqueEntryId": "thr45xserbQqAm6o4",
-    "url": "=FORMULATEXT(B64)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6904,
@@ -3450,7 +3386,6 @@
     "filename": "UmbrellaPlaid0",
     "internalId": 6917,
     "uniqueEntryId": "HjZzRQKbMdXBKYawe",
-    "url": "=FORMULATEXT(B65)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6917,
@@ -3497,7 +3432,6 @@
     "filename": "UmbrellaTwocolor0",
     "internalId": 7166,
     "uniqueEntryId": "Da4xWXq9D2RFLnyYj",
-    "url": "=FORMULATEXT(B67)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7166,
@@ -3544,7 +3478,6 @@
     "filename": "UmbrellaVinyl0",
     "internalId": 7165,
     "uniqueEntryId": "q4Eo8vxPLFCL4ppac",
-    "url": "=FORMULATEXT(B68)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 7165,
@@ -3591,7 +3524,6 @@
     "filename": "UmbrellaWater0",
     "internalId": 6909,
     "uniqueEntryId": "JTchAPvto4vHBJANw",
-    "url": "=FORMULATEXT(B69)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 6909,
@@ -3638,7 +3570,6 @@
     "filename": "UmbrellaPacodarace3",
     "internalId": 12135,
     "uniqueEntryId": "4btSNLBHRoocAXfgE",
-    "url": "=FORMULATEXT(B70)",
     "translations": {
       "sourceSheet": "Umbrellas",
       "id": 12135,

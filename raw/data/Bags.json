@@ -32,9 +32,7 @@
     "Filename": "BagShoulderAcorn0",
     "ClothGroup ID": 980,
     "Internal ID": 7492,
-    "Unique Entry ID": "XiC7bNzTBAdb8zWwr",
-    "Url": "=FORMULATEXT(B2)",
-    "Url2": "=FORMULATEXT(C2)"
+    "Unique Entry ID": "XiC7bNzTBAdb8zWwr"
   },
   {
     "SourceSheet": "Bags",
@@ -69,9 +67,7 @@
     "Filename": "ToolBagPaperfashion0",
     "ClothGroup ID": 1510,
     "Internal ID": 14870,
-    "Unique Entry ID": "4ufLamXovvb7SbwKh",
-    "Url": "=FORMULATEXT(B3)",
-    "Url2": "=FORMULATEXT(C3)"
+    "Unique Entry ID": "4ufLamXovvb7SbwKh"
   },
   {
     "SourceSheet": "Bags",
@@ -106,9 +102,7 @@
     "Filename": "ToolBagPaperfashion1",
     "ClothGroup ID": 1510,
     "Internal ID": 306,
-    "Unique Entry ID": "WAxwLb5yJpatBDRrp",
-    "Url": "=FORMULATEXT(B4)",
-    "Url2": "=FORMULATEXT(C4)"
+    "Unique Entry ID": "WAxwLb5yJpatBDRrp"
   },
   {
     "SourceSheet": "Bags",
@@ -143,9 +137,7 @@
     "Filename": "BagShoulderGamaguchiAsian0",
     "ClothGroup ID": 1490,
     "Internal ID": 14859,
-    "Unique Entry ID": "JEshZRB4MsJjn6qR7",
-    "Url": "=FORMULATEXT(B5)",
-    "Url2": "=FORMULATEXT(C5)"
+    "Unique Entry ID": "JEshZRB4MsJjn6qR7"
   },
   {
     "SourceSheet": "Bags",
@@ -180,9 +172,7 @@
     "Filename": "BagShoulderGamaguchiAsian1",
     "ClothGroup ID": 1490,
     "Internal ID": 352,
-    "Unique Entry ID": "HQ2Lj5h3pYiKavNAp",
-    "Url": "=FORMULATEXT(B6)",
-    "Url2": "=FORMULATEXT(C6)"
+    "Unique Entry ID": "HQ2Lj5h3pYiKavNAp"
   },
   {
     "SourceSheet": "Bags",
@@ -217,9 +207,7 @@
     "Filename": "ToolBagBasket0",
     "ClothGroup ID": 1503,
     "Internal ID": 14791,
-    "Unique Entry ID": "JgJwc8Wr2evdQxpRi",
-    "Url": "=FORMULATEXT(B7)",
-    "Url2": "=FORMULATEXT(C7)"
+    "Unique Entry ID": "JgJwc8Wr2evdQxpRi"
   },
   {
     "SourceSheet": "Bags",
@@ -254,9 +242,7 @@
     "Filename": "ToolBagBasket2",
     "ClothGroup ID": 1503,
     "Internal ID": 369,
-    "Unique Entry ID": "6oX353Da7NJdAsHuo",
-    "Url": "=FORMULATEXT(B8)",
-    "Url2": "=FORMULATEXT(C8)"
+    "Unique Entry ID": "6oX353Da7NJdAsHuo"
   },
   {
     "SourceSheet": "Bags",
@@ -291,9 +277,7 @@
     "Filename": "ToolBagBasket1",
     "ClothGroup ID": 1503,
     "Internal ID": 368,
-    "Unique Entry ID": "7rKZmcoHLonmJD6N3",
-    "Url": "=FORMULATEXT(B9)",
-    "Url2": "=FORMULATEXT(C9)"
+    "Unique Entry ID": "7rKZmcoHLonmJD6N3"
   },
   {
     "SourceSheet": "Bags",
@@ -328,9 +312,7 @@
     "Filename": "BagBackpackBasket0",
     "ClothGroup ID": 995,
     "Internal ID": 7506,
-    "Unique Entry ID": "BW764rj9aH3QL6GRH",
-    "Url": "=FORMULATEXT(B10)",
-    "Url2": "=FORMULATEXT(C10)"
+    "Unique Entry ID": "BW764rj9aH3QL6GRH"
   },
   {
     "SourceSheet": "Bags",
@@ -365,9 +347,7 @@
     "Filename": "BagShoulderGamaguchiBijou0",
     "ClothGroup ID": 1492,
     "Internal ID": 14861,
-    "Unique Entry ID": "RLmEKHTmqpSNx3JaH",
-    "Url": "=FORMULATEXT(B11)",
-    "Url2": "=FORMULATEXT(C11)"
+    "Unique Entry ID": "RLmEKHTmqpSNx3JaH"
   },
   {
     "SourceSheet": "Bags",
@@ -402,9 +382,7 @@
     "Filename": "BagShoulderGamaguchiBijou1",
     "ClothGroup ID": 1492,
     "Internal ID": 355,
-    "Unique Entry ID": "yw7dxwmwsqjbPhXvv",
-    "Url": "=FORMULATEXT(B12)",
-    "Url2": "=FORMULATEXT(C12)"
+    "Unique Entry ID": "yw7dxwmwsqjbPhXvv"
   },
   {
     "SourceSheet": "Bags",
@@ -439,9 +417,7 @@
     "Filename": "BagShoulderGamaguchiBijou2",
     "ClothGroup ID": 1492,
     "Internal ID": 356,
-    "Unique Entry ID": "FrNRJhxm9pffD3eG4",
-    "Url": "=FORMULATEXT(B13)",
-    "Url2": "=FORMULATEXT(C13)"
+    "Unique Entry ID": "FrNRJhxm9pffD3eG4"
   },
   {
     "SourceSheet": "Bags",
@@ -476,9 +452,7 @@
     "Filename": "BagBackpackBear0",
     "ClothGroup ID": 1238,
     "Internal ID": 12877,
-    "Unique Entry ID": "yadG76uHehTnHavwc",
-    "Url": "=FORMULATEXT(B14)",
-    "Url2": "=FORMULATEXT(C14)"
+    "Unique Entry ID": "yadG76uHehTnHavwc"
   },
   {
     "SourceSheet": "Bags",
@@ -513,9 +487,7 @@
     "Filename": "BagBackpackBear1",
     "ClothGroup ID": 1238,
     "Internal ID": 339,
-    "Unique Entry ID": "QGqP8WkBA4HYaqknA",
-    "Url": "=FORMULATEXT(B15)",
-    "Url2": "=FORMULATEXT(C15)"
+    "Unique Entry ID": "QGqP8WkBA4HYaqknA"
   },
   {
     "SourceSheet": "Bags",
@@ -550,9 +522,7 @@
     "Filename": "BagBackpackBear2",
     "ClothGroup ID": 1238,
     "Internal ID": 714,
-    "Unique Entry ID": "QJNEepzqmHiqS28Lp",
-    "Url": "=FORMULATEXT(B16)",
-    "Url2": "=FORMULATEXT(C16)"
+    "Unique Entry ID": "QJNEepzqmHiqS28Lp"
   },
   {
     "SourceSheet": "Bags",
@@ -587,9 +557,7 @@
     "Filename": "BagBackpackBear3",
     "ClothGroup ID": 1238,
     "Internal ID": 718,
-    "Unique Entry ID": "GqPuKvErbpXQSjNqL",
-    "Url": "=FORMULATEXT(B17)",
-    "Url2": "=FORMULATEXT(C17)"
+    "Unique Entry ID": "GqPuKvErbpXQSjNqL"
   },
   {
     "SourceSheet": "Bags",
@@ -624,9 +592,7 @@
     "Filename": "BagBackpackBear4",
     "ClothGroup ID": 1238,
     "Internal ID": 719,
-    "Unique Entry ID": "xwj7zZQboPT3DDweq",
-    "Url": "=FORMULATEXT(B18)",
-    "Url2": "=FORMULATEXT(C18)"
+    "Unique Entry ID": "xwj7zZQboPT3DDweq"
   },
   {
     "SourceSheet": "Bags",
@@ -661,9 +627,7 @@
     "Filename": "BagBackpackTownPattern0",
     "ClothGroup ID": 1455,
     "Internal ID": 14782,
-    "Unique Entry ID": "9SGwf8R6ZDR2dtc4R",
-    "Url": "=FORMULATEXT(B19)",
-    "Url2": "=FORMULATEXT(C19)"
+    "Unique Entry ID": "9SGwf8R6ZDR2dtc4R"
   },
   {
     "SourceSheet": "Bags",
@@ -698,9 +662,7 @@
     "Filename": "BagBackpackTownPattern1",
     "ClothGroup ID": 1455,
     "Internal ID": 675,
-    "Unique Entry ID": "7kt8r6FMmKMEyTevE",
-    "Url": "=FORMULATEXT(B20)",
-    "Url2": "=FORMULATEXT(C20)"
+    "Unique Entry ID": "7kt8r6FMmKMEyTevE"
   },
   {
     "SourceSheet": "Bags",
@@ -735,9 +697,7 @@
     "Filename": "ToolBagEcobread0",
     "ClothGroup ID": 1519,
     "Internal ID": 14813,
-    "Unique Entry ID": "6byP9duj2EyL3Sdqe",
-    "Url": "=FORMULATEXT(B21)",
-    "Url2": "=FORMULATEXT(C21)"
+    "Unique Entry ID": "6byP9duj2EyL3Sdqe"
   },
   {
     "SourceSheet": "Bags",
@@ -772,9 +732,7 @@
     "Filename": "BagShoulderCage0",
     "ClothGroup ID": 967,
     "Internal ID": 7479,
-    "Unique Entry ID": "nrkEKkL46YsQYcYjp",
-    "Url": "=FORMULATEXT(B22)",
-    "Url2": "=FORMULATEXT(C22)"
+    "Unique Entry ID": "nrkEKkL46YsQYcYjp"
   },
   {
     "SourceSheet": "Bags",
@@ -809,9 +767,7 @@
     "Filename": "BagBackpackEgg0",
     "ClothGroup ID": 1203,
     "Internal ID": 12447,
-    "Unique Entry ID": "YGofzAZknSTYWmfWM",
-    "Url": "=FORMULATEXT(B23)",
-    "Url2": "=FORMULATEXT(C23)"
+    "Unique Entry ID": "YGofzAZknSTYWmfWM"
   },
   {
     "SourceSheet": "Bags",
@@ -846,9 +802,7 @@
     "Filename": "BagBackpackButterfly0",
     "ClothGroup ID": 991,
     "Internal ID": 7502,
-    "Unique Entry ID": "unsmeHZemRaTnq62z",
-    "Url": "=FORMULATEXT(B24)",
-    "Url2": "=FORMULATEXT(C24)"
+    "Unique Entry ID": "unsmeHZemRaTnq62z"
   },
   {
     "SourceSheet": "Bags",
@@ -883,9 +837,7 @@
     "Filename": "ToolBagTotecamouflage0",
     "ClothGroup ID": 1514,
     "Internal ID": 14890,
-    "Unique Entry ID": "hkENX8rbZFmeCvs3m",
-    "Url": "=FORMULATEXT(B25)",
-    "Url2": "=FORMULATEXT(C25)"
+    "Unique Entry ID": "hkENX8rbZFmeCvs3m"
   },
   {
     "SourceSheet": "Bags",
@@ -920,9 +872,7 @@
     "Filename": "ToolBagTotecamouflage1",
     "ClothGroup ID": 1514,
     "Internal ID": 367,
-    "Unique Entry ID": "gKdTa28W2bkWRKpEQ",
-    "Url": "=FORMULATEXT(B26)",
-    "Url2": "=FORMULATEXT(C26)"
+    "Unique Entry ID": "gKdTa28W2bkWRKpEQ"
   },
   {
     "SourceSheet": "Bags",
@@ -957,9 +907,7 @@
     "Filename": "BagBackpackTote0",
     "ClothGroup ID": 998,
     "Internal ID": 7509,
-    "Unique Entry ID": "ZtgYddBwpZfGMjewu",
-    "Url": "=FORMULATEXT(B27)",
-    "Url2": "=FORMULATEXT(C27)"
+    "Unique Entry ID": "ZtgYddBwpZfGMjewu"
   },
   {
     "SourceSheet": "Bags",
@@ -994,9 +942,7 @@
     "Filename": "BagBackpackTownCheck2",
     "ClothGroup ID": 1480,
     "Internal ID": 702,
-    "Unique Entry ID": "ygmvdDwEN95Z9zrKv",
-    "Url": "=FORMULATEXT(B28)",
-    "Url2": "=FORMULATEXT(C28)"
+    "Unique Entry ID": "ygmvdDwEN95Z9zrKv"
   },
   {
     "SourceSheet": "Bags",
@@ -1031,9 +977,7 @@
     "Filename": "BagBackpackTownCheck3",
     "ClothGroup ID": 1480,
     "Internal ID": 703,
-    "Unique Entry ID": "XYXcQcweG2G3cg6ok",
-    "Url": "=FORMULATEXT(B29)",
-    "Url2": "=FORMULATEXT(C29)"
+    "Unique Entry ID": "XYXcQcweG2G3cg6ok"
   },
   {
     "SourceSheet": "Bags",
@@ -1068,9 +1012,7 @@
     "Filename": "BagBackpackTownCheck1",
     "ClothGroup ID": 1480,
     "Internal ID": 701,
-    "Unique Entry ID": "vv2SEMWDvGaCRqPqu",
-    "Url": "=FORMULATEXT(B30)",
-    "Url2": "=FORMULATEXT(C30)"
+    "Unique Entry ID": "vv2SEMWDvGaCRqPqu"
   },
   {
     "SourceSheet": "Bags",
@@ -1105,9 +1047,7 @@
     "Filename": "BagBackpackTownCheck0",
     "ClothGroup ID": 1480,
     "Internal ID": 14844,
-    "Unique Entry ID": "dj6vtf6XAqYjHEaqs",
-    "Url": "=FORMULATEXT(B31)",
-    "Url2": "=FORMULATEXT(C31)"
+    "Unique Entry ID": "dj6vtf6XAqYjHEaqs"
   },
   {
     "SourceSheet": "Bags",
@@ -1142,9 +1082,7 @@
     "Filename": "BagShoulderCherryblossoms0",
     "ClothGroup ID": 978,
     "Internal ID": 7490,
-    "Unique Entry ID": "wwkZdhj9HzxZiqHys",
-    "Url": "=FORMULATEXT(B32)",
-    "Url2": "=FORMULATEXT(C32)"
+    "Unique Entry ID": "wwkZdhj9HzxZiqHys"
   },
   {
     "SourceSheet": "Bags",
@@ -1179,9 +1117,7 @@
     "Filename": "BagShoulderGamaguchi4",
     "ClothGroup ID": 1456,
     "Internal ID": 345,
-    "Unique Entry ID": "72Xsfpp7ewaTkzyB5",
-    "Url": "=FORMULATEXT(B33)",
-    "Url2": "=FORMULATEXT(C33)"
+    "Unique Entry ID": "72Xsfpp7ewaTkzyB5"
   },
   {
     "SourceSheet": "Bags",
@@ -1216,9 +1152,7 @@
     "Filename": "BagShoulderGamaguchi5",
     "ClothGroup ID": 1456,
     "Internal ID": 346,
-    "Unique Entry ID": "6PCNSGwpH6fuCsbfk",
-    "Url": "=FORMULATEXT(B34)",
-    "Url2": "=FORMULATEXT(C34)"
+    "Unique Entry ID": "6PCNSGwpH6fuCsbfk"
   },
   {
     "SourceSheet": "Bags",
@@ -1253,9 +1187,7 @@
     "Filename": "BagShoulderGamaguchi1",
     "ClothGroup ID": 1456,
     "Internal ID": 340,
-    "Unique Entry ID": "aKBzafbwwNiuAJo8c",
-    "Url": "=FORMULATEXT(B35)",
-    "Url2": "=FORMULATEXT(C35)"
+    "Unique Entry ID": "aKBzafbwwNiuAJo8c"
   },
   {
     "SourceSheet": "Bags",
@@ -1290,9 +1222,7 @@
     "Filename": "BagShoulderGamaguchi3",
     "ClothGroup ID": 1456,
     "Internal ID": 344,
-    "Unique Entry ID": "BZadwstw2oGF4PhcD",
-    "Url": "=FORMULATEXT(B36)",
-    "Url2": "=FORMULATEXT(C36)"
+    "Unique Entry ID": "BZadwstw2oGF4PhcD"
   },
   {
     "SourceSheet": "Bags",
@@ -1327,9 +1257,7 @@
     "Filename": "BagShoulderGamaguchi2",
     "ClothGroup ID": 1456,
     "Internal ID": 342,
-    "Unique Entry ID": "9pY8hpFHx8wCTW957",
-    "Url": "=FORMULATEXT(B37)",
-    "Url2": "=FORMULATEXT(C37)"
+    "Unique Entry ID": "9pY8hpFHx8wCTW957"
   },
   {
     "SourceSheet": "Bags",
@@ -1364,9 +1292,7 @@
     "Filename": "BagShoulderGamaguchi6",
     "ClothGroup ID": 1456,
     "Internal ID": 347,
-    "Unique Entry ID": "Rgwvj3weSoA3dHgT8",
-    "Url": "=FORMULATEXT(B38)",
-    "Url2": "=FORMULATEXT(C38)"
+    "Unique Entry ID": "Rgwvj3weSoA3dHgT8"
   },
   {
     "SourceSheet": "Bags",
@@ -1401,9 +1327,7 @@
     "Filename": "BagShoulderGamaguchi0",
     "ClothGroup ID": 1456,
     "Internal ID": 14783,
-    "Unique Entry ID": "SGiaYqqaRQnTkiY4X",
-    "Url": "=FORMULATEXT(B39)",
-    "Url2": "=FORMULATEXT(C39)"
+    "Unique Entry ID": "SGiaYqqaRQnTkiY4X"
   },
   {
     "SourceSheet": "Bags",
@@ -1438,9 +1362,7 @@
     "Filename": "BagShoulderCanvas2",
     "ClothGroup ID": 975,
     "Internal ID": 12014,
-    "Unique Entry ID": "NfkYKg5NoaWKBEpzN",
-    "Url": "=FORMULATEXT(B40)",
-    "Url2": "=FORMULATEXT(C40)"
+    "Unique Entry ID": "NfkYKg5NoaWKBEpzN"
   },
   {
     "SourceSheet": "Bags",
@@ -1475,9 +1397,7 @@
     "Filename": "BagShoulderCanvas1",
     "ClothGroup ID": 975,
     "Internal ID": 12013,
-    "Unique Entry ID": "dcpCgBwji4QCYAy8k",
-    "Url": "=FORMULATEXT(B41)",
-    "Url2": "=FORMULATEXT(C41)"
+    "Unique Entry ID": "dcpCgBwji4QCYAy8k"
   },
   {
     "SourceSheet": "Bags",
@@ -1512,9 +1432,7 @@
     "Filename": "BagShoulderCanvas0",
     "ClothGroup ID": 975,
     "Internal ID": 7487,
-    "Unique Entry ID": "DzoRrArWrKtzn6Xzc",
-    "Url": "=FORMULATEXT(B42)",
-    "Url2": "=FORMULATEXT(C42)"
+    "Unique Entry ID": "DzoRrArWrKtzn6Xzc"
   },
   {
     "SourceSheet": "Bags",
@@ -1549,9 +1467,7 @@
     "Filename": "ToolBagSecond0",
     "ClothGroup ID": 1512,
     "Internal ID": 14792,
-    "Unique Entry ID": "GpChrXR8j8XRnmxJn",
-    "Url": "=FORMULATEXT(B43)",
-    "Url2": "=FORMULATEXT(C43)"
+    "Unique Entry ID": "GpChrXR8j8XRnmxJn"
   },
   {
     "SourceSheet": "Bags",
@@ -1586,9 +1502,7 @@
     "Filename": "ToolBagSecond3",
     "ClothGroup ID": 1512,
     "Internal ID": 309,
-    "Unique Entry ID": "wame2CAf7JdS6rpYF",
-    "Url": "=FORMULATEXT(B44)",
-    "Url2": "=FORMULATEXT(C44)"
+    "Unique Entry ID": "wame2CAf7JdS6rpYF"
   },
   {
     "SourceSheet": "Bags",
@@ -1623,9 +1537,7 @@
     "Filename": "ToolBagSecond2",
     "ClothGroup ID": 1512,
     "Internal ID": 308,
-    "Unique Entry ID": "cmkQMhu3kWCsqu7AM",
-    "Url": "=FORMULATEXT(B45)",
-    "Url2": "=FORMULATEXT(C45)"
+    "Unique Entry ID": "cmkQMhu3kWCsqu7AM"
   },
   {
     "SourceSheet": "Bags",
@@ -1660,9 +1572,7 @@
     "Filename": "ToolBagSecond1",
     "ClothGroup ID": 1512,
     "Internal ID": 307,
-    "Unique Entry ID": "ire3uCiNDD8JvsgAe",
-    "Url": "=FORMULATEXT(B46)",
-    "Url2": "=FORMULATEXT(C46)"
+    "Unique Entry ID": "ire3uCiNDD8JvsgAe"
   },
   {
     "SourceSheet": "Bags",
@@ -1697,9 +1607,7 @@
     "Filename": "BagBackpackBody3",
     "ClothGroup ID": 971,
     "Internal ID": 11982,
-    "Unique Entry ID": "FsyHb5QAf8DDvPC7y",
-    "Url": "=FORMULATEXT(B47)",
-    "Url2": "=FORMULATEXT(C47)"
+    "Unique Entry ID": "FsyHb5QAf8DDvPC7y"
   },
   {
     "SourceSheet": "Bags",
@@ -1734,9 +1642,7 @@
     "Filename": "BagBackpackBody0",
     "ClothGroup ID": 971,
     "Internal ID": 7483,
-    "Unique Entry ID": "zXtyCFHwWjnChTami",
-    "Url": "=FORMULATEXT(B48)",
-    "Url2": "=FORMULATEXT(C48)"
+    "Unique Entry ID": "zXtyCFHwWjnChTami"
   },
   {
     "SourceSheet": "Bags",
@@ -1771,9 +1677,7 @@
     "Filename": "BagBackpackBody2",
     "ClothGroup ID": 971,
     "Internal ID": 11981,
-    "Unique Entry ID": "zX6ZX4puTojGuJgGj",
-    "Url": "=FORMULATEXT(B49)",
-    "Url2": "=FORMULATEXT(C49)"
+    "Unique Entry ID": "zX6ZX4puTojGuJgGj"
   },
   {
     "SourceSheet": "Bags",
@@ -1808,9 +1712,7 @@
     "Filename": "BagBackpackBody1",
     "ClothGroup ID": 971,
     "Internal ID": 11980,
-    "Unique Entry ID": "tbfNwy8RmGztJdAnn",
-    "Url": "=FORMULATEXT(B50)",
-    "Url2": "=FORMULATEXT(C50)"
+    "Unique Entry ID": "tbfNwy8RmGztJdAnn"
   },
   {
     "SourceSheet": "Bags",
@@ -1845,9 +1747,7 @@
     "Filename": "BagShoulderDrum0",
     "ClothGroup ID": 973,
     "Internal ID": 7485,
-    "Unique Entry ID": "8MwDxuHHvYM3XJpmy",
-    "Url": "=FORMULATEXT(B51)",
-    "Url2": "=FORMULATEXT(C51)"
+    "Unique Entry ID": "8MwDxuHHvYM3XJpmy"
   },
   {
     "SourceSheet": "Bags",
@@ -1882,9 +1782,7 @@
     "Filename": "BagShoulderDrum1",
     "ClothGroup ID": 973,
     "Internal ID": 12011,
-    "Unique Entry ID": "w98ZrTQWiRMHyveaa",
-    "Url": "=FORMULATEXT(B52)",
-    "Url2": "=FORMULATEXT(C52)"
+    "Unique Entry ID": "w98ZrTQWiRMHyveaa"
   },
   {
     "SourceSheet": "Bags",
@@ -1919,9 +1817,7 @@
     "Filename": "BagBackpackDal0",
     "ClothGroup ID": 1185,
     "Internal ID": 12131,
-    "Unique Entry ID": "3mGmqSPj5YPujiDgD",
-    "Url": "=FORMULATEXT(B53)",
-    "Url2": "=FORMULATEXT(C53)"
+    "Unique Entry ID": "3mGmqSPj5YPujiDgD"
   },
   {
     "SourceSheet": "Bags",
@@ -1956,9 +1852,7 @@
     "Filename": "BagBackpackDelivery0",
     "ClothGroup ID": 1410,
     "Internal ID": 14426,
-    "Unique Entry ID": "Hc56JjxXHqmyEN6hX",
-    "Url": "=FORMULATEXT(B54)",
-    "Url2": "=FORMULATEXT(C54)"
+    "Unique Entry ID": "Hc56JjxXHqmyEN6hX"
   },
   {
     "SourceSheet": "Bags",
@@ -1993,9 +1887,7 @@
     "Filename": "BagBackpackDelivery5",
     "ClothGroup ID": 1410,
     "Internal ID": 495,
-    "Unique Entry ID": "5av7fenfkMy3vjn8z",
-    "Url": "=FORMULATEXT(B55)",
-    "Url2": "=FORMULATEXT(C55)"
+    "Unique Entry ID": "5av7fenfkMy3vjn8z"
   },
   {
     "SourceSheet": "Bags",
@@ -2030,9 +1922,7 @@
     "Filename": "BagBackpackDelivery3",
     "ClothGroup ID": 1410,
     "Internal ID": 493,
-    "Unique Entry ID": "qSsTErgNMisB4kYiy",
-    "Url": "=FORMULATEXT(B56)",
-    "Url2": "=FORMULATEXT(C56)"
+    "Unique Entry ID": "qSsTErgNMisB4kYiy"
   },
   {
     "SourceSheet": "Bags",
@@ -2067,9 +1957,7 @@
     "Filename": "BagBackpackDelivery2",
     "ClothGroup ID": 1410,
     "Internal ID": 492,
-    "Unique Entry ID": "775xLbTPuWMtC75Zw",
-    "Url": "=FORMULATEXT(B57)",
-    "Url2": "=FORMULATEXT(C57)"
+    "Unique Entry ID": "775xLbTPuWMtC75Zw"
   },
   {
     "SourceSheet": "Bags",
@@ -2104,9 +1992,7 @@
     "Filename": "BagBackpackDelivery1",
     "ClothGroup ID": 1410,
     "Internal ID": 491,
-    "Unique Entry ID": "rRZTG2WKqmPY6ZkTY",
-    "Url": "=FORMULATEXT(B58)",
-    "Url2": "=FORMULATEXT(C58)"
+    "Unique Entry ID": "rRZTG2WKqmPY6ZkTY"
   },
   {
     "SourceSheet": "Bags",
@@ -2141,9 +2027,7 @@
     "Filename": "BagBackpackDelivery4",
     "ClothGroup ID": 1410,
     "Internal ID": 494,
-    "Unique Entry ID": "NnEm5JHQNsaKhFeGt",
-    "Url": "=FORMULATEXT(B59)",
-    "Url2": "=FORMULATEXT(C59)"
+    "Unique Entry ID": "NnEm5JHQNsaKhFeGt"
   },
   {
     "SourceSheet": "Bags",
@@ -2178,9 +2062,7 @@
     "Filename": "ToolBagPaperflower0",
     "ClothGroup ID": 1511,
     "Internal ID": 14872,
-    "Unique Entry ID": "YGdBmWuCmsg8BkBAG",
-    "Url": "=FORMULATEXT(B60)",
-    "Url2": "=FORMULATEXT(C60)"
+    "Unique Entry ID": "YGdBmWuCmsg8BkBAG"
   },
   {
     "SourceSheet": "Bags",
@@ -2215,9 +2097,7 @@
     "Filename": "ToolBagPaperflower1",
     "ClothGroup ID": 1511,
     "Internal ID": 305,
-    "Unique Entry ID": "Zycux4ZrTYM3at2p3",
-    "Url": "=FORMULATEXT(B61)",
-    "Url2": "=FORMULATEXT(C61)"
+    "Unique Entry ID": "Zycux4ZrTYM3at2p3"
   },
   {
     "SourceSheet": "Bags",
@@ -2252,9 +2132,7 @@
     "Filename": "ToolBagBasketdiagram0",
     "ClothGroup ID": 1505,
     "Internal ID": 14854,
-    "Unique Entry ID": "Xo3PBCD4pbS7cxwdb",
-    "Url": "=FORMULATEXT(B62)",
-    "Url2": "=FORMULATEXT(C62)"
+    "Unique Entry ID": "Xo3PBCD4pbS7cxwdb"
   },
   {
     "SourceSheet": "Bags",
@@ -2289,9 +2167,7 @@
     "Filename": "BagBackpackTownYumekawa0",
     "ClothGroup ID": 1483,
     "Internal ID": 14838,
-    "Unique Entry ID": "zcEJv97N6J2k5EPxS",
-    "Url": "=FORMULATEXT(B63)",
-    "Url2": "=FORMULATEXT(C63)"
+    "Unique Entry ID": "zcEJv97N6J2k5EPxS"
   },
   {
     "SourceSheet": "Bags",
@@ -2326,9 +2202,7 @@
     "Filename": "BagBackpackTownYumekawa1",
     "ClothGroup ID": 1483,
     "Internal ID": 679,
-    "Unique Entry ID": "ub5NmJHDpGyi4QmKq",
-    "Url": "=FORMULATEXT(B64)",
-    "Url2": "=FORMULATEXT(C64)"
+    "Unique Entry ID": "ub5NmJHDpGyi4QmKq"
   },
   {
     "SourceSheet": "Bags",
@@ -2363,9 +2237,7 @@
     "Filename": "BagShoulderYumekawa0",
     "ClothGroup ID": 1472,
     "Internal ID": 14825,
-    "Unique Entry ID": "E89nNM59h2SNRBn8x",
-    "Url": "=FORMULATEXT(B65)",
-    "Url2": "=FORMULATEXT(C65)"
+    "Unique Entry ID": "E89nNM59h2SNRBn8x"
   },
   {
     "SourceSheet": "Bags",
@@ -2400,9 +2272,7 @@
     "Filename": "BagShoulderYumekawaRibbon0",
     "ClothGroup ID": 1493,
     "Internal ID": 14883,
-    "Unique Entry ID": "S2o8ZDum4FYypwynm",
-    "Url": "=FORMULATEXT(B66)",
-    "Url2": "=FORMULATEXT(C66)"
+    "Unique Entry ID": "S2o8ZDum4FYypwynm"
   },
   {
     "SourceSheet": "Bags",
@@ -2437,9 +2307,7 @@
     "Filename": "BagShoulderYumekawaUnicorn0",
     "ClothGroup ID": 1494,
     "Internal ID": 14884,
-    "Unique Entry ID": "fbMuddYDB99SAfDuF",
-    "Url": "=FORMULATEXT(B67)",
-    "Url2": "=FORMULATEXT(C67)"
+    "Unique Entry ID": "fbMuddYDB99SAfDuF"
   },
   {
     "SourceSheet": "Bags",
@@ -2474,9 +2342,7 @@
     "Filename": "BagBackpackDry0",
     "ClothGroup ID": 963,
     "Internal ID": 7471,
-    "Unique Entry ID": "iwTpuxykXjSBi8b9a",
-    "Url": "=FORMULATEXT(B68)",
-    "Url2": "=FORMULATEXT(C68)"
+    "Unique Entry ID": "iwTpuxykXjSBi8b9a"
   },
   {
     "SourceSheet": "Bags",
@@ -2511,9 +2377,7 @@
     "Filename": "BagBackpackDry1",
     "ClothGroup ID": 963,
     "Internal ID": 11964,
-    "Unique Entry ID": "cMoNDoZx2sdfD6Haz",
-    "Url": "=FORMULATEXT(B69)",
-    "Url2": "=FORMULATEXT(C69)"
+    "Unique Entry ID": "cMoNDoZx2sdfD6Haz"
   },
   {
     "SourceSheet": "Bags",
@@ -2548,9 +2412,7 @@
     "Filename": "ToolBagPaperelectric0",
     "ClothGroup ID": 1509,
     "Internal ID": 14871,
-    "Unique Entry ID": "M65CNMLJZo3LtmqHu",
-    "Url": "=FORMULATEXT(B70)",
-    "Url2": "=FORMULATEXT(C70)"
+    "Unique Entry ID": "M65CNMLJZo3LtmqHu"
   },
   {
     "SourceSheet": "Bags",
@@ -2585,9 +2447,7 @@
     "Filename": "ToolBagPaperelectric1",
     "ClothGroup ID": 1509,
     "Internal ID": 727,
-    "Unique Entry ID": "7riTnD4QxLS7mWNEf",
-    "Url": "=FORMULATEXT(B71)",
-    "Url2": "=FORMULATEXT(C71)"
+    "Unique Entry ID": "7riTnD4QxLS7mWNEf"
   },
   {
     "SourceSheet": "Bags",
@@ -2622,9 +2482,7 @@
     "Filename": "ToolBagPaperelectric3",
     "ClothGroup ID": 1509,
     "Internal ID": 733,
-    "Unique Entry ID": "ZadzNjXhQ5Kz7Fk3K",
-    "Url": "=FORMULATEXT(B72)",
-    "Url2": "=FORMULATEXT(C72)"
+    "Unique Entry ID": "ZadzNjXhQ5Kz7Fk3K"
   },
   {
     "SourceSheet": "Bags",
@@ -2659,9 +2517,7 @@
     "Filename": "ToolBagPaperelectric2",
     "ClothGroup ID": 1509,
     "Internal ID": 732,
-    "Unique Entry ID": "edjyRTLaHPTzWg8ro",
-    "Url": "=FORMULATEXT(B73)",
-    "Url2": "=FORMULATEXT(C73)"
+    "Unique Entry ID": "edjyRTLaHPTzWg8ro"
   },
   {
     "SourceSheet": "Bags",
@@ -2696,9 +2552,7 @@
     "Filename": "BagShoulderParty2",
     "ClothGroup ID": 986,
     "Internal ID": 11977,
-    "Unique Entry ID": "x9Z63uLS8cHdsoczj",
-    "Url": "=FORMULATEXT(B74)",
-    "Url2": "=FORMULATEXT(C74)"
+    "Unique Entry ID": "x9Z63uLS8cHdsoczj"
   },
   {
     "SourceSheet": "Bags",
@@ -2733,9 +2587,7 @@
     "Filename": "BagShoulderParty0",
     "ClothGroup ID": 986,
     "Internal ID": 7305,
-    "Unique Entry ID": "tZhGqzKpEeEweTZi7",
-    "Url": "=FORMULATEXT(B75)",
-    "Url2": "=FORMULATEXT(C75)"
+    "Unique Entry ID": "tZhGqzKpEeEweTZi7"
   },
   {
     "SourceSheet": "Bags",
@@ -2770,9 +2622,7 @@
     "Filename": "BagShoulderParty1",
     "ClothGroup ID": 986,
     "Internal ID": 11976,
-    "Unique Entry ID": "SoJkNi7GNiW28tYuG",
-    "Url": "=FORMULATEXT(B76)",
-    "Url2": "=FORMULATEXT(C76)"
+    "Unique Entry ID": "SoJkNi7GNiW28tYuG"
   },
   {
     "SourceSheet": "Bags",
@@ -2807,9 +2657,7 @@
     "Filename": "BagBackpackMountain2",
     "ClothGroup ID": 994,
     "Internal ID": 11972,
-    "Unique Entry ID": "HqReXLwGPigWMiJbS",
-    "Url": "=FORMULATEXT(B77)",
-    "Url2": "=FORMULATEXT(C77)"
+    "Unique Entry ID": "HqReXLwGPigWMiJbS"
   },
   {
     "SourceSheet": "Bags",
@@ -2844,9 +2692,7 @@
     "Filename": "BagBackpackMountain0",
     "ClothGroup ID": 994,
     "Internal ID": 7505,
-    "Unique Entry ID": "sjT2tZJCMpWQNmhTy",
-    "Url": "=FORMULATEXT(B78)",
-    "Url2": "=FORMULATEXT(C78)"
+    "Unique Entry ID": "sjT2tZJCMpWQNmhTy"
   },
   {
     "SourceSheet": "Bags",
@@ -2881,9 +2727,7 @@
     "Filename": "BagBackpackMountain1",
     "ClothGroup ID": 994,
     "Internal ID": 11971,
-    "Unique Entry ID": "MKeBKrETSTs4tyrg4",
-    "Url": "=FORMULATEXT(B79)",
-    "Url2": "=FORMULATEXT(C79)"
+    "Unique Entry ID": "MKeBKrETSTs4tyrg4"
   },
   {
     "SourceSheet": "Bags",
@@ -2918,9 +2762,7 @@
     "Filename": "BagBackpackMountain3",
     "ClothGroup ID": 994,
     "Internal ID": 11973,
-    "Unique Entry ID": "vvEqA5aMBGyycpQFz",
-    "Url": "=FORMULATEXT(B80)",
-    "Url2": "=FORMULATEXT(C80)"
+    "Unique Entry ID": "vvEqA5aMBGyycpQFz"
   },
   {
     "SourceSheet": "Bags",
@@ -2955,9 +2797,7 @@
     "Filename": "BagShoulderFakefur0",
     "ClothGroup ID": 968,
     "Internal ID": 7480,
-    "Unique Entry ID": "FyneYzGmHW7SyoHn7",
-    "Url": "=FORMULATEXT(B81)",
-    "Url2": "=FORMULATEXT(C81)"
+    "Unique Entry ID": "FyneYzGmHW7SyoHn7"
   },
   {
     "SourceSheet": "Bags",
@@ -2992,9 +2832,7 @@
     "Filename": "BagShoulderFakefur1",
     "ClothGroup ID": 968,
     "Internal ID": 12003,
-    "Unique Entry ID": "gH3fn5rkmCrekWoJB",
-    "Url": "=FORMULATEXT(B82)",
-    "Url2": "=FORMULATEXT(C82)"
+    "Unique Entry ID": "gH3fn5rkmCrekWoJB"
   },
   {
     "SourceSheet": "Bags",
@@ -3029,9 +2867,7 @@
     "Filename": "BagShoulderFish0",
     "ClothGroup ID": 965,
     "Internal ID": 7477,
-    "Unique Entry ID": "CrFcdF3rXiaiiajEB",
-    "Url": "=FORMULATEXT(B83)",
-    "Url2": "=FORMULATEXT(C83)"
+    "Unique Entry ID": "CrFcdF3rXiaiiajEB"
   },
   {
     "SourceSheet": "Bags",
@@ -3066,9 +2902,7 @@
     "Filename": "ToolBagEcofish0",
     "ClothGroup ID": 1518,
     "Internal ID": 14812,
-    "Unique Entry ID": "RscrhCWf5CvRDEnai",
-    "Url": "=FORMULATEXT(B84)",
-    "Url2": "=FORMULATEXT(C84)"
+    "Unique Entry ID": "RscrhCWf5CvRDEnai"
   },
   {
     "SourceSheet": "Bags",
@@ -3103,9 +2937,7 @@
     "Filename": "ToolBagEcoflower0",
     "ClothGroup ID": 1520,
     "Internal ID": 14814,
-    "Unique Entry ID": "BAedK8v5HuLFKfJy5",
-    "Url": "=FORMULATEXT(B85)",
-    "Url2": "=FORMULATEXT(C85)"
+    "Unique Entry ID": "BAedK8v5HuLFKfJy5"
   },
   {
     "SourceSheet": "Bags",
@@ -3140,9 +2972,7 @@
     "Filename": "BagBackpackLid2",
     "ClothGroup ID": 996,
     "Internal ID": 12017,
-    "Unique Entry ID": "Z8WFCNZodHtW2DBPB",
-    "Url": "=FORMULATEXT(B86)",
-    "Url2": "=FORMULATEXT(C86)"
+    "Unique Entry ID": "Z8WFCNZodHtW2DBPB"
   },
   {
     "SourceSheet": "Bags",
@@ -3177,9 +3007,7 @@
     "Filename": "BagBackpackLid3",
     "ClothGroup ID": 996,
     "Internal ID": 12018,
-    "Unique Entry ID": "nD9TYBr8sw4rhLAyG",
-    "Url": "=FORMULATEXT(B87)",
-    "Url2": "=FORMULATEXT(C87)"
+    "Unique Entry ID": "nD9TYBr8sw4rhLAyG"
   },
   {
     "SourceSheet": "Bags",
@@ -3214,9 +3042,7 @@
     "Filename": "BagBackpackLid0",
     "ClothGroup ID": 996,
     "Internal ID": 7507,
-    "Unique Entry ID": "nkXJ2eRThdt4vEpFb",
-    "Url": "=FORMULATEXT(B88)",
-    "Url2": "=FORMULATEXT(C88)"
+    "Unique Entry ID": "nkXJ2eRThdt4vEpFb"
   },
   {
     "SourceSheet": "Bags",
@@ -3251,9 +3077,7 @@
     "Filename": "BagBackpackLid1",
     "ClothGroup ID": 996,
     "Internal ID": 12016,
-    "Unique Entry ID": "M8i2DNwxgXKWADAtW",
-    "Url": "=FORMULATEXT(B89)",
-    "Url2": "=FORMULATEXT(C89)"
+    "Unique Entry ID": "M8i2DNwxgXKWADAtW"
   },
   {
     "SourceSheet": "Bags",
@@ -3288,9 +3112,7 @@
     "Filename": "ToolBagFuroshiki0",
     "ClothGroup ID": 1506,
     "Internal ID": 14788,
-    "Unique Entry ID": "td2wyyAvEKwKfCrZv",
-    "Url": "=FORMULATEXT(B90)",
-    "Url2": "=FORMULATEXT(C90)"
+    "Unique Entry ID": "td2wyyAvEKwKfCrZv"
   },
   {
     "SourceSheet": "Bags",
@@ -3325,9 +3147,7 @@
     "Filename": "ToolBagFuroshiki4",
     "ClothGroup ID": 1506,
     "Internal ID": 559,
-    "Unique Entry ID": "MvqQF3sRB3GdHdPfK",
-    "Url": "=FORMULATEXT(B91)",
-    "Url2": "=FORMULATEXT(C91)"
+    "Unique Entry ID": "MvqQF3sRB3GdHdPfK"
   },
   {
     "SourceSheet": "Bags",
@@ -3362,9 +3182,7 @@
     "Filename": "ToolBagFuroshiki3",
     "ClothGroup ID": 1506,
     "Internal ID": 558,
-    "Unique Entry ID": "boBJzJaghhDEWiGWM",
-    "Url": "=FORMULATEXT(B92)",
-    "Url2": "=FORMULATEXT(C92)"
+    "Unique Entry ID": "boBJzJaghhDEWiGWM"
   },
   {
     "SourceSheet": "Bags",
@@ -3399,9 +3217,7 @@
     "Filename": "ToolBagFuroshiki2",
     "ClothGroup ID": 1506,
     "Internal ID": 557,
-    "Unique Entry ID": "HHbiZTGsShYYzTmNe",
-    "Url": "=FORMULATEXT(B93)",
-    "Url2": "=FORMULATEXT(C93)"
+    "Unique Entry ID": "HHbiZTGsShYYzTmNe"
   },
   {
     "SourceSheet": "Bags",
@@ -3436,9 +3252,7 @@
     "Filename": "ToolBagFuroshiki1",
     "ClothGroup ID": 1506,
     "Internal ID": 556,
-    "Unique Entry ID": "m8WYKKKvAr2LYjrPQ",
-    "Url": "=FORMULATEXT(B94)",
-    "Url2": "=FORMULATEXT(C94)"
+    "Unique Entry ID": "m8WYKKKvAr2LYjrPQ"
   },
   {
     "SourceSheet": "Bags",
@@ -3473,9 +3287,7 @@
     "Filename": "ToolBagFuroshiki5",
     "ClothGroup ID": 1506,
     "Internal ID": 560,
-    "Unique Entry ID": "HhkZdM86Ph5yTe3Go",
-    "Url": "=FORMULATEXT(B95)",
-    "Url2": "=FORMULATEXT(C95)"
+    "Unique Entry ID": "HhkZdM86Ph5yTe3Go"
   },
   {
     "SourceSheet": "Bags",
@@ -3510,9 +3322,7 @@
     "Filename": "BagBackpackHarvest0",
     "ClothGroup ID": 1233,
     "Internal ID": 12797,
-    "Unique Entry ID": "w3sCtnjHaNJwLD3vk",
-    "Url": "=FORMULATEXT(B96)",
-    "Url2": "=FORMULATEXT(C96)"
+    "Unique Entry ID": "w3sCtnjHaNJwLD3vk"
   },
   {
     "SourceSheet": "Bags",
@@ -3547,9 +3357,7 @@
     "Filename": "BagShoulderPattern0",
     "ClothGroup ID": 974,
     "Internal ID": 7486,
-    "Unique Entry ID": "mQZCwxcr6z3hq5Dgm",
-    "Url": "=FORMULATEXT(B97)",
-    "Url2": "=FORMULATEXT(C97)"
+    "Unique Entry ID": "mQZCwxcr6z3hq5Dgm"
   },
   {
     "SourceSheet": "Bags",
@@ -3584,9 +3392,7 @@
     "Filename": "BagShoulderPattern1",
     "ClothGroup ID": 974,
     "Internal ID": 12012,
-    "Unique Entry ID": "JxHQbqWH73Q3GYKT8",
-    "Url": "=FORMULATEXT(B98)",
-    "Url2": "=FORMULATEXT(C98)"
+    "Unique Entry ID": "JxHQbqWH73Q3GYKT8"
   },
   {
     "SourceSheet": "Bags",
@@ -3621,9 +3427,7 @@
     "Filename": "BagShoulderRace0",
     "ClothGroup ID": 970,
     "Internal ID": 7482,
-    "Unique Entry ID": "taTKqY3xif2LhShrf",
-    "Url": "=FORMULATEXT(B99)",
-    "Url2": "=FORMULATEXT(C99)"
+    "Unique Entry ID": "taTKqY3xif2LhShrf"
   },
   {
     "SourceSheet": "Bags",
@@ -3658,9 +3462,7 @@
     "Filename": "BagShoulderRace1",
     "ClothGroup ID": 970,
     "Internal ID": 12004,
-    "Unique Entry ID": "GLLrMeJCPd8Xn7fdr",
-    "Url": "=FORMULATEXT(B100)",
-    "Url2": "=FORMULATEXT(C100)"
+    "Unique Entry ID": "GLLrMeJCPd8Xn7fdr"
   },
   {
     "SourceSheet": "Bags",
@@ -3695,9 +3497,7 @@
     "Filename": "BagBackpackHardshell2",
     "ClothGroup ID": 1001,
     "Internal ID": 11946,
-    "Unique Entry ID": "yxnDx8JQqzZDM66oR",
-    "Url": "=FORMULATEXT(B101)",
-    "Url2": "=FORMULATEXT(C101)"
+    "Unique Entry ID": "yxnDx8JQqzZDM66oR"
   },
   {
     "SourceSheet": "Bags",
@@ -3732,9 +3532,7 @@
     "Filename": "BagBackpackHardshell1",
     "ClothGroup ID": 1001,
     "Internal ID": 10184,
-    "Unique Entry ID": "qdP3rmZ7P7HgA2cin",
-    "Url": "=FORMULATEXT(B102)",
-    "Url2": "=FORMULATEXT(C102)"
+    "Unique Entry ID": "qdP3rmZ7P7HgA2cin"
   },
   {
     "SourceSheet": "Bags",
@@ -3769,9 +3567,7 @@
     "Filename": "BagBackpackHardshell0",
     "ClothGroup ID": 1001,
     "Internal ID": 7512,
-    "Unique Entry ID": "LETQjE3yFDKze4ntv",
-    "Url": "=FORMULATEXT(B103)",
-    "Url2": "=FORMULATEXT(C103)"
+    "Unique Entry ID": "LETQjE3yFDKze4ntv"
   },
   {
     "SourceSheet": "Bags",
@@ -3806,9 +3602,7 @@
     "Filename": "BagBackpackMasterswordHylianshield0",
     "ClothGroup ID": 1554,
     "Internal ID": 1044,
-    "Unique Entry ID": "S7SxMrJcgrQrMsFS7",
-    "Url": "=FORMULATEXT(B104)",
-    "Url2": "=FORMULATEXT(C104)"
+    "Unique Entry ID": "S7SxMrJcgrQrMsFS7"
   },
   {
     "SourceSheet": "Bags",
@@ -3843,9 +3637,7 @@
     "Filename": "BagBackpackHalloween2",
     "ClothGroup ID": 1268,
     "Internal ID": 13409,
-    "Unique Entry ID": "CcDoJoDqXaXyMYBEx",
-    "Url": "=FORMULATEXT(B105)",
-    "Url2": "=FORMULATEXT(C105)"
+    "Unique Entry ID": "CcDoJoDqXaXyMYBEx"
   },
   {
     "SourceSheet": "Bags",
@@ -3880,9 +3672,7 @@
     "Filename": "BagBackpackHalloween5",
     "ClothGroup ID": 1268,
     "Internal ID": 13412,
-    "Unique Entry ID": "8v2gEqEZYuMibTdvv",
-    "Url": "=FORMULATEXT(B106)",
-    "Url2": "=FORMULATEXT(C106)"
+    "Unique Entry ID": "8v2gEqEZYuMibTdvv"
   },
   {
     "SourceSheet": "Bags",
@@ -3917,9 +3707,7 @@
     "Filename": "BagBackpackHalloween4",
     "ClothGroup ID": 1268,
     "Internal ID": 13411,
-    "Unique Entry ID": "FZZmBDBcsCn9cx29J",
-    "Url": "=FORMULATEXT(B107)",
-    "Url2": "=FORMULATEXT(C107)"
+    "Unique Entry ID": "FZZmBDBcsCn9cx29J"
   },
   {
     "SourceSheet": "Bags",
@@ -3954,9 +3742,7 @@
     "Filename": "BagBackpackHalloween0",
     "ClothGroup ID": 1268,
     "Internal ID": 13015,
-    "Unique Entry ID": "N5Ydq8EZ3TTsKv34c",
-    "Url": "=FORMULATEXT(B108)",
-    "Url2": "=FORMULATEXT(C108)"
+    "Unique Entry ID": "N5Ydq8EZ3TTsKv34c"
   },
   {
     "SourceSheet": "Bags",
@@ -3991,9 +3777,7 @@
     "Filename": "BagBackpackHalloween3",
     "ClothGroup ID": 1268,
     "Internal ID": 13410,
-    "Unique Entry ID": "spWkjYsT4mKfBijAz",
-    "Url": "=FORMULATEXT(B109)",
-    "Url2": "=FORMULATEXT(C109)"
+    "Unique Entry ID": "spWkjYsT4mKfBijAz"
   },
   {
     "SourceSheet": "Bags",
@@ -4028,9 +3812,7 @@
     "Filename": "BagBackpackHalloween1",
     "ClothGroup ID": 1268,
     "Internal ID": 13408,
-    "Unique Entry ID": "BqyY8XSWSswej9Lap",
-    "Url": "=FORMULATEXT(B110)",
-    "Url2": "=FORMULATEXT(C110)"
+    "Unique Entry ID": "BqyY8XSWSswej9Lap"
   },
   {
     "SourceSheet": "Bags",
@@ -4065,9 +3847,7 @@
     "Filename": "BagBackpackInktank0",
     "ClothGroup ID": 1550,
     "Internal ID": 1258,
-    "Unique Entry ID": "LRpwTw5vqnRLKpa2W",
-    "Url": "=FORMULATEXT(B111)",
-    "Url2": "=FORMULATEXT(C111)"
+    "Unique Entry ID": "LRpwTw5vqnRLKpa2W"
   },
   {
     "SourceSheet": "Bags",
@@ -4102,9 +3882,7 @@
     "Filename": "BagBackpackMusician0",
     "ClothGroup ID": 1457,
     "Internal ID": 14784,
-    "Unique Entry ID": "AaKYwCqYye3LTXJ6M",
-    "Url": "=FORMULATEXT(B112)",
-    "Url2": "=FORMULATEXT(C112)"
+    "Unique Entry ID": "AaKYwCqYye3LTXJ6M"
   },
   {
     "SourceSheet": "Bags",
@@ -4139,9 +3917,7 @@
     "Filename": "BagBackpackMusician1",
     "ClothGroup ID": 1457,
     "Internal ID": 348,
-    "Unique Entry ID": "mRrSwn8HihAiaeAxJ",
-    "Url": "=FORMULATEXT(B113)",
-    "Url2": "=FORMULATEXT(C113)"
+    "Unique Entry ID": "mRrSwn8HihAiaeAxJ"
   },
   {
     "SourceSheet": "Bags",
@@ -4176,9 +3952,7 @@
     "Filename": "BagBackpackMusician3",
     "ClothGroup ID": 1457,
     "Internal ID": 350,
-    "Unique Entry ID": "Q5ApP3fGfrB5Zs7F2",
-    "Url": "=FORMULATEXT(B114)",
-    "Url2": "=FORMULATEXT(C114)"
+    "Unique Entry ID": "Q5ApP3fGfrB5Zs7F2"
   },
   {
     "SourceSheet": "Bags",
@@ -4213,9 +3987,7 @@
     "Filename": "BagBackpackMusician4",
     "ClothGroup ID": 1457,
     "Internal ID": 351,
-    "Unique Entry ID": "HeMTPYQBwfAggepGG",
-    "Url": "=FORMULATEXT(B115)",
-    "Url2": "=FORMULATEXT(C115)"
+    "Unique Entry ID": "HeMTPYQBwfAggepGG"
   },
   {
     "SourceSheet": "Bags",
@@ -4250,9 +4022,7 @@
     "Filename": "BagBackpackMusician2",
     "ClothGroup ID": 1457,
     "Internal ID": 349,
-    "Unique Entry ID": "iYGukvfoTnFPytbwJ",
-    "Url": "=FORMULATEXT(B116)",
-    "Url2": "=FORMULATEXT(C116)"
+    "Unique Entry ID": "iYGukvfoTnFPytbwJ"
   },
   {
     "SourceSheet": "Bags",
@@ -4287,9 +4057,7 @@
     "Filename": "BagBackpackJet0",
     "ClothGroup ID": 1470,
     "Internal ID": 14823,
-    "Unique Entry ID": "ApcpKi5k7KNHhE8NE",
-    "Url": "=FORMULATEXT(B117)",
-    "Url2": "=FORMULATEXT(C117)"
+    "Unique Entry ID": "ApcpKi5k7KNHhE8NE"
   },
   {
     "SourceSheet": "Bags",
@@ -4324,9 +4092,7 @@
     "Filename": "BagBackpackJet1",
     "ClothGroup ID": 1470,
     "Internal ID": 581,
-    "Unique Entry ID": "xgMWqfXbs2YEFci2c",
-    "Url": "=FORMULATEXT(B118)",
-    "Url2": "=FORMULATEXT(C118)"
+    "Unique Entry ID": "xgMWqfXbs2YEFci2c"
   },
   {
     "SourceSheet": "Bags",
@@ -4361,9 +4127,7 @@
     "Filename": "BagBackpackJet2",
     "ClothGroup ID": 1470,
     "Internal ID": 589,
-    "Unique Entry ID": "yptTpkTmiziQm6eFo",
-    "Url": "=FORMULATEXT(B119)",
-    "Url2": "=FORMULATEXT(C119)"
+    "Unique Entry ID": "yptTpkTmiziQm6eFo"
   },
   {
     "SourceSheet": "Bags",
@@ -4398,9 +4162,7 @@
     "Filename": "BagBackpackKnapsack1",
     "ClothGroup ID": 997,
     "Internal ID": 12019,
-    "Unique Entry ID": "Fx4M2zpFTWGww54rw",
-    "Url": "=FORMULATEXT(B120)",
-    "Url2": "=FORMULATEXT(C120)"
+    "Unique Entry ID": "Fx4M2zpFTWGww54rw"
   },
   {
     "SourceSheet": "Bags",
@@ -4435,9 +4197,7 @@
     "Filename": "BagBackpackKnapsack0",
     "ClothGroup ID": 997,
     "Internal ID": 7508,
-    "Unique Entry ID": "XbKqQChpAJXng37Mr",
-    "Url": "=FORMULATEXT(B121)",
-    "Url2": "=FORMULATEXT(C121)"
+    "Unique Entry ID": "XbKqQChpAJXng37Mr"
   },
   {
     "SourceSheet": "Bags",
@@ -4472,9 +4232,7 @@
     "Filename": "BagBackpackGrass0",
     "ClothGroup ID": 1000,
     "Internal ID": 7511,
-    "Unique Entry ID": "xM5iaYn4gbZoR94Qm",
-    "Url": "=FORMULATEXT(B122)",
-    "Url2": "=FORMULATEXT(C122)"
+    "Unique Entry ID": "xM5iaYn4gbZoR94Qm"
   },
   {
     "SourceSheet": "Bags",
@@ -4509,9 +4267,7 @@
     "Filename": "BagBackpackTownLeopard0",
     "ClothGroup ID": 1477,
     "Internal ID": 14839,
-    "Unique Entry ID": "YJu7XMsgEYHbjNspM",
-    "Url": "=FORMULATEXT(B123)",
-    "Url2": "=FORMULATEXT(C123)"
+    "Unique Entry ID": "YJu7XMsgEYHbjNspM"
   },
   {
     "SourceSheet": "Bags",
@@ -4546,9 +4302,7 @@
     "Filename": "BagBackpackTownLeopard1",
     "ClothGroup ID": 1477,
     "Internal ID": 680,
-    "Unique Entry ID": "Fu6qbBYTgJ8pvn6Tj",
-    "Url": "=FORMULATEXT(B124)",
-    "Url2": "=FORMULATEXT(C124)"
+    "Unique Entry ID": "Fu6qbBYTgJ8pvn6Tj"
   },
   {
     "SourceSheet": "Bags",
@@ -4583,9 +4337,7 @@
     "Filename": "BagBackpackTownLeopard2",
     "ClothGroup ID": 1477,
     "Internal ID": 681,
-    "Unique Entry ID": "WWwP55fJkgmz7kKBA",
-    "Url": "=FORMULATEXT(B125)",
-    "Url2": "=FORMULATEXT(C125)"
+    "Unique Entry ID": "WWwP55fJkgmz7kKBA"
   },
   {
     "SourceSheet": "Bags",
@@ -4620,9 +4372,7 @@
     "Filename": "BagBackpackTownLeopard3",
     "ClothGroup ID": 1477,
     "Internal ID": 684,
-    "Unique Entry ID": "2LPTCEmfSkEoT3fBC",
-    "Url": "=FORMULATEXT(B126)",
-    "Url2": "=FORMULATEXT(C126)"
+    "Unique Entry ID": "2LPTCEmfSkEoT3fBC"
   },
   {
     "SourceSheet": "Bags",
@@ -4657,9 +4407,7 @@
     "Filename": "BagBackpackWood0",
     "ClothGroup ID": 987,
     "Internal ID": 7498,
-    "Unique Entry ID": "rDDM48hSfsSbcp92u",
-    "Url": "=FORMULATEXT(B127)",
-    "Url2": "=FORMULATEXT(C127)"
+    "Unique Entry ID": "rDDM48hSfsSbcp92u"
   },
   {
     "SourceSheet": "Bags",
@@ -4694,9 +4442,7 @@
     "Filename": "ToolBagPaper0",
     "ClothGroup ID": 1508,
     "Internal ID": 14790,
-    "Unique Entry ID": "mChGTKJrJqxkRa66G",
-    "Url": "=FORMULATEXT(B128)",
-    "Url2": "=FORMULATEXT(C128)"
+    "Unique Entry ID": "mChGTKJrJqxkRa66G"
   },
   {
     "SourceSheet": "Bags",
@@ -4731,9 +4477,7 @@
     "Filename": "ToolBagPaper1",
     "ClothGroup ID": 1508,
     "Internal ID": 297,
-    "Unique Entry ID": "9SGp2QBxdnaimbyRR",
-    "Url": "=FORMULATEXT(B129)",
-    "Url2": "=FORMULATEXT(C129)"
+    "Unique Entry ID": "9SGp2QBxdnaimbyRR"
   },
   {
     "SourceSheet": "Bags",
@@ -4768,9 +4512,7 @@
     "Filename": "ToolBagPaper2",
     "ClothGroup ID": 1508,
     "Internal ID": 299,
-    "Unique Entry ID": "BXPAjZrCmnXCZ9A7X",
-    "Url": "=FORMULATEXT(B130)",
-    "Url2": "=FORMULATEXT(C130)"
+    "Unique Entry ID": "BXPAjZrCmnXCZ9A7X"
   },
   {
     "SourceSheet": "Bags",
@@ -4805,9 +4547,7 @@
     "Filename": "ToolBagTotelogo0",
     "ClothGroup ID": 1516,
     "Internal ID": 14857,
-    "Unique Entry ID": "Aphtjjfeg8wRXbSeH",
-    "Url": "=FORMULATEXT(B131)",
-    "Url2": "=FORMULATEXT(C131)"
+    "Unique Entry ID": "Aphtjjfeg8wRXbSeH"
   },
   {
     "SourceSheet": "Bags",
@@ -4842,9 +4582,7 @@
     "Filename": "ToolBagTotelogo1",
     "ClothGroup ID": 1516,
     "Internal ID": 365,
-    "Unique Entry ID": "Q9ADsNb6Tn4gQjkJG",
-    "Url": "=FORMULATEXT(B132)",
-    "Url2": "=FORMULATEXT(C132)"
+    "Unique Entry ID": "Q9ADsNb6Tn4gQjkJG"
   },
   {
     "SourceSheet": "Bags",
@@ -4879,9 +4617,7 @@
     "Filename": "ToolBagTotelogo2",
     "ClothGroup ID": 1516,
     "Internal ID": 366,
-    "Unique Entry ID": "7Yxsk5TnqAR27QQHK",
-    "Url": "=FORMULATEXT(B133)",
-    "Url2": "=FORMULATEXT(C133)"
+    "Unique Entry ID": "7Yxsk5TnqAR27QQHK"
   },
   {
     "SourceSheet": "Bags",
@@ -4916,9 +4652,7 @@
     "Filename": "BagShoulderMaple0",
     "ClothGroup ID": 979,
     "Internal ID": 7491,
-    "Unique Entry ID": "HJDH4dCPMQY9qQanL",
-    "Url": "=FORMULATEXT(B134)",
-    "Url2": "=FORMULATEXT(C134)"
+    "Unique Entry ID": "HJDH4dCPMQY9qQanL"
   },
   {
     "SourceSheet": "Bags",
@@ -4953,9 +4687,7 @@
     "Filename": "BagShoulderMessenger2",
     "ClothGroup ID": 962,
     "Internal ID": 11979,
-    "Unique Entry ID": "ZuwiM4DzJF5Rsg46x",
-    "Url": "=FORMULATEXT(B135)",
-    "Url2": "=FORMULATEXT(C135)"
+    "Unique Entry ID": "ZuwiM4DzJF5Rsg46x"
   },
   {
     "SourceSheet": "Bags",
@@ -4990,9 +4722,7 @@
     "Filename": "BagShoulderMessenger1",
     "ClothGroup ID": 962,
     "Internal ID": 11978,
-    "Unique Entry ID": "sgxnCe87EdtdoKved",
-    "Url": "=FORMULATEXT(B136)",
-    "Url2": "=FORMULATEXT(C136)"
+    "Unique Entry ID": "sgxnCe87EdtdoKved"
   },
   {
     "SourceSheet": "Bags",
@@ -5027,9 +4757,7 @@
     "Filename": "BagShoulderMessenger0",
     "ClothGroup ID": 962,
     "Internal ID": 7470,
-    "Unique Entry ID": "7mPZ9PnTd46r65DXx",
-    "Url": "=FORMULATEXT(B137)",
-    "Url2": "=FORMULATEXT(C137)"
+    "Unique Entry ID": "7mPZ9PnTd46r65DXx"
   },
   {
     "SourceSheet": "Bags",
@@ -5064,9 +4792,7 @@
     "Filename": "BagBackpackSmall0",
     "ClothGroup ID": 993,
     "Internal ID": 7504,
-    "Unique Entry ID": "FyrYDDhzABDegtZ6n",
-    "Url": "=FORMULATEXT(B138)",
-    "Url2": "=FORMULATEXT(C138)"
+    "Unique Entry ID": "FyrYDDhzABDegtZ6n"
   },
   {
     "SourceSheet": "Bags",
@@ -5101,9 +4827,7 @@
     "Filename": "BagBackpackSmall1",
     "ClothGroup ID": 993,
     "Internal ID": 12015,
-    "Unique Entry ID": "hYJk97FFi4zJGQ5cH",
-    "Url": "=FORMULATEXT(B139)",
-    "Url2": "=FORMULATEXT(C139)"
+    "Unique Entry ID": "hYJk97FFi4zJGQ5cH"
   },
   {
     "SourceSheet": "Bags",
@@ -5138,9 +4862,7 @@
     "Filename": "BagBackpackQuilt6",
     "ClothGroup ID": 999,
     "Internal ID": 12153,
-    "Unique Entry ID": "E3XrB5LbBTu795xbM",
-    "Url": "=FORMULATEXT(B140)",
-    "Url2": "=FORMULATEXT(C140)"
+    "Unique Entry ID": "E3XrB5LbBTu795xbM"
   },
   {
     "SourceSheet": "Bags",
@@ -5175,9 +4897,7 @@
     "Filename": "BagBackpackQuilt1",
     "ClothGroup ID": 999,
     "Internal ID": 12148,
-    "Unique Entry ID": "gqy4s4zFowLbNKTd2",
-    "Url": "=FORMULATEXT(B141)",
-    "Url2": "=FORMULATEXT(C141)"
+    "Unique Entry ID": "gqy4s4zFowLbNKTd2"
   },
   {
     "SourceSheet": "Bags",
@@ -5212,9 +4932,7 @@
     "Filename": "BagBackpackQuilt2",
     "ClothGroup ID": 999,
     "Internal ID": 12149,
-    "Unique Entry ID": "Hkju8Bjb8Kaamsu3j",
-    "Url": "=FORMULATEXT(B142)",
-    "Url2": "=FORMULATEXT(C142)"
+    "Unique Entry ID": "Hkju8Bjb8Kaamsu3j"
   },
   {
     "SourceSheet": "Bags",
@@ -5249,9 +4967,7 @@
     "Filename": "BagBackpackQuilt7",
     "ClothGroup ID": 999,
     "Internal ID": 12154,
-    "Unique Entry ID": "jCi92aiMtZB92idfQ",
-    "Url": "=FORMULATEXT(B143)",
-    "Url2": "=FORMULATEXT(C143)"
+    "Unique Entry ID": "jCi92aiMtZB92idfQ"
   },
   {
     "SourceSheet": "Bags",
@@ -5286,9 +5002,7 @@
     "Filename": "BagBackpackQuilt0",
     "ClothGroup ID": 999,
     "Internal ID": 7510,
-    "Unique Entry ID": "szhWnj6jpymTsKce8",
-    "Url": "=FORMULATEXT(B144)",
-    "Url2": "=FORMULATEXT(C144)"
+    "Unique Entry ID": "szhWnj6jpymTsKce8"
   },
   {
     "SourceSheet": "Bags",
@@ -5323,9 +5037,7 @@
     "Filename": "BagBackpackQuilt4",
     "ClothGroup ID": 999,
     "Internal ID": 12151,
-    "Unique Entry ID": "46PX3NMjAdrNiRQXb",
-    "Url": "=FORMULATEXT(B145)",
-    "Url2": "=FORMULATEXT(C145)"
+    "Unique Entry ID": "46PX3NMjAdrNiRQXb"
   },
   {
     "SourceSheet": "Bags",
@@ -5360,9 +5072,7 @@
     "Filename": "BagBackpackQuilt5",
     "ClothGroup ID": 999,
     "Internal ID": 12152,
-    "Unique Entry ID": "hj8ixCKXNWBnGZSrw",
-    "Url": "=FORMULATEXT(B146)",
-    "Url2": "=FORMULATEXT(C146)"
+    "Unique Entry ID": "hj8ixCKXNWBnGZSrw"
   },
   {
     "SourceSheet": "Bags",
@@ -5397,9 +5107,7 @@
     "Filename": "BagBackpackQuilt3",
     "ClothGroup ID": 999,
     "Internal ID": 12150,
-    "Unique Entry ID": "6uKkNZRz7E8gkSiBF",
-    "Url": "=FORMULATEXT(B147)",
-    "Url2": "=FORMULATEXT(C147)"
+    "Unique Entry ID": "6uKkNZRz7E8gkSiBF"
   },
   {
     "SourceSheet": "Bags",
@@ -5434,9 +5142,7 @@
     "Filename": "BagBackpackNook0",
     "ClothGroup ID": 1150,
     "Internal ID": 9761,
-    "Unique Entry ID": "zQh6chGG66h4f5JbX",
-    "Url": "=FORMULATEXT(B148)",
-    "Url2": "=FORMULATEXT(C148)"
+    "Unique Entry ID": "zQh6chGG66h4f5JbX"
   },
   {
     "SourceSheet": "Bags",
@@ -5471,9 +5177,7 @@
     "Filename": "BagShoulderNook0",
     "ClothGroup ID": 1425,
     "Internal ID": 14543,
-    "Unique Entry ID": "Q3YH8FDKSRfMYmW49",
-    "Url": "=FORMULATEXT(B149)",
-    "Url2": "=FORMULATEXT(C149)"
+    "Unique Entry ID": "Q3YH8FDKSRfMYmW49"
   },
   {
     "SourceSheet": "Bags",
@@ -5508,9 +5212,7 @@
     "Filename": "BagBackpackOutdoor1",
     "ClothGroup ID": 990,
     "Internal ID": 11969,
-    "Unique Entry ID": "hiF7bqmoudyFJPcWG",
-    "Url": "=FORMULATEXT(B150)",
-    "Url2": "=FORMULATEXT(C150)"
+    "Unique Entry ID": "hiF7bqmoudyFJPcWG"
   },
   {
     "SourceSheet": "Bags",
@@ -5545,9 +5247,7 @@
     "Filename": "BagBackpackOutdoor0",
     "ClothGroup ID": 990,
     "Internal ID": 7501,
-    "Unique Entry ID": "CAsQFPPeo3vBGpHSo",
-    "Url": "=FORMULATEXT(B151)",
-    "Url2": "=FORMULATEXT(C151)"
+    "Unique Entry ID": "CAsQFPPeo3vBGpHSo"
   },
   {
     "SourceSheet": "Bags",
@@ -5582,9 +5282,7 @@
     "Filename": "BagBackpackOutdoor2",
     "ClothGroup ID": 990,
     "Internal ID": 11970,
-    "Unique Entry ID": "qd8DJb8mX5zhewgyn",
-    "Url": "=FORMULATEXT(B152)",
-    "Url2": "=FORMULATEXT(C152)"
+    "Unique Entry ID": "qd8DJb8mX5zhewgyn"
   },
   {
     "SourceSheet": "Bags",
@@ -5619,9 +5317,7 @@
     "Filename": "BagBackpackPanda0",
     "ClothGroup ID": 1473,
     "Internal ID": 14830,
-    "Unique Entry ID": "to5pzsNMWSdSBqdqG",
-    "Url": "=FORMULATEXT(B153)",
-    "Url2": "=FORMULATEXT(C153)"
+    "Unique Entry ID": "to5pzsNMWSdSBqdqG"
   },
   {
     "SourceSheet": "Bags",
@@ -5656,9 +5352,7 @@
     "Filename": "BagBackpackPanda1",
     "ClothGroup ID": 1473,
     "Internal ID": 720,
-    "Unique Entry ID": "ASduP7XRxy8AWFf2D",
-    "Url": "=FORMULATEXT(B154)",
-    "Url2": "=FORMULATEXT(C154)"
+    "Unique Entry ID": "ASduP7XRxy8AWFf2D"
   },
   {
     "SourceSheet": "Bags",
@@ -5693,9 +5387,7 @@
     "Filename": "BagBackpackBodybag1",
     "ClothGroup ID": 972,
     "Internal ID": 12005,
-    "Unique Entry ID": "QDPYGrpFNNir49uBe",
-    "Url": "=FORMULATEXT(B155)",
-    "Url2": "=FORMULATEXT(C155)"
+    "Unique Entry ID": "QDPYGrpFNNir49uBe"
   },
   {
     "SourceSheet": "Bags",
@@ -5730,9 +5422,7 @@
     "Filename": "BagBackpackBodybag0",
     "ClothGroup ID": 972,
     "Internal ID": 7484,
-    "Unique Entry ID": "YQD8XMuvDbymAeKxt",
-    "Url": "=FORMULATEXT(B156)",
-    "Url2": "=FORMULATEXT(C156)"
+    "Unique Entry ID": "YQD8XMuvDbymAeKxt"
   },
   {
     "SourceSheet": "Bags",
@@ -5767,9 +5457,7 @@
     "Filename": "BagShoulderFringe1",
     "ClothGroup ID": 969,
     "Internal ID": 12010,
-    "Unique Entry ID": "fiM98m9CGgi6iATkQ",
-    "Url": "=FORMULATEXT(B157)",
-    "Url2": "=FORMULATEXT(C157)"
+    "Unique Entry ID": "fiM98m9CGgi6iATkQ"
   },
   {
     "SourceSheet": "Bags",
@@ -5804,9 +5492,7 @@
     "Filename": "BagShoulderFringe0",
     "ClothGroup ID": 969,
     "Internal ID": 7481,
-    "Unique Entry ID": "7RYHreaA7o9huubNu",
-    "Url": "=FORMULATEXT(B158)",
-    "Url2": "=FORMULATEXT(C158)"
+    "Unique Entry ID": "7RYHreaA7o9huubNu"
   },
   {
     "SourceSheet": "Bags",
@@ -5841,9 +5527,7 @@
     "Filename": "ToolBagLeather0",
     "ClothGroup ID": 1507,
     "Internal ID": 14789,
-    "Unique Entry ID": "aYEjGMtQ7sT23FTWk",
-    "Url": "=FORMULATEXT(B159)",
-    "Url2": "=FORMULATEXT(C159)"
+    "Unique Entry ID": "aYEjGMtQ7sT23FTWk"
   },
   {
     "SourceSheet": "Bags",
@@ -5878,9 +5562,7 @@
     "Filename": "ToolBagLeather3",
     "ClothGroup ID": 1507,
     "Internal ID": 312,
-    "Unique Entry ID": "QbexMfsA232FPFLjA",
-    "Url": "=FORMULATEXT(B160)",
-    "Url2": "=FORMULATEXT(C160)"
+    "Unique Entry ID": "QbexMfsA232FPFLjA"
   },
   {
     "SourceSheet": "Bags",
@@ -5915,9 +5597,7 @@
     "Filename": "ToolBagLeather1",
     "ClothGroup ID": 1507,
     "Internal ID": 310,
-    "Unique Entry ID": "Lp2SAmbYkWqZvZp36",
-    "Url": "=FORMULATEXT(B161)",
-    "Url2": "=FORMULATEXT(C161)"
+    "Unique Entry ID": "Lp2SAmbYkWqZvZp36"
   },
   {
     "SourceSheet": "Bags",
@@ -5952,9 +5632,7 @@
     "Filename": "ToolBagLeather4",
     "ClothGroup ID": 1507,
     "Internal ID": 313,
-    "Unique Entry ID": "cAjrk2TifJDXjKFG2",
-    "Url": "=FORMULATEXT(B162)",
-    "Url2": "=FORMULATEXT(C162)"
+    "Unique Entry ID": "cAjrk2TifJDXjKFG2"
   },
   {
     "SourceSheet": "Bags",
@@ -5989,9 +5667,7 @@
     "Filename": "ToolBagLeather2",
     "ClothGroup ID": 1507,
     "Internal ID": 311,
-    "Unique Entry ID": "jhGcppcxqnuGzL8Rv",
-    "Url": "=FORMULATEXT(B163)",
-    "Url2": "=FORMULATEXT(C163)"
+    "Unique Entry ID": "jhGcppcxqnuGzL8Rv"
   },
   {
     "SourceSheet": "Bags",
@@ -6026,9 +5702,7 @@
     "Filename": "ToolBagLeather5",
     "ClothGroup ID": 1507,
     "Internal ID": 314,
-    "Unique Entry ID": "D6QbZEsb7mtADAGTm",
-    "Url": "=FORMULATEXT(B164)",
-    "Url2": "=FORMULATEXT(C164)"
+    "Unique Entry ID": "D6QbZEsb7mtADAGTm"
   },
   {
     "SourceSheet": "Bags",
@@ -6063,9 +5737,7 @@
     "Filename": "ToolBagLeather6",
     "ClothGroup ID": 1507,
     "Internal ID": 315,
-    "Unique Entry ID": "5g476FdByk9eqhuer",
-    "Url": "=FORMULATEXT(B165)",
-    "Url2": "=FORMULATEXT(C165)"
+    "Unique Entry ID": "5g476FdByk9eqhuer"
   },
   {
     "SourceSheet": "Bags",
@@ -6100,9 +5772,7 @@
     "Filename": "BagShoulderLeather1",
     "ClothGroup ID": 964,
     "Internal ID": 12009,
-    "Unique Entry ID": "ZKgcPhGYErHShMrGR",
-    "Url": "=FORMULATEXT(B166)",
-    "Url2": "=FORMULATEXT(C166)"
+    "Unique Entry ID": "ZKgcPhGYErHShMrGR"
   },
   {
     "SourceSheet": "Bags",
@@ -6137,9 +5807,7 @@
     "Filename": "BagShoulderLeather0",
     "ClothGroup ID": 964,
     "Internal ID": 7476,
-    "Unique Entry ID": "9AqRYq83NRMxrEWiD",
-    "Url": "=FORMULATEXT(B167)",
-    "Url2": "=FORMULATEXT(C167)"
+    "Unique Entry ID": "9AqRYq83NRMxrEWiD"
   },
   {
     "SourceSheet": "Bags",
@@ -6174,9 +5842,7 @@
     "Filename": "BagBackpackTownDot3",
     "ClothGroup ID": 1481,
     "Internal ID": 695,
-    "Unique Entry ID": "NR5n37Afoi2gkBxif",
-    "Url": "=FORMULATEXT(B168)",
-    "Url2": "=FORMULATEXT(C168)"
+    "Unique Entry ID": "NR5n37Afoi2gkBxif"
   },
   {
     "SourceSheet": "Bags",
@@ -6211,9 +5877,7 @@
     "Filename": "BagBackpackTownDot0",
     "ClothGroup ID": 1481,
     "Internal ID": 14842,
-    "Unique Entry ID": "HYsnDCWDnPAGDxxgB",
-    "Url": "=FORMULATEXT(B169)",
-    "Url2": "=FORMULATEXT(C169)"
+    "Unique Entry ID": "HYsnDCWDnPAGDxxgB"
   },
   {
     "SourceSheet": "Bags",
@@ -6248,9 +5912,7 @@
     "Filename": "BagBackpackTownDot1",
     "ClothGroup ID": 1481,
     "Internal ID": 692,
-    "Unique Entry ID": "hvjF6KJ34kdwQCS5r",
-    "Url": "=FORMULATEXT(B170)",
-    "Url2": "=FORMULATEXT(C170)"
+    "Unique Entry ID": "hvjF6KJ34kdwQCS5r"
   },
   {
     "SourceSheet": "Bags",
@@ -6285,9 +5947,7 @@
     "Filename": "BagBackpackTownDot2",
     "ClothGroup ID": 1481,
     "Internal ID": 694,
-    "Unique Entry ID": "fufpDHxRBgb9KJSwf",
-    "Url": "=FORMULATEXT(B171)",
-    "Url2": "=FORMULATEXT(C171)"
+    "Unique Entry ID": "fufpDHxRBgb9KJSwf"
   },
   {
     "SourceSheet": "Bags",
@@ -6322,9 +5982,7 @@
     "Filename": "BagBackpackTownDot4",
     "ClothGroup ID": 1481,
     "Internal ID": 697,
-    "Unique Entry ID": "jZf4WPzrL9SorEnSY",
-    "Url": "=FORMULATEXT(B172)",
-    "Url2": "=FORMULATEXT(C172)"
+    "Unique Entry ID": "jZf4WPzrL9SorEnSY"
   },
   {
     "SourceSheet": "Bags",
@@ -6359,9 +6017,7 @@
     "Filename": "BagShoulderTasukiprom4",
     "ClothGroup ID": 1362,
     "Internal ID": 14398,
-    "Unique Entry ID": "FW8Smcrt8BGxf9Ctd",
-    "Url": "=FORMULATEXT(B173)",
-    "Url2": "=FORMULATEXT(C173)"
+    "Unique Entry ID": "FW8Smcrt8BGxf9Ctd"
   },
   {
     "SourceSheet": "Bags",
@@ -6396,9 +6052,7 @@
     "Filename": "BagShoulderTasukiprom5",
     "ClothGroup ID": 1362,
     "Internal ID": 14399,
-    "Unique Entry ID": "9NYe8ov5e89jnZbwX",
-    "Url": "=FORMULATEXT(B174)",
-    "Url2": "=FORMULATEXT(C174)"
+    "Unique Entry ID": "9NYe8ov5e89jnZbwX"
   },
   {
     "SourceSheet": "Bags",
@@ -6433,9 +6087,7 @@
     "Filename": "BagShoulderTasukiprom0",
     "ClothGroup ID": 1362,
     "Internal ID": 14262,
-    "Unique Entry ID": "nnRZEztbMkE8W2heC",
-    "Url": "=FORMULATEXT(B175)",
-    "Url2": "=FORMULATEXT(C175)"
+    "Unique Entry ID": "nnRZEztbMkE8W2heC"
   },
   {
     "SourceSheet": "Bags",
@@ -6470,9 +6122,7 @@
     "Filename": "BagShoulderTasukiprom6",
     "ClothGroup ID": 1362,
     "Internal ID": 14400,
-    "Unique Entry ID": "cEnSBEPXFjAxYwCSA",
-    "Url": "=FORMULATEXT(B176)",
-    "Url2": "=FORMULATEXT(C176)"
+    "Unique Entry ID": "cEnSBEPXFjAxYwCSA"
   },
   {
     "SourceSheet": "Bags",
@@ -6507,9 +6157,7 @@
     "Filename": "BagShoulderTasukiprom2",
     "ClothGroup ID": 1362,
     "Internal ID": 14396,
-    "Unique Entry ID": "4yeToTMfBL93og2df",
-    "Url": "=FORMULATEXT(B177)",
-    "Url2": "=FORMULATEXT(C177)"
+    "Unique Entry ID": "4yeToTMfBL93og2df"
   },
   {
     "SourceSheet": "Bags",
@@ -6544,9 +6192,7 @@
     "Filename": "BagShoulderTasukiprom1",
     "ClothGroup ID": 1362,
     "Internal ID": 14395,
-    "Unique Entry ID": "w6X2SpfPsjYWxd9oS",
-    "Url": "=FORMULATEXT(B178)",
-    "Url2": "=FORMULATEXT(C178)"
+    "Unique Entry ID": "w6X2SpfPsjYWxd9oS"
   },
   {
     "SourceSheet": "Bags",
@@ -6581,9 +6227,7 @@
     "Filename": "BagShoulderTasukiprom3",
     "ClothGroup ID": 1362,
     "Internal ID": 14397,
-    "Unique Entry ID": "3qy9db9JiHZwbkAXr",
-    "Url": "=FORMULATEXT(B179)",
-    "Url2": "=FORMULATEXT(C179)"
+    "Unique Entry ID": "3qy9db9JiHZwbkAXr"
   },
   {
     "SourceSheet": "Bags",
@@ -6618,9 +6262,7 @@
     "Filename": "BagShoulderSquarePython0",
     "ClothGroup ID": 1498,
     "Internal ID": 14894,
-    "Unique Entry ID": "9NPK7cBEw5j2D6mmk",
-    "Url": "=FORMULATEXT(B180)",
-    "Url2": "=FORMULATEXT(C180)"
+    "Unique Entry ID": "9NPK7cBEw5j2D6mmk"
   },
   {
     "SourceSheet": "Bags",
@@ -6655,9 +6297,7 @@
     "Filename": "BagShoulderSquarePython1",
     "ClothGroup ID": 1498,
     "Internal ID": 723,
-    "Unique Entry ID": "zrtDTtKwkrMqYEquR",
-    "Url": "=FORMULATEXT(B181)",
-    "Url2": "=FORMULATEXT(C181)"
+    "Unique Entry ID": "zrtDTtKwkrMqYEquR"
   },
   {
     "SourceSheet": "Bags",
@@ -6692,9 +6332,7 @@
     "Filename": "BagBackpackRandsel0",
     "ClothGroup ID": 1395,
     "Internal ID": 14366,
-    "Unique Entry ID": "96aKMZhRQzgmrhuAj",
-    "Url": "=FORMULATEXT(B182)",
-    "Url2": "=FORMULATEXT(C182)"
+    "Unique Entry ID": "96aKMZhRQzgmrhuAj"
   },
   {
     "SourceSheet": "Bags",
@@ -6729,9 +6367,7 @@
     "Filename": "BagBackpackRandsel1",
     "ClothGroup ID": 1395,
     "Internal ID": 254,
-    "Unique Entry ID": "NkJ9NsheWMwbNJou8",
-    "Url": "=FORMULATEXT(B183)",
-    "Url2": "=FORMULATEXT(C183)"
+    "Unique Entry ID": "NkJ9NsheWMwbNJou8"
   },
   {
     "SourceSheet": "Bags",
@@ -6766,9 +6402,7 @@
     "Filename": "BagBackpackRandsel6",
     "ClothGroup ID": 1395,
     "Internal ID": 259,
-    "Unique Entry ID": "FEfyz2CCKv97Ri9z6",
-    "Url": "=FORMULATEXT(B184)",
-    "Url2": "=FORMULATEXT(C184)"
+    "Unique Entry ID": "FEfyz2CCKv97Ri9z6"
   },
   {
     "SourceSheet": "Bags",
@@ -6803,9 +6437,7 @@
     "Filename": "BagBackpackRandsel3",
     "ClothGroup ID": 1395,
     "Internal ID": 256,
-    "Unique Entry ID": "qZ5EAjzT6chzJMgkc",
-    "Url": "=FORMULATEXT(B185)",
-    "Url2": "=FORMULATEXT(C185)"
+    "Unique Entry ID": "qZ5EAjzT6chzJMgkc"
   },
   {
     "SourceSheet": "Bags",
@@ -6840,9 +6472,7 @@
     "Filename": "BagBackpackRandsel5",
     "ClothGroup ID": 1395,
     "Internal ID": 258,
-    "Unique Entry ID": "wyuPQPCeuefxhtidG",
-    "Url": "=FORMULATEXT(B186)",
-    "Url2": "=FORMULATEXT(C186)"
+    "Unique Entry ID": "wyuPQPCeuefxhtidG"
   },
   {
     "SourceSheet": "Bags",
@@ -6877,9 +6507,7 @@
     "Filename": "BagBackpackRandsel4",
     "ClothGroup ID": 1395,
     "Internal ID": 257,
-    "Unique Entry ID": "aMGp6FD9TEhJuDvbA",
-    "Url": "=FORMULATEXT(B187)",
-    "Url2": "=FORMULATEXT(C187)"
+    "Unique Entry ID": "aMGp6FD9TEhJuDvbA"
   },
   {
     "SourceSheet": "Bags",
@@ -6914,9 +6542,7 @@
     "Filename": "BagBackpackRandsel7",
     "ClothGroup ID": 1395,
     "Internal ID": 260,
-    "Unique Entry ID": "Eo4fKa4d43eqase4v",
-    "Url": "=FORMULATEXT(B188)",
-    "Url2": "=FORMULATEXT(C188)"
+    "Unique Entry ID": "Eo4fKa4d43eqase4v"
   },
   {
     "SourceSheet": "Bags",
@@ -6951,9 +6577,7 @@
     "Filename": "BagBackpackRandsel2",
     "ClothGroup ID": 1395,
     "Internal ID": 255,
-    "Unique Entry ID": "KRCqgD96dNRuvjQh7",
-    "Url": "=FORMULATEXT(B189)",
-    "Url2": "=FORMULATEXT(C189)"
+    "Unique Entry ID": "KRCqgD96dNRuvjQh7"
   },
   {
     "SourceSheet": "Bags",
@@ -6988,9 +6612,7 @@
     "Filename": "BagShoulderSports1",
     "ClothGroup ID": 984,
     "Internal ID": 12007,
-    "Unique Entry ID": "Lqtjq3rWFoy4Dv39C",
-    "Url": "=FORMULATEXT(B190)",
-    "Url2": "=FORMULATEXT(C190)"
+    "Unique Entry ID": "Lqtjq3rWFoy4Dv39C"
   },
   {
     "SourceSheet": "Bags",
@@ -7025,9 +6647,7 @@
     "Filename": "BagShoulderSports0",
     "ClothGroup ID": 984,
     "Internal ID": 7302,
-    "Unique Entry ID": "vY7qcZFdWb3HgSv7L",
-    "Url": "=FORMULATEXT(B191)",
-    "Url2": "=FORMULATEXT(C191)"
+    "Unique Entry ID": "vY7qcZFdWb3HgSv7L"
   },
   {
     "SourceSheet": "Bags",
@@ -7062,9 +6682,7 @@
     "Filename": "BagShoulderSports2",
     "ClothGroup ID": 984,
     "Internal ID": 12008,
-    "Unique Entry ID": "nGhHjk4GEKSQwvARA",
-    "Url": "=FORMULATEXT(B192)",
-    "Url2": "=FORMULATEXT(C192)"
+    "Unique Entry ID": "nGhHjk4GEKSQwvARA"
   },
   {
     "SourceSheet": "Bags",
@@ -7099,9 +6717,7 @@
     "Filename": "BagShoulderSacosh2",
     "ClothGroup ID": 985,
     "Internal ID": 11975,
-    "Unique Entry ID": "NRYqQLN2Beq4jpDBJ",
-    "Url": "=FORMULATEXT(B193)",
-    "Url2": "=FORMULATEXT(C193)"
+    "Unique Entry ID": "NRYqQLN2Beq4jpDBJ"
   },
   {
     "SourceSheet": "Bags",
@@ -7136,9 +6752,7 @@
     "Filename": "BagShoulderSacosh1",
     "ClothGroup ID": 985,
     "Internal ID": 11974,
-    "Unique Entry ID": "LYnLwBnwTYcMp4fr9",
-    "Url": "=FORMULATEXT(B194)",
-    "Url2": "=FORMULATEXT(C194)"
+    "Unique Entry ID": "LYnLwBnwTYcMp4fr9"
   },
   {
     "SourceSheet": "Bags",
@@ -7173,9 +6787,7 @@
     "Filename": "BagShoulderSacosh0",
     "ClothGroup ID": 985,
     "Internal ID": 7304,
-    "Unique Entry ID": "n82fhWWNSv8kyFJc2",
-    "Url": "=FORMULATEXT(B195)",
-    "Url2": "=FORMULATEXT(C195)"
+    "Unique Entry ID": "n82fhWWNSv8kyFJc2"
   },
   {
     "SourceSheet": "Bags",
@@ -7210,9 +6822,7 @@
     "Filename": "BagBackpackStudent1",
     "ClothGroup ID": 1471,
     "Internal ID": 593,
-    "Unique Entry ID": "5dHpdP4JSz8oSzzwi",
-    "Url": "=FORMULATEXT(B196)",
-    "Url2": "=FORMULATEXT(C196)"
+    "Unique Entry ID": "5dHpdP4JSz8oSzzwi"
   },
   {
     "SourceSheet": "Bags",
@@ -7247,9 +6857,7 @@
     "Filename": "BagBackpackStudent4",
     "ClothGroup ID": 1471,
     "Internal ID": 655,
-    "Unique Entry ID": "P26qgJx976qNnTizz",
-    "Url": "=FORMULATEXT(B197)",
-    "Url2": "=FORMULATEXT(C197)"
+    "Unique Entry ID": "P26qgJx976qNnTizz"
   },
   {
     "SourceSheet": "Bags",
@@ -7284,9 +6892,7 @@
     "Filename": "BagBackpackStudent3",
     "ClothGroup ID": 1471,
     "Internal ID": 654,
-    "Unique Entry ID": "g6vSGRqY7twi2Xwb7",
-    "Url": "=FORMULATEXT(B198)",
-    "Url2": "=FORMULATEXT(C198)"
+    "Unique Entry ID": "g6vSGRqY7twi2Xwb7"
   },
   {
     "SourceSheet": "Bags",
@@ -7321,9 +6927,7 @@
     "Filename": "BagBackpackStudent0",
     "ClothGroup ID": 1471,
     "Internal ID": 14824,
-    "Unique Entry ID": "v9ciNcMfwAKxRMpFv",
-    "Url": "=FORMULATEXT(B199)",
-    "Url2": "=FORMULATEXT(C199)"
+    "Unique Entry ID": "v9ciNcMfwAKxRMpFv"
   },
   {
     "SourceSheet": "Bags",
@@ -7358,9 +6962,7 @@
     "Filename": "BagBackpackStudent2",
     "ClothGroup ID": 1471,
     "Internal ID": 629,
-    "Unique Entry ID": "xjhK3RT8JhG5vgsXa",
-    "Url": "=FORMULATEXT(B200)",
-    "Url2": "=FORMULATEXT(C200)"
+    "Unique Entry ID": "xjhK3RT8JhG5vgsXa"
   },
   {
     "SourceSheet": "Bags",
@@ -7395,9 +6997,7 @@
     "Filename": "BagBackpackSchoolbag0",
     "ClothGroup ID": 1396,
     "Internal ID": 14367,
-    "Unique Entry ID": "Eun5adjptXEx583F5",
-    "Url": "=FORMULATEXT(B201)",
-    "Url2": "=FORMULATEXT(C201)"
+    "Unique Entry ID": "Eun5adjptXEx583F5"
   },
   {
     "SourceSheet": "Bags",
@@ -7432,9 +7032,7 @@
     "Filename": "BagBackpackSchoolbag3",
     "ClothGroup ID": 1396,
     "Internal ID": 263,
-    "Unique Entry ID": "2yZ9Lwtwy5hi6NkD8",
-    "Url": "=FORMULATEXT(B202)",
-    "Url2": "=FORMULATEXT(C202)"
+    "Unique Entry ID": "2yZ9Lwtwy5hi6NkD8"
   },
   {
     "SourceSheet": "Bags",
@@ -7469,9 +7067,7 @@
     "Filename": "BagBackpackSchoolbag2",
     "ClothGroup ID": 1396,
     "Internal ID": 262,
-    "Unique Entry ID": "4whhzLZv4ev8ce8uq",
-    "Url": "=FORMULATEXT(B203)",
-    "Url2": "=FORMULATEXT(C203)"
+    "Unique Entry ID": "4whhzLZv4ev8ce8uq"
   },
   {
     "SourceSheet": "Bags",
@@ -7506,9 +7102,7 @@
     "Filename": "BagBackpackSchoolbag5",
     "ClothGroup ID": 1396,
     "Internal ID": 265,
-    "Unique Entry ID": "DuwfdGhZ8xdwNqKXB",
-    "Url": "=FORMULATEXT(B204)",
-    "Url2": "=FORMULATEXT(C204)"
+    "Unique Entry ID": "DuwfdGhZ8xdwNqKXB"
   },
   {
     "SourceSheet": "Bags",
@@ -7543,9 +7137,7 @@
     "Filename": "BagBackpackSchoolbag1",
     "ClothGroup ID": 1396,
     "Internal ID": 261,
-    "Unique Entry ID": "SFupMsosQrxSYCwjN",
-    "Url": "=FORMULATEXT(B205)",
-    "Url2": "=FORMULATEXT(C205)"
+    "Unique Entry ID": "SFupMsosQrxSYCwjN"
   },
   {
     "SourceSheet": "Bags",
@@ -7580,9 +7172,7 @@
     "Filename": "BagBackpackSchoolbag4",
     "ClothGroup ID": 1396,
     "Internal ID": 264,
-    "Unique Entry ID": "MziaRbziRSrR8XrMC",
-    "Url": "=FORMULATEXT(B206)",
-    "Url2": "=FORMULATEXT(C206)"
+    "Unique Entry ID": "MziaRbziRSrR8XrMC"
   },
   {
     "SourceSheet": "Bags",
@@ -7617,9 +7207,7 @@
     "Filename": "BagShoulderShell0",
     "ClothGroup ID": 982,
     "Internal ID": 7494,
-    "Unique Entry ID": "XEsQxMf7k9qvjYxPF",
-    "Url": "=FORMULATEXT(B207)",
-    "Url2": "=FORMULATEXT(C207)"
+    "Unique Entry ID": "XEsQxMf7k9qvjYxPF"
   },
   {
     "SourceSheet": "Bags",
@@ -7654,9 +7242,7 @@
     "Filename": "BagBackpackTownSimple0",
     "ClothGroup ID": 1479,
     "Internal ID": 14843,
-    "Unique Entry ID": "46RJNMzFwzNwqK4BJ",
-    "Url": "=FORMULATEXT(B208)",
-    "Url2": "=FORMULATEXT(C208)"
+    "Unique Entry ID": "46RJNMzFwzNwqK4BJ"
   },
   {
     "SourceSheet": "Bags",
@@ -7691,9 +7277,7 @@
     "Filename": "BagBackpackTownSimple1",
     "ClothGroup ID": 1479,
     "Internal ID": 699,
-    "Unique Entry ID": "5AqHWzzspzWQBrkeJ",
-    "Url": "=FORMULATEXT(B209)",
-    "Url2": "=FORMULATEXT(C209)"
+    "Unique Entry ID": "5AqHWzzspzWQBrkeJ"
   },
   {
     "SourceSheet": "Bags",
@@ -7728,9 +7312,7 @@
     "Filename": "BagBackpackTownSimple2",
     "ClothGroup ID": 1479,
     "Internal ID": 721,
-    "Unique Entry ID": "wQXGc6h9AaPKQNkMk",
-    "Url": "=FORMULATEXT(B210)",
-    "Url2": "=FORMULATEXT(C210)"
+    "Unique Entry ID": "wQXGc6h9AaPKQNkMk"
   },
   {
     "SourceSheet": "Bags",
@@ -7765,9 +7347,7 @@
     "Filename": "ToolBagTote0",
     "ClothGroup ID": 1513,
     "Internal ID": 14787,
-    "Unique Entry ID": "TjJmKPSpS5YvWRyLx",
-    "Url": "=FORMULATEXT(B211)",
-    "Url2": "=FORMULATEXT(C211)"
+    "Unique Entry ID": "TjJmKPSpS5YvWRyLx"
   },
   {
     "SourceSheet": "Bags",
@@ -7802,9 +7382,7 @@
     "Filename": "ToolBagTote2",
     "ClothGroup ID": 1513,
     "Internal ID": 358,
-    "Unique Entry ID": "XEhDmxKAguuTnaZ2p",
-    "Url": "=FORMULATEXT(B212)",
-    "Url2": "=FORMULATEXT(C212)"
+    "Unique Entry ID": "XEhDmxKAguuTnaZ2p"
   },
   {
     "SourceSheet": "Bags",
@@ -7839,9 +7417,7 @@
     "Filename": "ToolBagTote3",
     "ClothGroup ID": 1513,
     "Internal ID": 359,
-    "Unique Entry ID": "uqapgkphMr2xSCref",
-    "Url": "=FORMULATEXT(B213)",
-    "Url2": "=FORMULATEXT(C213)"
+    "Unique Entry ID": "uqapgkphMr2xSCref"
   },
   {
     "SourceSheet": "Bags",
@@ -7876,9 +7452,7 @@
     "Filename": "ToolBagTote1",
     "ClothGroup ID": 1513,
     "Internal ID": 357,
-    "Unique Entry ID": "baKhef2uMjG9u5uew",
-    "Url": "=FORMULATEXT(B214)",
-    "Url2": "=FORMULATEXT(C214)"
+    "Unique Entry ID": "baKhef2uMjG9u5uew"
   },
   {
     "SourceSheet": "Bags",
@@ -7913,9 +7487,7 @@
     "Filename": "ToolBagTote5",
     "ClothGroup ID": 1513,
     "Internal ID": 361,
-    "Unique Entry ID": "QgHjko5EaZJzeTcdo",
-    "Url": "=FORMULATEXT(B215)",
-    "Url2": "=FORMULATEXT(C215)"
+    "Unique Entry ID": "QgHjko5EaZJzeTcdo"
   },
   {
     "SourceSheet": "Bags",
@@ -7950,9 +7522,7 @@
     "Filename": "ToolBagTote4",
     "ClothGroup ID": 1513,
     "Internal ID": 360,
-    "Unique Entry ID": "uMP95fiBP86EyCrrq",
-    "Url": "=FORMULATEXT(B216)",
-    "Url2": "=FORMULATEXT(C216)"
+    "Unique Entry ID": "uMP95fiBP86EyCrrq"
   },
   {
     "SourceSheet": "Bags",
@@ -7987,9 +7557,7 @@
     "Filename": "BagShoulderSnow0",
     "ClothGroup ID": 981,
     "Internal ID": 7493,
-    "Unique Entry ID": "gW7R4HX8hjZEHAFtB",
-    "Url": "=FORMULATEXT(B217)",
-    "Url2": "=FORMULATEXT(C217)"
+    "Unique Entry ID": "gW7R4HX8hjZEHAFtB"
   },
   {
     "SourceSheet": "Bags",
@@ -8024,9 +7592,7 @@
     "Filename": "BagBackpackTownSpace2",
     "ClothGroup ID": 1482,
     "Internal ID": 687,
-    "Unique Entry ID": "j3ekuYNChEzbFwYHi",
-    "Url": "=FORMULATEXT(B218)",
-    "Url2": "=FORMULATEXT(C218)"
+    "Unique Entry ID": "j3ekuYNChEzbFwYHi"
   },
   {
     "SourceSheet": "Bags",
@@ -8061,9 +7627,7 @@
     "Filename": "BagBackpackTownSpace1",
     "ClothGroup ID": 1482,
     "Internal ID": 686,
-    "Unique Entry ID": "TnLKmp7wRGv58oXiH",
-    "Url": "=FORMULATEXT(B219)",
-    "Url2": "=FORMULATEXT(C219)"
+    "Unique Entry ID": "TnLKmp7wRGv58oXiH"
   },
   {
     "SourceSheet": "Bags",
@@ -8098,9 +7662,7 @@
     "Filename": "BagBackpackTownSpace0",
     "ClothGroup ID": 1482,
     "Internal ID": 14840,
-    "Unique Entry ID": "A2HoiTh5o3kZfaPb9",
-    "Url": "=FORMULATEXT(B220)",
-    "Url2": "=FORMULATEXT(C220)"
+    "Unique Entry ID": "A2HoiTh5o3kZfaPb9"
   },
   {
     "SourceSheet": "Bags",
@@ -8135,9 +7697,7 @@
     "Filename": "BagBackpackSquare1",
     "ClothGroup ID": 989,
     "Internal ID": 11967,
-    "Unique Entry ID": "wN6jaJRRvg6cQZXhk",
-    "Url": "=FORMULATEXT(B221)",
-    "Url2": "=FORMULATEXT(C221)"
+    "Unique Entry ID": "wN6jaJRRvg6cQZXhk"
   },
   {
     "SourceSheet": "Bags",
@@ -8172,9 +7732,7 @@
     "Filename": "BagBackpackSquare0",
     "ClothGroup ID": 989,
     "Internal ID": 7500,
-    "Unique Entry ID": "2RYepaMxTnXMZ9tXg",
-    "Url": "=FORMULATEXT(B222)",
-    "Url2": "=FORMULATEXT(C222)"
+    "Unique Entry ID": "2RYepaMxTnXMZ9tXg"
   },
   {
     "SourceSheet": "Bags",
@@ -8209,9 +7767,7 @@
     "Filename": "BagBackpackSquare2",
     "ClothGroup ID": 989,
     "Internal ID": 11968,
-    "Unique Entry ID": "rJain6G9X749mG5p7",
-    "Url": "=FORMULATEXT(B223)",
-    "Url2": "=FORMULATEXT(C223)"
+    "Unique Entry ID": "rJain6G9X749mG5p7"
   },
   {
     "SourceSheet": "Bags",
@@ -8246,9 +7802,7 @@
     "Filename": "BagShoulderSquare0",
     "ClothGroup ID": 1469,
     "Internal ID": 14822,
-    "Unique Entry ID": "v2YbfRZAxvtYHebQC",
-    "Url": "=FORMULATEXT(B224)",
-    "Url2": "=FORMULATEXT(C224)"
+    "Unique Entry ID": "v2YbfRZAxvtYHebQC"
   },
   {
     "SourceSheet": "Bags",
@@ -8283,9 +7837,7 @@
     "Filename": "BagShoulderSquare1",
     "ClothGroup ID": 1469,
     "Internal ID": 580,
-    "Unique Entry ID": "eKaCGGsdoK7RwTEsL",
-    "Url": "=FORMULATEXT(B225)",
-    "Url2": "=FORMULATEXT(C225)"
+    "Unique Entry ID": "eKaCGGsdoK7RwTEsL"
   },
   {
     "SourceSheet": "Bags",
@@ -8320,9 +7872,7 @@
     "Filename": "BagShoulderStar0",
     "ClothGroup ID": 977,
     "Internal ID": 7489,
-    "Unique Entry ID": "3WQ8vSWtHMjZ6YPtR",
-    "Url": "=FORMULATEXT(B226)",
-    "Url2": "=FORMULATEXT(C226)"
+    "Unique Entry ID": "3WQ8vSWtHMjZ6YPtR"
   },
   {
     "SourceSheet": "Bags",
@@ -8357,9 +7907,7 @@
     "Filename": "BagShoulderRattan0",
     "ClothGroup ID": 976,
     "Internal ID": 7488,
-    "Unique Entry ID": "CGs3z4dKEkH82FDyq",
-    "Url": "=FORMULATEXT(B227)",
-    "Url2": "=FORMULATEXT(C227)"
+    "Unique Entry ID": "CGs3z4dKEkH82FDyq"
   },
   {
     "SourceSheet": "Bags",
@@ -8394,9 +7942,7 @@
     "Filename": "ToolBagBasketborder0",
     "ClothGroup ID": 1504,
     "Internal ID": 14855,
-    "Unique Entry ID": "yb7uitAH93P7rKqNe",
-    "Url": "=FORMULATEXT(B228)",
-    "Url2": "=FORMULATEXT(C228)"
+    "Unique Entry ID": "yb7uitAH93P7rKqNe"
   },
   {
     "SourceSheet": "Bags",
@@ -8431,9 +7977,7 @@
     "Filename": "ToolBagBasketborder1",
     "ClothGroup ID": 1504,
     "Internal ID": 362,
-    "Unique Entry ID": "GnEDsggSpDGP9ia7x",
-    "Url": "=FORMULATEXT(B229)",
-    "Url2": "=FORMULATEXT(C229)"
+    "Unique Entry ID": "GnEDsggSpDGP9ia7x"
   },
   {
     "SourceSheet": "Bags",
@@ -8468,9 +8012,7 @@
     "Filename": "BagBackpackStuds1",
     "ClothGroup ID": 992,
     "Internal ID": 12006,
-    "Unique Entry ID": "e6iev2NrSfaxSg5nr",
-    "Url": "=FORMULATEXT(B230)",
-    "Url2": "=FORMULATEXT(C230)"
+    "Unique Entry ID": "e6iev2NrSfaxSg5nr"
   },
   {
     "SourceSheet": "Bags",
@@ -8505,9 +8047,7 @@
     "Filename": "BagBackpackStuds0",
     "ClothGroup ID": 992,
     "Internal ID": 7503,
-    "Unique Entry ID": "mTMCDJnwtFJzvQ9rs",
-    "Url": "=FORMULATEXT(B231)",
-    "Url2": "=FORMULATEXT(C231)"
+    "Unique Entry ID": "mTMCDJnwtFJzvQ9rs"
   },
   {
     "SourceSheet": "Bags",
@@ -8542,9 +8082,7 @@
     "Filename": "BagShoulderSword0",
     "ClothGroup ID": 1458,
     "Internal ID": 14785,
-    "Unique Entry ID": "Ti6Q8jF6RWqZNugdQ",
-    "Url": "=FORMULATEXT(B232)",
-    "Url2": "=FORMULATEXT(C232)"
+    "Unique Entry ID": "Ti6Q8jF6RWqZNugdQ"
   },
   {
     "SourceSheet": "Bags",
@@ -8579,9 +8117,7 @@
     "Filename": "BagShoulderSword1",
     "ClothGroup ID": 1458,
     "Internal ID": 711,
-    "Unique Entry ID": "JPyM7LmhhX5CmMebh",
-    "Url": "=FORMULATEXT(B233)",
-    "Url2": "=FORMULATEXT(C233)"
+    "Unique Entry ID": "JPyM7LmhhX5CmMebh"
   },
   {
     "SourceSheet": "Bags",
@@ -8616,9 +8152,7 @@
     "Filename": "BagShoulderSword2",
     "ClothGroup ID": 1458,
     "Internal ID": 713,
-    "Unique Entry ID": "5gEjmPpj3WFRuhFdf",
-    "Url": "=FORMULATEXT(B234)",
-    "Url2": "=FORMULATEXT(C234)"
+    "Unique Entry ID": "5gEjmPpj3WFRuhFdf"
   },
   {
     "SourceSheet": "Bags",
@@ -8653,9 +8187,7 @@
     "Filename": "BagShoulderFishing0",
     "ClothGroup ID": 966,
     "Internal ID": 7478,
-    "Unique Entry ID": "prkWCjgn7gTK4X8QH",
-    "Url": "=FORMULATEXT(B235)",
-    "Url2": "=FORMULATEXT(C235)"
+    "Unique Entry ID": "prkWCjgn7gTK4X8QH"
   },
   {
     "SourceSheet": "Bags",
@@ -8690,9 +8222,7 @@
     "Filename": "ToolBagToteflower0",
     "ClothGroup ID": 1515,
     "Internal ID": 14856,
-    "Unique Entry ID": "ReXGHBzSxKfbAjPsK",
-    "Url": "=FORMULATEXT(B236)",
-    "Url2": "=FORMULATEXT(C236)"
+    "Unique Entry ID": "ReXGHBzSxKfbAjPsK"
   },
   {
     "SourceSheet": "Bags",
@@ -8727,9 +8257,7 @@
     "Filename": "ToolBagToteflower2",
     "ClothGroup ID": 1515,
     "Internal ID": 364,
-    "Unique Entry ID": "qmksHJtPC2wdfyFQk",
-    "Url": "=FORMULATEXT(B237)",
-    "Url2": "=FORMULATEXT(C237)"
+    "Unique Entry ID": "qmksHJtPC2wdfyFQk"
   },
   {
     "SourceSheet": "Bags",
@@ -8764,9 +8292,7 @@
     "Filename": "ToolBagToteflower1",
     "ClothGroup ID": 1515,
     "Internal ID": 363,
-    "Unique Entry ID": "xM7mTGXFc8aeesQaq",
-    "Url": "=FORMULATEXT(B238)",
-    "Url2": "=FORMULATEXT(C238)"
+    "Unique Entry ID": "xM7mTGXFc8aeesQaq"
   },
   {
     "SourceSheet": "Bags",
@@ -8801,9 +8327,7 @@
     "Filename": "BagShoulderTool0",
     "ClothGroup ID": 983,
     "Internal ID": 7497,
-    "Unique Entry ID": "KiXvv8fvv7CN5sFDx",
-    "Url": "=FORMULATEXT(B239)",
-    "Url2": "=FORMULATEXT(C239)"
+    "Unique Entry ID": "KiXvv8fvv7CN5sFDx"
   },
   {
     "SourceSheet": "Bags",
@@ -8838,9 +8362,7 @@
     "Filename": "BagBackpackTown3",
     "ClothGroup ID": 957,
     "Internal ID": 11945,
-    "Unique Entry ID": "wkeZwbrp9BoHTEPRZ",
-    "Url": "=FORMULATEXT(B240)",
-    "Url2": "=FORMULATEXT(C240)"
+    "Unique Entry ID": "wkeZwbrp9BoHTEPRZ"
   },
   {
     "SourceSheet": "Bags",
@@ -8875,9 +8397,7 @@
     "Filename": "BagBackpackTown1",
     "ClothGroup ID": 957,
     "Internal ID": 6839,
-    "Unique Entry ID": "aZasytqebQRikaZZZ",
-    "Url": "=FORMULATEXT(B241)",
-    "Url2": "=FORMULATEXT(C241)"
+    "Unique Entry ID": "aZasytqebQRikaZZZ"
   },
   {
     "SourceSheet": "Bags",
@@ -8912,9 +8432,7 @@
     "Filename": "BagBackpackTown0",
     "ClothGroup ID": 957,
     "Internal ID": 6838,
-    "Unique Entry ID": "sm5eKnwyeNyKGXQLC",
-    "Url": "=FORMULATEXT(B242)",
-    "Url2": "=FORMULATEXT(C242)"
+    "Unique Entry ID": "sm5eKnwyeNyKGXQLC"
   },
   {
     "SourceSheet": "Bags",
@@ -8949,9 +8467,7 @@
     "Filename": "BagBackpackTown2",
     "ClothGroup ID": 957,
     "Internal ID": 11944,
-    "Unique Entry ID": "WGhvofsBw6pFs5c93",
-    "Url": "=FORMULATEXT(B243)",
-    "Url2": "=FORMULATEXT(C243)"
+    "Unique Entry ID": "WGhvofsBw6pFs5c93"
   },
   {
     "SourceSheet": "Bags",
@@ -8986,9 +8502,7 @@
     "Filename": "BagShoulderTravel0",
     "ClothGroup ID": 958,
     "Internal ID": 2550,
-    "Unique Entry ID": "ygrWBZtknqDLLH8Rn",
-    "Url": "=FORMULATEXT(B244)",
-    "Url2": "=FORMULATEXT(C244)"
+    "Unique Entry ID": "ygrWBZtknqDLLH8Rn"
   },
   {
     "SourceSheet": "Bags",
@@ -9023,9 +8537,7 @@
     "Filename": "BagShoulderTravel1",
     "ClothGroup ID": 958,
     "Internal ID": 12000,
-    "Unique Entry ID": "oX3GfBwtMfcQ4STtd",
-    "Url": "=FORMULATEXT(B245)",
-    "Url2": "=FORMULATEXT(C245)"
+    "Unique Entry ID": "oX3GfBwtMfcQ4STtd"
   },
   {
     "SourceSheet": "Bags",
@@ -9060,9 +8572,7 @@
     "Filename": "BagShoulderTravel2",
     "ClothGroup ID": 958,
     "Internal ID": 12001,
-    "Unique Entry ID": "SSHDSgfSasCP6AgmW",
-    "Url": "=FORMULATEXT(B246)",
-    "Url2": "=FORMULATEXT(C246)"
+    "Unique Entry ID": "SSHDSgfSasCP6AgmW"
   },
   {
     "SourceSheet": "Bags",
@@ -9097,9 +8607,7 @@
     "Filename": "BagShoulderTravel3",
     "ClothGroup ID": 958,
     "Internal ID": 12002,
-    "Unique Entry ID": "HTjXg6MXwPZCwEtmJ",
-    "Url": "=FORMULATEXT(B247)",
-    "Url2": "=FORMULATEXT(C247)"
+    "Unique Entry ID": "HTjXg6MXwPZCwEtmJ"
   },
   {
     "SourceSheet": "Bags",
@@ -9134,9 +8642,7 @@
     "Filename": "BagBackpackJourney0",
     "ClothGroup ID": 988,
     "Internal ID": 7499,
-    "Unique Entry ID": "ag2m7kcBg83aCARGE",
-    "Url": "=FORMULATEXT(B248)",
-    "Url2": "=FORMULATEXT(C248)"
+    "Unique Entry ID": "ag2m7kcBg83aCARGE"
   },
   {
     "SourceSheet": "Bags",
@@ -9171,9 +8677,7 @@
     "Filename": "BagBackpackJourney1",
     "ClothGroup ID": 988,
     "Internal ID": 11965,
-    "Unique Entry ID": "iprTWWTSARJtHTKqF",
-    "Url": "=FORMULATEXT(B249)",
-    "Url2": "=FORMULATEXT(C249)"
+    "Unique Entry ID": "iprTWWTSARJtHTKqF"
   },
   {
     "SourceSheet": "Bags",
@@ -9208,9 +8712,7 @@
     "Filename": "BagBackpackJourney2",
     "ClothGroup ID": 988,
     "Internal ID": 11966,
-    "Unique Entry ID": "ehhBAiZqTHaTExHYP",
-    "Url": "=FORMULATEXT(B250)",
-    "Url2": "=FORMULATEXT(C250)"
+    "Unique Entry ID": "ehhBAiZqTHaTExHYP"
   },
   {
     "SourceSheet": "Bags",
@@ -9245,9 +8747,7 @@
     "Filename": "ToolBagEco0",
     "ClothGroup ID": 1517,
     "Internal ID": 14642,
-    "Unique Entry ID": "2c3dbi4vXBJ4m93jg",
-    "Url": "=FORMULATEXT(B251)",
-    "Url2": "=FORMULATEXT(C251)"
+    "Unique Entry ID": "2c3dbi4vXBJ4m93jg"
   },
   {
     "SourceSheet": "Bags",
@@ -9282,9 +8782,7 @@
     "Filename": "BagShoulderVine0",
     "ClothGroup ID": 1358,
     "Internal ID": 14249,
-    "Unique Entry ID": "9obxvbNYBwWEyCDgG",
-    "Url": "=FORMULATEXT(B252)",
-    "Url2": "=FORMULATEXT(C252)"
+    "Unique Entry ID": "9obxvbNYBwWEyCDgG"
   },
   {
     "SourceSheet": "Bags",
@@ -9319,9 +8817,7 @@
     "Filename": "BagBackpackTownZebra0",
     "ClothGroup ID": 1478,
     "Internal ID": 14841,
-    "Unique Entry ID": "9TBWoimJRRKQAtPLr",
-    "Url": "=FORMULATEXT(B253)",
-    "Url2": "=FORMULATEXT(C253)"
+    "Unique Entry ID": "9TBWoimJRRKQAtPLr"
   },
   {
     "SourceSheet": "Bags",
@@ -9356,9 +8852,7 @@
     "Filename": "BagBackpackTownZebra1",
     "ClothGroup ID": 1478,
     "Internal ID": 691,
-    "Unique Entry ID": "4Z8AEPoYdHBnWKWpP",
-    "Url": "=FORMULATEXT(B254)",
-    "Url2": "=FORMULATEXT(C254)"
+    "Unique Entry ID": "4Z8AEPoYdHBnWKWpP"
   },
   {
     "SourceSheet": "Bags",
@@ -9393,9 +8887,7 @@
     "Filename": "BagShoulderSquareZebra0",
     "ClothGroup ID": 1499,
     "Internal ID": 14895,
-    "Unique Entry ID": "Tgs49qZqeCRhwcjXS",
-    "Url": "=FORMULATEXT(B255)",
-    "Url2": "=FORMULATEXT(C255)"
+    "Unique Entry ID": "Tgs49qZqeCRhwcjXS"
   },
   {
     "SourceSheet": "Bags",
@@ -9430,9 +8922,7 @@
     "Filename": "BagShoulderSquareZebra1",
     "ClothGroup ID": 1499,
     "Internal ID": 726,
-    "Unique Entry ID": "iR3Y5q357rdAgJf7R",
-    "Url": "=FORMULATEXT(B256)",
-    "Url2": "=FORMULATEXT(C256)"
+    "Unique Entry ID": "iR3Y5q357rdAgJf7R"
   },
   {
     "SourceSheet": "Bags",
@@ -9467,9 +8957,7 @@
     "Filename": "BagShoulderGamaguchiJapan0",
     "ClothGroup ID": 1491,
     "Internal ID": 14860,
-    "Unique Entry ID": "j2KQWS8koFrMCfFSB",
-    "Url": "=FORMULATEXT(B257)",
-    "Url2": "=FORMULATEXT(C257)"
+    "Unique Entry ID": "j2KQWS8koFrMCfFSB"
   },
   {
     "SourceSheet": "Bags",
@@ -9504,9 +8992,7 @@
     "Filename": "BagShoulderGamaguchiJapan1",
     "ClothGroup ID": 1491,
     "Internal ID": 353,
-    "Unique Entry ID": "JPNKHa4Rj38xrtR6a",
-    "Url": "=FORMULATEXT(B258)",
-    "Url2": "=FORMULATEXT(C258)"
+    "Unique Entry ID": "JPNKHa4Rj38xrtR6a"
   },
   {
     "SourceSheet": "Bags",
@@ -9541,8 +9027,6 @@
     "Filename": "BagShoulderGamaguchiJapan2",
     "ClothGroup ID": 1491,
     "Internal ID": 354,
-    "Unique Entry ID": "W6M48fGe9R2XamF9c",
-    "Url": "=FORMULATEXT(B259)",
-    "Url2": "=FORMULATEXT(C259)"
+    "Unique Entry ID": "W6M48fGe9R2XamF9c"
   }
 ]

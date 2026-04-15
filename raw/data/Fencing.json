@@ -23,8 +23,7 @@
     "Filename": "ItemFenceBamboo",
     "Variant ID": "NA",
     "Internal ID": 3403,
-    "Unique Entry ID": "XaLnmQsQ47HfHQ9g5",
-    "Url": "=FORMULATEXT(B2)"
+    "Unique Entry ID": "XaLnmQsQ47HfHQ9g5"
   },
   {
     "SourceSheet": "Fencing",
@@ -50,8 +49,7 @@
     "Filename": "ItemFenceSandProtection",
     "Variant ID": "NA",
     "Internal ID": 14757,
-    "Unique Entry ID": "ziM6qEMjHMDPruzz6",
-    "Url": "=FORMULATEXT(B3)"
+    "Unique Entry ID": "ziM6qEMjHMDPruzz6"
   },
   {
     "SourceSheet": "Fencing",
@@ -77,8 +75,7 @@
     "Filename": "ItemFenceBarbedWire",
     "Variant ID": "NA",
     "Internal ID": 5213,
-    "Unique Entry ID": "dNgibaR9jFqaDwuDZ",
-    "Url": "=FORMULATEXT(B4)"
+    "Unique Entry ID": "dNgibaR9jFqaDwuDZ"
   },
   {
     "SourceSheet": "Fencing",
@@ -104,8 +101,7 @@
     "Filename": "ItemFenceConcreteBlock",
     "Variant ID": "NA",
     "Internal ID": 4355,
-    "Unique Entry ID": "mKD2vgrBbXSNNPGJ4",
-    "Url": "=FORMULATEXT(B5)"
+    "Unique Entry ID": "mKD2vgrBbXSNNPGJ4"
   },
   {
     "SourceSheet": "Fencing",
@@ -131,8 +127,7 @@
     "Filename": "ItemFenceWallRenga",
     "Variant ID": "NA",
     "Internal ID": 3080,
-    "Unique Entry ID": "WAzanA7e5MREzJdMh",
-    "Url": "=FORMULATEXT(B6)"
+    "Unique Entry ID": "WAzanA7e5MREzJdMh"
   },
   {
     "SourceSheet": "Fencing",
@@ -158,8 +153,7 @@
     "Filename": "ItemFenceEgg",
     "Variant ID": "NA",
     "Internal ID": 12630,
-    "Unique Entry ID": "CLQGhAfSNykpxrh3a",
-    "Url": "=FORMULATEXT(B7)"
+    "Unique Entry ID": "CLQGhAfSNykpxrh3a"
   },
   {
     "SourceSheet": "Fencing",
@@ -185,8 +179,7 @@
     "Filename": "ItemFenceHorizontalWood",
     "Variant ID": "NA",
     "Internal ID": 4349,
-    "Unique Entry ID": "rqwqYy7Aphvh5zBSA",
-    "Url": "=FORMULATEXT(B8)"
+    "Unique Entry ID": "rqwqYy7Aphvh5zBSA"
   },
   {
     "SourceSheet": "Fencing",
@@ -212,8 +205,7 @@
     "Filename": "ItemFenceCorrugatedIron_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 14758,
-    "Unique Entry ID": "sbRoLarfMrE5YkCL9",
-    "Url": "=FORMULATEXT(B9)"
+    "Unique Entry ID": "sbRoLarfMrE5YkCL9"
   },
   {
     "SourceSheet": "Fencing",
@@ -239,8 +231,7 @@
     "Filename": "ItemFenceCorrugatedIron_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 14758,
-    "Unique Entry ID": "tH2nZ6dspXXTRZ65A",
-    "Url": "=FORMULATEXT(B10)"
+    "Unique Entry ID": "tH2nZ6dspXXTRZ65A"
   },
   {
     "SourceSheet": "Fencing",
@@ -266,8 +257,7 @@
     "Filename": "ItemFenceCorrugatedIron_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 14758,
-    "Unique Entry ID": "bxWiSjQEdzwvHJGXH",
-    "Url": "=FORMULATEXT(B11)"
+    "Unique Entry ID": "bxWiSjQEdzwvHJGXH"
   },
   {
     "SourceSheet": "Fencing",
@@ -293,8 +283,7 @@
     "Filename": "ItemFenceCorrugatedIron_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 14758,
-    "Unique Entry ID": "ZNwYpAk3yKtvcYb5t",
-    "Url": "=FORMULATEXT(B12)"
+    "Unique Entry ID": "ZNwYpAk3yKtvcYb5t"
   },
   {
     "SourceSheet": "Fencing",
@@ -320,8 +309,7 @@
     "Filename": "ItemFenceCorrugatedIron_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 14758,
-    "Unique Entry ID": "b4wCAGpeiKNQKn2tN",
-    "Url": "=FORMULATEXT(B13)"
+    "Unique Entry ID": "b4wCAGpeiKNQKn2tN"
   },
   {
     "SourceSheet": "Fencing",
@@ -347,8 +335,7 @@
     "Filename": "ItemFenceCorrugatedIron_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 14758,
-    "Unique Entry ID": "taWDpCYbwtnxqr68T",
-    "Url": "=FORMULATEXT(B14)"
+    "Unique Entry ID": "taWDpCYbwtnxqr68T"
   },
   {
     "SourceSheet": "Fencing",
@@ -374,8 +361,7 @@
     "Filename": "ItemFenceCorrugatedIron_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 14758,
-    "Unique Entry ID": "Q9aQS7h5HtJ5jEZQq",
-    "Url": "=FORMULATEXT(B15)"
+    "Unique Entry ID": "Q9aQS7h5HtJ5jEZQq"
   },
   {
     "SourceSheet": "Fencing",
@@ -401,8 +387,7 @@
     "Filename": "ItemFenceCorrugatedIron_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 14758,
-    "Unique Entry ID": "TsjJXwxTniq3FWZnR",
-    "Url": "=FORMULATEXT(B16)"
+    "Unique Entry ID": "TsjJXwxTniq3FWZnR"
   },
   {
     "SourceSheet": "Fencing",
@@ -428,8 +413,7 @@
     "Filename": "ItemFenceLog",
     "Variant ID": "NA",
     "Internal ID": 4350,
-    "Unique Entry ID": "twwkbWJ8YsoJEy3j8",
-    "Url": "=FORMULATEXT(B17)"
+    "Unique Entry ID": "twwkbWJ8YsoJEy3j8"
   },
   {
     "SourceSheet": "Fencing",
@@ -455,8 +439,7 @@
     "Filename": "ItemFenceIce_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 14756,
-    "Unique Entry ID": "ECXSEhvtE5XqvDLdW",
-    "Url": "=FORMULATEXT(B18)"
+    "Unique Entry ID": "ECXSEhvtE5XqvDLdW"
   },
   {
     "SourceSheet": "Fencing",
@@ -482,8 +465,7 @@
     "Filename": "ItemFenceIce_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 14756,
-    "Unique Entry ID": "kEgodfCvnHHwz9rdj",
-    "Url": "=FORMULATEXT(B19)"
+    "Unique Entry ID": "kEgodfCvnHHwz9rdj"
   },
   {
     "SourceSheet": "Fencing",
@@ -509,8 +491,7 @@
     "Filename": "ItemFenceIce_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 14756,
-    "Unique Entry ID": "gpnuvutoCkkMppzxz",
-    "Url": "=FORMULATEXT(B20)"
+    "Unique Entry ID": "gpnuvutoCkkMppzxz"
   },
   {
     "SourceSheet": "Fencing",
@@ -536,8 +517,7 @@
     "Filename": "ItemFenceIce_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 14756,
-    "Unique Entry ID": "qvbWqne5MX4Ddrdvn",
-    "Url": "=FORMULATEXT(B21)"
+    "Unique Entry ID": "qvbWqne5MX4Ddrdvn"
   },
   {
     "SourceSheet": "Fencing",
@@ -563,8 +543,7 @@
     "Filename": "ItemFenceIce_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 14756,
-    "Unique Entry ID": "nkFQQ4hRxxRHF38DD",
-    "Url": "=FORMULATEXT(B22)"
+    "Unique Entry ID": "nkFQQ4hRxxRHF38DD"
   },
   {
     "SourceSheet": "Fencing",
@@ -590,8 +569,7 @@
     "Filename": "ItemFenceIce_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 14756,
-    "Unique Entry ID": "Cq4BQyuvbqHvzDy8y",
-    "Url": "=FORMULATEXT(B23)"
+    "Unique Entry ID": "Cq4BQyuvbqHvzDy8y"
   },
   {
     "SourceSheet": "Fencing",
@@ -617,8 +595,7 @@
     "Filename": "ItemFenceIce_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 14756,
-    "Unique Entry ID": "mGFKRECMp9YowP2Tv",
-    "Url": "=FORMULATEXT(B24)"
+    "Unique Entry ID": "mGFKRECMp9YowP2Tv"
   },
   {
     "SourceSheet": "Fencing",
@@ -644,8 +621,7 @@
     "Filename": "ItemFenceCrossedBamboo",
     "Variant ID": "NA",
     "Internal ID": 14755,
-    "Unique Entry ID": "LhbRFhRy7eQiPbcSZ",
-    "Url": "=FORMULATEXT(B25)"
+    "Unique Entry ID": "LhbRFhRy7eQiPbcSZ"
   },
   {
     "SourceSheet": "Fencing",
@@ -671,8 +647,7 @@
     "Filename": "ItemFenceIkegaki",
     "Variant ID": "NA",
     "Internal ID": 12758,
-    "Unique Entry ID": "TphLYSh2MdogHdheg",
-    "Url": "=FORMULATEXT(B26)"
+    "Unique Entry ID": "TphLYSh2MdogHdheg"
   },
   {
     "SourceSheet": "Fencing",
@@ -698,8 +673,7 @@
     "Filename": "ItemFenceChinese",
     "Variant ID": "NA",
     "Internal ID": 4354,
-    "Unique Entry ID": "fHqt7TXfbhfKnPbwG",
-    "Url": "=FORMULATEXT(B27)"
+    "Unique Entry ID": "fHqt7TXfbhfKnPbwG"
   },
   {
     "SourceSheet": "Fencing",
@@ -725,8 +699,7 @@
     "Filename": "ItemFenceSteel_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 4357,
-    "Unique Entry ID": "RL5hL24NbwzE7zv3R",
-    "Url": "=FORMULATEXT(B28)"
+    "Unique Entry ID": "RL5hL24NbwzE7zv3R"
   },
   {
     "SourceSheet": "Fencing",
@@ -752,8 +725,7 @@
     "Filename": "ItemFenceSteel_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 4357,
-    "Unique Entry ID": "MQmNibiLC5ujWPTjP",
-    "Url": "=FORMULATEXT(B29)"
+    "Unique Entry ID": "MQmNibiLC5ujWPTjP"
   },
   {
     "SourceSheet": "Fencing",
@@ -779,8 +751,7 @@
     "Filename": "ItemFenceSteel_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 4357,
-    "Unique Entry ID": "HEZZxvoKnMYyTRCeL",
-    "Url": "=FORMULATEXT(B30)"
+    "Unique Entry ID": "HEZZxvoKnMYyTRCeL"
   },
   {
     "SourceSheet": "Fencing",
@@ -806,8 +777,7 @@
     "Filename": "ItemFenceSteel_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 4357,
-    "Unique Entry ID": "dBoh8bTZLMfGJ44MX",
-    "Url": "=FORMULATEXT(B31)"
+    "Unique Entry ID": "dBoh8bTZLMfGJ44MX"
   },
   {
     "SourceSheet": "Fencing",
@@ -833,8 +803,7 @@
     "Filename": "ItemFenceSteel_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 4357,
-    "Unique Entry ID": "abxXLg4FGa52zwAA6",
-    "Url": "=FORMULATEXT(B32)"
+    "Unique Entry ID": "abxXLg4FGa52zwAA6"
   },
   {
     "SourceSheet": "Fencing",
@@ -860,8 +829,7 @@
     "Filename": "ItemFenceSteel_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 4357,
-    "Unique Entry ID": "rJyoLsjrqB3j2Nwdt",
-    "Url": "=FORMULATEXT(B33)"
+    "Unique Entry ID": "rJyoLsjrqB3j2Nwdt"
   },
   {
     "SourceSheet": "Fencing",
@@ -887,8 +855,7 @@
     "Filename": "ItemFenceSteel_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 4357,
-    "Unique Entry ID": "3hjxsDtdySLQGH5Ec",
-    "Url": "=FORMULATEXT(B34)"
+    "Unique Entry ID": "3hjxsDtdySLQGH5Ec"
   },
   {
     "SourceSheet": "Fencing",
@@ -914,8 +881,7 @@
     "Filename": "ItemFenceSteel_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 4357,
-    "Unique Entry ID": "dtP7xARX2PdA7RtTx",
-    "Url": "=FORMULATEXT(B35)"
+    "Unique Entry ID": "dtP7xARX2PdA7RtTx"
   },
   {
     "SourceSheet": "Fencing",
@@ -941,8 +907,7 @@
     "Filename": "ItemFenceIronAndStone",
     "Variant ID": "NA",
     "Internal ID": 5206,
-    "Unique Entry ID": "kjSa4R6JQz2DtWQ2C",
-    "Url": "=FORMULATEXT(B36)"
+    "Unique Entry ID": "kjSa4R6JQz2DtWQ2C"
   },
   {
     "SourceSheet": "Fencing",
@@ -968,8 +933,7 @@
     "Filename": "ItemFenceLatticeBig_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 5208,
-    "Unique Entry ID": "wABzTyF5CaorKLJq4",
-    "Url": "=FORMULATEXT(B37)"
+    "Unique Entry ID": "wABzTyF5CaorKLJq4"
   },
   {
     "SourceSheet": "Fencing",
@@ -995,8 +959,7 @@
     "Filename": "ItemFenceLatticeBig_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 5208,
-    "Unique Entry ID": "haq4bAhYphv6KZWAR",
-    "Url": "=FORMULATEXT(B38)"
+    "Unique Entry ID": "haq4bAhYphv6KZWAR"
   },
   {
     "SourceSheet": "Fencing",
@@ -1022,8 +985,7 @@
     "Filename": "ItemFenceLatticeBig_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 5208,
-    "Unique Entry ID": "nYAHybQMLgyFoiLRW",
-    "Url": "=FORMULATEXT(B39)"
+    "Unique Entry ID": "nYAHybQMLgyFoiLRW"
   },
   {
     "SourceSheet": "Fencing",
@@ -1049,8 +1011,7 @@
     "Filename": "ItemFenceLatticeBig_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 5208,
-    "Unique Entry ID": "tKSabkRhFJePzcoEP",
-    "Url": "=FORMULATEXT(B40)"
+    "Unique Entry ID": "tKSabkRhFJePzcoEP"
   },
   {
     "SourceSheet": "Fencing",
@@ -1076,8 +1037,7 @@
     "Filename": "ItemFenceLatticeBig_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 5208,
-    "Unique Entry ID": "w2yhQpiefWQrFjwFJ",
-    "Url": "=FORMULATEXT(B41)"
+    "Unique Entry ID": "w2yhQpiefWQrFjwFJ"
   },
   {
     "SourceSheet": "Fencing",
@@ -1103,8 +1063,7 @@
     "Filename": "ItemFenceLatticeBig_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 5208,
-    "Unique Entry ID": "AmFmL5pujXKGcPbZn",
-    "Url": "=FORMULATEXT(B42)"
+    "Unique Entry ID": "AmFmL5pujXKGcPbZn"
   },
   {
     "SourceSheet": "Fencing",
@@ -1130,8 +1089,7 @@
     "Filename": "ItemFenceLatticeBig_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 5208,
-    "Unique Entry ID": "5DqcA5RgRoDxhDtSk",
-    "Url": "=FORMULATEXT(B43)"
+    "Unique Entry ID": "5DqcA5RgRoDxhDtSk"
   },
   {
     "SourceSheet": "Fencing",
@@ -1157,8 +1115,7 @@
     "Filename": "ItemFenceLatticeBig_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 5208,
-    "Unique Entry ID": "TNLhzsvuSoQ5jd7ac",
-    "Url": "=FORMULATEXT(B44)"
+    "Unique Entry ID": "TNLhzsvuSoQ5jd7ac"
   },
   {
     "SourceSheet": "Fencing",
@@ -1184,8 +1141,7 @@
     "Filename": "ItemFenceLatiiceNatural_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 11712,
-    "Unique Entry ID": "qBrhYgaCnEiQYouP6",
-    "Url": "=FORMULATEXT(B45)"
+    "Unique Entry ID": "qBrhYgaCnEiQYouP6"
   },
   {
     "SourceSheet": "Fencing",
@@ -1211,8 +1167,7 @@
     "Filename": "ItemFenceLatiiceNatural_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 11712,
-    "Unique Entry ID": "ebx7dWqi7wZaobni3",
-    "Url": "=FORMULATEXT(B46)"
+    "Unique Entry ID": "ebx7dWqi7wZaobni3"
   },
   {
     "SourceSheet": "Fencing",
@@ -1238,8 +1193,7 @@
     "Filename": "ItemFenceLatiiceNatural_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 11712,
-    "Unique Entry ID": "fK8rCXmhRdph5aMaq",
-    "Url": "=FORMULATEXT(B47)"
+    "Unique Entry ID": "fK8rCXmhRdph5aMaq"
   },
   {
     "SourceSheet": "Fencing",
@@ -1265,8 +1219,7 @@
     "Filename": "ItemFenceLatiiceNatural_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 11712,
-    "Unique Entry ID": "aWJZvPEGR8J2QumhB",
-    "Url": "=FORMULATEXT(B48)"
+    "Unique Entry ID": "aWJZvPEGR8J2QumhB"
   },
   {
     "SourceSheet": "Fencing",
@@ -1292,8 +1245,7 @@
     "Filename": "ItemFenceLatiiceNatural_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 11712,
-    "Unique Entry ID": "NobD4hcBxcfJmQzJp",
-    "Url": "=FORMULATEXT(B49)"
+    "Unique Entry ID": "NobD4hcBxcfJmQzJp"
   },
   {
     "SourceSheet": "Fencing",
@@ -1319,8 +1271,7 @@
     "Filename": "ItemFenceLatiiceNatural_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 11712,
-    "Unique Entry ID": "3E8SKqfFCTxB8re3S",
-    "Url": "=FORMULATEXT(B50)"
+    "Unique Entry ID": "3E8SKqfFCTxB8re3S"
   },
   {
     "SourceSheet": "Fencing",
@@ -1346,8 +1297,7 @@
     "Filename": "ItemFenceLatiiceNatural_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 11712,
-    "Unique Entry ID": "Fx3c7yFA8eKfc2BGv",
-    "Url": "=FORMULATEXT(B51)"
+    "Unique Entry ID": "Fx3c7yFA8eKfc2BGv"
   },
   {
     "SourceSheet": "Fencing",
@@ -1373,8 +1323,7 @@
     "Filename": "ItemFenceLatiiceNatural_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 11712,
-    "Unique Entry ID": "eNw32m5GGSnw6dGYd",
-    "Url": "=FORMULATEXT(B52)"
+    "Unique Entry ID": "eNw32m5GGSnw6dGYd"
   },
   {
     "SourceSheet": "Fencing",
@@ -1400,8 +1349,7 @@
     "Filename": "ItemFenceHorizontalLog",
     "Variant ID": "NA",
     "Internal ID": 4351,
-    "Unique Entry ID": "ifuDMxChXr5ZiHGsg",
-    "Url": "=FORMULATEXT(B53)"
+    "Unique Entry ID": "ifuDMxChXr5ZiHGsg"
   },
   {
     "SourceSheet": "Fencing",
@@ -1427,8 +1375,7 @@
     "Filename": "ItemFenceLogWall",
     "Variant ID": "NA",
     "Internal ID": 5210,
-    "Unique Entry ID": "SZM2JpYHZwyL58kmw",
-    "Url": "=FORMULATEXT(B54)"
+    "Unique Entry ID": "SZM2JpYHZwyL58kmw"
   },
   {
     "SourceSheet": "Fencing",
@@ -1454,8 +1401,7 @@
     "Filename": "ItemFenceMermaid",
     "Variant ID": "NA",
     "Internal ID": 14278,
-    "Unique Entry ID": "ckHANkPvuKPj7P59Z",
-    "Url": "=FORMULATEXT(B55)"
+    "Unique Entry ID": "ckHANkPvuKPj7P59Z"
   },
   {
     "SourceSheet": "Fencing",
@@ -1481,8 +1427,7 @@
     "Filename": "ItemFencePark_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 14759,
-    "Unique Entry ID": "mutLvn796ZQBRoLhP",
-    "Url": "=FORMULATEXT(B56)"
+    "Unique Entry ID": "mutLvn796ZQBRoLhP"
   },
   {
     "SourceSheet": "Fencing",
@@ -1508,8 +1453,7 @@
     "Filename": "ItemFencePark_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 14759,
-    "Unique Entry ID": "LjnqtWXGrmPP5hkRP",
-    "Url": "=FORMULATEXT(B57)"
+    "Unique Entry ID": "LjnqtWXGrmPP5hkRP"
   },
   {
     "SourceSheet": "Fencing",
@@ -1535,8 +1479,7 @@
     "Filename": "ItemFencePark_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 14759,
-    "Unique Entry ID": "mGDZJnNrDz73RDXaJ",
-    "Url": "=FORMULATEXT(B58)"
+    "Unique Entry ID": "mGDZJnNrDz73RDXaJ"
   },
   {
     "SourceSheet": "Fencing",
@@ -1562,8 +1505,7 @@
     "Filename": "ItemFencePark_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 14759,
-    "Unique Entry ID": "vkQbtQ69HGj9HWHBQ",
-    "Url": "=FORMULATEXT(B59)"
+    "Unique Entry ID": "vkQbtQ69HGj9HWHBQ"
   },
   {
     "SourceSheet": "Fencing",
@@ -1589,8 +1531,7 @@
     "Filename": "ItemFencePark_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 14759,
-    "Unique Entry ID": "p7G4i7W7KQNKDXLHE",
-    "Url": "=FORMULATEXT(B60)"
+    "Unique Entry ID": "p7G4i7W7KQNKDXLHE"
   },
   {
     "SourceSheet": "Fencing",
@@ -1616,8 +1557,7 @@
     "Filename": "ItemFencePark_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 14759,
-    "Unique Entry ID": "JMxdd29T9qjbGwxKA",
-    "Url": "=FORMULATEXT(B61)"
+    "Unique Entry ID": "JMxdd29T9qjbGwxKA"
   },
   {
     "SourceSheet": "Fencing",
@@ -1643,8 +1583,7 @@
     "Filename": "ItemFencePark_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 14759,
-    "Unique Entry ID": "ELM8MNypnp77LoW9D",
-    "Url": "=FORMULATEXT(B62)"
+    "Unique Entry ID": "ELM8MNypnp77LoW9D"
   },
   {
     "SourceSheet": "Fencing",
@@ -1670,8 +1609,7 @@
     "Filename": "ItemFencePark_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 14759,
-    "Unique Entry ID": "7ycs8DgQMnXZ8rafq",
-    "Url": "=FORMULATEXT(B63)"
+    "Unique Entry ID": "7ycs8DgQMnXZ8rafq"
   },
   {
     "SourceSheet": "Fencing",
@@ -1697,8 +1635,7 @@
     "Filename": "ItemFencePegRope",
     "Variant ID": "NA",
     "Internal ID": 4352,
-    "Unique Entry ID": "TpruAQnqeeYcDxPRj",
-    "Url": "=FORMULATEXT(B64)"
+    "Unique Entry ID": "TpruAQnqeeYcDxPRj"
   },
   {
     "SourceSheet": "Fencing",
@@ -1724,8 +1661,7 @@
     "Filename": "ItemFenceNatural_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 11711,
-    "Unique Entry ID": "bxF62vutvYBw9BTDT",
-    "Url": "=FORMULATEXT(B65)"
+    "Unique Entry ID": "bxF62vutvYBw9BTDT"
   },
   {
     "SourceSheet": "Fencing",
@@ -1751,8 +1687,7 @@
     "Filename": "ItemFenceNatural_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 11711,
-    "Unique Entry ID": "Kkmjn6BrdDfPz48e2",
-    "Url": "=FORMULATEXT(B66)"
+    "Unique Entry ID": "Kkmjn6BrdDfPz48e2"
   },
   {
     "SourceSheet": "Fencing",
@@ -1778,8 +1713,7 @@
     "Filename": "ItemFenceNatural_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 11711,
-    "Unique Entry ID": "tcxM3mJLsQD7YxEs8",
-    "Url": "=FORMULATEXT(B67)"
+    "Unique Entry ID": "tcxM3mJLsQD7YxEs8"
   },
   {
     "SourceSheet": "Fencing",
@@ -1805,8 +1739,7 @@
     "Filename": "ItemFenceNatural_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 11711,
-    "Unique Entry ID": "vzoHZ9cnv4dipBnfh",
-    "Url": "=FORMULATEXT(B68)"
+    "Unique Entry ID": "vzoHZ9cnv4dipBnfh"
   },
   {
     "SourceSheet": "Fencing",
@@ -1832,8 +1765,7 @@
     "Filename": "ItemFenceNatural_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 11711,
-    "Unique Entry ID": "MC7D4yBEzoS6eLtkD",
-    "Url": "=FORMULATEXT(B69)"
+    "Unique Entry ID": "MC7D4yBEzoS6eLtkD"
   },
   {
     "SourceSheet": "Fencing",
@@ -1859,8 +1791,7 @@
     "Filename": "ItemFenceNatural_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 11711,
-    "Unique Entry ID": "7FynyLiyuGG9KjNdE",
-    "Url": "=FORMULATEXT(B70)"
+    "Unique Entry ID": "7FynyLiyuGG9KjNdE"
   },
   {
     "SourceSheet": "Fencing",
@@ -1886,8 +1817,7 @@
     "Filename": "ItemFenceNatural_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 11711,
-    "Unique Entry ID": "R7WyXriMCZxSWL8EE",
-    "Url": "=FORMULATEXT(B71)"
+    "Unique Entry ID": "R7WyXriMCZxSWL8EE"
   },
   {
     "SourceSheet": "Fencing",
@@ -1913,8 +1843,7 @@
     "Filename": "ItemFenceNatural_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 11711,
-    "Unique Entry ID": "X7ogyM8rtkLRuyjNk",
-    "Url": "=FORMULATEXT(B72)"
+    "Unique Entry ID": "X7ogyM8rtkLRuyjNk"
   },
   {
     "SourceSheet": "Fencing",
@@ -1940,8 +1869,7 @@
     "Filename": "ItemFenceSharply",
     "Variant ID": "NA",
     "Internal ID": 4358,
-    "Unique Entry ID": "gYccyRpBzpFCLLW56",
-    "Url": "=FORMULATEXT(B73)"
+    "Unique Entry ID": "gYccyRpBzpFCLLW56"
   },
   {
     "SourceSheet": "Fencing",
@@ -1967,8 +1895,7 @@
     "Filename": "ItemFenceHalloween",
     "Variant ID": "NA",
     "Internal ID": 13275,
-    "Unique Entry ID": "yHsjxz9cexo9WbDaK",
-    "Url": "=FORMULATEXT(B74)"
+    "Unique Entry ID": "yHsjxz9cexo9WbDaK"
   },
   {
     "SourceSheet": "Fencing",
@@ -1994,8 +1921,7 @@
     "Filename": "ItemFenceStone",
     "Variant ID": "NA",
     "Internal ID": 5212,
-    "Unique Entry ID": "ECNmTH3oh3SEDpHCr",
-    "Url": "=FORMULATEXT(B75)"
+    "Unique Entry ID": "ECNmTH3oh3SEDpHCr"
   },
   {
     "SourceSheet": "Fencing",
@@ -2021,8 +1947,7 @@
     "Filename": "ItemFenceDriedStraw",
     "Variant ID": "NA",
     "Internal ID": 4356,
-    "Unique Entry ID": "yp69uEZTdfS9CkisA",
-    "Url": "=FORMULATEXT(B76)"
+    "Unique Entry ID": "yp69uEZTdfS9CkisA"
   },
   {
     "SourceSheet": "Fencing",
@@ -2048,8 +1973,7 @@
     "Filename": "ItemFenceVerticalWood_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 3402,
-    "Unique Entry ID": "M9pkSgdAaKgQELi3E",
-    "Url": "=FORMULATEXT(B77)"
+    "Unique Entry ID": "M9pkSgdAaKgQELi3E"
   },
   {
     "SourceSheet": "Fencing",
@@ -2075,8 +1999,7 @@
     "Filename": "ItemFenceVerticalWood_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 3402,
-    "Unique Entry ID": "XTLNrFZzoDh9cD8Kt",
-    "Url": "=FORMULATEXT(B78)"
+    "Unique Entry ID": "XTLNrFZzoDh9cD8Kt"
   },
   {
     "SourceSheet": "Fencing",
@@ -2102,8 +2025,7 @@
     "Filename": "ItemFenceVerticalWood_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 3402,
-    "Unique Entry ID": "jTyiwMsmkaXCF7hLv",
-    "Url": "=FORMULATEXT(B79)"
+    "Unique Entry ID": "jTyiwMsmkaXCF7hLv"
   },
   {
     "SourceSheet": "Fencing",
@@ -2129,8 +2051,7 @@
     "Filename": "ItemFenceVerticalWood_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 3402,
-    "Unique Entry ID": "ecorj47DZedoZrbgW",
-    "Url": "=FORMULATEXT(B80)"
+    "Unique Entry ID": "ecorj47DZedoZrbgW"
   },
   {
     "SourceSheet": "Fencing",
@@ -2156,8 +2077,7 @@
     "Filename": "ItemFenceVerticalWood_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 3402,
-    "Unique Entry ID": "oDZA3KWp6jcJLhrkv",
-    "Url": "=FORMULATEXT(B81)"
+    "Unique Entry ID": "oDZA3KWp6jcJLhrkv"
   },
   {
     "SourceSheet": "Fencing",
@@ -2183,8 +2103,7 @@
     "Filename": "ItemFenceVerticalWood_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 3402,
-    "Unique Entry ID": "T7ajqp3deFgf85jhn",
-    "Url": "=FORMULATEXT(B82)"
+    "Unique Entry ID": "T7ajqp3deFgf85jhn"
   },
   {
     "SourceSheet": "Fencing",
@@ -2210,8 +2129,7 @@
     "Filename": "ItemFenceVerticalWood_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 3402,
-    "Unique Entry ID": "EQeAKGbyKn8jNa89H",
-    "Url": "=FORMULATEXT(B83)"
+    "Unique Entry ID": "EQeAKGbyKn8jNa89H"
   },
   {
     "SourceSheet": "Fencing",
@@ -2237,8 +2155,7 @@
     "Filename": "ItemFenceVerticalWood_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 3402,
-    "Unique Entry ID": "XB3YvXoDxSTyrZeMF",
-    "Url": "=FORMULATEXT(B84)"
+    "Unique Entry ID": "XB3YvXoDxSTyrZeMF"
   },
   {
     "SourceSheet": "Fencing",
@@ -2264,8 +2181,7 @@
     "Filename": "ItemFenceJuneBride_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 12894,
-    "Unique Entry ID": "68uMh2zjCmeJukYhv",
-    "Url": "=FORMULATEXT(B85)"
+    "Unique Entry ID": "68uMh2zjCmeJukYhv"
   },
   {
     "SourceSheet": "Fencing",
@@ -2291,8 +2207,7 @@
     "Filename": "ItemFenceJuneBride_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 12894,
-    "Unique Entry ID": "wqLxxBmRBhAqz2ePq",
-    "Url": "=FORMULATEXT(B86)"
+    "Unique Entry ID": "wqLxxBmRBhAqz2ePq"
   },
   {
     "SourceSheet": "Fencing",
@@ -2318,8 +2233,7 @@
     "Filename": "ItemFenceJuneBride_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 12894,
-    "Unique Entry ID": "A2HQdKp9W2soyevwG",
-    "Url": "=FORMULATEXT(B87)"
+    "Unique Entry ID": "A2HQdKp9W2soyevwG"
   },
   {
     "SourceSheet": "Fencing",
@@ -2345,8 +2259,7 @@
     "Filename": "ItemFenceJuneBride_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 12894,
-    "Unique Entry ID": "jcQp3WdFzGCsBS2CC",
-    "Url": "=FORMULATEXT(B88)"
+    "Unique Entry ID": "jcQp3WdFzGCsBS2CC"
   },
   {
     "SourceSheet": "Fencing",
@@ -2372,8 +2285,7 @@
     "Filename": "ItemFenceJuneBride_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 12894,
-    "Unique Entry ID": "Aaza388Cq4fuwp4fX",
-    "Url": "=FORMULATEXT(B89)"
+    "Unique Entry ID": "Aaza388Cq4fuwp4fX"
   },
   {
     "SourceSheet": "Fencing",
@@ -2399,8 +2311,7 @@
     "Filename": "ItemFenceJuneBride_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 12894,
-    "Unique Entry ID": "pat3RZ9KXysyjTcaL",
-    "Url": "=FORMULATEXT(B90)"
+    "Unique Entry ID": "pat3RZ9KXysyjTcaL"
   },
   {
     "SourceSheet": "Fencing",
@@ -2426,8 +2337,7 @@
     "Filename": "ItemFenceJuneBride_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 12894,
-    "Unique Entry ID": "WMFk74bGc4zv3Lwbu",
-    "Url": "=FORMULATEXT(B91)"
+    "Unique Entry ID": "WMFk74bGc4zv3Lwbu"
   },
   {
     "SourceSheet": "Fencing",
@@ -2453,8 +2363,7 @@
     "Filename": "ItemFenceJuneBride_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 12894,
-    "Unique Entry ID": "87n6rkrTzLCKvZtRv",
-    "Url": "=FORMULATEXT(B92)"
+    "Unique Entry ID": "87n6rkrTzLCKvZtRv"
   },
   {
     "SourceSheet": "Fencing",
@@ -2480,8 +2389,7 @@
     "Filename": "ItemFenceJapanese_Remake_0_0",
     "Variant ID": "0_0",
     "Internal ID": 5207,
-    "Unique Entry ID": "yZeqREzefxeSiLAaP",
-    "Url": "=FORMULATEXT(B93)"
+    "Unique Entry ID": "yZeqREzefxeSiLAaP"
   },
   {
     "SourceSheet": "Fencing",
@@ -2507,8 +2415,7 @@
     "Filename": "ItemFenceJapanese_Remake_1_0",
     "Variant ID": "1_0",
     "Internal ID": 5207,
-    "Unique Entry ID": "DQ98iB35ebBfeZkHQ",
-    "Url": "=FORMULATEXT(B94)"
+    "Unique Entry ID": "DQ98iB35ebBfeZkHQ"
   },
   {
     "SourceSheet": "Fencing",
@@ -2534,8 +2441,7 @@
     "Filename": "ItemFenceJapanese_Remake_2_0",
     "Variant ID": "2_0",
     "Internal ID": 5207,
-    "Unique Entry ID": "GjeRZJsbCypReqNZd",
-    "Url": "=FORMULATEXT(B95)"
+    "Unique Entry ID": "GjeRZJsbCypReqNZd"
   },
   {
     "SourceSheet": "Fencing",
@@ -2561,8 +2467,7 @@
     "Filename": "ItemFenceJapanese_Remake_3_0",
     "Variant ID": "3_0",
     "Internal ID": 5207,
-    "Unique Entry ID": "uN494SE8F6RfYDghH",
-    "Url": "=FORMULATEXT(B96)"
+    "Unique Entry ID": "uN494SE8F6RfYDghH"
   },
   {
     "SourceSheet": "Fencing",
@@ -2588,8 +2493,7 @@
     "Filename": "ItemFenceJapanese_Remake_4_0",
     "Variant ID": "4_0",
     "Internal ID": 5207,
-    "Unique Entry ID": "gAQntfadE2fF3yS8B",
-    "Url": "=FORMULATEXT(B97)"
+    "Unique Entry ID": "gAQntfadE2fF3yS8B"
   },
   {
     "SourceSheet": "Fencing",
@@ -2615,8 +2519,7 @@
     "Filename": "ItemFenceJapanese_Remake_5_0",
     "Variant ID": "5_0",
     "Internal ID": 5207,
-    "Unique Entry ID": "Puf3HzPMpWFCNxfog",
-    "Url": "=FORMULATEXT(B98)"
+    "Unique Entry ID": "Puf3HzPMpWFCNxfog"
   },
   {
     "SourceSheet": "Fencing",
@@ -2642,8 +2545,7 @@
     "Filename": "ItemFenceJapanese_Remake_6_0",
     "Variant ID": "6_0",
     "Internal ID": 5207,
-    "Unique Entry ID": "fJcjXSN2Emf86qRCc",
-    "Url": "=FORMULATEXT(B99)"
+    "Unique Entry ID": "fJcjXSN2Emf86qRCc"
   },
   {
     "SourceSheet": "Fencing",
@@ -2669,7 +2571,6 @@
     "Filename": "ItemFenceJapanese_Remake_7_0",
     "Variant ID": "7_0",
     "Internal ID": 5207,
-    "Unique Entry ID": "w6mfAirx3RowXsYp5",
-    "Url": "=FORMULATEXT(B100)"
+    "Unique Entry ID": "w6mfAirx3RowXsYp5"
   }
 ]
