@@ -17270,25 +17270,7 @@
     "2059Sh": "Oct 1 – Oct 10",
     "2060Nh": "Apr 1 – Apr 10",
     "2060Sh": "Oct 1 – Oct 10",
-    "translations": {
-      "sourceSheet": "Crafting Items",
-      "id": 5859,
-      "eUde": "Kirschblüten",
-      "eUen": "cherry-blossom petals",
-      "eUit": "petali di ciliegio",
-      "eUnl": "kersenbloesemblaadjes",
-      "eUru": "лепестки вишни",
-      "eUfr": "pétales de cerisier",
-      "eUes": "pétalos de cerezo",
-      "uSen": "cherry-blossom petals",
-      "uSfr": "pétales de cerisier",
-      "uSes": "pétalos de cerezo",
-      "jPja": "さくらのはなびら",
-      "kRko": "벚꽃잎",
-      "tWzh": "櫻花花瓣",
-      "cNzh": "樱花花瓣",
-      "plural": true
-    }
+    "translations": null
   },
   {
     "sourceSheet": "Seasons and Events",
@@ -17840,25 +17822,7 @@
     "2059Sh": "May 16 – May 25",
     "2060Nh": "Nov 16 – Nov 25",
     "2060Sh": "May 16 – May 25",
-    "translations": {
-      "sourceSheet": "Crafting Items",
-      "id": 7374,
-      "eUde": "Herbstblätter",
-      "eUen": "maple leaves",
-      "eUit": "foglie d'acero",
-      "eUnl": "esdoornbladeren",
-      "eUru": "кленовые листья",
-      "eUfr": "feuilles d'érable",
-      "eUes": "hojas de arce",
-      "uSen": "maple leaves",
-      "uSfr": "feuilles d'érable",
-      "uSes": "hojas de arce",
-      "jPja": "もみじのはっぱ",
-      "kRko": "단풍잎",
-      "tWzh": "楓葉",
-      "cNzh": "枫叶",
-      "plural": true
-    }
+    "translations": null
   },
   {
     "sourceSheet": "Seasons and Events",
@@ -18410,25 +18374,7 @@
     "2059Sh": "Jun 11 – Aug 24",
     "2060Nh": "Dec 11 – Feb 24",
     "2060Sh": "Jun 11 – Aug 24",
-    "translations": {
-      "sourceSheet": "Crafting Items",
-      "id": 3539,
-      "eUde": "Schneeflocken",
-      "eUen": "snowflakes",
-      "eUit": "fiocchi di neve",
-      "eUnl": "sneeuwvlokken",
-      "eUru": "снежинки",
-      "eUfr": "flocons de neige",
-      "eUes": "copos de nieve",
-      "uSen": "snowflakes",
-      "uSfr": "flocons de neige",
-      "uSes": "copos de nieve",
-      "jPja": "ゆきのけっしょう",
-      "kRko": "눈의 결정",
-      "tWzh": "雪花",
-      "cNzh": "雪花",
-      "plural": true
-    }
+    "translations": null
   },
   {
     "sourceSheet": "Seasons and Events",
@@ -18566,25 +18512,7 @@
     "2059Sh": "Dec 1 – Feb 29",
     "2060Nh": "Jun 1 – Aug 31",
     "2060Sh": "Dec 1 – Feb 29",
-    "translations": {
-      "sourceSheet": "Shells",
-      "id": 5982,
-      "eUde": "Sommermuscheln",
-      "eUen": "summer shells",
-      "eUit": "conchiglie estive",
-      "eUnl": "zomerschelpen",
-      "eUru": "летние ракушки",
-      "eUfr": "coquillages estivaux",
-      "eUes": "caracolas estivales",
-      "uSen": "summer shells",
-      "uSfr": "coquillages estivaux",
-      "uSes": "caracolas estivales",
-      "jPja": "なつのかいがら",
-      "kRko": "여름 조개껍데기",
-      "tWzh": "夏天貝殼",
-      "cNzh": "夏天贝壳",
-      "plural": true
-    }
+    "translations": null
   },
   {
     "sourceSheet": "Seasons and Events",
@@ -18865,19 +18793,19 @@
       "id": 5729,
       "eUde": "Frühlingsbambus",
       "eUen": "young spring bamboo",
-      "eUit": "bambù giovani primavera",
+      "eUit": "bambù giovane primavera",
       "eUnl": "jonge lentebamboe",
       "eUru": "весенний бамбук",
-      "eUfr": "jeunes bambous printemps",
-      "eUes": "tallos de bambú primaveral",
+      "eUfr": "jeune bambou printemps",
+      "eUes": "tallo de bambú primaveral",
       "uSen": "young spring bamboo",
-      "uSfr": "jeunes bambous printemps",
-      "uSes": "tallos de bambú primaveral",
+      "uSfr": "jeune bambou printemps",
+      "uSes": "tallo de bambú primaveral",
       "jPja": "はるのわかたけ",
       "kRko": "봄의 대나무",
       "tWzh": "春筍",
       "cNzh": "春笋",
-      "plural": true
+      "plural": false
     }
   },
   {

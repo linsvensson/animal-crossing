@@ -18,8 +18,7 @@ const ignore: string[] = [
   'Item Pattern Types',
   'Item Pattern Names',
   'Item Variant Types',
-  'Item Variant Names',
-  'Etc'
+  'Item Variant Names'
 ];
 
 // Represents the values from a translation object that relates to an item,
@@ -130,6 +129,13 @@ export function translate(item: obj): void {
   const identical: boolean = options.every((translation) => translation.uSen === options[0].uSen);
 
   let translation: obj | undefined = options.find((translation) => {
+    // The item's main translation should be the singular form; plural forms
+    // (originally suffixed with '_pl') are a separate grammatical entry and
+    // must never be chosen as the item's primary translation.
+    if (translation.plural) {
+      return;
+    }
+
     // This check ensures that the translation isn't from a unwanted tab.
     if (ignore.some((tab) => translation.sourceSheet.includes(tab))) {
       return;
@@ -227,7 +233,9 @@ export function translate(item: obj): void {
   // If we can't find a translation using the item's ID, we'll try to find one
   // in a brute-force like attempt by finding a translation with the same name.
   if (!translation) {
-    translation = translations.find((translation: any) => translation.uSen === (item.name ?? item.event));
+    translation = translations.find(
+      (translation: any) => !translation.plural && translation.uSen === (item.name ?? item.event)
+    );
   }
 
   // The set of IDs for achievements have same entries for IDs of other tabs,
