@@ -10,7 +10,17 @@ import { obj } from '../types/object.js';
 // When looking for translations, we'll ignore these tabs as the internal IDs
 // for these items either are the same IDs for other items, or, have another
 // property that properly represents the ID.
-const ignore: string[] = ['Recipes', 'Achievements', 'Variants', 'Patterns'];
+const ignore: string[] = [
+  'Recipes',
+  'Achievements',
+  'Variants',
+  'Patterns',
+  'Item Pattern Types',
+  'Item Pattern Names',
+  'Item Variant Types',
+  'Item Variant Names',
+  'Etc'
+];
 
 // Represents the values from a translation object that relates to an item,
 // essentially the list of every keys other than the actual translations.
@@ -121,7 +131,7 @@ export function translate(item: obj): void {
 
   let translation: obj | undefined = options.find((translation) => {
     // This check ensures that the translation isn't from a unwanted tab.
-    if (ignore.every((tab) => translation.sourceSheet.includes(tab))) {
+    if (ignore.some((tab) => translation.sourceSheet.includes(tab))) {
       return;
     }
 
