@@ -26,6 +26,23 @@
         "nouns": [ "Musician" ],
         "modifier": "Humming"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded for changing your island flag and town tune for the first time.",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded for changing your island flag and town tune for the first time.",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -49,6 +66,23 @@
         "nouns": [ "Patron" ],
         "modifier": "Nook Inc.'s"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Unlock the Nook Mileage program",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Unlock the Nook Mileage program",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -96,6 +130,23 @@
         "nouns": [ "MVP" ],
         "modifier": "Ready-Made"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of total unique days you've played the game",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of total unique days you've played the game",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -143,6 +194,23 @@
         "nouns": [ "Catch of the Day" ],
         "modifier": "Battle-Tested"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Collect a specified number of fish",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Collect a specified number of fish",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -190,6 +258,23 @@
         "nouns": [ "VIP" ],
         "modifier": "Name-Dropping"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of total bells you've spent in shops",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of total bells you've spent in shops",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -225,6 +310,23 @@
         "nouns": [ "Adult" ],
         "modifier": "Grown"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of villager birthdays you've attended",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of villager birthdays you've attended",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -248,6 +350,23 @@
         "nouns": [ "Fossil" ],
         "modifier": "Discovered"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Dig up your first fossil",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Dig up your first fossil",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -289,6 +408,23 @@
         "nouns": [ "Individual" ],
         "modifier": "Standoffish"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you attend a bug-off tourney in each season",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you attend a bug-off tourney in each season",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -336,6 +472,23 @@
         "nouns": [ "Critter" ],
         "modifier": "Scarce"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Collect a specified number of unique bugs",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Collect a specified number of unique bugs",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -359,6 +512,23 @@
         "nouns": [ "Influencer" ],
         "modifier": "Rumormongering"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you post a message on your town bulletin board",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you post a message on your town bulletin board",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -394,6 +564,23 @@
         "nouns": [ "Life-Form" ],
         "modifier": "Wave-Tossed"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Fish a specified number of fish in a single streak without any getting away",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Fish a specified number of fish in a single streak without any getting away",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -417,6 +604,23 @@
         "nouns": [ "Being" ],
         "modifier": "Shell-Less"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you catch a cicada shell",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you catch a cicada shell",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -464,6 +668,23 @@
         "nouns": [ "Mermaid" ],
         "modifier": "Water's Edge"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Dig up a specified number of clams",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Dig up a specified number of clams",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -511,6 +732,23 @@
         "nouns": [ "Barista" ],
         "modifier": "Acidic"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of days you've gotten coffee from Brewster",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of days you've gotten coffee from Brewster",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -558,6 +796,23 @@
         "nouns": [ "Fixer" ],
         "modifier": "Shadowy"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of total bells you've profited from selling turnips",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of total bells you've profited from selling turnips",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -581,6 +836,23 @@
         "nouns": [ "Merrymaker" ],
         "modifier": "Countdown"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded for attending the new year holiday event",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded for attending the new year holiday event",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -604,6 +876,23 @@
         "nouns": [ "Designer" ],
         "modifier": "Pro"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you use the Custom Design pro app to edit or create a design",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you use the Custom Design pro app to edit or create a design",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -651,6 +940,23 @@
         "nouns": [ "King", "Queen" ],
         "modifier": "Destructive-Creative"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Craft a specified number of DIY furniture",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Craft a specified number of DIY furniture",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -698,6 +1004,23 @@
         "nouns": [ "Artificer" ],
         "modifier": "Smooth-Sailing"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": null,
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": null,
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -745,6 +1068,23 @@
         "nouns": [ "Meister" ],
         "modifier": "Relentless"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Craft a specified number of tools",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Craft a specified number of tools",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -780,6 +1120,23 @@
         "nouns": [ "Visionary" ],
         "modifier": "Cutting-Edge"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": null,
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": null,
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -803,6 +1160,23 @@
         "nouns": [ "Overachiever" ],
         "modifier": "Happy"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Get an S ranking from the Happy Home Academy",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Get an S ranking from the Happy Home Academy",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -850,6 +1224,23 @@
         "nouns": [ "Monster" ],
         "modifier": "Deep-Sea"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Collect a specified number of sea creatures",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Collect a specified number of sea creatures",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -897,6 +1288,23 @@
         "nouns": [ "Backbone" ],
         "modifier": "Basement"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Expand your home a specified number of times",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Expand your home a specified number of times",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -920,6 +1328,23 @@
         "nouns": [ "Traveler" ],
         "modifier": "Future"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you edit your passport.",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you edit your passport.",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -967,6 +1392,23 @@
         "nouns": [ "Populace" ],
         "modifier": "Thriving"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Harvest a specified number of produce",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Harvest a specified number of produce",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -990,6 +1432,23 @@
         "nouns": [ "Decorating Fiend" ],
         "modifier": "Outdoor-Loving"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you place some furniture outside",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you place some furniture outside",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1013,6 +1472,23 @@
         "nouns": [ "Phoenix" ],
         "modifier": "Risen"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you get knocked out by a Scorpion or Tarantula",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you get knocked out by a Scorpion or Tarantula",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1036,6 +1512,23 @@
         "nouns": [ "Fake" ],
         "modifier": "Plausible"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Donated a fake piece of art",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Donated a fake piece of art",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1059,6 +1552,23 @@
         "nouns": [ "Artist" ],
         "modifier": "Aspiring"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you use the Custom Design app to edit or create a design",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you use the Custom Design app to edit or create a design",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1082,6 +1592,23 @@
         "nouns": [ "Consumer" ],
         "modifier": "Full-Fledged"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you purchase an item from a shop",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you purchase an item from a shop",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1123,6 +1650,23 @@
         "nouns": [ "Overheater" ],
         "modifier": "Winter-Born"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you attend a fishing tourney in each season",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you attend a fishing tourney in each season",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1158,6 +1702,23 @@
         "nouns": [ "Character" ],
         "modifier": "Fastidious"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of times you've caught fleas off a villager",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of times you've caught fleas off a villager",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1205,6 +1766,23 @@
         "nouns": [ "Groom", "Bride" ],
         "modifier": "Gorgeous"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Plant a specified number of flower seeds (digging up and replanting existing flowers does not count)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Plant a specified number of flower seeds (digging up and replanting existing flowers does not count)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1252,6 +1830,23 @@
         "nouns": [ "Boss" ],
         "modifier": "Flower-Loving"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Water a specified number of flowers",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Water a specified number of flowers",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1299,6 +1894,23 @@
         "nouns": [ "Discovery" ],
         "modifier": "Historic"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Have Blathers assess a specified number of fossils",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Have Blathers assess a specified number of fossils",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1352,6 +1964,23 @@
         "nouns": [ "Coconut" ],
         "modifier": "Tropically Grown"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Plant each type of fruit (cherry, orange, pear, peach, apple, and coconut)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Plant each type of fruit (cherry, orange, pear, peach, apple, and coconut)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1375,6 +2004,23 @@
         "nouns": [ "Partitioner" ],
         "modifier": "Efficient"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you place a fence",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you place a fence",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1422,6 +2068,23 @@
         "nouns": [ "Inspiration" ],
         "modifier": "Remodeling"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Customize a specified number of furniture or tools using the workbench",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Customize a specified number of furniture or tools using the workbench",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1469,6 +2132,23 @@
         "nouns": [ "Shellaborator", "Shellarina" ],
         "modifier": "Shellfish"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Sell a specified number of seashells",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Sell a specified number of seashells",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1522,6 +2202,23 @@
         "nouns": [ "Supreme Being" ],
         "modifier": "Radiant"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded for each unique golden tool you've equipped (shovel, net, fishing rod, watering can, axe, and slingshot)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded for each unique golden tool you've equipped (shovel, net, fishing rod, watering can, axe, and slingshot)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1569,6 +2266,23 @@
         "nouns": [ "Life Hacker" ],
         "modifier": "Invulnerable"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Store a specified number of items in your house storage",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Store a specified number of items in your house storage",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1616,6 +2330,23 @@
         "nouns": [ "Beast" ],
         "modifier": "Wild"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Sell a specified number of weeds",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Sell a specified number of weeds",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1663,6 +2394,23 @@
         "nouns": [ "Walking Dictionary" ],
         "modifier": "Legendary"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of unique furniture pieces you've added to your catalog",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of unique furniture pieces you've added to your catalog",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1698,6 +2446,23 @@
         "nouns": [ "Migratory Bird" ],
         "modifier": "Off-Season"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of times you've helped Gulliver fix his communicator",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of times you've helped Gulliver fix his communicator",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1733,6 +2498,23 @@
         "nouns": [ "Symbol" ],
         "modifier": "Novel"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Touch specified number of unique gyroids",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Touch specified number of unique gyroids",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1756,6 +2538,23 @@
         "nouns": [ "Birthday Boy", "Birthday Girl" ],
         "modifier": "Celebratory"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you play on your character's birthday",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you play on your character's birthday",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1803,6 +2602,23 @@
         "nouns": [ "Father", "Mother" ],
         "modifier": "Clever"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Collect a specified number of DIY recipes",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Collect a specified number of DIY recipes",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1850,6 +2666,23 @@
         "nouns": [ "Interior-Design Fan" ],
         "modifier": "Abounding"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Place a specified number of furniture in your house",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Place a specified number of furniture in your house",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1885,6 +2718,23 @@
         "nouns": [ "Partier" ],
         "modifier": "Well-Known"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of other players that have visited your island",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of other players that have visited your island",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1920,6 +2770,23 @@
         "nouns": [ "Creator" ],
         "modifier": "Cliffhanging"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you use the Island Designer app to place a path, add/remove water, and build/destroy a cliff",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you use the Island Designer app to place a path, add/remove water, and build/destroy a cliff",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1967,6 +2834,23 @@
         "nouns": [ "Expert" ],
         "modifier": "Pole-Fishing"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Collect a specified number of unique fish",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Collect a specified number of unique fish",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -1990,6 +2874,23 @@
         "nouns": [ "Photographer" ],
         "modifier": "Photogenic"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you take a photo using the camera app on the NookPhone (screenshot button does not count, must use the app)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you take a photo using the camera app on the NookPhone (screenshot button does not count, must use the app)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2037,6 +2938,23 @@
         "nouns": [ "Heart Stealer" ],
         "modifier": "Natural"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Talk to each one of your villagers every day",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Talk to each one of your villagers every day",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2072,6 +2990,23 @@
         "nouns": [ "Wanderer" ],
         "modifier": "Global"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of times you've visited another player's island (does not count mystery islands using Nook Miles Tickets)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of times you've visited another player's island (does not count mystery islands using Nook Miles Tickets)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2119,6 +3054,23 @@
         "nouns": [ "Vagabond" ],
         "modifier": "Elusive"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of balloons you've shot down with a slingshot",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of balloons you've shot down with a slingshot",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2166,6 +3118,23 @@
         "nouns": [ "Follower" ],
         "modifier": "Longtime"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of K.K. shows you've attended",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of K.K. shows you've attended",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2189,6 +3158,23 @@
         "nouns": [ "Klutz" ],
         "modifier": "Catchable"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time a balloon present you shot lands in a body of water",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time a balloon present you shot lands in a body of water",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2212,6 +3198,23 @@
         "nouns": [ "Model" ],
         "modifier": "Trendy"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you use a wardrobe to change your character's outfit",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you use a wardrobe to change your character's outfit",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2235,6 +3238,23 @@
         "nouns": [ "Stalkholder" ],
         "modifier": "Weekend"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you purchase turnips",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you purchase turnips",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2282,6 +3302,23 @@
         "nouns": [ "Glutton" ],
         "modifier": "Culinary"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Cook a specified number of foods",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Cook a specified number of foods",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2305,6 +3342,23 @@
         "nouns": [ "Life" ],
         "modifier": "Autonomous"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded when you pay off your initial loan using Nook Miles",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded when you pay off your initial loan using Nook Miles",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2328,6 +3382,23 @@
         "nouns": [ "Deadeye" ],
         "modifier": "Accurate"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you catch five wasps in a row without running away or getting stung",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you catch five wasps in a row without running away or getting stung",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2351,6 +3422,23 @@
         "nouns": [ "Gyroid" ],
         "modifier": "Rain-Soaked"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Dig up your first gyroid",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Dig up your first gyroid",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2374,6 +3462,23 @@
         "nouns": [ "Bill Payer" ],
         "modifier": "Responsible"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded after paying off your first house loan with bells",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded after paying off your first house loan with bells",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2421,6 +3526,23 @@
         "nouns": [ "Dynamo" ],
         "modifier": "Year-Round"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of Nook Miles+ goals you've completed",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of Nook Miles+ goals you've completed",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2444,6 +3566,23 @@
         "nouns": [ "Savant" ],
         "modifier": "Smartphone"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded after the 10th time you open your NookPhone",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded after the 10th time you open your NookPhone",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2467,6 +3606,23 @@
         "nouns": [ "Reckless One" ],
         "modifier": "Trapped"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you fall into a pitfall hole",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you fall into a pitfall hole",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2490,6 +3646,23 @@
         "nouns": [ "Type" ],
         "modifier": "Lucky"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you dig up bells from a shining spot",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you dig up bells from a shining spot",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2537,6 +3710,23 @@
         "nouns": [ "Scent" ],
         "modifier": "Rotten"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Sell a specified number of fruits",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Sell a specified number of fruits",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2560,6 +3750,23 @@
         "nouns": [ "Troublemaker" ],
         "modifier": "Wild-Child"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you bury a pitfall seed",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you bury a pitfall seed",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2607,6 +3814,23 @@
         "nouns": [ "Writer" ],
         "modifier": "Deadline"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of letters you've sent",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of letters you've sent",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2654,6 +3878,23 @@
         "nouns": [ "Mega Star" ],
         "modifier": "Super-Popular"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Learn a specified number of reactions",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Learn a specified number of reactions",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2689,6 +3930,23 @@
         "nouns": [ "Space" ],
         "modifier": "Quintessential"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Remodel your home's exterior a specified number of times",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Remodel your home's exterior a specified number of times",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2712,6 +3970,23 @@
         "nouns": [ "Muscle" ],
         "modifier": "Sports-Minded"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Hit a rock with your shovel and obtain all 8 materials from that rock",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Hit a rock with your shovel and obtain all 8 materials from that rock",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2759,6 +4034,23 @@
         "nouns": [ "Superhero" ],
         "modifier": "Productive"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Chop a specified number of wood from trees",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Chop a specified number of wood from trees",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2782,6 +4074,23 @@
         "nouns": [ "Eventuality" ],
         "modifier": "Down-And-Out"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you sell an item to a shop",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you sell an item to a shop",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2829,6 +4138,23 @@
         "nouns": [ "Family" ],
         "modifier": "Impressive"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of times you've gone on a Kapp'n tour",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of times you've gone on a Kapp'n tour",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2876,6 +4202,23 @@
         "nouns": [ "Statement" ],
         "modifier": "Inspirational"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of furniture pieces you've found from shaking trees",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of furniture pieces you've found from shaking trees",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2923,6 +4266,23 @@
         "nouns": [ "Bigwig" ],
         "modifier": "Always-On"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of times you've ordered from the Nook Shopping catalog",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of times you've ordered from the Nook Shopping catalog",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -2958,6 +4318,23 @@
         "nouns": [ "Snake" ],
         "modifier": "Surprising"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Plant a specified number of shrubs (replanting existing shrubs does not count)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Plant a specified number of shrubs (replanting existing shrubs does not count)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3005,6 +4382,23 @@
         "nouns": [ "Hero", "Heroine" ],
         "modifier": "Foolhardy"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Fulfill a specified number of requests from residents (such as returning lost items)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Fulfill a specified number of requests from residents (such as returning lost items)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3040,6 +4434,23 @@
         "nouns": [ "Imp" ],
         "modifier": "Cool"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of perfect snow-people you've built",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of perfect snow-people you've built",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3087,6 +4498,23 @@
         "nouns": [ "Success" ],
         "modifier": "Green-Thumbed"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Plant a specified number of produce sprouts (replanting existing sprouts does not count)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Plant a specified number of produce sprouts (replanting existing sprouts does not count)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3134,6 +4562,23 @@
         "nouns": [ "Health Nut" ],
         "modifier": "Stoic"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of days you've participated in group stretching",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of days you've participated in group stretching",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3169,13 +4614,30 @@
         "nouns": [ "Concierge" ],
         "modifier": "Charming"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": null,
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": null,
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
     "sourceSheet": "Achievements",
     "name": "Taking the Sting Out",
     "achievementDescription": "Getting stung by wasps hurts! Getting stung again before you can recover makes you faint! But at least you get some miles for that. I don't want you to be uncomfortable, though, so take some medicine to heal up!",
-    "achievementCriteria": "Awarded the first time you get stung by a wasp",
+    "achievementCriteria": "Awarded the first time you faint from getting stung by a wasp before recovering from a previous wasp sting",
     "num": 62,
     "internalId": "24",
     "internalName": "BeStungbyWasp",
@@ -3192,6 +4654,23 @@
         "nouns": [ "Crybaby" ],
         "modifier": "Teary-Eyed"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded the first time you faint from getting stung by a wasp before recovering from a previous wasp sting",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded the first time you faint from getting stung by a wasp before recovering from a previous wasp sting",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3215,6 +4694,23 @@
         "nouns": [ "Child" ],
         "modifier": "Digital-Age"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Awarded after the 1000th time you open your NookPhone",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Awarded after the 1000th time you open your NookPhone",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3250,6 +4746,23 @@
         "nouns": [ "Sneezer" ],
         "modifier": "Hay-Feverish"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Plant a specified number of trees (planting fruits or replanting existing trees does not count)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Plant a specified number of trees (planting fruits or replanting existing trees does not count)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3285,6 +4798,23 @@
         "nouns": [ "Cleaner" ],
         "modifier": "Waterway"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Fish a specified number of trash (cans, tires, or boots)",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Fish a specified number of trash (cans, tires, or boots)",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3332,6 +4862,23 @@
         "nouns": [ "Ruiner" ],
         "modifier": "Chaotic"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Break a specified number of tools",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Break a specified number of tools",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3367,6 +4914,23 @@
         "nouns": [ "Seeker" ],
         "modifier": "Friendship"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of villagers you've become good friends with",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of villagers you've become good friends with",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3402,6 +4966,23 @@
         "nouns": [ "Artistic Statement" ],
         "modifier": "Bold"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of times you've purchased art that turned out to be real",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of times you've purchased art that turned out to be real",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3449,6 +5030,23 @@
         "nouns": [ "Darling", "Honey" ],
         "modifier": "Seaside"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Collect a specified number of unique sea creatures",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Collect a specified number of unique sea creatures",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3484,6 +5082,23 @@
         "nouns": [ "Superstar" ],
         "modifier": "Overnight"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of shooting stars you've wished on",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of shooting stars you've wished on",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3519,6 +5134,23 @@
         "nouns": [ "Soul Mate" ],
         "modifier": "Soulful"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of times you've helped Wisp find the parts of his spirit",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of times you've helped Wisp find the parts of his spirit",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3554,6 +5186,23 @@
         "nouns": [ "Chef" ],
         "modifier": "Homestyle"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Learn a specified number of cooking DIY recipes",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Learn a specified number of cooking DIY recipes",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3589,6 +5238,23 @@
         "nouns": [ "Existentialist" ],
         "modifier": "Oceanic"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Number of times you've given scallops to Pascal",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Number of times you've given scallops to Pascal",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   },
   {
@@ -3636,6 +5302,23 @@
         "nouns": [ "Metamorphosis" ],
         "modifier": "Complete"
       }
+    },
+    "criteriaTranslations": {
+      "eUde": null,
+      "eUen": "Collect a specified number of bugs",
+      "eUit": null,
+      "eUnl": null,
+      "eUru": null,
+      "eUfr": null,
+      "eUes": null,
+      "uSen": "Collect a specified number of bugs",
+      "uSfr": null,
+      "uSes": null,
+      "jPja": null,
+      "kRko": null,
+      "tWzh": null,
+      "cNzh": null,
+      "plural": false
     }
   }
 ]

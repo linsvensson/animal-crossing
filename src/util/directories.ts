@@ -31,6 +31,12 @@ const sanitized: string = join(root, 'data');
 const combined: string = join(root, 'combined');
 
 /**
+ * The sub-directory that holds the override spreadsheet's tabs, downloaded
+ * alongside the other raw spreadsheets. See OVERRIDES.md.
+ */
+const overrides: string = join(rawRoot, 'overrides');
+
+/**
  * Represents the directories that are used throughout this project.
  */
-export const directories = { root, raw, translations, sanitized, combined };
+export const directories = { root, raw, translations, sanitized, combined, overrides };

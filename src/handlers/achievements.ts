@@ -2,6 +2,7 @@ import { join } from 'path';
 
 import { category } from '../util/category.js';
 import { directories } from '../util/directories.js';
+import { applyOverrides } from '../util/overrides.js';
 import { write } from '../util/write.js';
 import { width } from '../util/width.js';
 import { obj } from '../types/object.js';
@@ -64,5 +65,14 @@ for (const achievement of achievements) {
     delete achievement[key];
   }
 }
+
+// Replace the criteria and its translations with your own, sourced from the
+// 'Achievement criteria' rows of the overrides tab in your spreadsheet.
+applyOverrides(achievements, {
+  context: 'Achievement criteria',
+  key: 'internalId',
+  textField: 'achievementCriteria',
+  translationsField: 'criteriaTranslations',
+});
 
 write(join(directories.sanitized, `Achievements.json`), achievements, width('Achievements'));
